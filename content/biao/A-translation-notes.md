@@ -1,0 +1,9 @@
+---
+title: About the translation
+---
+
+This translation is the outcome of a joint translation project taught in the winter of 2020/2021 at the University of Freiburg. Our aim in this translation was to remain as faithful as possible to the Chinese original while at the same time conveying a tone of narration in line with a comic book addressed to young readers based on a "classical" piece of children's literature. As the story takes place in early 20<sup>th</sup> century Russia, the given names of the characters are given in Russian. To allow for an undisturbed reading experience, we decided against the use of footnotes, though two items may call for explanation:
+
+Page [63](https://readchina.github.io/comics/biao/b-page-63/) refers to the Paris Commune Memorial Day. The Paris Commune was an attempt of establishing a revolutionary government in Paris after the Franco-Prussian War in 1871. It ended 72 days after its establishment in bloodshed carried out by the troops of the Third French Republic. Throughout the 20<sup>th</sup> century, it has been glorified as a model for socialist revolutions.
+
+As is common in Chinese literary practice, page [12](https://readchina.github.io/comics/biao/b-page-12/) contains a Chinese idiom that refers to the premodern Chinese literary tradition: "The wise man was right about gaining profit by misfortune" (聪明人说得对，因祸得福。) This idiom (which is not present in Lu Xun's translation of the story) expresses how bad luck eventually turns into something fortunate. Alternatively, the idiom is often translated as "a fault on the right side" or "a blessing in disguise". It can be traced back to a passage in the "Guan Yan biographies" (Guan yan liezhuan, 管晏列传) in the *Records of the Grand Historian* (*Shiji* 史记), written by the historian Sima Qian (司马迁, c. 145 -- c. 86 BC).

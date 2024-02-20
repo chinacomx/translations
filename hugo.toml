@@ -1,3 +1,35 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chinacomx.github.io/lianhuanhuatranslations/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lianhuanhua Translations'
+theme = 'hugo-book'
+
+# Book configuration
+enableGitInfo = true
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+
+  # (Optional, default none) Set the path to a logo for the book. If the logo is
+  # /static/logo.png then the path would be logo.png
+  BookLogo = 'logo.svg'
+
+  # (Optional, default docs) Specify root page to render child pages as menu.
+  # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
+  # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
+  BookSection = '*'
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/chinacomx/lianhuanhuatranslations'
+
+  # Enable "Edit this page" links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Edit path must point to root directory of repo.
+  BookEditPath = 'edit/main'
+
+[markup.goldmark.renderer]
+  unsafe = true  
+
+BookPortableLinks = true
