@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Comics</title>
-    <link>https://readchina.github.io/comics/tags/</link>
-    <description>Recent content in Tags on Comics</description>
+    <title>Tags on Lianhuanhua Translations</title>
+    <link>https://chinacomx.github.io/lianhuanhuatranslations/tags/</link>
+    <description>Recent content in Tags on Lianhuanhua Translations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://readchina.github.io/comics/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://chinacomx.github.io/lianhuanhuatranslations/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
