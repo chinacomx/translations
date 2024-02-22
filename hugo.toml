@@ -1,4 +1,4 @@
-baseURL = 'https://chinacomx.github.io/lianhuanhuatranslations/'
+baseURL = 'https://chinacomx.github.io/translations/'
 languageCode = 'en-us'
 title = 'Lianhuanhua Translations'
 theme = 'hugo-book'
@@ -22,7 +22,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/chinacomx/lianhuanhuatranslations'
+  BookRepo = 'https://github.com/chinacomx/translations'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
