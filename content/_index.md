@@ -1,11 +1,11 @@
 ---
-title: "Lianhuanhua"
+title: "Chinese Comics in Translation"
 type: docs
 ---
 
-# Lianhuanhua
+# Chinese Comics in Translation
 
-## Chinese Comics in Translation
+## A Word or Two About Lianhuanhua
 
 For most of the 20<sup>th</sup> century, pocket size comic books (*lianhuanhua* 连环画, often literally translated as "linked images") were an integral part of Chinese everyday reading culture, providing readers with entertainment, information and/or political instruction. Established as such throughout the 1920s and 1930s, after 1949 these comic books continued to range from adaptations of literary texts or films to hagiographies of socialist heroes like Lei Feng to stories propagating the usefulness of using fertilizer in agricultural production. Published as handy pocket-sized booklets, they were shared among children and adult readers alike to be read at street stall libraries or at work units after hours. *Lianhuanhua* production was massive, with an estimated 50.000 titles published since the founding of the PRC. Moreover, one in three books published in 1986 was a comic!
 
@@ -23,7 +23,7 @@ During the Mao years, Beijing Foreign Languages Publishing House published trans
 
 - A *lianhuanhua* adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple)
 
-## Further Reading
+## Further Reading (A Selection)
 
 For further reading on Chinese graphic narratives, including *lianhuanhua* but also the cartoon-like genre of *manhua* 漫画 and others, see for example:
 

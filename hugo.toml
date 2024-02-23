@@ -1,6 +1,6 @@
 baseURL = 'https://chinacomx.github.io/translations/'
 languageCode = 'en-us'
-title = 'Lianhuanhua Translations'
+title = 'ChinaComx Translations'
 theme = 'hugo-book'
 
 # Book configuration

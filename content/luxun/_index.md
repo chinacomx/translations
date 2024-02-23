@@ -1,10 +1,10 @@
 ---
 bookCollapseSection: true
 type: docs
-title: Geschichten über Lu Xun und Junge Leute - Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
+title: 鲁迅和青年的故事 [Geschichten über Lu Xun und Junge Leute] (1976)
 ---
 
-# Geschichten über Lu Xun und Junge Leute - Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
+# Geschichten über Lu Xun und Junge Leute: Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
 
 Einleitung zu den Comics und Erläuterung der Übersetzung:
 Lena Henningsen
