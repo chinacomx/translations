@@ -8,7 +8,7 @@ title: The Watch 表 (1980)
 
 By Leonid Panteleyev, adapted by Dong Qingdong 董青冬, illustrated by Hua Sanchuan 华三川, Beijing: Lianhuanhua chubanshe, 2003. (Reprint of an earlier edition by Renmin meishu chubanshe, Beijing, 1980, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joschua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann).[^1]
 
-## Introduction to the Text
+## Introduction to the text
 
 Lena Henningsen
 
@@ -24,7 +24,7 @@ Overall, the *lianhuanhua* follows the plot line set out in the original story, 
 
 The story gained what may be called second order prominence in 1977 through the short story "The Class Teacher" (班主任) by Liu Xinwu 刘心武 (Liu 1977). This story is one of the central texts of the scar literature genre, a first attempt to confront the pain and scars inflicted upon individuals during the Cultural Revolution. As I have elaborated elsewhere (Henningsen 2022 forthcoming), "The Watch" operates as a powerful intertext to "The Class Teacher": On the first level, Teacher Zhang, the protagonist of the story, discusses the text with his students in order to come to terms with a prospective new student in the class. Lu Xun is explicitly referred to in the story as having translated the story with "great ardor", thus adding to the weight of the story. On the second level, "The Watch" provides the narrative frame for the plot line of "The Class Teacher" as the plot of the latter text is clearly modeled on the first. Knowledge of "The Watch" thus adds another layer of interpretation to "The Class Teacher". Soon after, in 1980, the present adaptation appeared as a *lianhuanhua* -- almost contemporaneous to the *lianhuanhua* version of "The Class Teacher" (Liu 1978).
 
-## References
+### References
 
 Henningsen, Lena 2022 (forthcoming): "Fictional Texts as Sites of Knowledge: From Intertexts to Transtextuality", in: Martin Hofmann, Virginia Leung, Joachim Kurtz \[ed.\]: *Wissensorte in China*, Wiesbaden: Harrassowitz.
 
@@ -48,8 +48,18 @@ Pantelejew, Leonid \[1958\]: *Die Uhr*, transl. by Maria Eisenstein, illustrated
 
 Pieper, Katrin 2006: "Die besten Helden: Literatur für Kinder und Jugendliche nach sowjetischen Vorbildern", in: Karl Eimermacher and Astrid Volpert \[ed.\]: *Tauwetter, Eiszeit und gelenkte Dialoge: Russen und Deutsche nach 1945*, München: Wilhelm Fink Verlag, 1033-1056.
 
-{{<section>}}
+## About the translation
+
+This translation is the outcome of a joint translation project taught in the winter of 2020/2021 at the University of Freiburg. Our aim in this translation was to remain as faithful as possible to the Chinese original while at the same time conveying a tone of narration in line with a comic book addressed to young readers based on a "classical" piece of children's literature. As the story takes place in early 20<sup>th</sup> century Russia, the given names of the characters are given in Russian. To allow for an undisturbed reading experience, we decided against the use of footnotes, though two items may call for explanation:
+
+Page [63](https://readchina.github.io/comics/biao/b-page-63/) refers to the Paris Commune Memorial Day. The Paris Commune was an attempt of establishing a revolutionary government in Paris after the Franco-Prussian War in 1871. It ended 72 days after its establishment in bloodshed carried out by the troops of the Third French Republic. Throughout the 20<sup>th</sup> century, it has been glorified as a model for socialist revolutions.
+
+As is common in Chinese literary practice, page [12](https://readchina.github.io/comics/biao/b-page-12/) contains a Chinese idiom that refers to the premodern Chinese literary tradition: "The wise man was right about gaining profit by misfortune" (聪明人说得对，因祸得福。) This idiom (which is not present in Lu Xun's translation of the story) expresses how bad luck eventually turns into something fortunate. Alternatively, the idiom is often translated as "a fault on the right side" or "a blessing in disguise". It can be traced back to a passage in the "Guan Yan biographies" (Guan yan liezhuan, 管晏列传) in the *Records of the Grand Historian* (*Shiji* 史记), written by the historian Sima Qian (司马迁, c. 145 -- c. 86 BC).
+
+We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email message](mailto:chinacomx.erc@gmail.com). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
 
 [^1]: This translation was produced in a joint translation project by BA students at the Institute of Chinese Studies, University of Freiburg, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). Special thanks go to Julia Schneider for a critical reading of the translation and to our colleagues Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.asia-europe.uni-heidelberg.de/en/research/heidelberg-research-architecture/projects/hra14-chinese-comics/the-seifert-collection.html).
 
-    We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please send an email message to: [readchina"at"mail.sinologie.uni-freiburg.de](mailto:readchina@mail.sinologie.uni-freiburg.de). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
+## Read the translated lianhuanhua
+
+{{<section>}}

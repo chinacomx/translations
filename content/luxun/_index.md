@@ -1,14 +1,14 @@
 ---
 bookCollapseSection: true
 type: docs
-title: 鲁迅和青年的故事 [Geschichten über Lu Xun und Junge Leute] (1976)
+title: Geschichten über Lu Xun und Junge Leute 鲁迅和青年的故事 (1976)
 ---
 
 # Geschichten über Lu Xun und Junge Leute: Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
 
-Einleitung zu den Comics und Erläuterung der Übersetzung:
-Lena Henningsen
+## Einleitung zu den Comic
 
+Lena Henningsen 
 
 Gegen Ende seines Lebens bemühte sich der chinesische Schriftsteller Lu Xun 鲁迅 (1881-1936) um die Holzschnitt-Bewegung in China. Er sah das große ästhetische und politische Potenzial in dieser Kunstform: Mit ihrer Ausdrucksstärke konnte sie den Betrachter direkt ansprechen, aufgrund ihrer Reproduzierbarkeit war sie geeignet, einer breiteren Zuschauerschaft ästhetisches Erleben zu ermöglichen und diese gar zu mobilisieren. Lu Xun sammelte Holzschnitte von europäischen Künstlern wie Frans Masereel oder Käthe Kollwitz, deren Werk „Die Mutter" in der Ausstellung in „Die Geschichte eines Holzschnitts" (Fan 1976) im Hintergrund des zweiten Panels zu sehen ist, wenn auch überproportional groß. Lu Xun ließ diese Werke reproduzieren, ausstellen und in Zeitschriften veröffentlichen, und er organisierte einen Workshop für junge Künstler: ein japanischer Künstler -- der Bruder von Lu Xuns Freund, dem Buchhändler Uchiyama Kanzō -- unterrichtete junge chinesische Künstler, Lu Xun übersetzte.
 
@@ -30,11 +30,7 @@ Gleichzeitig spiegeln die Geschichten durchaus einen Lu Xun wieder, wie er in de
 
 Diese politische Interpretation des Gedichts entspricht nicht unbedingt der dichterischen Intention (Davies 2020); aufgrund der vielfachen Wiederveröffentlichung der Yananer Reden aber sind die Gedichtzeilen weit über ihren Ursprungskontext bekannt und werden vielfach zitiert -- sowohl im *Tagebuch von Lei Feng* (Henningsen 2022), als auch auf der letzten Seite der hier übersetzten Geschichte „Der Letzte Besuch" (Sheng 1976): Die jungen Künstler sehen Lu Xun hinterher, der im Nieselregen verschwindet. Sie haben einen von der Krankheit gezeichneten Lu Xun erlebt -- der aber noch immer Energie ausstrahlte, der weiterhin seine ganze (verbleibende) Kraft in den Dienst der guten Sache, des Kampfes stellen will. Und sie scheinen zu ahnen, dass dies ein Abschied für immer ist, schließlich stirbt Lu Xun nur wenige Tage nach seinem Ausstellungsbesuch. So passend das zitierte Gedicht in der Situation scheint: Angesichts der weiten postumen Verbreitung der Zeilen durch die Yananer Reden sind sie ebenso ein Zitat von Lu Xun, das den jungen Leuten in ihre Gedanken gelegt wird, wie auch ein Zitat von Mao Zedong, der wiederum nur wenige Wochen nach der Veröffentlichung dieses Comics sterben würde. So sehr die Comics die Unterdrückung durch den politischen Gegner anprangern (eine Unterdrückung, die auch gelesen werden kann als eine Spiegelung der Unterdrückung, der viele Künstler während der Kulturrevolution ausgesetzt waren!), so bekräftigen die Geschichten mit diesem Zitat am Ende doch das Supremat der KP über künstlerisches Schaffen in der Volksrepublik China des Jahres 1976.
 
-Eine Anmerkung zur Übersetzung: die Texte verwenden die Partikel 得, 地 und 的 nicht entsprechend des heutigen Standardgebrauchs, aber durchaus entsprechend der Gepflogenheiten der späten 1970er. Das Gleiche gilt für das Schriftzeichen anstelle 象 von 像. Wir haben diese Stellen entsprechend in der Transkription markiert, aber nicht korrigiert.
-
-Die vorliegenden Übersetzungen wurden unter der Leitung von Dominik Weihrauch von Studierenden der Freien Universität Berlin im Rahmen des Masterkurses „Fortgeschrittenes Chinesisch 2" erstellt: Großer Dank an Johannes Nentwig (hauptverantwortlich für „Die Geschichte eines Holzschnitts"), Carolina Franke, Carla Nikolaus.
-
-## Zitierte Literatur:
+### Zitierte Literatur
 
 Baker, David, Mary Ginsberg 2020 \[eds.\]: *Lu Xun's Legacy: Printmaking in Modern China: An Exhibition of Prints from the Muban Educational Trust*, London: Muban Educational Trust.
 
@@ -73,3 +69,15 @@ Sheng Zengxiang 盛增祥 (Illustration), Shi Zhongpei 史中培 (Adaptation) 19
 Shi Zhongpei 史中培1976: *Geschichten über Lu Xun und Junge Leute* 鲁迅和青年的故事, Shanghai: Shanghai renmin chubanshe.
 
 Tang, Xiaobing 2007: *Origins of the Chinese Avant-Garde: The Modern Woodcut Movement*, Berkeley: University of California Press. 
+
+## Erläuterung der Übersetzung
+
+Eine Anmerkung zur Übersetzung: die Texte verwenden die Partikel 得, 地 und 的 nicht entsprechend des heutigen Standardgebrauchs, aber durchaus entsprechend der Gepflogenheiten der späten 1970er. Das Gleiche gilt für das Schriftzeichen anstelle 象 von 像. Wir haben diese Stellen entsprechend in der Transkription markiert, aber nicht korrigiert.
+
+Die vorliegenden Übersetzungen wurden unter der Leitung von Dominik Weihrauch von Studierenden der Freien Universität Berlin im Rahmen des Masterkurses „Fortgeschrittenes Chinesisch 2" erstellt: Großer Dank an Johannes Nentwig (hauptverantwortlich für „Die Geschichte eines Holzschnitts"), Carolina Franke, Carla Nikolaus.
+
+Wir haben uns sehr bemüht, den Herausgeber dieses Comics zu kontaktieren, um die Erlaubnis des Rechteinhabers zur Online-Veröffentlichung der Seiten und der Übersetzung zu erhalten. Wir bedauern, dass wir keine Antworten auf unsere Anfragen erhalten haben. Wenn Sie der Meinung sind, dass Ihre Urheberrechte nicht respektiert werden, senden Sie uns bitte [eine E-Mail-Nachricht](mailto:chinacomx.erc@gmail.com). Wir werden Ihnen so schnell wie möglich antworten und mit Ihnen zusammenarbeiten, um das Material entweder korrekt zu akkreditieren oder es ganz zu entfernen.
+
+## Lese die übersetzten lianhuanhua
+
+{{<section>}}

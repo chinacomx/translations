@@ -8,7 +8,7 @@ title: Niqiu Protects the Watermelons 泥鳅看瓜 (1974)
 
 *Niqiu Protects the Watermelons* 泥鳅看瓜, illustrated by Zhong Shan 钟山, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joschua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann, Tianjian: Tianjin renmin meishu chubanshe, 1974. (No author or editor named).[^1]
 
-## Introduction to the Text
+## Introduction to the text
 
 Lena Henningsen
 
@@ -22,8 +22,13 @@ The story contains scenes of youthful play and of careless mischief. At the same
 
 His courageousness is crowned with victory -- and framed within the proper rhetoric of the Cultural Revolution. He resists the threats of the spy, as "children raised by Mao Zedong\'s Thought do not listen to such kinds of threats, and temptations have no effect on them." ([47](https://readchina.github.io/comics/niqiu/b-page-47/)) And the villagers similarly make an explicit connection between Niqiu's success and the efforts of the CCP by stating: "Niqiu is a good boy educated by the Communist Party, he averted yet another harm to the villagers!" ([57](https://readchina.github.io/comics/niqiu/b-page-57/)). As such the *lianhuanhua* is as much a witness to the historical past of the War of Resistance against Japan as it is a witness of the rhetoric of its Cultural Revolutionary present.
 
+## About the translation
+
+We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email message](mailto:chinacomx.erc@gmail.com). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
+
+## Read the translated lianhuanhua
+
 {{<section>}}
 
 [^1]: This translation was produced in a joint translation project by BA students at the Institute of Chinese Studies, University of Freiburg University, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). We thank Julia Schneider for a critical reading of the text and our colleagues Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.asia-europe.uni-heidelberg.de/en/research/heidelberg-research-architecture/projects/hra14-chinese-comics/the-seifert-collection.html).
 
-    We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please send an email message to: [readchina"at"mail.sinologie.uni-freiburg.de](mailto:readchina@mail.sinologie.uni-freiburg.de). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
