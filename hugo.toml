@@ -6,6 +6,12 @@ theme = 'hugo-book'
 # Book configuration
 enableGitInfo = true
 
+[menu]
+[[menu.before]]
+  name = "ChinaComx Home"
+  url = "https://chinacomx.github.io/"
+  weight = 10
+
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
