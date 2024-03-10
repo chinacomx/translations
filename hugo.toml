@@ -35,6 +35,11 @@ enableGitInfo = true
   # Edit path must point to root directory of repo.
   BookEditPath = 'edit/main'
 
+  # Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat = '2 January 2006'
+
 [markup.goldmark.renderer]
   unsafe = true  
 
