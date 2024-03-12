@@ -1,10 +1,16 @@
 baseURL = 'https://chinacomx.github.io/translations/'
 languageCode = 'en-us'
-title = 'Lianhuanhua Translations'
+title = 'ChinaComx Translations'
 theme = 'hugo-book'
 
 # Book configuration
 enableGitInfo = true
+
+[menu]
+[[menu.before]]
+  name = "Home"
+  url = "https://chinacomx.github.io/"
+  weight = 10
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
@@ -28,6 +34,11 @@ enableGitInfo = true
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
   BookEditPath = 'edit/main'
+
+  # Configure the date format used on the pages
+  # - In git information
+  # - In blog posts
+  BookDateFormat = '2 January 2006'
 
 [markup.goldmark.renderer]
   unsafe = true  

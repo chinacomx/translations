@@ -8,18 +8,15 @@ title: The New Year's Sacrifice 祝福 (1974)
 
 Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, translated by Stefanie Gondorf, Lena Henningsen, Charlotte Kräker, Jingying Li, Ghost Tian, Beijing: Beijing renmin meishu chubanshe, 1974.[^1]
 
-
-## Lost and Gained in Adaptation: 
-
-#### Comic Book Adaptation of Lu Xun’s “The New Year’s Sacrifice” (祝福, 1974) 
+## Introduction to the text[^2]
 
 Lena Henningsen and Ghost Tian
 
-## Introduction to the Text
+### Lost and Gained in Adaptation -- Comic Book Adaptation of Lu Xun’s “The New Year’s Sacrifice” (祝福, 1974) 
 
 The 1974 *lianhuanhua* adaptation of Lu Xun's (鲁迅, 1881-1936) famous short story "The New Year's Sacrifice" (祝福, 1924) represents a distinct interpretation of the original. The comic can be seen as a work of art in its own right, yet it is firmly situated in Maoist discourses and in textual practices of the time. In the following, we will briefly sketch this situation, point out how the comic differs from the original as well as from an earlier adaptation. Doing so, we argue that in the process of adaptation the figure of the narrator is lost -- yet, through the images, the story also gains.
 
-## "The New Year's Sacrifice": Lu Xun in Maoist China
+### "The New Year's Sacrifice": Lu Xun in Maoist China
 
 "The New Year's Sacrifice" relates the story of Xianglin's wife: It is the story of a poor woman suffering misfortune throughout life. Her misfortune is exacerbated by the social norms of her day. She is poor to begin with, loses two husbands and her young son who is eaten by a wolf. Not only does she have to struggle constantly to make a living, she also suffers as people assume her to have accumulated sin which caused these deaths. The family which employs her even considers her unclean and thus bars her from participating in the spiritual rituals conducted during the Chinese New Year celebrations. Unable to find a way to atone for her assumed sins, Xianglin's wife loses her mind, her job, her dignity, and, finally, her life.
 
@@ -27,7 +24,7 @@ In this story, Lu Xun clearly blames superstition and old customs for the fate i
 
 As such, "The New Year's Sacrifice" is very much in line with the CCP's take on 'superstitious' and 'feudal' practices. The modernist left-wing writer Lu Xun became a central figure in Mao Zedong's literary policies. In the 1942 Yan'an talks (McDougall 1980; Denton 2016), Mao established Lu Xun as one of the core models for Chinese authors to emulate. Later on, official discourse propagated Lu Xun as a revolutionary, including on propaganda posters from the early to mid 1970s (see, for example the posters collected in the [Landsberger collection](https://chineseposters.net), i.e. coinciding with the publication of this comic book. Lu Xun's works continued to be published in the PRC years, with numerous comic adaptations of this stories, and also a wave of internal publications of works by and about Lu Xun setting off in 1972 (Henningsen 2021: 173) when cultural life during the Cultural Revolution began to relax. After the Cultural Revolution, yet and another *lianhuanhua* version was published, entitled *Xianglin's Wife* 祥林嫂 based on movie stills (Lu Xun 1979).
 
-## "The New Year's Sacrifice" in *lianhuanhua* adaptation(s)
+### "The New Year's Sacrifice" in *lianhuanhua* adaptation(s)
 
 This is the context which saw the publication of the present *The New Year's Sacrifice* comic. Or rather, it saw the remake of a *The New Year's Sacrifice* comic, as the artists (Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧) redid their earlier *lianhuanhua* book in 1974. The present version rests on the adaptation of the text by Xu Gan 徐淦 from 1957 with only minor changes. The images, however, are entirely redrawn in different style. Two aspects are particularly noteworthy, both of them resulting in a reduction of complexity of the *lianhuanhua* versions vis-à-vis the original short story. One is a reduction in complexity of the plot as the first-person narrator of the story is lost in adaptation -- the other a stylistic reduction of the complexity of emotions that result from the style of the text and the accompanying images.
 
@@ -39,7 +36,7 @@ In the original text, in candidly revealing through inner thoughts his complacen
 
 Lacking this narrative framework of the uncaring spectator and centering only on the experiences of Xianglin's wife, the *lianhuanhua* adaptation presents a simplistically sympathetic story which does not achieve the critical complexity of the original text. Unlike the original where two central characters---the first-person narrator and Xianglin's wife---blur the standard distinction between protagonist and antagonistic forces, the *lianhuanhua* is told from the removed point of view of an omniscient narrator with Xianglin's wife acting as a clear protagonist. The comic's text focuses on event description rather than psychological explication as in the original, and its images likewise are drawn in a realistic style with little depiction of emotional or mental states; readers are thus provided a straightforward telling of plot with no imposition of external analysis. In this way, the *lianhuanhua* is akin to a blank slate onto which readers may project their own understandings and feelings without the influence of a given narrational perspective. Because readers are likely to sympathize with the protagonist of a story, the foremost emotional takeaway from the *lianhuanhua* adaptation becomes one of simple compassion or pity rather than the disquiet aroused when asked to embody in the first-person an indifferent narrator placed in opposition to a suffering protagonist. This unsophisticated call to sympathy is an easy task for readers to fulfill, especially for a tragic character such as Xianglin's wife, and does not invite the critical reflection on societal apathy that is fundamental to Lu Xun's original short story.
 
-## "The New Year's Sacrifice": Continuity and change from 1957 to 1974
+### "The New Year's Sacrifice": Continuity and change from 1957 to 1974
 
 The 1957 (republished in 1963 and reprinted again in 2005) and 1974 versions have only minor changes in the texts below the panels. Only page 55 sees a larger change, with the merging of two pages into one in the 1974 version (pages 55+56 in the 1957 version are merged into one page in 1974). The images accompanying the text are similar in that often the persons are displayed in similar arrangements, though, often from different angles. The style of the images, nonetheless, is very different. While the 1974 version is drawn in watercolors, the earlier version is black and white drawings which allow and call for more simplification in style.
 
@@ -82,7 +79,7 @@ The differences in historical framing among the two versions become more obvious
 
 On the one hand, the adaptations represent a reduction of the complexity and ambiguity of Lu Xun's original and as such can be seen as a losing in the course of adaptation, with the realism inscribed into the images and with the loss of the ambiguous first-person narrator from Lu Xun's short story. On the other hand, however, the comics in their variety of framing and individual painting styles serve to keep the story visible and meaningful to later generations of readers. In their simplicity, they provide access to the story to a readership who may not be literate enough to read the original -- and they may add a distinct interpretation of the story for those readers familiar with the original, thus clearly representing a gain in adaptation.
 
-## References
+### References
 
 Denton, Kirk, A. 2016: "Literature and Politics: Mao Zedong's 'Yan'an Talks' and Party Rectification", in: Kirk A. Denton \[ed.\]: *The Columbia Companion to Modern Chinese Literature*, New York: Columbia University Press, 224-230.
 
@@ -102,6 +99,30 @@ Lu, Xun 2015 (1924): *Der Neujahrssegen* (transl. Alisa Daniczek, Brigitte Höhe
 
 McDougall, Bonnie \[ed.\] 1980: *Mao Zedong\'s "Talks at the Yan\'an Conference on literature and art"*, Ann Arbor: Center for Chinese Studies, University of Michigan.
 
-{{<section>}}
+## About the translation
 
-[^1]: This essay has been developed as part of the project "The Politics of Reading in the People's Republic of China" (READCHINA) which has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 757365) and as part of the class "Comics in China" (winter 2021/2022) taught at the University of Freiburg.
+In preparing this translation, our aim was to produce a text that would do justice to the legacy of Lu Xun, but more so, to the language and contents of the PRC adaptation of the story. In his essay accompanying his retranslation of the original short story into German, Hans Peter Hoffmann (2015) makes a convincing argument for the use of slightly outdated terms as markers for what Lu Xun wanted to emphasize as backward in his times. As we translated from an adaptation of Lu Xun's story in rather blunt PRC language, we measure our translation against that language. We thus aimed at staying close both to the literal meaning of the text and to its spirit -- bearing in mind that this is, likely, a story targeting not only adults, but also children; we also aimed at a translation that would not make the text longer than in the original, thus subverting the simplicity, elegance and brevity of *lianhuanhua* language. While many names in the Chinese language are 'speaking names' and thus reveal information about the person or place they relate to, we opted for the more neutral terms derived at by transliterating and not translating the names in order not to unduly exoticize the translation. We also decided against adding explanations for terms into the text. But as the names of the protagonists and places may be confusing for readers unfamiliar with Chinese naming conventions, the following may be helpful:
+
+- **Xianglin's wife** 祥林嫂: The protagonist of the story does not have a name of her own; much as she does not have any choice in her life, she is given a name and identity reducing her to being the wife of her first deceased husband which also seals the rest of her fate.
+
+- **Luzhen** 鲁镇: The name of the town -- Luzhen -- signals that it is a small town. The character for "Lu" in Luzhen is the same character as in Mr. Lu, the name of the uncle who the nameless narrator of the story has to stay with and whom he dislikes for his backwardness. This suggests that the Lu-Family is (and has been for generations) a central authority in town. It likely is not a coincidence that "Lu" both in "Luzhen" and in Mr. Lu is the same as in the penname the author of this story chose for himself: Lu Xun. While this by no means is an argument to declare that the first-person narrator represents or is Lu Xun himself, it is a signal of the text to play with autobiographical suggestions and hints.
+
+- **Mr. and Mrs. Lu**: Throughout the *lianhuanhua*, different variations are used for these two persons. For reasons of clarity, we are using Mr. and Mrs. Lu throughout. One recurring name is Lu Si Laoye 鲁四老爷 which might be translated as Old Master Lu Si or as Fourth Master Lu, thus emphasizing the reverence that townspeople would approach him with. There are also different terms used to address his wife. However, as her social status and all her comportment are defined by her being the wife of Mr. Lu, she is referred to as Mrs. Lu throughout the translation.
+
+- **Auntie Liu** 柳妈: Her name would have been literally translated as Mother Liu. We settled on Auntie Liu wishing to emphasize that she is a -- likely unmarried -- poor woman in town helping out with the Lu family. Auntie here does not signal a kinship relationship, but is more used as a form of address.
+
+- **Old Wei**: Likewise, the matchmaker is a -- likely unmarried -- woman in town.
+
+- **Hejia Village** 贺家墺 (Hejia'ao) and **He Laoliu** 贺老六: Similar to the Lu family and Luzhen, there is a relationship between Hejia Village and Xianglin's wife's second husband: The name of the village could literally be translated as He-Family-Village suggesting that it is predominantly inhabited by the He clan. He Laoliu's name literally means He Old-Six, likely indicating him to be the sixth son, or, more likely the sixth male offspring in his generation thus taking into the account also his male cousins.
+
+- **"The New Year's Sacrifice"** 祝福: The title of the story is conventionally translated as "The New Year's Sacrifice" or "New Year's Sacrifice". In the aforementioned essay, Hans Peter Hoffmann makes a convincing argument to translate the title as "The Blessing" (German: "Der Neujahrssegen"), as this captures much more succinctly the contrast between the blessing that the well-to-do families receive and the misery that Xianglin's wife experiences (2015: 47-52). "The New Year's Sacrifice" sets the focus on Xianglin's wife and her being a victim of 'old feudal society' which literally sacrifices her life in order to hold on to customs that place dead ancestors above those living and suffering today. The more literal translation "The Blessing", Hoffmann points out, is both closer to the actual meaning of the word and refocuses and complicates the narrative. It emphasizes that through the ritual those who perform it receive a blessing, or benediction. In that way, it emphasizes old customs prevalent in the town. As a consequence, the individuals in Luzhen, including the nameless narrator, attain more agency and personal responsibility for what is taking place. As this particular adaptation of the story emphasizes -- as do the translations of the story which are entitled "The New Year's Sacrifice" -- the sacrificing of Xianglin's wife, we have decided to opt for this translation as well.
+
+We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email message](mailto:chinacomx.erc@gmail.com). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
+
+[^1]: This translation was produced in a joint translation project by students at the Institute of Chinese Studies, University of Freiburg, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). Special thanks go to Eve Y. Lin for her critical reading of the translation and to Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.asia-europe.uni-heidelberg.de/en/research/heidelberg-research-architecture/projects/hra14-chinese-comics/the-seifert-collection.html)
+
+[^2]: This essay has been developed as part of the project "The Politics of Reading in the People's Republic of China" (READCHINA) which has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 757365) and as part of the class "Comics in China" (winter 2021/2022) taught at the University of Freiburg.
+
+## Read the translated lianhuanhua
+
+{{<section>}}
