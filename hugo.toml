@@ -44,3 +44,5 @@ enableGitInfo = true
   unsafe = true  
 
 BookPortableLinks = true
+
+googleAnalytics = ""
