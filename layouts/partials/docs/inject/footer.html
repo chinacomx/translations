@@ -1,30 +1,42 @@
-<div id="sponsors" class="flex flex-wrap justify-between" style="max-height: 150px;">
-    <span>
+<div id="sponsors" class="flex flex-wrap justify-between items-center" style="max-height: 150px;">
+    <span class="logo-container">
       <picture>
           <source srcset='{{ "images/ChinaComx-Logo-full.png" | relURL }}' media="(prefers-color-scheme: light)">
-          <img src='{{ "images/ChinaComx-Logo-full.png" | relURL }}' style="height: auto; width: 17%;" />
+          <img src='{{ "images/ChinaComx-Logo-full.png" | relURL }}' class="logo-image" />
       </picture>
       <picture>
           <source srcset='{{ "images/LOGO_ERC-FLAG_FP.png" | relURL }}' media="(prefers-color-scheme: light)">
-          <img src='{{ "images/LOGO_ERC-FLAG_FP.png" | relURL }}' style="height: auto; width: 17%;" />
+          <img src='{{ "images/LOGO_ERC-FLAG_FP.png" | relURL }}' class="logo-image" />
       </picture>
       <picture>
           <source srcset='/translations/images/logo04-heidelberg-cats.png' media="(prefers-color-scheme: light)">
           <source srcset='/translations/images/logo04-heidelberg-cats-dark.png' media="(prefers-color-scheme: dark)">
-          <img src='/translations/images/logo04-heidelberg-cats.png' style="height: auto; width: 25%;" />
+          <img src='/translations/images/logo04-heidelberg-cats.png' class="logo-image" />
       </picture>
       <picture>
           <source srcset='{{ "images/logo02-readc-light.png" | relURL }}' media="(prefers-color-scheme: light)">
           <source srcset='{{ "images/logo02-readc.png" | relURL }}' media="(prefers-color-scheme: dark)">
-          <img src='{{ "images/logo02-readc.png" | relURL }}' style="height: auto; width: 25%;" />
+          <img src='{{ "images/logo02-readc.png" | relURL }}' class="logo-image" />
       </picture>
       <picture>
           <source srcset='{{ "images/logo03-uni-dark.png" | relURL }}' media="(prefers-color-scheme: dark)">
-          <img src='{{ "images/logo03-uni.png" | relURL }}' style="height: auto; width: 16%;" />
-      </picture>
-      <picture>
-          <source srcset='{{ "images/new-logo.png" | relURL }}' media="(prefers-color-scheme: light)">
-          <img src='{{ "images/new-logo.png" | relURL }}' style="height: auto; width: 17%;" />
+          <img src='{{ "images/logo03-uni.png" | relURL }}' class="logo-image" />
       </picture>
     </span>
 </div>
+
+<style>
+    .logo-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        max-height: 150px;
+    }
+    .logo-image {
+        max-height: 100px; /* Adjust as needed */
+        max-width: 150px; /* Adjust as needed */
+        margin: 10px; /* Adjust spacing as needed */
+        object-fit: contain;
+    }
+</style>
