@@ -6,7 +6,7 @@ title: Geschichten über Lu Xun und Junge Leute 鲁迅和青年的故事 (1976)
 
 # Geschichten über Lu Xun und Junge Leute: Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
 
-## Einleitung zu den Comic
+## Zur Einführung
 
 Lena Henningsen 
 
