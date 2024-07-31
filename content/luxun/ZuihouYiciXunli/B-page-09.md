@@ -6,10 +6,10 @@ title: Page 09
 
 {{< columns >}}
 
-夜幕徐徐降临了，鲁迅这才和大家告别。青年们望着鲁迅渐渐远去的瘦弱身影，不禁想起他“横眉冷对千夫指，俯首甘为孺子牛”的著名诗句，想起他几十年的战斗历程。他们的眼眶湿润了。
+鲁迅看完了全部展品后，青年们问他总的印象如何。鲁迅满意地点了点头，说：“自然比前进步了，但还有许多缺点。这是因为作者阅历不深，观察力不够的缘故。”他鼓励青年们多多接触实际斗争。
 
 <--->
 
-Erst als langsam die Nacht hereinbrach, verabschiedete sich Lu Xun sich von allen. Und als die jungen Leute Lu Xuns schwacher und magerer Gestalt hinterherblickten, die sich nach und nach immer weiter entfernte, da mussten sie an einen berühmten Vers eines seiner Gedichte denken: „Mit grimmigem Blick biete ich tausend auf mich gerichteten Fingern die Stirn, mit gesenktem Kopf diene ich den Menschen“. Auch dachten sie an seinen jahrzehntelangen Kampf. Und ihre Augen waren voller Tränen.
+Nachdem sich Lu Xun alle Ausstellungsstücke angesehen hatte, fragten ihn die jungen nach seinem Gesamteindruck. Lu Xun nickte zufrieden und sagte: „Natürlich gibt es Fortschritte zu früher. Aber es gibt auch noch einige Mängel. Dies liegt an mangelnder Erfahrung und unzureichender Beobachtungsgabe.“ Er ermutigte die jungen Leute sich mehr dem realen Kampf zu widmen. 
 
 {{< /columns >}}
