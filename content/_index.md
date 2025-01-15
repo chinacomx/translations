@@ -19,7 +19,7 @@ During the Mao years, Beijing Foreign Languages Publishing House published trans
 
 - *Chinesische Comics: Gespenster, Mörder, Klassenfeinde* (translated and edited by Wolfgang Bauer), Düsseldorf: Eugen Diederichs Verlag, 1976.
 
-Today, more lianhuanhua in translation can be found online:
+Today, more and more lianhuanhua in translation can be found online:
 
 - *Into the Tiger’s Den* 深入虎穴, adapted from the novel by Qu Bo 曲波 *Tracks in the Snowy Forest* 林海雪原: [https://u.osu.edu/mclc/online-series/into-the-tigers-den/](https://u.osu.edu/mclc/online-series/into-the-tigers-den/)
 
@@ -27,7 +27,7 @@ Today, more lianhuanhua in translation can be found online:
 
 - Chinese lianhuanhua adaptation of Star Wars: [https://www.nickstember.com/chinese-star-wars-comic-part-1-6](https://www.nickstember.com/chinese-star-wars-comic-part-1-6)
 
-- A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future)
+- A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future) as well as [https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/](https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/)
 
 - A lianhuanhua adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple) 
 
