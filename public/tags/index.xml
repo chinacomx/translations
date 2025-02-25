@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lianhuanhua Translations</title>
-    <link>https://chinacomx.github.io/lianhuanhuatranslations/tags/</link>
-    <description>Recent content in Tags on Lianhuanhua Translations</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chinacomx.github.io/lianhuanhuatranslations/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on ChinaComx Translations</title>
+    <link>http://localhost:1313/translations/tags/</link>
+    <description>Recent content in Tags on ChinaComx Translations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/translations/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

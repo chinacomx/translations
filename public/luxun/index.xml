@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geschichten über Lu Xun und Junge Leute - Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事 on Lianhuanhua Translations</title>
-    <link>https://chinacomx.github.io/lianhuanhuatranslations/luxun/</link>
-    <description>Recent content in Geschichten über Lu Xun und Junge Leute - Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事 on Lianhuanhua Translations</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chinacomx.github.io/lianhuanhuatranslations/luxun/index.xml" rel="self" type="application/rss+xml" />
+    <title>Geschichten über Lu Xun und Junge Leute 鲁迅和青年的故事 (1976) on ChinaComx Translations</title>
+    <link>http://localhost:1313/translations/luxun/</link>
+    <description>Recent content in Geschichten über Lu Xun und Junge Leute 鲁迅和青年的故事 (1976) on ChinaComx Translations</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/translations/luxun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0 Front and back cover</title>
-      <link>https://chinacomx.github.io/lianhuanhuatranslations/luxun/luxun-cover/</link>
+      <link>http://localhost:1313/translations/luxun/luxun-cover/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chinacomx.github.io/lianhuanhuatranslations/luxun/luxun-cover/</guid>
-      <description></description>
+      <guid>http://localhost:1313/translations/luxun/luxun-cover/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/luxun/front-page-00001.jpg&#34; alt=&#34;luxun cover&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../images/luxun/back-page-00001.jpg&#34; alt=&#34;luxun cover&#34; /&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>0 Frontmatter</title>
-      <link>https://chinacomx.github.io/lianhuanhuatranslations/luxun/luxun-front/</link>
+      <link>http://localhost:1313/translations/luxun/luxun-front/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chinacomx.github.io/lianhuanhuatranslations/luxun/luxun-front/</guid>
-      <description></description>
+      <guid>http://localhost:1313/translations/luxun/luxun-front/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/luxun/headPage-page-00001.jpg&#34; alt=&#34;luxun front&#34; /&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
