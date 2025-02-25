@@ -29,7 +29,13 @@ Today, more and more lianhuanhua in translation can be found online:
 
 - A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* by Ye Yonglie: [https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future) as well as [https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/](https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/)
 
-- A lianhuanhua adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple) 
+- A lianhuanhua adaptation of the scar literature short story *Maple* by Zheng Yi: [https://u.osu.edu/mclc/online-series/maple](https://u.osu.edu/mclc/online-series/maple)
+
+- A lianhuanhua biography of Sun Yatsen: [https://web.archive.org/web/20150628051506/http://hilianhuanhua.org/home/read-the-books-online/dr-sun-yat-sen-sun-zhongshan/](https://web.archive.org/web/20150628051506/http://hilianhuanhua.org/home/read-the-books-online/dr-sun-yat-sen-sun-zhongshan/)
+
+- A short lianhuanhua adaptation of *The Cowherd and Weaving Maiden* legend: [https://web.archive.org/web/20141026010208/http://hilianhuanhua.org/home/read-the-books-online/the-cowherd-and-weaving-maiden/](https://web.archive.org/web/20141026010208/http://hilianhuanhua.org/home/read-the-books-online/the-cowherd-and-weaving-maiden/)
+
+- A fourteen-chapter lianhuanhua version of the *Water Margin*: [https://web.archive.org/web/20141026053520/http://hilianhuanhua.org/home/read-the-books-online/water-margin/](https://web.archive.org/web/20141026053520/http://hilianhuanhua.org/home/read-the-books-online/water-margin/)
 
 ...as well as on this website -- with new translations coming soon!
 
