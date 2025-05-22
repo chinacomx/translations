@@ -2,13 +2,14 @@
 title: Page 01
 ---
 
-![leifeng page](./../../images/leifeng/suibianxiede.jpg)
+![leifeng page](./../../images/leifeng/seifert0522_lf_0005_0.jpg)
 
 {{< columns >}}
 
-suibianxiede leifengdegushi
+第一章：吃人的旧社会
+
 <--->
 
-test, leifengdegushi.
+Chapter 1: The Man-Eating Old Society
 
 {{< /columns >}}
