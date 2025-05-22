@@ -2,7 +2,7 @@
 title: Preface
 ---
 
-![leifeng preface](./../../images/leifeng/seifert0522_lf_0004_0.jpg)
+![leifeng page](./../../images/leifeng/seifert0522_lf_0004_0.jpg)
 
 {{< columns >}}
 
