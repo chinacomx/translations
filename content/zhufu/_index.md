@@ -44,15 +44,15 @@ Two figures, nonetheless differ among the two versions: the temple attendant and
 
 {{< tabs "zhufu47" >}}
 
-{{< tab "1957 edition" >}}
-<img src="./../images/zhufu2/47.jpeg" alt="zhufu2_47">
-source: [sohu.com](https://www.sohu.com/a/355550011_120441479)
+{{< tab "1957 edition" >}} 
+<h3>Page 47</h3>
+<img src="/translations/images/zhufu2/47.jpeg" alt="zhufu2_47">
+<p>Source: <a href="https://www.sohu.com/a/355550011_120441479">sohu.com</a></p>
 {{< /tab >}}
-
 {{< tab "1974 edition" >}}
-<img src="./../images/zhufu/seifert0772_zf_0047_042.jpg" alt="zhufu_47">
+<h3>Page 47</h3>
+<img src="/translations/images/zhufu/seifert0772_zf_0052_047.jpg" alt="zhufu_47">
 {{< /tab >}}
-
 {{< /tabs >}}
 
 This might have to do with the fact that during the Cultural Revolution Buddhism had been one of the objects of criticism.
@@ -60,14 +60,14 @@ This might have to do with the fact that during the Cultural Revolution Buddhism
 On the penultimate page, Xianglin's wife inquires with a literate person about life after death. In both images, she is depicted as a beggar, in a crouching pose. What differs, however, are the perspective and the looks of the anonymous literate person. In 1974 (page 56), Xianglin's wife is in the center of the panel, her white face and hair radiating in front of the dark background, the literate person with whom she inquires is depicted at the left-hand corner of the page, only displaying half of his face. He has short hair, wears a dark coat and has what may be a book under his arm. In the 1957 version (page 57), however, the literate person bears the markers of an early 20<sup>th</sup> century intellectual more clearly: his hair is short, he has a moustache, he wears a scarf and a simple gown and uses its sleeves to keep his hands warm. He also has a book tucked under his arm. Here, the beggar Xianglin's wife is on left-hand side while the scholar is center stage with his face at the center of the panel: Does he not look a lot like Lu Xun? By means of this depiction of the scholar and by implying an identity of the fictional character with the original author of the story, the 1957 version manages to implicitly reintroduce the first-person narrator into the plot. After all, the confrontation with Xianglin's wife's questions and inquiries into afterlife as well as the discomfort he experiences faced with his own speechlessness were the reasons for discomfort for the narrator. Likely, such a depiction of what could be perceived as "Lu Xun" -- in scholarly gown and in an ambivalent pose (after all, on the next page, we see Xianglin's wife dead, implying the co-responsibility of the scholar in her death) might have been too much to risk in 1974 when Lu Xun had to fulfill his role as a revolutionary who contributed to the right cause with his pen unswervingly and without hesitation.
 
 {{< tabs "zhufu57" >}}
-
 {{< tab "1957 edition" >}}
-<img src="./../images/zhufu2/57.jpeg" alt="zhufu2_57">
-source: [sohu.com](https://www.sohu.com/a/355550011_120441479)
+<h3>Page 57</h3>
+<img src="/translations/images/zhufu2/57.jpeg" alt="zhufu2_57">
+<p>Source: <a href="https://www.sohu.com/a/355550011_120441479">sohu.com</a></p>
 {{< /tab >}}
-
 {{< tab "1974 edition" >}}
-<img src="./../images/zhufu/seifert0772_zf_0061_056.jpg" alt="zhufu_56">
+<h3>Page 56</h3>
+<img src="/translations/images/zhufu/seifert0772_zf_0061_056.jpg" alt="zhufu_56">
 {{< /tab >}}
 
 {{< /tabs >}}
