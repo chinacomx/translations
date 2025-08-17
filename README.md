@@ -30,7 +30,7 @@ If you forgot to include the submodule flags when cloning the repo run the follo
 git submodule update --init
 ```
 
-within the submodule we are on the `feature/prev-next` branch
+within the submodule we are on the `master` branch now.
 
 ## Building
 
