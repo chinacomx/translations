@@ -22,6 +22,8 @@ ADD TEXT
 
 ADD TEXT
 
+[^1]: footnote text
+
 ## Read the translated lianhuanhua
 
 {{<section>}}

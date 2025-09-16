@@ -1,5 +1,6 @@
 ---
 title: Chapter 03
+weight: 27
 ---
 
 ![leifeng page](./../../images/leifeng/seifert0522_lf_0028_0.jpg)

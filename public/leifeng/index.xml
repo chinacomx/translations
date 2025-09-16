@@ -8,48 +8,6 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/translations/leifeng/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter 01</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-01/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0005_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第一章：吃人的旧社会&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 1: The Man-Eating Old Society&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 02</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-13/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0017_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第二章： 党就是亲娘&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 2: The Party is My Dear Mother&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 03</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-24/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-24/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0028_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第三章：为革命学习&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 3: Studying for the Revolution&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 04</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-36/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-36/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0040_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第四章：戴上了红领巾&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 4: Wearing the Red Scarf&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Chapter 05</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-52/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-52/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0056_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第五章：热爱集体&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 5: Loving the Collective&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Epilogue</title>
-      <link>http://localhost:1313/translations/leifeng/b-page-61-epilogue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-page-61-epilogue/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0065_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;亲爱的小朋友：以上讲的只是雷锋叔叔小时候的一些事情。雷锋叔叔从小就热爱党、热爱毛主席、仇恨旧社会。他时刻不忘党的培养，严格要求自己，刻苦地为革命学习；他热爱人民，热爱社会主义，处处关心集体利益......雷锋叔叔这些崇高的革命品质正是从小培养起来的。&#xA;小朋友，你们读完这本画册后，希望你们象雷锋叔叔一样，从小听党的话，听毛主席的话，好好学习，天天向上，做一个无产阶级革命事业的接班人。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Dear Little Friends: The story above is just a glimpse of what Uncle Lei Feng was like as a child. From a young age, Uncle Lei Feng loved the Party, loved Chairman Mao, and despised the old society. He always remembered the Party’s nurturing, set high standards for himself, and worked hard in his studies for the revolution. He loved the people, loved socialism, and always cared for the interests of the collective… Uncle Lei Feng cultivated these noble revolutionary qualities from a young age.&#xA;Little friends, after reading this lianhuanhua, hopefully, you will follow Uncle Lei Feng’s example. From a young age, listen to the Party, listen to Chairman Mao, study hard, make progress every day, and strive to become successors to the revolutionary cause of the proletariat.&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>Front and back cover</title>
       <link>http://localhost:1313/translations/leifeng/b-cover/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,6 +20,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/translations/leifeng/b-front-pictures/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0002_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0003_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preface</title>
+      <link>http://localhost:1313/translations/leifeng/b-front-preface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-front-preface/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0004_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;亲爱的小朋友：你们都爱听雷锋叔叔的故事吧？雷锋叔叔是一个伟大的革命战士，他立场坚定，爱憎分明；毫不利己，专门利人；艰苦朴素，永不忘本。雷锋叔叔永远是我们学习的榜样。&#xA;雷锋叔叔小的时候也戴过红领巾，你们一定很想知道那时候雷锋叔叔是怎样对待生活、学习，怎样对待同学，怎样对待集体的吧？这本画册讲的就是雷锋叔叔小时候的故事。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Dear Little Friends: You all love hearing stories about Uncle Lei Feng, don’t you? Uncle Lei Feng was a great revolutionary soldier—he was steadfast in his beliefs, clear in his loves and hates; selfless, always putting others first; hardworking, humble, and never forgetting his roots. Uncle Lei Feng will always be a role model from whom we can learn. &#xA;When Uncle Lei Feng was young, he also wore a red scarf. You must be curious about how he treated his life, studies, classmates, and the collective back then, right? This lianhuanhua tells the story of Uncle Lei Feng’s childhood.&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Chapter 01</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-page-01/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0005_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第一章：吃人的旧社会&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 1: The Man-Eating Old Society&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Page 01</title>
@@ -141,6 +113,13 @@
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0016_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;11 鲜血从雷锋的手背上一滴滴往下流。愤怒的火焰在他心里燃烧着：要报仇！要为全家报仇！要推翻这吃人的旧社会！&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Blood was dripping from the back of Lei Feng’s hand. A burning flame of rage ignited his heart: Revenge! Revenge for his family! Overthrow this man-eating old society!&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Chapter 02</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-page-13/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0017_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第二章： 党就是亲娘&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 2: The Party is My Dear Mother&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Page 12</title>
       <link>http://localhost:1313/translations/leifeng/b-page-14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -209,6 +188,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/translations/leifeng/b-page-23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0027_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;21 碰上谁说起雷锋是个孤儿，他总是说：“我不是孤儿，党就是我的亲爹娘啊！&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;When anyone pitied Lei Feng for being an orphan, he would always say: “I am not an orphan. The Party is my dear father and mother!”&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Chapter 03</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-page-24/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0028_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第三章：为革命学习&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 3: Studying for the Revolution&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Page 22</title>
@@ -286,6 +272,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/translations/leifeng/b-page-35/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0039_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;32 雷锋对作业十分认真，别人夸奖他时，他总是说：“我要是马马虎虎，怎么对得起供我上学读书的党啊！不为革命认真学习，将来怎么为人民服务呢？”雷锋就是这样对待学习的。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Lei Feng took his homework very seriously. Whenever others complimented him, he would respond: “If I were sloppy, how could I be worthy of the Party that sent me to school? How could I serve the people in the future if I didn’t study hard for the revolution?” This was Lei Feng’s approach to his studies. &#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Chapter 04</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-page-36/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0040_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第四章：戴上了红领巾&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 4: Wearing the Red Scarf&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Page 33</title>
@@ -393,6 +386,13 @@
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0055_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;47 国华入队以后，进步很快，不久就成了一个优秀的少先队员。雷锋看着国华的进步，比自己进步还要高兴哩！&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;After joining the Young Pioneers, Guohua made quick progress and soon became an outstanding member. Seeing Guohua’s improvement made Lei Feng even happier than if he had achieved it himself!&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Chapter 05</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-52/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/translations/leifeng/b-page-52/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0056_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;第五章：热爱集体&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Chapter 5: Loving the Collective&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Page 48</title>
       <link>http://localhost:1313/translations/leifeng/b-page-53/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -449,11 +449,11 @@
       <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0064_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;55 为了不让集体财产受到一点损失，雷锋又和那个同学一起，把这块地上丢的稻穗捡得干干净净。社员们都称赞雷锋是热爱集体的小社员。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Determined to prevent any loss to the collective property, Lei Feng and his classmate worked together to pick up every single grain left in the field. The cooperative members all praised Lei Feng, calling him a young member who truly loved the collective.&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Preface</title>
-      <link>http://localhost:1313/translations/leifeng/b-front-preface/</link>
+      <title>Epilogue</title>
+      <link>http://localhost:1313/translations/leifeng/b-page-61-epilogue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/translations/leifeng/b-front-preface/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0004_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;亲爱的小朋友：你们都爱听雷锋叔叔的故事吧？雷锋叔叔是一个伟大的革命战士，他立场坚定，爱憎分明；毫不利己，专门利人；艰苦朴素，永不忘本。雷锋叔叔永远是我们学习的榜样。&#xA;雷锋叔叔小的时候也戴过红领巾，你们一定很想知道那时候雷锋叔叔是怎样对待生活、学习，怎样对待同学，怎样对待集体的吧？这本画册讲的就是雷锋叔叔小时候的故事。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Dear Little Friends: You all love hearing stories about Uncle Lei Feng, don’t you? Uncle Lei Feng was a great revolutionary soldier—he was steadfast in his beliefs, clear in his loves and hates; selfless, always putting others first; hardworking, humble, and never forgetting his roots. Uncle Lei Feng will always be a role model from whom we can learn. &#xA;When Uncle Lei Feng was young, he also wore a red scarf. You must be curious about how he treated his life, studies, classmates, and the collective back then, right? This lianhuanhua tells the story of Uncle Lei Feng’s childhood.&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/translations/leifeng/b-page-61-epilogue/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./../../images/leifeng/seifert0522_lf_0065_0.jpg&#34; alt=&#34;leifeng page&#34; /&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;亲爱的小朋友：以上讲的只是雷锋叔叔小时候的一些事情。雷锋叔叔从小就热爱党、热爱毛主席、仇恨旧社会。他时刻不忘党的培养，严格要求自己，刻苦地为革命学习；他热爱人民，热爱社会主义，处处关心集体利益......雷锋叔叔这些崇高的革命品质正是从小培养起来的。&#xA;小朋友，你们读完这本画册后，希望你们象雷锋叔叔一样，从小听党的话，听毛主席的话，好好学习，天天向上，做一个无产阶级革命事业的接班人。&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&lt;div class=&#34;flex-even markdown-inner&#34; style=&#34;flex-grow: 1;&#34;&gt;&#xA;    &#xA;&#xA;Dear Little Friends: The story above is just a glimpse of what Uncle Lei Feng was like as a child. From a young age, Uncle Lei Feng loved the Party, loved Chairman Mao, and despised the old society. He always remembered the Party’s nurturing, set high standards for himself, and worked hard in his studies for the revolution. He loved the people, loved socialism, and always cared for the interests of the collective… Uncle Lei Feng cultivated these noble revolutionary qualities from a young age.&#xA;Little friends, after reading this lianhuanhua, hopefully, you will follow Uncle Lei Feng’s example. From a young age, listen to the Party, listen to Chairman Mao, study hard, make progress every day, and strive to become successors to the revolutionary cause of the proletariat.&#xA;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

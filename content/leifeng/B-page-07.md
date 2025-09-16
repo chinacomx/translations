@@ -1,5 +1,6 @@
 ---
 title: Page 06
+weight: 10
 ---
 
 ![leifeng page](./../../images/leifeng/seifert0522_lf_0011_0.jpg)
