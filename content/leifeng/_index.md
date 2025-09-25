@@ -6,7 +6,7 @@ title: Lei Feng's Youth Years 雷锋的少年时代 (1973)
 
 # Lei Feng's Youth Years 雷锋的少年时代 (1973)
 
-Lei Feng's Youth Years 雷锋的少年时代 (1973), adapted by Liu Hanzhen 刘含真, illustrated by Qian Guisun 钱贵荪, translated by Astrid Y. Xiao, Jiu Song, and Aijia Zhang, Beijing: Renmin meishu chubanshe, 1973.[^1]
+_Lei Feng's Youth Years_ 雷锋的少年时代 (1973), adapted by Liu Hanzhen 刘含真, illustrated by Qian Guisun 钱贵荪, translated by Astrid Y. Xiao, Jiu Song, and Aijia Zhang, Beijing: Renmin meishu chubanshe, 1973.[^1]
 
 ## Introduction to the text
 
@@ -18,7 +18,7 @@ Opening the first page of Lei Feng’s Youth Years reveals a [photocopy](https:/
 
 Readers should not forget that the original intended audience for this lianhuanhua was children—specifically, those under 12 years old in primary school, as older children in middle school would gradually transition from Young Pioneers to members of the Communist Youth League. The Preface and Epilogue straightforwardly present the CCP’s expectations for children of the 1970s, including political, educational, and moral requirements. For example, in Chapter 5, Lei Feng stops the landlord Ye Zhenqin from recklessly cutting the collective’s rice paddies and wasting rice (panels [50-55](https://chinacomx.github.io/translations/leifeng/b-page-55/)). This action not only highlights Lei Feng’s revolutionary qualities of “Loving the Collective” (热爱集体, [Chapter 5 title page](https://chinacomx.github.io/translations/leifeng/b-page-52/)) and struggling against the landlord class, but also conveys a simple moral principle against wasting food. Thus, although the political aspect is always the first principle in propagandistic works from the Cultural Revolution period, Lei Feng’s Youth Years was also designed as a comprehensive guide for children on how to treat their “life, studies, classmates, and the collective” ([Preface](https://chinacomx.github.io/translations/leifeng/b-front-preface/)).
 
-## Notes on the translation
+## About the translation
 
 In this translation, most proper nouns such as names, political factions, and historical events are rendered using the transliteration norms prevalent in mainland China (pinyin transliteration or specific noun translation) instead of the Wade-Giles method. For instance, “国民党” is translated as “Guomindang” rather than “Kuomintang” (panels [1](https://chinacomx.github.io/translations/leifeng/b-page-02/) & [2](https://chinacomx.github.io/translations/leifeng/b-page-03/)).
 
