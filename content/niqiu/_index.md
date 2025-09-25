@@ -6,7 +6,7 @@ title: Niqiu Protects the Watermelons 泥鳅看瓜 (1974)
 
 # Niqiu Protects the Watermelons 泥鳅看瓜 (1974)
 
-*Niqiu Protects the Watermelons* 泥鳅看瓜, illustrated by Zhong Shan 钟山, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joschua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann, Tianjian: Tianjin renmin meishu chubanshe, 1974. (No author or editor named).[^1]
+*Niqiu Protects the Watermelons* 泥鳅看瓜, illustrated by Zhong Shan 钟山, translated by Laura Aymar, Bettina Jin, Piet Kortenjan, Lena Henningsen, Sascha Sacknieß, Sophia Schöller, Joschua Seiler, Miriam Stadler, Yixiong Wang and Jenny Wiggermann, Tianjin: Tianjin renmin meishu chubanshe, 1974. (No author or editor named).[^1]
 
 ## Introduction to the text
 
