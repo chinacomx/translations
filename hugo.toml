@@ -8,7 +8,7 @@ enableGitInfo = true
 
 [menu]
 [[menu.before]]
-  name = "Home"
+  name = "ChinaComx: Home"
   url = "https://chinacomx.github.io/"
   weight = 10
 
