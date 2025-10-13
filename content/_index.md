@@ -21,7 +21,7 @@ Thus far, we have published five ChinaComx lianhuanhua translations on this webs
 
     - 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children; [read it in English here](https://chinacomx.github.io/translations/niqiu/);
 
-3. Transcultural journeys:
+3. Transcultural socialist journeys:
 
     - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/).
 
