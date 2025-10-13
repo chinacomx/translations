@@ -1,6 +1,6 @@
 baseURL = "https://chinacomx.github.io/translations/"
 languageCode = 'en-us'
-title = 'ChinaComx Translations'
+title = 'ChinaComx: Translations'
 theme = 'hugo-book'
 
 # Book configuration
@@ -11,7 +11,7 @@ enableGitInfo = true
 
 [menu]
 [[menu.before]]
-  name = "Back to the ChinaComx Homepage"
+  name = "ChinaComx: Home"
   url = "https://chinacomx.github.io/"
   weight = 10
 

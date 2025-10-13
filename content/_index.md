@@ -66,4 +66,5 @@ Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [C
 We have taken much effort to contact the publishers of the respective comics in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email](mailto:chinacomx.erc@gmail.com) or get in touch using the [contact page](https://chinacomx.github.io/contact/). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely. 
 
 The ChinaComx Team and collaborating translators
+
 (last update: 13 October 2025)
