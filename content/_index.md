@@ -7,6 +7,26 @@ type: docs
 
 To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English translations on this webpage. We hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
 
+Thus far, we have published five ChinaComx lianhuanhua translations on this website; these can be grouped into three distinct thematic categories:
+
+1. Works adapted from the writings of Lu Xun:
+
+    - 鲁迅和青年的故事 (1976) is a collection of three poignant stories by Lu Xun: 买书的故事, 一幅木刻的故事, and 最后一次巡礼; [read it in German here](https://chinacomx.github.io/translations/luxun/);
+
+    - 祝福 (1974) is a lianhuanhua adaptation of Lu Xun's famous critique of tradition and feudalism; [read it in English here](https://chinacomx.github.io/translations/zhufu/);
+
+2. Tales of youth and socialist-patriotic ideals:
+    
+    - 雷锋的少年时代 (1973) provides a biographical look at the early years of the socialist icon Lei Feng; [read it in English here](https://chinacomx.github.io/translations/leifeng/);
+
+    - 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children; [read it in English here](https://chinacomx.github.io/translations/niqiu/);
+
+3. Transcultural journeys:
+
+    - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/).
+
+__And this is just the beginning! We are actively working on new translations, so be sure to visit again soon.__
+
 ## Our translation philosophy and choices
 
 Our aim in these translations is to make lianhuanhua available to readers who do not read Chinese themselves. The collection thus is conceptualized in broad terms, offering you lianhuanhua from different periods, about different topics, and in different styles to showcase a widest possible spectrum of lianhuanhua production. We will translate both some of the most well-known and widely-read titles as well as those more obscure, unknown, and otherwise untypical. We also chose to refer to *lianhuanhua* 连环画 simply as lianhuanhua - rather than as "picture stories," "serial pictures," or "Chinese comics" - to both highlight the variety of visual-textual forms that lianhuanhua containes, but also to avoid their definitive categorizing.
@@ -53,13 +73,13 @@ In the recent years, more and more lianhuanhua in new translation appear online:
 
 - A fourteen-chapter lianhuanhua version of the *Water Margin* 水滸傳, translated by Stephen Kow [here](https://web.archive.org/web/20141026053520/http://hilianhuanhua.org/home/read-the-books-online/water-margin/).
 
-__...as well as on this website -- with many new translations scheduled to appear regularly!__
+...as well as on this website!
 
 ## Acknowledgements
 
-This webpage was set up by Duncan Paterson, Gu Qin and Damian Mandzunowski. The translations published here until 2023 originated as joint translation projects by students at the [Institute of Chinese Studies, University of Freiburg](https://uni-freiburg.de/sinologie/), supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project [“The Politics of Reading in the People’s Republic of China”](https://readchina.github.io/) (READCHINA, grant agreement no. 757365). Students from FU Berlin, supervised by Dominik Weihrauch, also contributed translations during this phase.
+This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzunowski as part of a proof of concept arising from work conducted with support from the ERC-funded project [“The Politics of Reading in the People’s Republic of China”](https://readchina.github.io/) (READCHINA, grant agreement no. 757365). The translations published here until 2023 originated as joint translation projects by students at the [Institute of Chinese Studies, University of Freiburg](https://uni-freiburg.de/sinologie/), supervised by Lena Henningsen. Students from FU Berlin, supervised by Dominik Weihrauch, also contributed translations during this phase.
 
-Since 2024, the webpage is maintained by the ERC-funded project [“Comics Culture in the People’s Republic of China”](https://chinacomx.github.io/) (ChinaComx, grant agreement no. 101088049) at the [Institute of Chinese Studies, Heidelberg University](https://www.zo.uni-heidelberg.de/de/china).
+Since 2024, the webpage is maintained by Damian Mandzunowski and the ERC-funded project [“Comics Culture in the People’s Republic of China”](https://chinacomx.github.io/) (ChinaComx, grant agreement no. 101088049) at the [Institute of Chinese Studies, Heidelberg University](https://www.zo.uni-heidelberg.de/de/china).
 
 Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/) for providing us with high resolution scans of the lianhuanhua, part of the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) — as well to Andreas Seifert for donating his collection to Heidelberg University in the first place.
 
