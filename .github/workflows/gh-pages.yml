@@ -44,7 +44,7 @@ jobs:
 
       - name: Upload artifact
         # Uploads the built site (the ./public folder) so the deploy job can use it
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
