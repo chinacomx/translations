@@ -43,7 +43,7 @@ Sun Wenxian, 孙文圣. 2016. Chinawriter.com.cn. Accessed February 17, 2025. ht
 Wu Dacheng, 吴大成. 2023. A & C Culture Center 美中文化产业中心. (February 6). Accessed February 17, 2025. https://acccnyc.org/en/artist/wu-dacheng/.
 
 
-[^1]: We acknowledge the support of the ERC-funded project "Comics Culture in the People's Republic of China" (CHINACOMX, Grant agreement ID: 101088049). We thank our colleagues Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.asia-europe.uni-heidelberg.de/en/research/heidelberg-research-architecture/projects/hra14-chinese-comics/the-seifert-collection.html).
+[^1]: We acknowledge the support of the ERC-funded project "Comics Culture in the People's Republic of China" (CHINACOMX, Grant agreement ID: 101088049). We thank our colleagues Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.cats.uni-heidelberg.de/bibliothek/sammlungen/sinologie.html).
 
 ## Read the translated lianhuanhua
 
