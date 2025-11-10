@@ -1,7 +1,7 @@
 ---
 title: Page-16
 ---
-    ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_019.jpg)
+![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_019.jpg)
 
     {{< columns >}}
 

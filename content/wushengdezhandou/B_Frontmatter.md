@@ -1,7 +1,7 @@
 ---
 title: Frontmatter
 ---
-    ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_002.jpg)
+![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_002.jpg)
 
     {{< columns >}}
 

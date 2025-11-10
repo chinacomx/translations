@@ -1,7 +1,7 @@
 ---
 title: Page-78
 ---
-    ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_081.jpg)
+![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_081.jpg)
 
     {{< columns >}}
 

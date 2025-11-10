@@ -1,7 +1,7 @@
 ---
 title: Frontmatter-preface
 ---
-    ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_003.jpg)
+![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_003.jpg)
 
     {{< columns >}}
 

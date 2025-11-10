@@ -1,7 +1,7 @@
 ---
 title: Page-36
 ---
-    ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_039.jpg)
+![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_039.jpg)
 
     {{< columns >}}
 
