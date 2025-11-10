@@ -21,6 +21,8 @@ Thus far, we have published five ChinaComx lianhuanhua translations on this webs
 
     - 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children; [read it in English here](https://chinacomx.github.io/translations/niqiu/);
 
+    - 无声的战斗 (1976) is a story of a young boy in the PRC helping prevent espionage and sabotage; [read it in English here](https://chinacomx.github.io/translations/wushengdezhandou/);
+
 3. Transcultural socialist journeys:
 
     - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/).
