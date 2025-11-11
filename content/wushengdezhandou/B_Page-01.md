@@ -1,5 +1,5 @@
 ---
-title: Page-01
+title: Page 01
 ---
 ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_004.jpg)
 

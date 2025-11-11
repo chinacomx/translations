@@ -1,5 +1,5 @@
 ---
-title: Page-18
+title: Page 18
 ---
 ![wushengdezhandou page](./../../images/wushengdezhandou/wushengdezhandou_021.jpg)
 
