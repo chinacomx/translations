@@ -1,5 +1,5 @@
 ---
-title: Page Frontmatter
+title: Frontmatter
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_002.jpg)
 

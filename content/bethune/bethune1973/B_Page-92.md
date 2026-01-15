@@ -1,5 +1,5 @@
 ---
-title: Page 92
+title: Page 092
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_096.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Page 02
+title: Page 002
 ---
 ![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_005.jpg)
 

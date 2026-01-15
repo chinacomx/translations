@@ -1,5 +1,5 @@
 ---
-title: Page 51
+title: Page 051
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_055.jpg)
 

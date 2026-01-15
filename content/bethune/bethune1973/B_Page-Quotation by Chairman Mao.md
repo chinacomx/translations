@@ -1,5 +1,5 @@
 ---
-title: Page Quotation by Chairman Mao
+title: Quotation by Chairman Mao
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_004.jpg)
 
