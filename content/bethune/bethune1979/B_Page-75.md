@@ -1,5 +1,5 @@
 ---
-title: Page 75
+title: Page 075
 ---
 ![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_078.jpg)
 
