@@ -1,7 +1,7 @@
 ---
 title: Page 104
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_107.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_107.jpg)
 
 {{< columns >}}
 

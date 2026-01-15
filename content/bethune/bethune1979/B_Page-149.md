@@ -1,7 +1,7 @@
 ---
 title: Page 149
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_152.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_152.jpg)
 
 {{< columns >}}
 

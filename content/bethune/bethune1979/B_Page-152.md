@@ -1,7 +1,7 @@
 ---
 title: Page 152
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_155.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_155.jpg)
 
 {{< columns >}}
 

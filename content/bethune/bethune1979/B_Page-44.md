@@ -1,7 +1,7 @@
 ---
 title: Page 44
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_047.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_047.jpg)
 
 {{< columns >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Page 48
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_052.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_052.jpg)
 
 {{< columns >}}
 

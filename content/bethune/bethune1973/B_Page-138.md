@@ -1,7 +1,7 @@
 ---
 title: Page 138
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_142.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_142.jpg)
 
 {{< columns >}}
 

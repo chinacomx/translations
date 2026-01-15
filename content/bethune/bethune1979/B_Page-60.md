@@ -1,7 +1,7 @@
 ---
 title: Page 60
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_063.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_063.jpg)
 
 {{< columns >}}
 
