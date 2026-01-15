@@ -1,7 +1,7 @@
 ---
 title: Page 89
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_093.jpg)
+![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_093.jpg)
 
 {{< columns >}}
 

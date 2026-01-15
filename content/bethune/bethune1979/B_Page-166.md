@@ -1,7 +1,7 @@
 ---
 title: Page 166
 ---
-![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_169.jpg)
+![bethune1979 page](./../../../static/images/bethune/bethune1979/bethune1979_169.jpg)
 
 {{< columns >}}
 

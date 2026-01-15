@@ -1,7 +1,7 @@
 ---
 title: Page Summary
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_003.jpg)
+![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_003.jpg)
 
 {{< columns >}}
 

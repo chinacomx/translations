@@ -1,7 +1,7 @@
 ---
 title: Page 117
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_121.jpg)
+![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_121.jpg)
 
 {{< columns >}}
 

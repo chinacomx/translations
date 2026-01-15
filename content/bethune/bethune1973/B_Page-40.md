@@ -1,7 +1,7 @@
 ---
 title: Page 40
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_044.jpg)
+![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_044.jpg)
 
 {{< columns >}}
 

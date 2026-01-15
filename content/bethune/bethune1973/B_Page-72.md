@@ -1,7 +1,7 @@
 ---
 title: Page 72
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_076.jpg)
+![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_076.jpg)
 
 {{< columns >}}
 

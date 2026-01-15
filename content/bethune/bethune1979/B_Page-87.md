@@ -1,7 +1,7 @@
 ---
 title: Page 87
 ---
-![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_090.jpg)
+![bethune1979 page](./../../../static/images/bethune/bethune1979/bethune1979_090.jpg)
 
 {{< columns >}}
 

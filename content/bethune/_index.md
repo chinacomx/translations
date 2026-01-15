@@ -29,13 +29,13 @@ Mao’s essay, translated into English on www.marxist.org (https://www.marxists.
 
 Bethune’s legacy rests on his deeds, but also on a number of historical documents, including his own writings and photographs of him, such as those taken by the Michael Lindsay or the photo-journalist Sha Fei (沙飞 1912-1950, born as Situ Chuan 司徒传 and also renown for taking the last photographs of the famous author Lu Xun), available through the Historical Photographs of China collection (https://hpcbristol.net/search?query=bethune). 
 
-![bethune1973 page](./../../images/bethune/intro_01.png)
+![bethune1973 page](./../../static/images/bethune/intro_01.png)
 Dr. Norman Bethune operating on an injured soldier in the Songyankou model ward, Wutai (photograph by Sha Fei. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library, www.hpcbristol.net).
 
-![bethune1973 page](./../../images/bethune/intro_02.png)
+![bethune1973 page](./../../static/images/bethune/intro_02.png)
 Dr. Norman Bethune on horseback, travelling from the hospital to military headquarters (photograph by Michael Lindsay. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library, www.hpcbristol.net).
 
-![bethune1973 page](./../../images/bethune/intro_03.png)
+![bethune1973 page](./../../static/images/bethune/intro_03.png)
 Dr. Norman Bethune’s interpreter (Dong Yueqian), General Nie Rongzhen (Nieh Jung-chen 聂荣臻), and Dr. Norman Bethune, 1938 (photograph by Michael Lindsay. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library, www.hpcbristol.net).
 
 The relationship between Bethune and Mao is, in many respects, a textual one, and it is a relationship of transmediation. The story of Norman Bethune in China in itself is a story of remediation: from a real-life person, to propaganda object, first as the topic of one of the “three old pieces”, and then a multitude of follow-up items, including posters, movie and lianhuanhua. More than that, he also appears as a source of inspiration across other stories, for example in the Diary of Lei Feng and some of its lianhuanhua adaptations or in the many lianhuanhua narrating stories of the barefoot doctors who describe themselves as inspired by the Canadian doctor. One of lianhuanhua translated here, Doctor Bethune 白求恩大夫, even is a twofold remediation of the biography of Bethune: a 1979 adaptation of the 1965 year award-wining movie with film stills alongside captions. It is a prime example of what Nick Stember has termed “paper cinema”. The other one, Norman Bethune白求恩, was first published in September 1973 during the waning years of the Cultural Revolution. 
