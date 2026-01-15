@@ -1,7 +1,7 @@
 ---
 title: Page 105
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_109.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_109.jpg)
 
 {{< columns >}}
 

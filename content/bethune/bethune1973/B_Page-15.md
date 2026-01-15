@@ -1,7 +1,7 @@
 ---
 title: Page 15
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_019.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_019.jpg)
 
 {{< columns >}}
 

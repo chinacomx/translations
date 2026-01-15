@@ -1,7 +1,7 @@
 ---
 title: Page Frontmatter
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_002.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_002.jpg)
 
 {{< columns >}}
 

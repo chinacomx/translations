@@ -1,7 +1,7 @@
 ---
 title: Page 07
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_010.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_010.jpg)
 
 {{< columns >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Page Quotation by Chairman Mao
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_004.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_004.jpg)
 
 {{< columns >}}
 

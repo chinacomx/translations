@@ -1,7 +1,7 @@
 ---
 title: Page 141
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_145.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_145.jpg)
 
 {{< columns >}}
 

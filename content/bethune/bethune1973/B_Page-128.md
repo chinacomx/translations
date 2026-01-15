@@ -1,7 +1,7 @@
 ---
 title: Page 128
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_132.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_132.jpg)
 
 {{< columns >}}
 

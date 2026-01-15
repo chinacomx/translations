@@ -1,7 +1,7 @@
 ---
 title: Page 93
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_097.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_097.jpg)
 
 {{< columns >}}
 

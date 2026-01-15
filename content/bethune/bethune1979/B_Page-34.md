@@ -1,7 +1,7 @@
 ---
 title: Page 34
 ---
-![bethune1979 page](./../../images/bethune/bethune1979/bethune1979_037.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_037.jpg)
 
 {{< columns >}}
 

@@ -1,7 +1,7 @@
 ---
 title: Page 108
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_112.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_112.jpg)
 
 {{< columns >}}
 

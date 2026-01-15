@@ -1,7 +1,7 @@
 ---
 title: Page 132
 ---
-![bethune1973 page](./../../images/bethune/bethune1973/bethune1973_136.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_136.jpg)
 
 {{< columns >}}
 
