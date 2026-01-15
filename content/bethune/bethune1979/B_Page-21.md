@@ -1,7 +1,7 @@
 ---
 title: Page 21
 ---
-![bethune1979 page](./../../../static/images/bethune/bethune1979/bethune1979_024.jpg)
+![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_024.jpg)
 
 {{< columns >}}
 

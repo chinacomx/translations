@@ -1,7 +1,7 @@
 ---
 title: Page 33
 ---
-![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_037.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_037.jpg)
 
 {{< columns >}}
 

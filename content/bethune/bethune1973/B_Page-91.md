@@ -1,7 +1,7 @@
 ---
 title: Page 91
 ---
-![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_095.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_095.jpg)
 
 {{< columns >}}
 

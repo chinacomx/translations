@@ -1,7 +1,7 @@
 ---
 title: Page 27
 ---
-![bethune1973 page](./../../../static/images/bethune/bethune1973/bethune1973_031.jpg)
+![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_031.jpg)
 
 {{< columns >}}
 
