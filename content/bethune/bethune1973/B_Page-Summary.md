@@ -1,5 +1,5 @@
 ---
-title: Frontmatter_Summary
+title: Summary
 weight: 3
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_003.jpg)
