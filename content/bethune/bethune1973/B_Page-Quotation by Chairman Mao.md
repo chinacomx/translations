@@ -1,5 +1,6 @@
 ---
-title: Frontmatter_Quotation by Chairman Mao
+title: Quotation by Chairman Mao
+weight: 2
 ---
 ![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_004.jpg)
 
