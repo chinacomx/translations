@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
-title: 1 Norman Bethune (1973) 白求恩(1973)
+title: 1 Norman Bethune 白求恩(1973)
 ---
 
 # Norman Bethune 白求恩 (1973)
