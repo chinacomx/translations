@@ -23,11 +23,11 @@ Thus far, we have published five ChinaComx lianhuanhua translations on this webs
 
     - 无声的战斗 (1976) is a story of a young boy in the PRC helping prevent espionage and sabotage; [read it in English here](https://chinacomx.github.io/translations/wushengdezhandou/);
 
-    - 白求恩的连环画改编两则 (1973 & 1979) is a collection of two versions of adaptations of tales about Norman Bethune;  [read it in English here](https://chinacomx.github.io/translations/bethune/);
-
 3. Transcultural socialist journeys:
 
-    - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/).
+    - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/);
+
+    - 白求恩的连环画改编两则 (1973 & 1979) is a collection of two versions of adaptations of tales about Norman Bethune;  [read it in English here](https://chinacomx.github.io/translations/bethune/).
 
 __And this is just the beginning! We are actively working on new translations, so be sure to visit again soon.__
 
