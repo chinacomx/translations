@@ -3,11 +3,6 @@ bookCollapseSection: true
 type: docs
 title: Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
 ---
----
-bookCollapseSection: true
-type: docs
-title: Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
----
 
 # Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
 
