@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
-title: 2 Doctor Bethune (1979) 白求恩大夫(1979)
+title: 2 Doctor Bethune 白求恩大夫(1979)
 ---
 # Doctor Bethune 白求恩大夫 (1979)
 
