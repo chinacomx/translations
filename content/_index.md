@@ -27,7 +27,7 @@ Thus far, we have published five ChinaComx lianhuanhua translations on this webs
 
     - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/);
 
-    - 白求恩的连环画改编两则 (1973 & 1979) is a collection of two versions of adaptations of tales about Norman Bethune;  [read it in English here](https://chinacomx.github.io/translations/bethune/).
+    -  白求恩 (1973) and 白求恩大夫 (1979) are two lianhuanhua adaptations of tales about Norman Bethune;  [read them in English here](https://chinacomx.github.io/translations/bethune/).
 
 __And this is just the beginning! We are actively working on new translations, so be sure to visit again soon.__
 
