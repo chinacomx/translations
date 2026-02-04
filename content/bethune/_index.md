@@ -6,6 +6,9 @@ title: Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连�
 
 # Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
 
+*Norman Bethune* 白求恩, edited by Wu Wenhuan 吴文焕, drawn by Hu Kewen 胡克文, Sheng Liangxian 盛亮贤, and Zhou Yunda 周允达, translated by Lena Henningsen and Ayiguzaili Aboduaini, Shanghai: Shanghai renmin chubanshe, 1973.
+
+*Doctor Bethune* 白求恩大夫, provided by Shanghai Film Studio 上海电影制片厂, adapted by Wu Wenhuan 吴文焕, translated by Lena Henningsen and Ayiguzaili Aboduaini, Shanghai: Shanghai renmin meishu chubanshe, 1979.
 
 ## Introduction to the Lianhuanhua on Norman Bethune 
 
