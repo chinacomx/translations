@@ -91,4 +91,4 @@ We have taken much effort to contact the publishers of the respective comics in 
 
 The ChinaComx Team and collaborating translators
 
-(last update: 13 October 2025)
+(last update: 4 February 2026)
