@@ -7,7 +7,7 @@ type: docs
 
 To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English translations on this webpage. We hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
 
-Thus far, we have published five ChinaComx lianhuanhua translations on this website; these can be grouped into three distinct thematic categories:
+Thus far, we have published on this website seven ChinaComx translations of in total ten lianhuanhua stories; these can be grouped into three distinct thematic categories:
 
 1. Works adapted from the writings of Lu Xun:
 
