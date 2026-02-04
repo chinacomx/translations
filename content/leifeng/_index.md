@@ -6,7 +6,7 @@ title: Lei Feng's Youth Years 雷锋的少年时代 (1973)
 
 # Lei Feng's Youth Years 雷锋的少年时代 (1973)
 
-_Lei Feng's Youth Years_ 雷锋的少年时代 (1973), adapted by Liu Hanzhen 刘含真, illustrated by Qian Guisun 钱贵荪, translated by Astrid Y. Xiao, Jiu Song, and Aijia Zhang, Beijing: Renmin meishu chubanshe, 1973.[^1]
+_Lei Feng's Youth Years_ 雷锋的少年时代, adapted by Liu Hanzhen 刘含真, illustrated by Qian Guisun 钱贵荪, translated by Astrid Y. Xiao, Jiu Song, and Aijia Zhang, Beijing: Renmin meishu chubanshe, 1973.[^1]
 
 ## Introduction to the text
 
