@@ -9,7 +9,7 @@ To provide contemporary readers and researchers with a glimpse into the vast Chi
 
 Thus far, we have published on this website seven ChinaComx translations of in total ten lianhuanhua stories; these can be grouped into three distinct thematic categories:
 
-1. Works adapted from the writings of Lu Xun:
+1. Works adapted from classics of Chinese literature:
 
     - 鲁迅和青年的故事 (1976) is a collection of three poignant stories by Lu Xun: 买书的故事, 一幅木刻的故事, and 最后一次巡礼; [read it in German here](https://chinacomx.github.io/translations/luxun/);
 
@@ -23,7 +23,7 @@ Thus far, we have published on this website seven ChinaComx translations of in t
 
     - 无声的战斗 (1976) is a story of a young boy in the PRC helping prevent espionage and sabotage; [read it in English here](https://chinacomx.github.io/translations/wushengdezhandou/);
 
-3. Transcultural socialist journeys:
+3. Transcultural texts and storylines:
 
     - 表 (1980) is a beloved Soviet children's story adapted for a Chinese audience; [read it in English here](https://chinacomx.github.io/translations/biao/);
 
