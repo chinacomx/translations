@@ -11,5 +11,5 @@ title: Page 30
 
 (30) Ji Xiaobei’s father, Ji Guodong, came out of the house. Zhuo Hong introduced Cheng Hai to him. Cheng Hai warmly shook his hand and said, “I would like to talk with you about your child’s situation to help with his education.” Ji Guodong then invited them inside.
 
-{{< /columns >}}
+{{% /columns %}}
     

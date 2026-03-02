@@ -11,5 +11,5 @@ title: Page 059
 
 (59) The anti-“mop-up” operation achieved a comprehensive victory, and Bethune established a “Specialized Surgical Hospital” in Yangjiazhuang, Lingqiu County. The establishment of the hospital fully relied on the support of the masses. The houses of the villagers served as the hospital wards, and their kangs (heated brick beds) became the hospital beds. The villagers provided the hospital with furniture, and the operating table was made by combining two square tables.
 
-{{< /columns >}}
+{{% /columns %}}
     

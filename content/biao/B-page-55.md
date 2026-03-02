@@ -12,4 +12,4 @@ title: Page 55
 
 After Milonov had left, Petka felt very bad and thought to himself: "Even though I detest Pyatakov, he is still my mate, and I can't let him be accused wrongly." He decided that he would go to the director and explain that it had been Petka himself, who had moved the logs on that very night, but he would not say a word about the watch.
 
-{{< /columns >}}
+{{% /columns %}}

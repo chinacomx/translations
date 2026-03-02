@@ -12,4 +12,4 @@ title: Page 05
 
 Der Ladenbesitzer kam zu ihm herüber. Der junge Mann fragte höflich: „Entschuldigen Sie, wieviel kostet dieses Buch?" Der Ladenbesitzer nahm das Buch, drehte es um und sagte: „Einen Yuan und vier Jiao." Der junge Mann griff in seine Hemdtasche und merkte, dass er nur noch einen Yuan übrighatte. Er sagte mit leiser Stimme: „Es tut mir leid, doch mein Geld reicht nicht aus."
 
-{{< /columns >}}
+{{% /columns %}}

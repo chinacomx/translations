@@ -11,5 +11,5 @@ title: Page 62
 
 (62) Cheng Hai’s daughter, all skin and bones, was burning with fever. He gently and affectionately covered her with a piece of worn-out cloth. Struggling to prop himself up, he listened attentively to the sounds outside. He heard the faint sound of artillery fire in the distance, his eyes brightened up. He murmured: “Get here faster! Get here faster!”
 
-{{< /columns >}}
+{{% /columns %}}
     

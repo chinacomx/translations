@@ -12,4 +12,4 @@ title: Page 23
 
 Right at that moment, the policeman stepped out of the teahouse: "Good! You've waited after all. What a good boy!" He took out a piece of sweet cake and handed it to Petka. After this, they continued their walk to the reformatory.
 
-{{< /columns >}}
+{{% /columns %}}

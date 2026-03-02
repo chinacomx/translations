@@ -11,5 +11,5 @@ title: Page 105
 
 (105) Bethune worked tirelessly day and night, growing visibly thinner with each passing day, his eyes becoming bloodshot from exhaustion. His comrades and superiors, deeply concerned about his well-being, urged him to let the nurses take over Captain Xu’s care. But Bethune refused, insisting: “The captain’s wounds are severe. With proper nursing care, he can recover sooner. Just let me do that myself.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 53
 
 (53) After a while, Xiaobei crawled out. The man with the shabby cap asked in a hoarse voice, “Did you loosen the screws?” – “Yes, and I put the thing on the ground.” – “Take this and tie it up fast,” the man said, handing over a long rope. Xiaobei took the end of it and disappeared again.
 
-{{< /columns >}}
+{{% /columns %}}
     

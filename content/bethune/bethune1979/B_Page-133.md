@@ -11,5 +11,5 @@ title: Page 133
 
 (133) Minister Yu reported Bethune’s plan to return to Canada to the commander: “He is requesting a four-month leave. He plans to go to Montreal, Ottawa, New York, and Chicago to raise funds and collect medical supplies and equipment... He wants to show the world the truth of what’s happening here — tell them about the Eighth Route Army, tell them about Jin-Cha-Ji…”
 
-{{< /columns >}}
+{{% /columns %}}
     

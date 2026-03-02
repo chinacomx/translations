@@ -11,5 +11,5 @@ title: Page 128
 
 (128) “I replied to him, saying that I wanted to understand why it was this kind of army that delivered a heavy blow to fascism just when it was rampaging unchecked across the world.... I think I have found the answer today... This is my land! These are my people!”
 
-{{< /columns >}}
+{{% /columns %}}
     

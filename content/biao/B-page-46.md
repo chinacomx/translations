@@ -12,4 +12,4 @@ title: Page 46
 
 Suddenly, Kudeyar caught up with him and threw himself at his feet: "I beg you, give me back my watch! My wife is sick, the children are starving. In the name of God, give it back to me!"
 
-{{< /columns >}}
+{{% /columns %}}

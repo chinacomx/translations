@@ -11,5 +11,5 @@ title: Page 123
 
 (123) Within a few days, news spread of the complete annihilation of the Japanese invaders at Motianling. Bethune’s face lit up with a smile of victory. When he arrived at the rear hospital in Ganhe, his left middle finger was slightly swollen. Comrades advised him to rest until his finger healed, but he responded: “Look at all this work waiting to be done—how can I possibly sit idle?”
 
-{{< /columns >}}
+{{% /columns %}}
     

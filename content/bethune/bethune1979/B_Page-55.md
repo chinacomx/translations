@@ -11,5 +11,5 @@ title: Page 055
 
 (55) That looked like an urgent mission! Bethune went to the window and asked: “Well? Tell the old chap now!” Minister Yu smiled and could not but inform Bethune: “You’ve always wanted to lead a medical team to the front lines for surgeries, right? Now, the 359th Brigade is planning a relatively large ambush in the Lingqiu area.”
 
-{{< /columns >}}
+{{% /columns %}}
     

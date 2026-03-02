@@ -11,5 +11,5 @@ title: Page 80
 
 (80) Cheng Hai was now talking with Xiaobei’s mother. Her face flushed red, and she wanted to say something but failed. Finally, she blurted out: “Master Cheng, both Lao Ji and I hope you will often come to our home.” Cheng Hai frankly agreed.
 
-{{< /columns >}}
+{{% /columns %}}
     

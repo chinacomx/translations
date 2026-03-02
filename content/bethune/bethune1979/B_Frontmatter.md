@@ -17,5 +17,5 @@ Lianhuahua adaptation   by   Wu Wenhuan
 Shanghai People’s Fine Arts Publishing House
 Translation: Ayiguzaili Aboduaini and Lena Henningsen
 
-{{< /columns >}}
+{{% /columns %}}
     

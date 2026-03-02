@@ -11,5 +11,5 @@ title: Page 47
 
 (47) After Zhuo Hong sat down, she told Cheng Hai that the relevant departments were investigating the man with the shabby cap for allegations of speculation. Cheng Hai asked with concern, “What about his crimes of corrupting teenagers?” – “There have been some accusations, but nothing has been confirmed. [They] hope we can provide evidence.”
 
-{{< /columns >}}
+{{% /columns %}}
     

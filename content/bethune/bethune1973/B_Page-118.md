@@ -11,5 +11,5 @@ title: Page 118
 
 (118) Two operating tables were simultaneously engaged in tense rescue efforts. Just then, a steed galloped towards the operating room like a whirlwind. The commanding officer of the troops had dispatched a messenger to inform that an enemy reinforcement force of 700 soldiers was within a few miles of Sunjiazhuang. Surveillance had been set up, and Bethune’s medical team was ordered to evacuate immediately.
 
-{{< /columns >}}
+{{% /columns %}}
     

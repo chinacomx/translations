@@ -11,5 +11,5 @@ title: Page 49
 
 (49) Cheng Hai turned his head and saw his wife and Zhuo Hong smiling. He suddenly realized: No wonder I felt like I had seen Teacher Zhuo somewhere before when we first met. It turns out she looks so much like my wife did when she was young.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 55
 
 (55) The man jumped onto the bike, but no matter how hard he pedaled, he couldn’t get it to move. He panicked and cold sweat began to run down his temples. Suddenly, a tall figure appeared in front of him. “Get off!” Cheng Hai grabbed him off the bike with one large hand, which was as strong as a pair of pliers.
 
-{{< /columns >}}
+{{% /columns %}}
     

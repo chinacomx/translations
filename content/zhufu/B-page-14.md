@@ -12,4 +12,4 @@ title: Page 14
 
 They continued to report, that Xianglin's wife cried out a few times and then fell into silence. Her mouth was probably stuffed by something. Afterwards, two women appeared, one of them unknown, the other one Old Wei. The bystanders peeped in. It was not quite clear, but Xianglin's wife seemed to be tied up lying on the deck.
 
-{{< /columns >}}
+{{% /columns %}}

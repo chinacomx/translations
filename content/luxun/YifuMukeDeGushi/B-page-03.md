@@ -12,4 +12,4 @@ title: Page 03
 
 Durch Lu Xuns Initiative und Anleitung glich Chinas aufkeimender revolutionärer Holzschnitt einem kräftigen Sprössling, der jede Unterdrückung durch die Reaktionäre der Guomindang überwindet und unbeugsam wächst. Viele junge Menschen bildeten Holzschnitt-Gruppen und benutzten den Holzschnitt als Waffe im Kampf gegen die Reaktionäre der Guomindang.
 
-{{< /columns >}}
+{{% /columns %}}

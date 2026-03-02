@@ -12,4 +12,4 @@ title: Page 30
 
 Continuing the search, they indeed found Ah Mao lying in a grassy den, his guts already eaten away by the wolf. His hand was still tightly grasping the small basket.
 
-{{< /columns >}}
+{{% /columns %}}

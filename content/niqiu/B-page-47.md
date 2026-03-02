@@ -12,4 +12,4 @@ title: Page 47
 
 Niqiu laughed: "Just wait until I have sent you to the anti-Japanese government, we will settle our accounts there." When the spy saw that soft words would not work, he used hard threats, but children raised by Mao Zedong\'s Thought do not listen to such kinds of threats, and temptations have no effect on them.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 15
 
 (15) [When Cheng Hai] returned home, his wife brought out steaming hot dishes, but he stood by the window. She asked, wondering: “Dinner is ready. What are you thinking about?” Cheng Hai thought deeply [and] replied, “A school invited me to give a talk, and I’m thinking about what to say.” His wife asked, “[Is it a talk on] recalling the sorrows of the past and savoring the joys of the present?”
 
-{{< /columns >}}
+{{% /columns %}}
     

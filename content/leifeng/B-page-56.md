@@ -13,4 +13,4 @@ weight: 59
 
 Lei Feng was furious at those who didn’t cherish the cooperative’s crops. As they gathered the scattered grain, they came across the person responsible—a landlord named Ye Zhenqin. They saw him working lazily, leaving rice grains all over the ground.
 
-{{< /columns >}}
+{{% /columns %}}

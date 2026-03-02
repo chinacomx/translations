@@ -12,4 +12,4 @@ title: Page 60
 
 But the storage room was full before all the timber had been moved in. Petka lost all his hope, because he could not get hold of his beloved watch. Although the headmaster praised him, he felt quite sorrowful.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 32
 
 (32) Zhuo Hong first talked about Xiaobei’s performance at school in these two days. Ji Guodong frowned and said: “I’ve been too busy with work all the time. I didn’t expect him to skip classes.” Xiaobei’s mother interrupted, saying, “It is because the teacher hasn’t fully aroused his intelligence.”
 
-{{< /columns >}}
+{{% /columns %}}
     

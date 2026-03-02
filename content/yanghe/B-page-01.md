@@ -12,4 +12,4 @@ title: Page 01
 
 It was summer vacation. Zhao Guoqing, a fourth-grader, left the city to spend his summer break at his grandma’s house by the Yang River. That very day, he wrote a letter to his father, promising to listen to his mom, work hard in the countryside, and receive re-education from the poor and lower-middle peasants. When he grows up, he wants to be just like his dad and become a brave soldier guarding the coastline of their homeland!
 
-{{< /columns >}}
+{{% /columns %}}

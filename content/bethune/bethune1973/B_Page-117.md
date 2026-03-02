@@ -11,5 +11,5 @@ title: Page 117
 
 (117) Bethune checked his watch and estimated that it would take the Japanese invaders about forty minutes to descend from the opposite mountain. Without hesitation he decided and said: “Set up another operating table immediately! We must complete all ten surgeries in the shortest time possible!”
 
-{{< /columns >}}
+{{% /columns %}}
     

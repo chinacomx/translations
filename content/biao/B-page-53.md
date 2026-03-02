@@ -12,4 +12,4 @@ title: Page 53
 
 The next day, Petka came down with a serious pneumonia and slept for three weeks.
 
-{{< /columns >}}
+{{% /columns %}}

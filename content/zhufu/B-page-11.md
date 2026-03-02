@@ -12,4 +12,4 @@ title: Page 11
 
 After a while, Mrs. Lu cried out, "Ah, where is the rice? Didn't Xianglin's wife go out to rinse the rice?" People scattered up to look for the rice basket. Mrs. Lu checked the kitchen, then the hall, afterwards the bedroom, but she didn't see even a shadow of it.
 
-{{< /columns >}}
+{{% /columns %}}

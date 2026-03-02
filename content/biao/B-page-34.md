@@ -12,4 +12,4 @@ title: Page 34
 
 Petka hastily closed his mouth, but the health worker would not let go. In the end, Petka had to spit it out. Good heavens! Was this not the copper plug of the bathtub? The health worker was surprised: "Tell me, why did you put that into your mouth?" Petka had to lie: "I'm hungry!"
 
-{{< /columns >}}
+{{% /columns %}}

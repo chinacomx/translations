@@ -12,4 +12,4 @@ title: Page 17
 
 A clever child stopped and yelled: "Stop chasing, there's a ghost in this watermelon, it's leading us into the deep water to drown us." The children got scared and did not dare to continue their chase.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 72
 
 (72) The next day, just at the crack of dawn, she arrived in front of the temple of the village god, but her daughter had disappeared. “My child!” she [cried out] in inconsolable grief and fell to the ground and fainted.
 
-{{< /columns >}}
+{{% /columns %}}
     

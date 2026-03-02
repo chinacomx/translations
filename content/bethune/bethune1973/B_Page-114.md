@@ -11,5 +11,5 @@ title: Page 114
 
 (114) The fighting on the front line was intense, and wounded soldiers were constantly being brought in. Bethune fought for twelve consecutive hours without stopping to eat or rest, fully immersed in the medical battle.
 
-{{< /columns >}}
+{{% /columns %}}
     

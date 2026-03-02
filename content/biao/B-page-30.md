@@ -13,4 +13,4 @@ title: Page 30
 
 The health worker finally turned off his chatterbox. He let the dirty water out, and filled it up with clean water, then he took the newspapers: "Kid, if it's too cold or too hot, just tell me."
 
-{{< /columns >}}
+{{% /columns %}}

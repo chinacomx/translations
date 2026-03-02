@@ -11,5 +11,5 @@ title: Page 48
 
 (48) Angrily, Mama Cheng said, “Why not just arrest that guy to stop him from harming people?” – “Will arresting a few bad people bring peace to the world?” Cheng Hai disagreed with his wife. Zhuo Hong defended Mama Cheng: “She’s just worried that Xiaobei might be drowned in the mire by bad people.” Her words made everyone burst out laughing.
 
-{{< /columns >}}
+{{% /columns %}}
     

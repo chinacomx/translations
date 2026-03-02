@@ -13,4 +13,4 @@ weight: 61
 
 Hearing this, Lei Feng became even angrier and shouted: “The cooperative is my family! You are not allowed to harvest rice like this!”
 
-{{< /columns >}}
+{{% /columns %}}

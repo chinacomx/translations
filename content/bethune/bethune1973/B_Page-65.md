@@ -11,5 +11,5 @@ title: Page 065
 
 (65) With this “medical carrier”, the medical team could perform surgeries wherever they went. The comrades praised Bethune one after another, but Bethune remained humble and said: “Chairman Mao said that one must first be a pupil of the masses before becoming a teacher. It was by following Chairman Mao’s teachings that I invented the ‘medical carrier’!”
 
-{{< /columns >}}
+{{% /columns %}}
     

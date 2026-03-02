@@ -12,4 +12,4 @@ title: Page 24
 
 Xianglin's wife gathered firewood, plucked tea, raised silkworms, struggling to raise her son Ah Mao.
 
-{{< /columns >}}
+{{% /columns %}}

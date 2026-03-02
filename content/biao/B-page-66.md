@@ -12,4 +12,4 @@ title: Page 66
 
 Easter was near. The director allowed Petka to go out with his mate Milonov to spend some time at the market. There, Petka got to know a girl called Natasha. They started getting closer to each other and only separated when it was very late.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 030
 
 (30) At that moment, a sturdy-looking child holding a red-tasselled spear entered. Grandma Meng called out to him: “Xiaohu, come and greet Dr. Bai”" She then introduced him to Bethune: “This is my grandson.”
 
-{{< /columns >}}
+{{% /columns %}}
     

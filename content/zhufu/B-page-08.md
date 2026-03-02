@@ -12,4 +12,4 @@ title: Page 08
 
 When Mr. Lu found out about this, he frowned and said to his wife: "This isn't good. I'm afraid she ran away from her family!"
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 13
 
 Bystanders reported that there had been a boat moored on the river since the morning, fully covered with a white canopy. When Xianglin's wife knelt down to wash the rice, two men looking like peasants from the mountains suddenly jumped out of the boat. One man caught her and, with the help of the other, dragged her into the boat.
 
-{{< /columns >}}
+{{% /columns %}}

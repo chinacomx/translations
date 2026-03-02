@@ -11,5 +11,5 @@ title: Page 152
 
 (152) Secretary Tong asked with concern: “What happened?” Bethune answered: “Just a small cut!” He quickly applied some mercurochrome, wrapped it with gauze, and then mounted his horse.
 
-{{< /columns >}}
+{{% /columns %}}
     

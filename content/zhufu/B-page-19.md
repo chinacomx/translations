@@ -12,4 +12,4 @@ title: Page 19
 
 After being pulled out of the sedan chair, He Laoliu's brother and her late husband's brother exerted all their strength to restrain her, nonetheless they still could not make her complete the kowtows of the wedding ceremony.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -13,4 +13,4 @@ weight: 52
 
 To help Guohua, Lei Feng stayed with him at school to do homework together. Whenever Guohua had questions, Lei Feng patiently explained them over and over.
 
-{{< /columns >}}
+{{% /columns %}}

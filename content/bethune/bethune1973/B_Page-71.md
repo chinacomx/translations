@@ -11,5 +11,5 @@ title: Page 071
 
 (71) The sun was already sinking in the west. The comrades urged Bethune to stay for food and rest, but he shook his head firmly: “Impossible! A wounded soldier back at the field hospital needs immediate surgery!” Without a moment’s delay, he mounted his brown steed and rode back.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 032
 
 (32) When Bethune returned to the Model Hospital, Fang Zhaoyuan greeted him warmly: “Doctor Bai!” and handed him the letter of introduction with hopeful anticipation. Recognizing Fang Zhaoyuan, Bethune hesitated and said: “No, you go back! I’ll write to Brigade Commander Wang!” With that, he walked away without further explanation.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -13,4 +13,4 @@ weight: 31
 
 One day, the wind was howling, and the snow was flying outside. Great-aunt Six advised him: “Boy, don’t go outside! It’s too cold, and the road is too slippery to walk on! ...” 
 
-{{< /columns >}}
+{{% /columns %}}

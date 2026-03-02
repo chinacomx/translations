@@ -11,5 +11,5 @@ title: Page 057
 
 (57) When the battle ended, Bethune went to the village to check on the wounded. He discovered that frontline emergency care—though brief—yielded remarkable results. Excited, he told his comrades: “In saving lives, time is strength—time means life for our fellow class brothers!”
 
-{{< /columns >}}
+{{% /columns %}}
     

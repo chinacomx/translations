@@ -11,5 +11,5 @@ title: Page 142
 
 （142）In the early morning of November 12, 1939, Comrade Norman Bethune – Canada’s noble son and a great internationalist warrior – laid down his precious life for the liberation of China and the people in the world. As dawn reddened the east, and the noble image of an internationalist stood tall before hundreds of millions of people.
 
-{{< /columns >}}
+{{% /columns %}}
     

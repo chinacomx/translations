@@ -11,5 +11,5 @@ title: Page 141
 
 (141) With tears in his eyes, the doctor told him that everything had been arranged and advised him to rest assured. Bethune’s face lit up with a serene smile, and he raised his head once more, looking at the comrades beside him, with determination, he said: “Keep fighting! Forge ahead on the great path and blaze a trail for future endeavors!”
 
-{{< /columns >}}
+{{% /columns %}}
     

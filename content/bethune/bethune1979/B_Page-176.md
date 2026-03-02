@@ -11,5 +11,5 @@ title: Page 176
 
 (176) Captain Xu took a Japanese command sword from his belt and presented it to Bethune. Bethune took the sword and said excitedly: “Thank you, brave child!” Then he handed the sword to Minister Yu and said: “Please keep this sword and the epaulets safe. In the future, when the new China is born, let our next generation remember...”
 
-{{< /columns >}}
+{{% /columns %}}
     

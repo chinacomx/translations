@@ -12,4 +12,4 @@ title: Page 56
 
 When she came across someone literate, she fixed her stare at him and asked: "When a person dies, do they actually have a soul? ... Dead families, can they truly meet each other? ... " But, who could answer her! Even if they gave an answer, how much comfort could this give her!
 
-{{< /columns >}}
+{{% /columns %}}

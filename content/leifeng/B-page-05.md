@@ -13,4 +13,4 @@ weight: 8
 
 The factory owner kicked Lei Feng’s brother out. Their mother had no money for his treatment. A year after their father’s death, his brother also passed away.
 
-{{< /columns >}}
+{{% /columns %}}

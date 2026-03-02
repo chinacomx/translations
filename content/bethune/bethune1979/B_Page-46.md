@@ -11,5 +11,5 @@ title: Page 046
 
 (46) Minister Yu told Bethune: “He never attended any school.” Then, in a tentative tone, he asked: “Would you like me to tell you Fang’s story?” Bethune nodded.
 
-{{< /columns >}}
+{{% /columns %}}
     

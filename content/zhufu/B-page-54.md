@@ -12,4 +12,4 @@ title: Page 54
 
 Within half a year, her hair started to turn white, her memory became particularly poor, even to the point that she frequently forgot to go and rinse rice. Mrs. Lu sometimes said right in front of her: "How come Xianglin's wife becomes like this? It would have been better if we hadn't kept her." It was as if she was warning her that she wanted to dismiss her.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -13,4 +13,4 @@ weight: 5
 
 Lei Feng was born during the War of Resistance against Japan. At that time, the Japanese imperialists trampled on our motherland, colluded with the Guomindang (GMD) reactionaries and traitors, and committed atrocities of all kinds, so that the vast labouring people lived through days in blood and tears.
 
-{{< /columns >}}
+{{% /columns %}}

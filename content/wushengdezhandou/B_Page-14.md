@@ -11,5 +11,5 @@ title: Page 14
 
 (14) “Stop!” Cheng Hai wanted to have a proper talk with him, but the boy didn’t even look back, holding his backpack behind him with [his] right hand as he ran [and] disappeared in the blink of an eye. “Ah, that’s a pupil!” Cheng Hai was shocked. “Whose child could this be?”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 004
 
 (4) In 1935, an unprecedented strike movement broke out among the Canadian working class, and Bethune took to the streets to participate in the fight. The fiery class struggle honed Bethune into a staunch Marxist-Leninist. That year, he gloriously joined the Communist Party of Canada.
 
-{{< /columns >}}
+{{% /columns %}}
     

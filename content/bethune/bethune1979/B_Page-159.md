@@ -11,5 +11,5 @@ title: Page 159
 
 (159) The medical team continued their journey through the mountains. Bethune, wrapped in a military blanket, rode his horse in a daze. Hearing the rumble of artillery behind him, he tugged on the reins and asked: “Where are we going? Is there a battle?” Fang Zhaoyuan explained to him: “The commander’s orders are for us to retreat to Tang County.”
 
-{{< /columns >}}
+{{% /columns %}}
     

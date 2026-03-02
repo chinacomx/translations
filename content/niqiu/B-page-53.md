@@ -12,4 +12,4 @@ title: Page 53
 
 After the enemy had left, all the villagers of Zhangjia Village returned, but Niqiu was nowhere to be seen. Everybody was searching for him in all directions and shouted: "Niqiu! Niiiiiiqiuuuuuuuuuuu!"
 
-{{< /columns >}}
+{{% /columns %}}

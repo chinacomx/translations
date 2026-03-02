@@ -12,4 +12,4 @@ title: Page 67
 
 The masses of snow had melted away. One day, Petka noticed that all the timber in the yard had been used up. He pondered and pondered, and he could not sleep the entire night. The next day, he secretly went to the place where he hid the watch and dug it out. It was still sparkling and glittering, but Petka had the feeling that it had lost its splendour.
 
-{{< /columns >}}
+{{% /columns %}}

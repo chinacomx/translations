@@ -12,4 +12,4 @@ title: Page 01
 
 Lu Xun schätzte die neu aufkommende Holzschnittkunst sehr, er betrachtete sie als „neue, junge und fortschrittliche“ Kunstform „für die Revolution“. Er organisierte die „Morgenblüten-Gesellschaft“, machte revolutionäre Holzschnitte aus dem Ausland bekannt und richtete außerdem ein Seminar über Holzschnitte aus. Dort war er persönlich als Übersetzer tätig und lud einen befreundeten ausländischen Künstler ein, seine Fertigkeiten in der Holzschnittkunst weiterzugeben. 
 
-{{< /columns >}}
+{{% /columns %}}

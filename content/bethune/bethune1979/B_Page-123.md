@@ -11,5 +11,5 @@ title: Page 123
 
 (123) After turning a corner, Lao Feng lit a small oil lamp, revealing a square medical supply room about ten feet wide. She opened the medicine cabinet, inside which rows of bottles and jars were neatly arranged. Bethune praised: “Good, very good.”
 
-{{< /columns >}}
+{{% /columns %}}
     

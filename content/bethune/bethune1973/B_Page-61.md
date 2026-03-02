@@ -11,5 +11,5 @@ title: Page 061
 
 (61) In order to develop medical talent, Bethune organized a “Specialized Surgical Training Week” to provide rotating training for health cadres from various military districts. Using knees as desks and the shade of trees as classroom, Bethune personally taught essential battlefield surgical techniques—from injections and wound dressing to operations—all tailored to actual combat needs.
 
-{{< /columns >}}
+{{% /columns %}}
     

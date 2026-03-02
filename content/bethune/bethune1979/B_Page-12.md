@@ -11,5 +11,5 @@ title: Page 012
 
 (12) The door curtain was pushed aside, and in came a little boy dressed in a neat uniform. He placed a meal on the table and saluted Bethune: “Doctor Bai, reporting to you, I am the little devil assigned to look after you.” – “Little devil?” Bethune repeated, not quite understanding the meaning of the term.
 
-{{< /columns >}}
+{{% /columns %}}
     

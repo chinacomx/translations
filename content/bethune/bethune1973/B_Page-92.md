@@ -11,5 +11,5 @@ title: Page 092
 
 (92) Several Eighth Route Army doctors urged Bethune to retreat to the rear and said: “Let us stay here instead!” But Bethune firmly replied: “A military doctor must stand with the soldiers—and if it means death, it is an honor!”
 
-{{< /columns >}}
+{{% /columns %}}
     

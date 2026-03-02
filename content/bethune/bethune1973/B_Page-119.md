@@ -11,5 +11,5 @@ title: Page 119
 
 (119) Gunfire echoed through the valley, as if it were right beside them. Bethune sped up the surgery and suddenly cried out: “Oh no!” As everyone turned to look, he quickly added: “It’s nothing—I just cut my finger.” He soaked his bleeding left middle finger in iodine for a moment, then went straight back to work.
 
-{{< /columns >}}
+{{% /columns %}}
     

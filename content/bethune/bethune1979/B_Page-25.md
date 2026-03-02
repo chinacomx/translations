@@ -11,5 +11,5 @@ title: Page 025
 
 (25) Bethune spent two months inspecting the medical units of the various military divisions. The situation was even worse than he had imagined—there were no proper hospitals, and there was a severe shortage of formally trained doctors. Consequently, he submitted a report to the Commander, requesting that a model rear-area hospital be established and the best doctors from each sub-district be mobilized for training.
 
-{{< /columns >}}
+{{% /columns %}}
     

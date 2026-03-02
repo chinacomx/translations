@@ -15,5 +15,5 @@ title: Page 03
 
 // Study theory, promote going all out! (Slogan on the banner) //
 
-{{< /columns >}}
+{{% /columns %}}
     

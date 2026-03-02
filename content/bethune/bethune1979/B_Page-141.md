@@ -11,5 +11,5 @@ title: Page 141
 
 (141) Bethune said seriously: “For the sake of the revolution, I will leave after this battle is over. Alright, I will consult Minister Yu and the commander. But I will convince them. You know, I’m difficult to deal with!”
 
-{{< /columns >}}
+{{% /columns %}}
     

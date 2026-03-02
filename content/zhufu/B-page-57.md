@@ -12,4 +12,4 @@ title: Page 57
 
 In the blink of an eye, it was the end of another year, the households of Luzhen were as usual all "performing the new year's sacrifice". The day was gloomy, the snowflakes danced wildly in the air, just as the Lu household welcomed the God of Fortune, right when the fireworks were being set off, Xianglin's wife collapsed by the river bank and died quietly.
 
-{{< /columns >}}
+{{% /columns %}}

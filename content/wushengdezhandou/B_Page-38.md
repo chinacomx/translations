@@ -11,5 +11,5 @@ title: Page 38
 
 (38) After these passionate words, Xiaobei’s mother was dumbfounded. Ji Guodong held the frame of his glasses with his hand, seemingly lost in thought. Zhuo Hong was deeply moved by Cheng Hai’s broad revolutionary mind and looked at him with admiration.
 
-{{< /columns >}}
+{{% /columns %}}
     

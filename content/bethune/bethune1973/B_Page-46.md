@@ -11,5 +11,5 @@ title: Page 046
 
 (46) Every morning after waking up, Bethune would begin his day by earnestly studying the works of Marxism-Leninism and Chairman Mao. On this particular day, he awoke even earlier. When he saw his interpreter approaching, he promptly asked him to translate to him Mao’s writings such as “On Protracted War” and “Problems of Strategy in Guerilla War Against Japan”.
 
-{{< /columns >}}
+{{% /columns %}}
     

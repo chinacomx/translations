@@ -12,4 +12,4 @@ title: Page 09
 
 About ten days later, Old Wei suddenly brought a woman, saying that she was the mother-in-law of Xianglin's wife. Although the woman looked like a peasant from the mountains, her social manner was very decent. She explained that she was here to take her daughter-in-law back home as her family was short of labor in the start of a busy spring.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 16
 
 „Am Schlimmsten erging es einem jungen Bauern, der mit mir in eine Zelle gesperrt war. Die Reaktionäre meinten, er wäre ein Offizier der Roten Armee, und so bohrten sie ihm Nähnadeln unter die Fingernägel, eine Nadel nach der anderen, an allen zehn Fingern, aber bis er starb, gab er kein Geständnis ab. Bis zum heutigen Tag ist mir sein entschlossener und unbeugsamer Ausdruck noch immer vor Augen.“
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 21
 
 Even when they, with many other people lending hands, finally managed to lock her and He Laoliu up in the bridal chamber, she still kept on cursing.
 
-{{< /columns >}}
+{{% /columns %}}

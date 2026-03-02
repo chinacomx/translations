@@ -11,5 +11,5 @@ title: Page 035
 
 (35) Days later, the hospital bulletin featured a moving account titled: “Two Bowls of Soup - Light in Weight, Heavy with Comradeship.” For a few days, everyone praised Bethune’s spirit of “utter devotion to others without any thought of self”.
 
-{{< /columns >}}
+{{% /columns %}}
     

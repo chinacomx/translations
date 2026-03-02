@@ -11,5 +11,5 @@ title: Page 120
 
 (120) Twenty minutes later, the last soldier with an injured hip was lifted onto the operating table. The gunshots in the valley grew increasingly intense. A sentry rushed in anxiously and reported: “The Japanese troops are closing in! Comrade Bethune, you mustn’t stay for another moment!” A nearby Eighth Route Army doctor added urgently: “I’ll take over—you must get out of here now!”
 
-{{< /columns >}}
+{{% /columns %}}
     

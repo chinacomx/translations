@@ -11,5 +11,5 @@ title: Page 109
 
 (109) More than twenty medical publications—including "Battlefield First Aid", "Initial Wound Treatment", and "Organization and Techniques of Divisional Field Hospitals in Guerrilla Warfare"—represented the culmination of Bethune’s application of Chairman Mao’s strategic principles of guerrilla warfare to medical practice. These groundbreaking works revolutionized frontline medical operations throughout the Eighth Route Army.
 
-{{< /columns >}}
+{{% /columns %}}
     

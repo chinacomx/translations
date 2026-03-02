@@ -11,5 +11,5 @@ title: Page 066
 
 (66) Bethune carefully examined Commander Xu’s injuries, looked up, and said gravely: “Multiple gunshot wounds to the abdomen, severe blood loss. He needs an immediate blood transfusion.” Dr. Ling replied anxiously: “We’ve run out of plasma powder!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 42
 
 (42) Cheng Hai laughed out loud as he opened the drawer: “Look, it’s almost empty.” He recited a long list of names of people who had borrowed books, including Xiaobei. His wife praised, “Xiaobei has changed over the past few days.” When Cheng Hai told her that Xiaobei would be coming soon, she thought Xiaobei had skipped school again. But Cheng Hai said mysteriously, “He has a mission today.”
 
-{{< /columns >}}
+{{% /columns %}}
     

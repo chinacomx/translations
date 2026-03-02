@@ -11,5 +11,5 @@ title: Page 095
 
 (95) After completing the bandaging, Bethune stepped out of the operating room. The two soldiers who had carried the stretcher rushed up anxiously and said: “Comrade Bethune, you must save our Captain Xu at all costs! Our Captain is incredibly brave.” They then began to recount the stories of Captain Xu’s heroic combat deeds.
 
-{{< /columns >}}
+{{% /columns %}}
     

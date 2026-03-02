@@ -11,5 +11,5 @@ title: Page 097
 
 (97) The grenades exploded among the enemy, causing the Japanese soldiers to wail in terror. Captain Xu leapt to his feet and shouted: “Charge!”—but in that instant, a bullet struck him in the abdomen.
 
-{{< /columns >}}
+{{% /columns %}}
     

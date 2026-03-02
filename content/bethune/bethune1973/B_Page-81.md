@@ -11,5 +11,5 @@ title: Page 081
 
 (81) After taking the medication, the patient stopped crying from pain that very night. Despite his own exhaustion, Bethune spared no effort and visited the patient daily to tend to her recovery. Since the patient’s husband was fighting at the front line, Bethune also assisted her family with fetching water, carrying firewood, and repairing the kang. The villagers unanimously praised Bethune as a good doctor sent by Chairman Mao.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 64
 
 (64) Cheng Hai’s body swayed, and his wife hurried to help him lie down. He asked her to take their only old quilt to the pawnshop in town to borrow some money for medicine and food for their daughter.
 
-{{< /columns >}}
+{{% /columns %}}
     

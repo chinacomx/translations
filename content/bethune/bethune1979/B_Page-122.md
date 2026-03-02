@@ -11,5 +11,5 @@ title: Page 122
 
 (122) Lao Feng led Bethune to the outer room and opened a small door beneath the stairs, revealing a narrow tunnel just wide enough for one person. As Bethune descended into the tunnel, he joked: “What is this place? The Cave of Ali Baba and the Forty Thieves? From One Thousand and One Nights?”
 
-{{< /columns >}}
+{{% /columns %}}
     

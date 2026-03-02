@@ -11,5 +11,5 @@ title: Page 082
 
 (82) Thick black smoke billowed into the sky over Songyankou as the Model Hospital went up in flames. Enemy cavalry galloped through the village, setting everything ablaze...
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 36
 
 The health worker panicked and hurried out the door to get some medicine. Petka launched towards the cloth. And indeed!, the watch was really under the cloth. He grabbed it really fast, wiped it dry, and admired it. The watch in his hands was shining like the sun.
 
-{{< /columns >}}
+{{% /columns %}}

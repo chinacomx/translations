@@ -11,5 +11,5 @@ title: Page 29
 
 (29) In the evening, Cheng Hai ran into Zhuo Hong at the entrance of the boy’s house. He told her what had happened at noon and explained the reason for his visit. Zhuo Hong smiled gratefully and said, “It seems we came for the same reason. It’s Ji Xiaobei, he is the one who was absent from learning industrial production.”
 
-{{< /columns >}}
+{{% /columns %}}
     

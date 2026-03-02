@@ -11,5 +11,5 @@ title: Page 106
 
 (106) Dawang Village was a guerrilla village—how could it be a suitable place for the wounded? Furious, Bethune rushed to Fang Zhaoyuan and demanded: “You sent the wounded away, but they still need treatment!” Fang Zhaoyuan explained: “There are people there to take care of them. Taking along too many wounded would slow down the unit’s movements.”
 
-{{< /columns >}}
+{{% /columns %}}
     

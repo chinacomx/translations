@@ -12,4 +12,4 @@ title: Page 33
 
 When he was done bathing, the health worker gave him a set of new clothes. It was the first time for him to wear such pretty clothes, so he grinned with his mouth wide open. The health worker was surprised to see something shiny in his mouth: "What is this?"
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 043
 
 (43) Xiaohu saw what happened and immediately shouted toward the village: “Someone fainted! Someone fainted!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,5 +12,5 @@ title: Page 73
 (73) Two days later, the Chinese People’s Liberation Army saved them from the sea of flames. Cheng
 Hai and his wife finally welcomed the light and beheld the red flag!
 
-{{< /columns >}}
+{{% /columns %}}
     

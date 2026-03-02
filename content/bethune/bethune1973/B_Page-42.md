@@ -11,5 +11,5 @@ title: Page 042
 
 (42) Under Bethune’s meticulous care, vast numbers of wounded soldiers rapidly recovered and returned to the Anti-Japanese front, providing effective support for the battles at the front.
 
-{{< /columns >}}
+{{% /columns %}}
     

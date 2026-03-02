@@ -11,5 +11,5 @@ title: Page 104
 
 (104) The commanding officer of the unit brought Bethune some fruit, but Bethune placed it beside Captain Xu’s pillow. When the commanding officer gave Bethune cigarettes, he put one in Captain Xu’s mouth, and lit it for him, and watched him smoke. Since Captain Xu had just undergone surgery and could not eat solid food, Bethune personally went to the kitchen and prepared four meals a day for him.
 
-{{< /columns >}}
+{{% /columns %}}
     

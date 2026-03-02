@@ -11,5 +11,5 @@ title: Page 150
 
 (150) Bethune asked angrily: “Why?” Fang Zhaoyuan replied: “Because I am a Communist Party member!” Bethune answered firmly: “So am I!” He lowered his head and continued to operate the wounded soldier.
 
-{{< /columns >}}
+{{% /columns %}}
     

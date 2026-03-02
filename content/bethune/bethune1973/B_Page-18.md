@@ -11,5 +11,5 @@ title: Page 018
 
 (18) Bethune was filled with joy after finishing his diary entry. He opened the door to see the crimson sun rising magnificently in the east.
 
-{{< /columns >}}
+{{% /columns %}}
     

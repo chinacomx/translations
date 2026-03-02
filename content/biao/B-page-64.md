@@ -12,4 +12,4 @@ title: Page 64
 
 Kudeyar groaned, fought, and tried his best to duck away from the children. Petka suddenly felt sorry for him and so he jumped between them and shouted: "Hey, stop it!"
 
-{{< /columns >}}
+{{% /columns %}}

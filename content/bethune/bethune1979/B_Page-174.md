@@ -11,5 +11,5 @@ title: Page 174
 
 (174) Captain Xu ran to Bethune and took out a pair of enemy epaulets from his pocket: “Doctor Bai, I’ve brought these for you.” Bethune’s eyes lit up: “What? A lieutenant general!” He picked up the epaulets and exclaimed in surprise.
 
-{{< /columns >}}
+{{% /columns %}}
     

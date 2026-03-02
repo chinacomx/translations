@@ -11,5 +11,5 @@ title: Page 052
 
 (52) By midday the following day, they arrived at the frontline command headquarters. The unit commander informed Bethune: “To disrupt the Japanese ‘mop-up’ operation, we’ve decided to sever the their supply line along the Guangling-Lingqiu highway.” Bethune organized a civilian stretcher team immediately and set up a battlefield operating room in a temple located in a small ravine near Heisi Mountain, close to the highway.
 
-{{< /columns >}}
+{{% /columns %}}
     

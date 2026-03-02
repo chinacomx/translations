@@ -11,5 +11,5 @@ title: Page 076
 
 (76) Bethune felt a wave of dizziness, but his thoughts were focused on the safety of the wounded. He insisted on leaning over to observe the changes in soldier’s condition. When he saw wounded soldier’s pale faces turn rosy and they gradually regained consciousness, he breathed a sigh of relief. The medical personnel present were all moved to tears.
 
-{{< /columns >}}
+{{% /columns %}}
     

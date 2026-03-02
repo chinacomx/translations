@@ -11,5 +11,5 @@ title: Page 130
 
 (130) Only a small amount of anaesthesia remained, and Nurse Jia hesitated for a moment. Gasping for breath, the wounded soldier said: “Doctor Bai! Save it for others, I…I can manage.” Bethune wiped the sweat from his brow and firmly insisted: “No, bring all of it!”
 
-{{< /columns >}}
+{{% /columns %}}
     

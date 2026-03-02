@@ -11,5 +11,5 @@ title: Page 092
 
 (92) That night, Bethune, Minister Yu, and Secretary Tong stayed at Grandma Meng’s house. Grief-stricken, clutched his head and murmured to himself: “How foolish I was. I should have realized—there is no front or rear in this war!” Then, deep in thought, he pondered aloud: “How should we carry on our work?”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 137
 
 (137) As the night deepened, Bethune found it increasingly difficult to breathe. He sat up, recalling his journey through the battles, the joy he felt when arriving in Yan’an, and the happiness he had felt when he met Chairman Mao. His eyes were filled with a radiant glow.
 
-{{< /columns >}}
+{{% /columns %}}
     

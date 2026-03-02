@@ -12,4 +12,4 @@ title: Page 01
 
 Seit dem Frühjahr des Jahres 1936 war Lu Xun leider schwer krank. Eine Untersuchung ergab, dass sein Lungengewebe bereits zu drei Vierteln zerstört war. Er wog keine 40 Kilogramm mehr und war sehr schwach. Doch trotz seiner Erkrankung kämpfte er weiter gegen die Reaktionäre der Guomindang und die „Schädlinge“, die in die revolutionären Truppen eigeschleust waren. Zugleich lag ihm die Entwicklung der jungen Generation am Herzen.
 
-{{< /columns >}}
+{{% /columns %}}

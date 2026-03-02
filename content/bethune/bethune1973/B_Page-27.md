@@ -11,5 +11,5 @@ title: Page 027
 
 (27) At the opening ceremony of the hospital, Bethune declared passionately: “For the wounded of the Eighth Route Army, we must give nothing less than our utmost care. After all, they were wounded not only to save today’s China but also to build tomorrow’s China, a New China free from class oppression.”
 
-{{< /columns >}}
+{{% /columns %}}
     

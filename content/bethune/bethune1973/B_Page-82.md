@@ -11,5 +11,5 @@ title: Page 082
 
 (82) Bethune’s passionate class sentiment and superb medical skills created astonishing miracles: a week later, the patient was already able to get out of bed and walk; half a month later, the patient had fully recovered and happily went to work in the fields with a hoe on her shoulder.
 
-{{< /columns >}}
+{{% /columns %}}
     

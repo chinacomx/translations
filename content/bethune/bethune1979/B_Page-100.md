@@ -11,5 +11,5 @@ title: Page 100
 
 (100) On the eve of the lunar new year, the mobile medical team returned to Songyankou. The villagers, beating gongs and drums, rushed forward to greet them as if welcoming long-lost family members. “Doctor Bai, Happy New Year!” they called out warmly. Bethune clasped his hands together in greeting: “Happy New Year...”
 
-{{< /columns >}}
+{{% /columns %}}
     

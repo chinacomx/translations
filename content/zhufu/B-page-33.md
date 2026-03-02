@@ -12,4 +12,4 @@ title: Page 33
 
 Xianglin's wife had nowhere to go, carrying around a basket shaped like a water chestnut and a small bedroll, she came again to Luzhen looking for Old Wei.
 
-{{< /columns >}}
+{{% /columns %}}

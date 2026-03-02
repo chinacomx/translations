@@ -15,5 +15,5 @@ title: Page 16
 
 // Honorable Retirement (Certificate on the wall) //
 
-{{< /columns >}}
+{{% /columns %}}
     

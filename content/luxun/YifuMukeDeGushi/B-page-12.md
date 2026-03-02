@@ -12,4 +12,4 @@ title: Page 12
 
 Der junge Mann hatte das von der Ausstellung verbannte Bild zurückgenommen und gut in einer Kiste versteckt. Nach einiger Zeit öffnete er die Kiste wieder und hatte plötzlich eine Idee: Warum sollte er das Bild nicht an Lu Xun schicken und ihm erzählen, was dem Bild widerfahren ist? Also schrieb er sofort einen Brief und schickte ihn gemeinsam mit dem Bild an Lu Xun.
 
-{{< /columns >}}
+{{% /columns %}}

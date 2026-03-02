@@ -11,5 +11,5 @@ title: Page 153
 
 (153) After crossing several mountains, it was already dark, and the medical team took shelter under a wind-protected rock to warm themselves by a fire. Bethune’s left middle finger was swollen and red, now slung in a bandage. Secretary Tong asked him uneasily: “Are you sick?” Bethune shook his head: “No, just a bit tired!”
 
-{{< /columns >}}
+{{% /columns %}}
     

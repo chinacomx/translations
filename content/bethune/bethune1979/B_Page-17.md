@@ -11,5 +11,5 @@ title: Page 017
 
 (17) No sooner had Bethune settled in than he was eager to inspect the medical units of the various military divisions. Early in the morning, while the thin mist still lingered, Bethune, accompanied by Minister Yu and Secretary Tong, began his inspection of the Eighth Route Army ward in Yang Jiazhuang.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 43
 
 From then on, the smile had disappeared from her corpse-like face. Her employers found her work not as efficient as before, therefore their tone towards her became more dissatisfied.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 116
 
 (116) After listening to the report, Bethune calmly asked, “How many more wounded need operations?” “Ten, mostly severely injured.” the comrades replied.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 28
 
 The villager told him to run away, but Niqiu looked at the melon patch, bit his lip and said: "You go ahead, Uncle! I need to watch over the melons!" The villager answered: "Watch over the melons? This is not a joke! Last time those bastards came, they ate the melons and beat up Uncle Zhang."
 
-{{< /columns >}}
+{{% /columns %}}

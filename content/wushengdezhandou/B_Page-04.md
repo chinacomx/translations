@@ -11,5 +11,5 @@ title: Page 04
 
 (4) The sound of footsteps interrupted Xiao Tang. He turned around, and as soon as he saw Cheng Hai, he said, “Hey, Master, we were just talking about you...” The young woman greeted him cheerfully, “Master.”
 
-{{< /columns >}}
+{{% /columns %}}
     

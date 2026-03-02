@@ -11,5 +11,5 @@ title: Page 068
 
 (68) After over an hour’s hard ride, Bethune arrived at the officers’ quarters to find several doctors conducting emergency treatment. Without hesitation, he strode to the wounded officer’s side, conferred briefly with the medical team, and decided to perform surgery immediately.
 
-{{< /columns >}}
+{{% /columns %}}
     

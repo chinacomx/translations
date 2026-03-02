@@ -10,4 +10,4 @@ title: Page 29
 
 When this was mentioned, Niqiu's anger rose again. He said angrily: "I can't let them eat Uncle Zhang's melons for free. Whoever ate them, I'll put that on his bill, and I'll make them pay for it when I get the chance."
 
-{{< /columns >}}
+{{% /columns %}}

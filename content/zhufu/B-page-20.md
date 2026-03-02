@@ -12,4 +12,4 @@ title: Page 20
 
 When they, for a second, accidentally loosened their grip, Xianglin's wife rammed her head into the corner of the incense burner table. She struck a large hole into her head, and fresh blood was flowing. They put two handfuls of incense ash on the wound and wrapped it with two pieces of red cloth, but they still could not stop the blood flow.
 
-{{< /columns >}}
+{{% /columns %}}

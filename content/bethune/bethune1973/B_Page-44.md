@@ -11,5 +11,5 @@ title: Page 044
 
 (44) As all wounded soldiers were being evacuated into the mountains the thunderous roar of artillery already echoed nearby. Bethune stood steadfast at the main crossroads, meticulously examining every passing stretcher. Only after verifying the condition of the last wounded soldier did he finally depart—the very last to leave Songyankou Hospital.
 
-{{< /columns >}}
+{{% /columns %}}
     

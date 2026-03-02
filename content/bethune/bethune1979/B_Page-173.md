@@ -11,5 +11,5 @@ title: Page 173
 
 (173) At that moment, another horseman galloped into the village. It was Captain Xu. Having learned of Bethune’s critical condition, he had rushed from the front lines overnight for a visit.
 
-{{< /columns >}}
+{{% /columns %}}
     

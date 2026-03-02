@@ -11,5 +11,5 @@ title: Page 056
 
 (56) Bethune asked: “Where is Lingqiu?” Minister Yu told him: “It’s more than 400 miles from here.” Bethune shouted excitedly: “Let’s go!” He turned back and reminded Minister Yu: “Don’t forget Fang Zhaoyuan.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 175
 
 (175) Captain Xu excitedly reported to Bethune: “We’ve wiped out over 4,000 enemies. This is their commander, but unfortunately, we couldn’t capture him alive!” Bethune looked at Captain Xu with excitement and answered: “Good! Good!”
 
-{{< /columns >}}
+{{% /columns %}}
     

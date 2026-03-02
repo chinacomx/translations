@@ -12,4 +12,4 @@ title: Page 50
 
 At night, the sound of a train whistle woke him up. "Oh, how much fun it would be to be at the station and empty out the pockets of all those rich people..." He made up his mind: Tonight, he would get the watch into his hands and just run away.
 
-{{< /columns >}}
+{{% /columns %}}

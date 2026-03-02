@@ -11,5 +11,5 @@ title: Page 075
 
 (75) As Bethune sifted through the spoils of war, he found no medical supplies and felt deeply disappointed. Suddenly, an idea struck him, he picked up two cans of condensed milk and strode back up the riverbank.
 
-{{< /columns >}}
+{{% /columns %}}
     

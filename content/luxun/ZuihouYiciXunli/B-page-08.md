@@ -12,4 +12,4 @@ title: Page 08
 
 Nach der Pause ging es Lu Xun dem Anschein nach etwas besser und er setzte seinen Ausstellungsbesuch mit großer Begeisterung fort. Er hörte den Erklärungen der jungen Holzschnittkünstler aufmerksam zu und teilte ihnen immer wieder seine Ansichten dazu mit. Lu Xun lobte die Werke, die den Kampfgeist der Massen der Arbeiter und Bauern ausstrahlten, wies aber auch offen auf Mängel in einigen der Werke hin, wie etwa eine nur oberflächliche Beobachtungsgabe oder eine unzureichende Handfertigkeit beim Schnitzen. 
 
-{{< /columns >}}
+{{% /columns %}}

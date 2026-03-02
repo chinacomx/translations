@@ -11,5 +11,5 @@ title: Page 165
 
 (165) When Minister Yu arrived at Huangshikou, he encountered Fang Zhaoyuan and asked anxiously: “How is Doctor Bai?” Fang Zhaoyuan lowered his voice and responded: “The situation is very bad. He has already received three blood transfusions, and we’ve tried everything we could think of, but...”
 
-{{< /columns >}}
+{{% /columns %}}
     

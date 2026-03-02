@@ -12,4 +12,4 @@ title: Page 12
 
 The sun was shining outside the window, and the watch was gleaming in Petka's hand. He thought: "The wise man was right about gaining profit by misfortune. This watch is worth 50 Roubles… after selling it, I'll buy myself white bread and lard, sausages, boots, and also a striped undershirt…"
 
-{{< /columns >}}
+{{% /columns %}}

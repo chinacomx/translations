@@ -11,5 +11,5 @@ title: Page 037
 
 (37) Late at night, when the wounded soldiers were fast asleep, Bethune carried a small oil lamp and checked on each patient one by one. A soldier with bandaged eyes groaned, and Bethune quickly fetched a bedpan from under the bed and placed it under the soldier’s blanket.
 
-{{< /columns >}}
+{{% /columns %}}
     

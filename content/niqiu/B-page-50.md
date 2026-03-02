@@ -12,4 +12,4 @@ title: Page 50
 
 Niqiu violently got on top of the spy, punching him with his fists as he cursed him viciously. The spy struggled for his dear life as the two rolled around on the edge of the pond.
 
-{{< /columns >}}
+{{% /columns %}}

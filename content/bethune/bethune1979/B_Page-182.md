@@ -11,5 +11,5 @@ title: Page 182
 
 (182) And this is how Comrade Bethune left us, but his noble image will live forever in the hearts of the Chinese people. On December 21, 1938, the great leader Chairman Mao wrote the renowned essay "In Memory of Norman Bethune", calling upon every Communist Party member to learn from Comrade Bethune’s true spirit of communism.
 
-{{< /columns >}}
+{{% /columns %}}
     

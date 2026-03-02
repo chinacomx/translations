@@ -11,5 +11,5 @@ title: Page 031
 
 (31) The comrades, ever mindful of Chairman Mao’s guidance, cared for Bethune very much and urged him to accept the stipend. Bethune firmly refused: “Having come from Yan’an, I know Chairman Mao receives only a modest allowance, and Eighth Route Army soldiers have but a few cents per day for their food. As a communist fighter, I should not enjoy special privileges.”
 
-{{< /columns >}}
+{{% /columns %}}
     

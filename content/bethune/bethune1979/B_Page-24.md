@@ -11,5 +11,5 @@ title: Page 024
 
 (24) Fang Zhaoyuan told him frankly: “This is all we have.” Bethune frowned and reluctantly said: “Sterilize it!”
 
-{{< /columns >}}
+{{% /columns %}}
     

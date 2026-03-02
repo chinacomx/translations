@@ -11,5 +11,5 @@ title: Page 070
 
 (70) At that moment, Eighth Route Army soldiers surged out of their fortifications from all directions, the enemy in the valley had been completely wiped out. Cheers echoed through the mountains and valleys, thunderous with triumph.
 
-{{< /columns >}}
+{{% /columns %}}
     

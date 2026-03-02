@@ -11,5 +11,5 @@ title: Page 43
 
 (43) After Cheng Hai had become friends with Xiaobei recently, he realized that Xiaobei was very hardworking and dreamt of becoming a pilot to defend the country in the future. Cheng Hai purposely provided him with storybooks about the battles of heroes from the People’s Liberation Army. He also asked Xiao Tang to make a large [model] glider for Xiaobei. Cheng Hai guided Xiaobei both inside and outside of school.
 
-{{< /columns >}}
+{{% /columns %}}
     

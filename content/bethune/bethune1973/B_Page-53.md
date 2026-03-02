@@ -11,5 +11,5 @@ title: Page 053
 
 (53) Under cover of darkness, our forward units occupied the hills flanking the highway. Two hours later, a Japanese reinforcement convoy—trucks and tanks—entered the valley. At the commander’s signal, landmines erupted beneath the enemy column while machine guns and rifles opened fire simultaneously from both ridges. Trapped in the kill zone, the Japanese invaders scattered like panicked wolves, their formation collapsing into chaos.
 
-{{< /columns >}}
+{{% /columns %}}
     

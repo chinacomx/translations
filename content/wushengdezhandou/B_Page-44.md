@@ -11,5 +11,5 @@ title: Page 44
 
 (44) With the help of Cheng Hai and Zhuo Hong, Xiaobei had changed. Yesterday, he told Cheng Hai that the man with the shabby cap wanted to meet him. Cheng Hai asked him why. Xiaobei shook his head and said, “I don’t know. He just said that if I didn’t go, he would ask me to return his things and would even ask people to beat me up.”
 
-{{< /columns >}}
+{{% /columns %}}
     

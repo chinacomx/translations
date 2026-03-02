@@ -11,5 +11,5 @@ title: Page 003
 
 (3) Along the journey, Bethune traversed mountains and ridges, witnessing the beautiful villages ravaged by the artillery fire of the Japanese invaders, with a grim expression on his face.
 
-{{< /columns >}}
+{{% /columns %}}
     

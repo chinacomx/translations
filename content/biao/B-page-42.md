@@ -12,4 +12,4 @@ title: Page 42
 
 Petka was taken to the chief's office. He saw an old, red-nosed man standing next to the chief. Petka thought this was for sure the drunkard. "Answer honestly, did you steal Kudeyar's watch?'' the chief asked. "I swear, I\'ve never seen that watch...'', Petka answered calmly.
 
-{{< /columns >}}s
+{{% /columns %}}s

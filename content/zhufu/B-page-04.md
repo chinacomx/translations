@@ -12,4 +12,4 @@ title: Page 04
 
 During the trial period, Xianglin's wife worked around the clock and seemed to get bored whenever she was idle. Besides, she was so strong that she could compete over a man, so on the third day, it was settled that she would stay and earn 500 wen per month.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -15,5 +15,5 @@ title: Page 83
 
 // Long live the Communist Party! Long Live Chairman Mao! (Slogans on the wall) //
 
-{{< /columns >}}
+{{% /columns %}}
     

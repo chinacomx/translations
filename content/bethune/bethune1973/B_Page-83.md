@@ -11,5 +11,5 @@ title: Page 083
 
 (83) The elderly woman’s family and villagers who had been treated by Bethune arrived with drums and gongs, bearing gifts of red dates and eggs to express their gratitude. Bethune gently declined the offerings and said: “Don’t thank me—I am but an Eighth Route Army doctor. You should thank the Eighth Route Army and Chairman Mao!”
 
-{{< /columns >}}
+{{% /columns %}}
     

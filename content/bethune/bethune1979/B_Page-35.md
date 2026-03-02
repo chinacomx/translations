@@ -11,5 +11,5 @@ title: Page 035
 
 (35) Minister Yu patiently explained: “He may not be a skilled doctor yet, but I believe he has the potential to learn!” Bethune remained unconvinced but reluctantly said: “Alright, if the organization decides...”
 
-{{< /columns >}}
+{{% /columns %}}
     

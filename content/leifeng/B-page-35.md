@@ -13,4 +13,4 @@ weight: 38
 
 Lei Feng took his homework very seriously. Whenever others complimented him, he would respond: “If I were sloppy, how could I be worthy of the Party that sent me to school? How could I serve the people in the future if I didn’t study hard for the revolution?” This was Lei Feng’s approach to his studies. 
 
-{{< /columns >}}
+{{% /columns %}}

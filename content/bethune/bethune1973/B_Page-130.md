@@ -11,5 +11,5 @@ title: Page 130
 
 (130) When they arrived at the regimental medical station in Wangjiatai, Bethune’s finger had swollen alarmingly, and his fever had risen to 40°C. Yet he stubbornly forced himself upright to perform surgeries, issuing orders to all combat units: “Prioritize soldiers with chest or head wounds, they should be carried in first. Even if I am asleep, you must wake me!”
 
-{{< /columns >}}
+{{% /columns %}}
     

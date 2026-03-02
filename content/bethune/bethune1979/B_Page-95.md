@@ -11,5 +11,5 @@ title: Page 095
 
 (95) One day, after a long and arduous journey along rugged mountain paths, the medical team returned to the village. As Bethune unloaded the medicine chests from the pack animals, he noticed that several bottles had been shattered, and powders of different colours were mixed together. He couldn’t help but frown.
 
-{{< /columns >}}
+{{% /columns %}}
     

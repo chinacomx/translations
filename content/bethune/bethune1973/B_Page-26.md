@@ -11,5 +11,5 @@ title: Page 026
 
 (26) Determined to improve medical care, Bethune proposed rebuilding the crude hospital. He personally instructed the carpenters in constructing wards and the blacksmiths in forging medical tools—probes, forceps, and traction frames for fractured femurs.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,4 +11,4 @@ title: Page 01
 
 One year in early winter, the family of Mr. Lu in the town of Luzhen wanted to change their female worker. Old Wei, who acted as a middlewoman, brought a female worker, roughly 26 or 27 years old. She had a sallow face, but her cheeks were still reddish.
 
-{{< /columns >}}
+{{% /columns %}}

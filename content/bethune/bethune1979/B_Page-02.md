@@ -11,5 +11,5 @@ title: Page 002
 
 (2) Comrade Bethune, a Canadian Communist Party member and a renowned surgeon, crossed vast oceans and overcame numerous obstacles to reach Yan’an in early 1938, driven by his commitment to assist the Chinese people in their Anti-Japanese War. In June of the same year, he took the initiative and requested to be sent to the Jin-Cha-Ji Anti-Japanese Base Area.
 
-{{< /columns >}}
+{{% /columns %}}
     

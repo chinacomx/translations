@@ -11,5 +11,5 @@ title: Page 054
 
 (54) Late one night, Bethune, lying in bed, overheard hushed voices in the courtyard. “Let’s tell him at dawn. We can prepare first.” – “Right, that way we can let the old chap sleep for three more hours.” He could clearly discern that the speakers were Minister Yu and Secretary Tong.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 014
 
 (14) Xiao Shao urged Bethune to eat. Bethune pointed to the plump chicken in the bowl and asked: “Does every soldier in the Eighth Route Army get to eat chicken today?” Unsure how to respond, Xiao Shao quickly saluted: “Reporting, the chicken is already cooked, and not eating it would be a waste. The Eighth Route Army does not allow waste!”
 
-{{< /columns >}}
+{{% /columns %}}
     

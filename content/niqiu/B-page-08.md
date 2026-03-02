@@ -12,4 +12,4 @@ title: Page 08
 
 The village people helped Niqiu pick the ripe watermelons in time and brought them to the market to sell them. With the money they earned, they bought medicine for Uncle Zhang and cured his injuries.
 
-{{< /columns >}}
+{{% /columns %}}

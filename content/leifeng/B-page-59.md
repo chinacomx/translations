@@ -13,4 +13,4 @@ weight: 62
 
 The landlord wanted to play rascal, but just then a cadre came along, and the landlord, afraid of getting into trouble, fell silent. The cadre sternly criticized the landlord.
 
-{{< /columns >}}
+{{% /columns %}}

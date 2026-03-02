@@ -11,5 +11,5 @@ title: Page 121
 
 (121) The young soldier on the operating table pleaded earnestly: “Comrade Bethune, please leave now! My injury isn’t serious – you can take me along or leave me here, it doesn’t matter.” Bethune replied with deep concern: “Hold on, son. Just a little longer. These extra minutes I spend now can save your leg, otherwise you might lose it forever.”
 
-{{< /columns >}}
+{{% /columns %}}
     

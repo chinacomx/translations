@@ -11,5 +11,5 @@ title: Page 59
 
 (59) Diao Qingyun’s father had been a landlord in Cheng Hai’s hometown, and Diao himself had persecuted the workers in the factory with much cruelty. In the year before liberation, Cheng Hai and the masses of workers rose up and went on strike. Diao Qingyun, charging them with “inciting strikes,” handed Cheng Hai and several workers over to the Guomindang military police.
 
-{{< /columns >}}
+{{% /columns %}}
     

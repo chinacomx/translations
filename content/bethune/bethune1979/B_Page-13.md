@@ -11,5 +11,5 @@ title: Page 013
 
 (13) Fortunately, Secretary Tong arrived and explained to Bethune: “This is Xiao Shao, the attendant sent by the Ministry of Health to take care of you.” Upon hearing this, Bethune immediately shook Xiao Shao’s hand happily and said: “Ah! Welcome to join our family!”
 
-{{< /columns >}}
+{{% /columns %}}
     

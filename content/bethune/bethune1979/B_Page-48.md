@@ -11,5 +11,5 @@ title: Page 048
 
 (48) “Later he fell ill and was driven out by the landlord. Eight years ago, the Red Army passed through his hometown and took him with.”
 
-{{< /columns >}}
+{{% /columns %}}
     

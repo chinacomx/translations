@@ -11,5 +11,5 @@ title: Page 102
 
 (102) Captain Xu was transferred to the rear hospital, where Bethune tended to him with profound class solidarity. That night Bethune could not sleep, but kept checking on him again and again. The nurse noticing how frequently he visited, began counting each trip. Before dawn had even broken, Bethune had made twelve rounds to check on his patient.
 
-{{< /columns >}}
+{{% /columns %}}
     

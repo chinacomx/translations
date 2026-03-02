@@ -12,4 +12,4 @@ title: Page 22
 
 At last, Xianglin's wife was unable to resist any longer, and she obeyed. He Laoliu had strength, he could work, the house was his family's, and there was no mother-in-law over her head, so others said that she hit the jackpot. At the end of the year, she gave birth to a plump son named Ah Mao.
 
-{{< /columns >}}
+{{% /columns %}}

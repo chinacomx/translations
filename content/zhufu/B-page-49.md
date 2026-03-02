@@ -12,4 +12,4 @@ title: Page 49
 
 When she came home, her spirit was entirely free from worry, and her eyes were exceptionally bright, looking happy she told Mrs. Lu that she had already been at the Temple of the Village God and donated a threshold.
 
-{{< /columns >}}
+{{% /columns %}}

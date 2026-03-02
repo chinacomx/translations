@@ -12,4 +12,4 @@ title: Page 39
 
 Townspeople still called her Xianglin's wife, but the tone was very different from before. They still talked with her, but their smiles had turned cold. She ignored those things, and with straight eyes she told everyone the story of how her son had been attacked by a wolf. When she finished her tale, she shed tears and her voice choked with sobs.
 
-{{< /columns >}}
+{{% /columns %}}

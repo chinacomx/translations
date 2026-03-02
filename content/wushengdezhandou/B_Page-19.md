@@ -11,5 +11,5 @@ title: Page 19
 
 (19) As soon as Cheng Hai entered the door, he asked again: “Did you get a good view of those two people?” His wife replied: “One was wearing a shabby cap, and the other was a child.” Cheng Hai said furiously: “That adult handed a pack of cigarettes to the child. Can you believe there are adults like that?” He then told his wife about the incident by the bridge.
 
-{{< /columns >}}
+{{% /columns %}}
     

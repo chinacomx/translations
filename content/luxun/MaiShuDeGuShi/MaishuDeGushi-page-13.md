@@ -12,4 +12,4 @@ title: Page 13
 
 Lu Xun begleitete ihn bis zur Tür. Durch den Herbstwind wehte ihm der Nieselregen ins Gesicht. Es war kühl, doch die noch warme Silbermünze in seiner Hand erfüllte sein Herz mit grenzenloser Wärme. Lange blickte er dem jungen Arbeiter hinterher, wie er im Regen verschwand...
 
-{{< /columns >}}
+{{% /columns %}}

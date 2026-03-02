@@ -11,5 +11,5 @@ title: Page 65
 
 (65) Carrying her daughter on her back, Cheng Hai’s wife left the pawnshop and silently tucked the pawn ticket into the child’s arms. She bought two doses of medicine and two sesame baked buns, with this, the money was used up.
 
-{{< /columns >}}
+{{% /columns %}}
     

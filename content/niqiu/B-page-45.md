@@ -12,4 +12,4 @@ title: Page 45
 
 The spy woke up and rolled back and forth on the ground. Niqiu commanded: "Freeze!" When the spy realized that Niqiu was just a child, he pretended to ask for forgiveness and said, "Little one, set me free!"
 
-{{< /columns >}}
+{{% /columns %}}

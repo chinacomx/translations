@@ -11,5 +11,5 @@ title: Page 051
 
 (51) As Bethune listened to Minister Yu’s account, he was deeply moved and murmured to himself: “But I didn’t want to give him the chance to learn!” Suddenly, he turned to Minister Yu and asked: “Why didn’t you tell me earlier?” Minister Yu smiled: “In the Eighth Route Army, there are many comrades like Fang Zhaoyuan!”
 
-{{< /columns >}}
+{{% /columns %}}
     

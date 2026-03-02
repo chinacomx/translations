@@ -11,5 +11,5 @@ title: Page 047
 
 (47) The three of them walked along the riverbank as Minister Yu began to recount Fang Zhaoyuan’s story: “When Fang was very young, both of his parents passed away. His family was poor, so his elderly grandmother had no choice but to send him to work as a cowherd for a landlord.”
 
-{{< /columns >}}
+{{% /columns %}}
     

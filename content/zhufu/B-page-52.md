@@ -12,4 +12,4 @@ title: Page 52
 
 Only when Mr. Lu burned the joss sticks and ordered her to leave did she leave. Feeling uncertain, she thought: Could it be that despite having already paid for a threshold in contribution to the village temple, she still could not redeem herself from the sins of this life? … 
 
-{{< /columns >}}
+{{% /columns %}}

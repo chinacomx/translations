@@ -12,4 +12,4 @@ title: Page 51
 
 The spy was unable to defeat Niqiu, so he called for help. Niqiu wanted to stuff his mouth, but as he didn't find anything, the spy's shouting became louder and louder. Niqiu was afraid that the puppet soldiers would hear him, so he pushed him into the water again.
 
-{{< /columns >}}
+{{% /columns %}}

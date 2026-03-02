@@ -11,5 +11,5 @@ title: Page 061
 
 (61) The enemy’s heavy machine gun resumed its fierce firing. Clenching his teeth, Commander Xu stood up, threw a grenade, and killed the enemy machine gunner.
 
-{{< /columns >}}
+{{% /columns %}}
     

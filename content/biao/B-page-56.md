@@ -12,4 +12,4 @@ title: Page 56
 
 However, when he arrived in the director's office, his courage left him. The director asked him what the matter was, but he only managed to say that he had come to borrow some picture books from him. When the director saw that he liked reading, he was very happy, and gave him many books.
 
-{{< /columns >}}
+{{% /columns %}}

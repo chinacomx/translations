@@ -11,5 +11,5 @@ title: Page 001
 
 (1) Golden sunlight bathed the majestic Pagoda Mountain. In the valley, a unit of the Eighth Route Army’s medical team—armed only with rifles and grenades and led by the great internationalist warrior Norman Bethune—marched forward, humming the “Song of the Guerrillas”.
 
-{{< /columns >}}
+{{% /columns %}}
     

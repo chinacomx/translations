@@ -12,4 +12,4 @@ title: Page 51
 
 He opened the window, glided down the drainpipe, landed in the courtyard, and went to the place where his watch was buried. With all his strength he dragged away the logs. One log, two logs, three logs\... when he had dragged away only twenty or thirty logs, he was gasping for air already.
 
-{{< /columns >}}
+{{% /columns %}}

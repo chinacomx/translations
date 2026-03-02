@@ -13,4 +13,4 @@ weight: 33
 
 Lei Feng valued his time and never wasted a minute. He always carried a book in his pocket when he went up into the mountain for firewood and would take it out to read whenever he had a break. 
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 04
 
 Therefore, the village cadres discussed the matter and decided to entrust the Children's Corps to take care of the melon patch. The Children's Corps then gave this task to one of the bravest and most experienced League members: Niqiu.
 
-{{< /columns >}}
+{{% /columns %}}

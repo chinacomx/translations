@@ -11,5 +11,5 @@ title: Page 006
 
 (6) After the outbreak of China’s Anti-Japanese War, Bethune traveled across much of North America, giving speeches everywhere and denouncing the crimes of Japanese fascism. Subsequently, he prepared medical supplies and requested from his organization to go to China, to the revolutionary base areas led by the great leader Chairman Mao, to directly participate in the anti-fascist struggle.
 
-{{< /columns >}}
+{{% /columns %}}
     

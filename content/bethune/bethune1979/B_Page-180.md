@@ -11,5 +11,5 @@ title: Page 180
 
 (180) “Please convey a message to Comrade Mao Zedong and send a letter to the Canadian Party organization, informing them that I have been very happy here… My only wish is that I could have contributed more….”
 
-{{< /columns >}}
+{{% /columns %}}
     

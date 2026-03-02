@@ -11,5 +11,5 @@ title: Page 10
 
 (10) Cheng Hai happily agreed to give the talk. After saying goodbye to Zhuo Hong, he crossed the new bridge leading to his dormitory. On both sides of the small river, the saplings that Cheng Hai [and his comrades] planted years ago had now grown into tall, leafy trees. He couldn’t help but think of these pupils: Yeah, in a few more years, they would grow up and become capable individuals…
 
-{{< /columns >}}
+{{% /columns %}}
     

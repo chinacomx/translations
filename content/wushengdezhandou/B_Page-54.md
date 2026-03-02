@@ -11,5 +11,5 @@ title: Page 54
 
 (54) A moment later, Xiaobei tugged the rope three times from inside. The man outside started pulling intermittently and finally dragged out a small motor. He quickly untied the rope, covered the motor with old clothes, and laboriously carried it to a bicycle parked in the shadows at a distance.
 
-{{< /columns >}}
+{{% /columns %}}
     

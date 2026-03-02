@@ -13,4 +13,4 @@ weight: 51
 
 Hearing this, Lei Feng immediately said as if he himself faced hardship: “Don’t worry, I will help you with your schoolwork!” His words filled Guohua’s heart with warmth.
 
-{{< /columns >}}
+{{% /columns %}}

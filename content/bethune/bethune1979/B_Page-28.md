@@ -11,5 +11,5 @@ title: Page 028
 
 (28) Bethune was doing a home visit to Grandma Meng, after conducting a thorough examination, he joked: “You still have fifty years to live! I’ll send some medicine over later.” Grandma Meng protested: “Doctor Bai, I don’t need medicine! Medicine is hard to come by for us—save it for the troops!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 52
 
 Just when he was pulling one especially heavy log, it slipped out of his hands in a moment of carelessness. The entire pile of tree trunks collapsed, making a frightening noise. Following a loud growl, a huge dog jumped at Petka. Petka\'s entire body trembled with fear, and he ran back to the dorm for his dear life.
 
-{{< /columns >}}
+{{% /columns %}}

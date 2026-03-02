@@ -12,4 +12,4 @@ title: Page 42
 
 But before long, almost everyone in town could recite her words. As soon as they heard it, they instantly turned very annoyed, interrupted her at once, walked away, and left her standing in a daze with her mouth hanging open. 
 
-{{< /columns >}}
+{{% /columns %}}

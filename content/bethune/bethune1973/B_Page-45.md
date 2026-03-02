@@ -11,5 +11,5 @@ title: Page 045
 
 (45) News soon arrived that the Songyankou Hospital had been destroyed by the Japanese invaders. Bethune was filled with righteous fury. After carefully reviewing their frontline medical experiences, he told his comrades: “We must rebuild our hospital in line with the realities of guerrilla warfare.”
 
-{{< /columns >}}
+{{% /columns %}}
     

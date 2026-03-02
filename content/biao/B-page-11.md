@@ -12,4 +12,4 @@ title: Page 11
 
 He pulled off the chain with the charms and stuffed it through the gap: "Here, take it!" The drunkard was muddle-headed. He had already forgotten about the watch. He took the chain and murmured: "Thanks a lot! Thanks a lot! My precious!"
 
-{{< /columns >}}
+{{% /columns %}}

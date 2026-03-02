@@ -11,5 +11,5 @@ title: Page 047
 
 (47) Chairman Mao taught: “Commanders must build their stage of action within objective limitations, yet upon this stage, they can direct many magnificent, heroic dramas.” These teachings of our great leader shone like a beacon, illuminating Bethune’s path forward.
 
-{{< /columns >}}
+{{% /columns %}}
     

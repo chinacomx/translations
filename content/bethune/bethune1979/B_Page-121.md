@@ -11,5 +11,5 @@ title: Page 121
 
 (121) The three comrades saw Bethune and warmly greeted him. Bethune recognized them as the three wounded soldiers he had operated earlier. Lao Feng instructed the nurse, who was disguised as an apprentice, to remove the bandages for Bethune to examine. Bethune, satisfied, said: “No need!” He then asked Lao Feng to show him the medical supply room.
 
-{{< /columns >}}
+{{% /columns %}}
     

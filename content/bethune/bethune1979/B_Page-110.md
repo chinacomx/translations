@@ -11,5 +11,5 @@ title: Page 110
 
 (110) Bethune suddenly turned around, waving his fist: “I want the whole world to know that the Eighth Route Army, surviving on millet and armed with rifles, is standing alone against 800,000 elite Japanese troops! No one has the right to just stand by and do nothing.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 058
 
 (58) The fierce battle lasted until dawn the next day, when the enemy retreated across the line. Our Captain Xu, who was in charge of blocking the gap, discovered that a group of enemy troops had seized a small hill, threatening our position blocking the gap. He led his soldiers out of the fortifications and wanted to retake the hill from the side.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 10
 
 Erst als langsam die Nacht hereinbrach, verabschiedete sich Lu Xun sich von allen. Und als die jungen Leute Lu Xuns schwacher und magerer Gestalt hinterherblickten, die sich nach und nach immer weiter entfernte, da mussten sie an einen berühmten Vers eines seiner Gedichte denken: „Mit grimmigem Blick biete ich tausend auf mich gerichteten Fingern die Stirn, mit gesenktem Kopf diene ich den Menschen“. Auch dachten sie an seinen jahrzehntelangen Kampf. Und ihre Augen waren voller Tränen.
 
-{{< /columns >}}
+{{% /columns %}}

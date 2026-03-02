@@ -11,5 +11,5 @@ title: Page 039
 
 (39) Fang Zhaoyuan opened the window and exclaimed in surprise: “Doctor Bai!” Bethune asked gently: “You’re still awake?” Fang Zhaoyuan replied nervously: “I lack the basics, so I’m comparing notes with my comrades.” Bethune praised him: “That’s good, but you need to rest, understand?” He then pointed at the candle.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 005
 
 (5) In 1936, when the fascist regimes of Germany and Italy invaded Spain, Bethune led a medical team to Madrid, the capital of Spain. On a battlefield riddled with gunfire, he was the first to come up with the idea of transporting blood banks to the front line and conducting battlefield blood transfusions, saving the lives of countless Spanish working-class brothers.
 
-{{< /columns >}}
+{{% /columns %}}
     

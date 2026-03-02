@@ -12,4 +12,4 @@ title: Page 21
 
 It was a bunch of kids against Niqiu alone, starting a battle in the water. Mud was thrown at Niqiu from all directions, hitting the watermelon skin with a thud. Niqiu, spinning in circles, retaliated.
 
-{{< /columns >}}
+{{% /columns %}}

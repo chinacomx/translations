@@ -13,4 +13,4 @@ weight: 12
 
 The poor have a unity of spirit. The kind-hearted Great-aunt Six took Lei Feng in as her own. The villagers also helped him, offering food from one household to the other, and Lei Feng survived.
 
-{{< /columns >}}
+{{% /columns %}}

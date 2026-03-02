@@ -11,5 +11,5 @@ title: Page 172
 
 (172) “Crash” – suddenly, the typewriter fell to the ground. Minister Yu, Fang Zhaoyuan, and Secretary Tong rushed into the room and saw Bethune leaning on the bed, breathing heavily.
 
-{{< /columns >}}
+{{% /columns %}}
     

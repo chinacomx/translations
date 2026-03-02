@@ -11,5 +11,5 @@ title: Page 020
 
 (20) Bethune’s temper flared upon hearing this: “Ran out! Would you stop fighting if you ran out of bullets?” He examined the soldier’s wound, and his expression grew even grimmer as he demanded: “Who performed this surgery?”
 
-{{< /columns >}}
+{{% /columns %}}
     

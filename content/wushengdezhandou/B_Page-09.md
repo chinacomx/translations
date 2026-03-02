@@ -15,5 +15,5 @@ title: Page 09
 
 // Never forget class struggle! (Slogan on the wall) //
 
-{{< /columns >}}
+{{% /columns %}}
     

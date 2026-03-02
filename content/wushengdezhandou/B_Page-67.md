@@ -11,5 +11,5 @@ title: Page 67
 
 (67) The dog of a landlord climbed down from the cart and shouted at the driver, “Hurry, move them up and tie them securely!” The boxes were extremely heavy, and the driver barely managed to shift them a little after much effort. The dog of a landlord looked around, noticed the woman sitting in front of the temple, and yelled, “Hey! Come here and lift these boxes!”
 
-{{< /columns >}}
+{{% /columns %}}
     

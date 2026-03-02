@@ -11,5 +11,5 @@ title: Page 072
 
 (72) Xiao Shao approached from the riverbank, carrying a military coat, a blanket, a tin of cigarettes, canned milk, and other items, with a Japanese military sword hanging from his waist. He presented the items to Bethune: “Doctor Bai, these are spoils of war sent by Brigade Commander Wang.”
 
-{{< /columns >}}
+{{% /columns %}}
     

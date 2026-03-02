@@ -11,5 +11,5 @@ title: Page 065
 
 (65) When Commander Xu was carried into the operating room, his face was pale and bloodless. Minister Yu exclaimed: “Commander Xu!” Bethune asked him. “You know him?” Minister Yu nodded: “Yes, I know him. His name is Xu Shijie, a combat hero and a veteran of the Long March.”
 
-{{< /columns >}}
+{{% /columns %}}
     

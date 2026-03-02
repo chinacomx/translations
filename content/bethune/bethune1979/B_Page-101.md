@@ -11,5 +11,5 @@ title: Page 101
 
 (101) In the evening, Bethune and the others gathered at Grandma Meng’s house to eat dumplings. Minister Yu accompanied Captain Xu into the room and said: “Captain Xu has been discharged from the hospital and is returning to his unit. He came to bid farewell to Comrade Bethune.” Excited, Bethune shook Captain Xu's hand and said: “Great! Take down more of those Japanese devils—no! Capture a major general!” Everyone burst into laughter.
 
-{{< /columns >}}
+{{% /columns %}}
     

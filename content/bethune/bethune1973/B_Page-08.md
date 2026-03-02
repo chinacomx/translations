@@ -11,5 +11,5 @@ title: Page 008
 
 (8) After an 18-day voyage, Bethune arrived in Wuhan, which was then the headquarters of the reactionary Guomindang government. Due to the surrender policy of the reactionaries, chaos reigned there, and groups of panicking Guomindang reactionary troops fled south helter-skelter. Bethune was in fury: “What a corrupt and incompetent administration.”
 
-{{< /columns >}}
+{{% /columns %}}
     

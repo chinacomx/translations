@@ -12,4 +12,4 @@ title: Page 41
 
 The spy laid on a small hill in the middle of the reed pond. His big belly resembled a huge toad. Breathing heavily, Niqiu sat next to him. All of a sudden, he did not know what to do. He wanted to drag the guy back into the water, but thought it over. He could leave him so that the anti-Japanese government might learn something about the situation of the enemy from him.
 
-{{< /columns >}}
+{{% /columns %}}

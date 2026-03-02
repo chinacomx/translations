@@ -11,5 +11,5 @@ title: Page 069
 
 (69) As Bethune’s blood flowed into Commander Xu’s veins, the waxy pallor of Xu’s face gradually gave way to a healthy hue, and his eyes slowly opened. Nurse Xiao Jia exclaimed excitedly: “Doctor Bai, he’s alive! He...” Overwhelmed, she burst into tears.
 
-{{< /columns >}}
+{{% /columns %}}
     

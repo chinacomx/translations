@@ -11,5 +11,5 @@ title: Page 009
 
 (9) Bethune overcame all obstructions by the Guomindang reactionaries and finally arrived in Yan’an, the sacred place of Chinese revolution, in late March 1938. Upon arriving in Yan’an, he felt as though he had entered a new world: Along the Yan River, groups of Eighth Route Army soldiers were drilling intensely; below the Baota Mountain, the songs of Anti-Japanese War echoed everywhere…
 
-{{< /columns >}}
+{{% /columns %}}
     

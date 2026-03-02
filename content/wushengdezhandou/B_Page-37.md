@@ -11,5 +11,5 @@ title: Page 37
 
 (37) Cheng Hai said with emotion, “Yes, as for my own child, I don’t have one anymore. But I consider Xiaobei and all the others as my own children. I’ll be happy as long as they follow Chairman Mao’s instructions and grow up healthy. The bourgeois class is trying to compete for them with us. How can we stand by and do nothing?”
 
-{{< /columns >}}
+{{% /columns %}}
     

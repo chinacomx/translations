@@ -11,5 +11,5 @@ title: Page 167
 
 (167) Bethune looked at Minister Yu standing by his bed and said calmly: “My blood is poisoned. There’s no way...” Fang Zhaoyuan, holding a syringe, comforted him: “Doctor Bai, after this injection, you’ll get better.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -16,5 +16,5 @@ title: Page 27
 // Serve the People (banner in the window)   
 Work safety (label on Cheng Hai’s jacket) //
 
-{{< /columns >}}
+{{% /columns %}}
     

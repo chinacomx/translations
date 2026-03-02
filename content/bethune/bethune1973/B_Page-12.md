@@ -11,5 +11,5 @@ title: Page 012
 
 (12) The next morning, while Bethune was diligently studying Marxism-Leninism and Chairman Mao’s works, a messenger in high spirits entered to notify him that the great leader Chairman Mao would receive him that evening.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 127
 
 (127) Knowing there was fighting at the front, Bethune immediately packed his gear and ordered the medical team to depart at once. When the authorities urged him to recover fully, he stubbornly insisted: “What does this little finger injury matter? You should treat me like a machine gun—ready to fire at any moment.”
 
-{{< /columns >}}
+{{% /columns %}}
     

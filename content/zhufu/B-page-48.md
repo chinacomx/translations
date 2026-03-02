@@ -12,4 +12,4 @@ title: Page 48
 
 From then on, she became entirely closed off, silently walking the streets, sweeping the floor, washing vegetables and rinsing rice. It was almost a year later when she asked Mrs. Lu for her accumulated wages, adding up to 12 yuan and again took leave to go to the west end of the town.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 075
 
 (75) With that, three hundred milliliters of blood from Norman Bethune, the outstanding Canadian Communist, flowed steadily through the syringe and into the veins of a wounded Chinese Eighth Route Army soldier.
 
-{{< /columns >}}
+{{% /columns %}}
     

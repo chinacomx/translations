@@ -11,5 +11,5 @@ title: Page 177
 
 (177) Bethune asked Secretary Tong to take out his surgical knife from the surgical kit. He reluctantly touched it and handed it to Fang Zhaoyuan: “Comrade Fang Zhaoyuan, please accept this. This is my weapon! Our weapon!”
 
-{{< /columns >}}
+{{% /columns %}}
     

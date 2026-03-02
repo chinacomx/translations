@@ -12,4 +12,4 @@ title: Page 09
 
 Lu Xun fragte gutmütig: „Hast du denn einen Yuan? Einen einzigen?" Der junge Mann antwortete: „Ja!" Unbewusst hob er den Kopf und schaute in Lu Xuns freundliche Augen.
 
-{{< /columns >}}
+{{% /columns %}}

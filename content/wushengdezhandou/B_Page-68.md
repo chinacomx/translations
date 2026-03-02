@@ -11,5 +11,5 @@ title: Page 68
 
 (68) Seeing that she ignored him, the dog of a landlord took a few steps closer. “Oh, it’s you! Hurry up and lift the boxes!” Cheng Hai’s wife saw the dog of a landlord, and an anger of hatred instantly flared up in her heart. She ignored him contemptuously and continued feeding her child. “Did you hear me?” The dog of a landlord raised his stick and hit her straight on the head.
 
-{{< /columns >}}
+{{% /columns %}}
     

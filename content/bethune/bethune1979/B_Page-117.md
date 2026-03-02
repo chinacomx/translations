@@ -11,5 +11,5 @@ title: Page 117
 
 (117) Bethune walked into the courtyard and asked Fang Zhaoyuan in confusion: “Who is the doctor here?” The young woman called Lao Feng replied without hesitation: “I am the doctor.” Bethune looked at this rural young woman, feeling even more bewildered.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 06
 
 Erst als sie ihn wiederholt gebeten hatten sich doch etwas auszuruhen, setzte sich Lu Xun auf einen Rattanstuhl. Die jungen Leute sahen die Blässe in Lu Xuns Gesicht und drängten ihn, sich doch im Ausland auszukurieren. Lu Xun lächelte und sagte: „Leute wie ich können sich nicht erholen. Ich kann gar nicht anders als zu schreiben. Lieber nicht zu arbeiten und dafür ein paar Jahre länger zu leben, das ist nicht so gut, als bei der Arbeit keine Zeit zu verlieren und dafür einige Jahre weniger zu leben. 
 
-{{< /columns >}}
+{{% /columns %}}

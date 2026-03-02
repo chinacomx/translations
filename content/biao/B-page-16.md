@@ -12,4 +12,4 @@ title: Page 16
 
 To make matters worse, the chief ordered the policeman to search his body. He thought: "Farewell forever, my beloved watch." Fortunately, the policeman disliked filth and was unwilling to move.
 
-{{< /columns >}}
+{{% /columns %}}

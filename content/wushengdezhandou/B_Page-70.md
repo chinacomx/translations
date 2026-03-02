@@ -11,5 +11,5 @@ title: Page 70
 
 (70) Cheng Hai’s wife sneered twice and picked up her child to leave. The dog of a landlord said to Diao Qingyun, “Teach her a lesson for me!” Diao Qingyun viciously slapped her in the face. Cheng Hai’s wife put her child on the ground, grabbed a stone, and threw it at Diao Qingyun.
 
-{{< /columns >}}
+{{% /columns %}}
     

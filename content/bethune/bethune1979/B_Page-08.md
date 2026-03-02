@@ -11,5 +11,5 @@ title: Page 008
 
 (8) Bethune replied with a shrug: “According to the estimates of the U.S. Naval Intelligence Agency, the Shanxi-Chahar-Hebei base area no longer exists”, eliciting hearty laughter from everyone.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 07
 
 Lu Xun saß derweil im Inneren des Ladens und hatte dies alles mit angesehen. Jetzt stand er auf, ging langsam hinüber, sah den jungen Mann freundlich an und fragte: „Möchten Sie das Buch kaufen?" Der junge Mann nickte und antwortete: „Sehr gerne."
 
-{{< /columns >}}
+{{% /columns %}}

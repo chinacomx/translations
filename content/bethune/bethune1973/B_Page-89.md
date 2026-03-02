@@ -11,5 +11,5 @@ title: Page 089
 
 (89) One scene followed another, and the audience continually responded with warm applause. Bethune realized that the foreign doctor in the play, who had traveled across the ocean and risked his life to save the wounded soldiers of the Eighth Route Army, was none other than himself. As soon as the performance was over, the actors announced: “The real Comrade Bethune is here with us.” The audience was immediately in uproar.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 26
 
 He shook the water off his head and looked around the edge of the pond when a villager came running past from west to east, pointing backwards and saying to Niqiu: "Run away! The traitors are returning!"
 
-{{< /columns >}}
+{{% /columns %}}

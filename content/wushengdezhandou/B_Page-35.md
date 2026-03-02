@@ -11,5 +11,5 @@ title: Page 35
 
 (35) Cheng Hai spoke sincerely and sternly: “As a Communist Party member, I call a spade a spade. We have a responsibility for the next generation. If we discover problems but leave them aside, we’re being irresponsible toward the revolution.” Xiaobei’s mother blushed, while Ji Guodong complained, “You! You’ve spoiled our child.”
 
-{{< /columns >}}
+{{% /columns %}}
     

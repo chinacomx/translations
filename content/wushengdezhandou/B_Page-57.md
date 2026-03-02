@@ -11,5 +11,5 @@ title: Page 57
 
 (57) Xiao Tang and the cadres from the factory’s security section took the man away along with his bicycle. Xiaobei ran out excitedly. Cheng Hai brushed the dust off his clothes, patted his head, and said: “Let’s go. I’ll take you home.”
 
-{{< /columns >}}
+{{% /columns %}}
     

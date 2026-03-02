@@ -12,4 +12,4 @@ title: Page 36
 
 Niqiu saw the spy coming towards him, ripples on the water around his neck. Upon realizing that the spy could not swim well, he recalled the saying: "When thousand pounds of cattle enter the water, they cannot defeat a carp", and mustered up his courage.
 
-{{< /columns >}}
+{{% /columns %}}

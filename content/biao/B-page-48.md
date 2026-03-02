@@ -12,4 +12,4 @@ title: Page 48
 
 Petka came up with a plan. He would first dig out the watch, and then climb over the wall and run away. However, when he arrived at the reformatory, he saw that numerous horse carriages loaded with timber were parked in the courtyard. Under the command of the director, the children unloaded the logs from the carriages. Before long, the courtyard was all filled with timber.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 087
 
 (87) The enemy officer spotted a child on the mountaintop, crouched like a wild rabbit darting forward. Pointing upward, he let out a sharp cry and commanded his soldiers to pursue Xiaohu.
 
-{{< /columns >}}
+{{% /columns %}}
     

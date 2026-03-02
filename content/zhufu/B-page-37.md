@@ -12,4 +12,4 @@ title: Page 37
 
 She was forced to withdraw her hand and went to pick up a candlestick. Mrs. Lu said in a panic: "Xianglin's wife, leave it there! I'll get it."
 
-{{< /columns >}}
+{{% /columns %}}

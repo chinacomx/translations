@@ -13,4 +13,4 @@ weight: 24
 
 Injustice must be redressed! Vengeance must be sought! The angry cries of the poor and lower-middle peasants echoed through the sky: Down with the landlord class! Avenge our suffering brothers! 
 
-{{< /columns >}}
+{{% /columns %}}

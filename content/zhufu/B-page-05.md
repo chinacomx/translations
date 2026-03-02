@@ -12,4 +12,4 @@ title: Page 05
 
 Xianglin's wife did not talk much and answered only when addressed, and her answers were brief. A dozen days had passed before other people learned bit-by-bit, that she had a harsh mother-in-law at home and a younger brother-in-law; she had lost her husband in the spring; her husband, 10 years younger than her, had gathered firewood for a living before he died. These were all that people knew about her.
 
-{{< /columns >}}
+{{% /columns %}}

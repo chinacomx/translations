@@ -12,4 +12,4 @@ title: Page 34
 
 Old Wei brought her to Mr. Lu's house again. His wife hesitated for a while, but eventually told Xianglin's wife to bring her basket and bedroll to the servant's room. Mr. Lu frowned as usual, but in view of the difficulty of employing female workers, he did not oppose.
 
-{{< /columns >}}
+{{% /columns %}}

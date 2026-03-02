@@ -11,5 +11,5 @@ title: Page 029
 
 (29) Bethune pointed to the “Glorious Anti-Japanese Family” red plaque hanging on the wall and said respectfully to Grandma Meng: “You see, I told you—we’re family!” Unable to refuse, Grandma Meng called her granddaughter, Er Niu, to go with Dr. Bai to fetch the medicine.
 
-{{< /columns >}}
+{{% /columns %}}
     

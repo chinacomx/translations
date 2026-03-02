@@ -11,5 +11,5 @@ title: Page 13
 
 (13) This sudden move made the boy step back two paces. He spoke in a stutter, “You... you... none of your business!” – “Smoking at such a young age, [do you think] that’s reasonable?” As Cheng Hai responded, he took a step forward. The boy took to his heels when he saw what was going to happen.
 
-{{< /columns >}}
+{{% /columns %}}
     

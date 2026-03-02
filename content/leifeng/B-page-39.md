@@ -13,4 +13,4 @@ weight: 42
 
 After joining the Young Pioneers, Lei Feng set even higher standards for himself. He often arrived at school early to clean the blackboard and wipe the desks.
 
-{{< /columns >}}
+{{% /columns %}}

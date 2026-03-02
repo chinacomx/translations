@@ -21,5 +21,5 @@ Die Geschichte eines Holzschnitts
 
 Illustrationen: Fan Yixin
 
-{{< /columns >}}
+{{% /columns %}}
 

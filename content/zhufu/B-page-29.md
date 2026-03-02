@@ -12,4 +12,4 @@ title: Page 29
 
 Until the afternoon, they searched all over and reached a mountain clearing, where they saw one of Ah Mao's little shoes hanging on a thorny branch. They all said: "Oh no, it looks like a wolf got him."
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 03
 
 Als Lu Xun den Ausstellungssaal betrat, sorgte dies im ganzen Saal sofort für Aufsehen. Eine Gruppe junger Holzschnittkünstler gesellte sich sofort um ihn, grüßte ihn freundlich und fragte besorgt nach seinem Gesundheitszustand. Lu Xun antwortete geradeheraus: „Mir geht es nicht gut, wirklich nicht. Von neun Monaten war ich dieses Jahr ganze sechs Monate schwer krank.“ Als er das sagte, erlitt er einen weiteren Hustenanfall, und sein Gesicht war ganz blass. 
 
-{{< /columns >}}
+{{% /columns %}}

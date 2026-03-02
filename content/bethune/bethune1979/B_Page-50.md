@@ -11,5 +11,5 @@ title: Page 050
 
 (50) Bethune stopped in his tracks and asked in disbelief: “He taught himself to become a doctor?” Minister Yu nodded: “Yes, entirely through hard work and trial and error—watching others perform surgeries and then learning to do them himself. To learn more from you, he’s now putting in extra effort to learn English.”
 
-{{< /columns >}}
+{{% /columns %}}
     

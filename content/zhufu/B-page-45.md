@@ -12,4 +12,4 @@ title: Page 45
 
 Auntie Liu looked at Xianglin's wife and said: "You and your second husband were together for less than two years, yet you are guilty of a great sin. When you arrive in the nether world, the ghosts of those two husbands will fight, whom will you be given to? The great king Yama will have to saw you apart and divide you between them."
 
-{{< /columns >}}
+{{% /columns %}}

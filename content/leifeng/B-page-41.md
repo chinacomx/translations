@@ -13,4 +13,4 @@ weight: 44
 
 During class, Lei Feng was highly attentive. The classmate sitting behind him often tried to chat, but Lei Feng never spoke a word.
 
-{{< /columns >}}
+{{% /columns %}}

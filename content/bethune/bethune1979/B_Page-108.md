@@ -11,5 +11,5 @@ title: Page 108
 
 (108) When the unit stopped to rest in another village. Bethune took out the newspaper from Canada and began reading. Headline after headline caught his eye: “Chamberlain Returns to London from Munich”, “Barcelona Falls”. A wave of frustration filled him as he gazed out the window, in deep thought.
 
-{{< /columns >}}
+{{% /columns %}}
     

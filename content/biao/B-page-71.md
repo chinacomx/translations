@@ -12,4 +12,4 @@ title: Page 71
 
 "Don't be wild! Don't you know me? I'm Petka!" They came to a secluded place, away from the middle of the street, "forgive me, it\'s all my fault...," he told Pyatakov about the matter of stealing the wood that night.
 
-{{< /columns >}}
+{{% /columns %}}

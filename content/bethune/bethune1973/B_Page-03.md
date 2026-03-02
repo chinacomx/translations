@@ -11,5 +11,5 @@ title: Page 003
 
 (3) In this vile capitalist society, Norman Bethune witnessed working-class people suffering from the dual burdens of poverty and illness, often meeting tragic deaths. Driven by a fervent desire to save laborers, he devoted himself to medical studies with relentless determination, ultimately becoming a thoracic surgeon recognized throughout Europe and North America.
 
-{{< /columns >}}
+{{% /columns %}}
     

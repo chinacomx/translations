@@ -11,5 +11,5 @@ title: Page 146
 
 (146) Bethune asked Secretary Tong: “How long will it take for the enemy to reach here?” Secretary Tong replied: “Thirty minutes.” Bethune grabbed the scalpel from Fang Zhaoyuan’s hand: “Quick, I’ll perform this surgery, and we’ll leave right after!” Fang Zhaoyuan tried to stop him, but it was no use—Bethune had already swiftly picked up the scalpel.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -13,4 +13,4 @@ weight: 23
 
 The landlady, who had once slashed Lei Feng with a billhook three times, received the people’s reckoning and struggle. A surge of anger and hatred rose in Lei Feng’s heart, and he shouted: “Do you recognize me? Today the Communist Party is here, and I will seek revenge!” 
 
-{{< /columns >}}
+{{% /columns %}}

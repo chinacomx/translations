@@ -11,5 +11,5 @@ title: Page 79
 
 (79) She had discussed all of this in detail with Zhao, the School Party Branch Secretary. After the struggle session ended, she approached Secretary Zhao and shared her thoughts.
 
-{{< /columns >}}
+{{% /columns %}}
     

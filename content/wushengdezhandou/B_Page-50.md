@@ -15,5 +15,5 @@ title: Page 50
 
 // up (label on the young worker’s jacket) //
 
-{{< /columns >}}
+{{% /columns %}}
     

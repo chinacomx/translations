@@ -12,4 +12,4 @@ title: Page 24
 
 In the reed pond Niqiu was digging for water bird eggs, far away from the edge of the pond, and since his ears and eyes were filled with sorghum sticks, he did not hear the shout. When he got out of the reed and looked around, he thought: "Oh! Where is everyone?" Only the watermelon skin was still floating on the surface of the water.
 
-{{< /columns >}}
+{{% /columns %}}

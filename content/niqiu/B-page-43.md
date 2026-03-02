@@ -12,4 +12,4 @@ title: Page 43
 
 After a while, the spy was relieved and his stomach bulged. Niqiu had a look, and it seemed that the spy had grown bigger. Niqiu thought: "What a big guy, how did I manage to overwhelm him?"
 
-{{< /columns >}}
+{{% /columns %}}

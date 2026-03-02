@@ -11,5 +11,5 @@ title: Page 034
 
 (34) Approaching the kang beds of two severely wounded soldiers, the messenger fed one while Bethune personally fed the other. Recognizing this chicken soup was meant for Bethune, the wounded stubbornly refused. Seizing the moment when he spoke, spoon by spoon Bethune deftly slipped the broth past their lips.
 
-{{< /columns >}}
+{{% /columns %}}
     

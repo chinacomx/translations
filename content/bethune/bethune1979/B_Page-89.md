@@ -11,5 +11,5 @@ title: Page 089
 
 (89) A Japanese soldier caught up, raised his rifle, and fired. Xiaohu was hit, staggered, and collapsed to the ground.
 
-{{< /columns >}}
+{{% /columns %}}
     

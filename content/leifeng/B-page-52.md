@@ -13,4 +13,4 @@ weight: 55
 
 Chapter 5: Loving the Collective
 
-{{< /columns >}}
+{{% /columns %}}

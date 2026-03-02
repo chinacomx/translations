@@ -11,5 +11,5 @@ title: Page 144
 
 (144) In the afternoon, Secretary Tong was looking through a telescope on the top of a mountain when he suddenly spotted a group of enemies on the opposite hill, heading towards them.
 
-{{< /columns >}}
+{{% /columns %}}
     

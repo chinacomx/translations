@@ -13,4 +13,4 @@ weight: 57
 
 Lei Feng cared deeply for the cooperative. Whenever he saw farm tools left behind in the fields, he would quickly pick them up and return them. When he noticed gaps in the dikes, he immediately patched them.
 
-{{< /columns >}}
+{{% /columns %}}

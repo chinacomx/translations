@@ -11,5 +11,5 @@ title: Page 049
 
 (49) “In the Red Army, he carried wounded soldiers from the front lines, was injured three times, and earned two commendations. Out of revolutionary necessity, he learned to dress wounds and care for the injured; later, also out of revolutionary necessity, he pulled himself together and performed surgeries. That’s how, through eight years of relentless self-study, he became a doctor.”
 
-{{< /columns >}}
+{{% /columns %}}
     

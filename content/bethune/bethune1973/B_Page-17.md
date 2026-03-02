@@ -11,5 +11,5 @@ title: Page 017
 
 (17) In a reverent mood, Bethune wrote, “... I now understand why Comrade Mao Zedong moves everyone who meets him so deeply. He is a giant! He is one of the greatest figures in our world.”
 
-{{< /columns >}}
+{{% /columns %}}
     

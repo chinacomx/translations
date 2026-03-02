@@ -11,5 +11,5 @@ title: Page 088
 
 (88) On the evening of Bethune’s arrival in central Hebei, the frontline troops staged a play to welcome him. As the performance began, Bethune watched with great interest, but he became increasingly agitated and grasped the arm of his interpreter.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -13,4 +13,4 @@ weight: 37
 
 Lei Feng revised the incorrect question and submitted it to the teacher who said with satisfaction: “Well done! You got it all right this time!” Only now Lei Feng breathed a sigh of relief, believing that this was the only way to meet the expectations of the Party. 
 
-{{< /columns >}}
+{{% /columns %}}

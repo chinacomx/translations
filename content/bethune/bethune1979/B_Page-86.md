@@ -11,5 +11,5 @@ title: Page 086
 
 (86) Xiaohu ran a long distance uphill and glanced back. Seeing that the enemy soldiers were still chasing in the direction of the retreating stretchers, he had a quick idea. He pushed a large rock down the mountain, hoping to divert the devil soldiers’ attention.
 
-{{< /columns >}}
+{{% /columns %}}
     

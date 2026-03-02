@@ -13,4 +13,4 @@ weight: 32
 
 Lei Feng left home facing the wind and snow without waiting for her to finish. He thought: “The Party gave me the chance to attend school! How can I not go just because of the snow?” 
 
-{{< /columns >}}
+{{% /columns %}}

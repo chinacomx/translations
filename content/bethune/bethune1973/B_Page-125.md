@@ -11,5 +11,5 @@ title: Page 125
 
 (125) Happily, Bethune fetched his surgical instruments and immediately began the operation. Upon opening the skull, he discovered a bone fragment lodged within. He was so focused on saving the soldier that he worked without rubber gloves, removing the bone fragment with his left middle finger. That’s how his wound was severely infected again.
 
-{{< /columns >}}
+{{% /columns %}}
     

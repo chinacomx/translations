@@ -12,4 +12,4 @@ title: Page 04
 
 Lu Xuns schlechter Gesundheitszustand machte die jungen Leute ganz traurig. Sie drängten ihn sich hinzusetzen und sich eine Weile auszuruhen, doch Lu Xun ging geradewegs auf die Ausstellungsstücke zu. Er schaute sich jedes einzelne der Werke, die an der Wand hingen, genauestens an. Und als er die Werke sah, welche diese jungen Leute in mühsamer Arbeit erschaffen hatten, und feststellte, dass diese sich im Vergleich zu früher verbessert hatten, zeigte sich auf seinem Gesicht ein zufriedenes Lächeln.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 12
 
 (12) Cheng Hai walked to the boy and asked sternly, “What are you doing?” – “This lighter never works,” the boy looked up at Cheng Hai and added, “Do [you] have matches? Got a light?” Using his fingers, which were strong like pliers, Cheng Hai forced the cigarette out of the boy’s mouth.
 
-{{< /columns >}}
+{{% /columns %}}
     

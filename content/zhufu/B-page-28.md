@@ -11,4 +11,4 @@ title: Page 28
 
 She asked around everywhere, but no one had seen him. She became worried, and begged people to go search for him.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 112
 
 (112) Bethune waved his hand as if to sweep away all the unpleasantness: “Let’s talk about our matters now. I want to go to Dawang Village for an inspection.” Fang Zhaoyuan patiently explained to him: “It’s not that I don’t want you to go to Dawang Village, but it’s too close to the enemy.”
 
-{{< /columns >}}
+{{% /columns %}}
     

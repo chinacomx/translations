@@ -11,5 +11,5 @@ title: Page 134
 
 (134) The Medical Department of the Military Region specially dispatched doctors to rush to Bethune’s side for emergency treatment. Despite all emergency measures taken by the specialists, his condition showed no improvement. Bethune shook his head and said with sober certainty: “Stop the treatment. I trust you completely. Comrades, it’s septicemia, there’s poison in my blood. There’s nothing you can do.”
 
-{{< /columns >}}
+{{% /columns %}}
     

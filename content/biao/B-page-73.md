@@ -12,4 +12,4 @@ title: Page 73
 
 Suddenly, Pyatakov turned around and slapped Petka into the face: "Give me the watch! Did you hear that? You think I don't know? I spent half a year in jail with Kudeyar, and he told me everything... he is still locked up in jail." Petka really wanted to give the watch to Pyatakov quickly.
 
-{{< /columns >}}
+{{% /columns %}}

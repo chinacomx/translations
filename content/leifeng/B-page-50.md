@@ -13,4 +13,4 @@ weight: 53
 
 After finishing their homework, Lei Feng also helped Guohua with cooking, chopping firewood, and gathering pig feed. Guohua was moved and said: “I will learn from you and become a good Young Pioneer!”
 
-{{< /columns >}}
+{{% /columns %}}

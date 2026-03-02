@@ -11,5 +11,5 @@ title: Page 087
 
 (87) When the Japanese armored patrol passed, Bethune and his medical team swiftly crossed the railway. Ahead, a guerrilla squad from the Central Hebei Military District had been dispatched to escort them to safety.
 
-{{< /columns >}}
+{{% /columns %}}
     

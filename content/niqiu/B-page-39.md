@@ -12,4 +12,4 @@ title: Page 39
 
 They smoked half a pack of cigarettes, yet the spy did not reappear. Only now, the two soldiers realized that something was wrong. The tall one ordered the small one to go down first and take a look, but the small one said: "You saw the melon first, so you should be the one to go down there first." Neither of them dared to go down, they just stood at the bank and shouted.
 
-{{< /columns >}}
+{{% /columns %}}

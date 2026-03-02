@@ -11,5 +11,5 @@ title: Page 179
 
 (179) After this, Bethune was utterly drained. He pointed to the letter on the typewriter. Secretary Tong pulled out the letter and read aloud: “Dear Commander Comrade, I fear my condition has worsened today. Perhaps this will be our final farewell!”
 
-{{< /columns >}}
+{{% /columns %}}
     

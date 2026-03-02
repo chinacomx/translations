@@ -12,4 +12,4 @@ title: Page 06
 
 Der Ladenbesitzer hatte ihn nicht richtig gehört und empfahl ihm weiter enthusiastisch: „Kaufen Sie ein Exemplar, das ist ein wirklich gutes Buch." Der junge Mann erwiderte aufrichtig: „Ich weiß." Er fuhr immer wieder mit den Fingern über das Buch, sein Gesichtsausdruck von Bedauern erfüllt.
 
-{{< /columns >}}
+{{% /columns %}}

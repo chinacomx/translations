@@ -11,5 +11,5 @@ title: Page 40
 
 (40) As they were parting, Cheng Hai asked Zhuo Hong with concern: “How long have you been teaching?” Zhuo Hong replied shyly, “I only started during the Cultural Revolution. I’m still a newcomer.” Cheng Hai shook her hand and said: “On the ideological front you have to take the offensive and have the zeal of an iron hammer. This work is very important, so do a good job.”
 
-{{< /columns >}}
+{{% /columns %}}
     

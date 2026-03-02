@@ -11,5 +11,5 @@ title: Page 010
 
 (10) On his first day in Yan’an, Bethune was so excited that he refused to rest. After visiting the Anti-Japanese Military and Political University, he went straight to inspect a hospital. Although the hospital equipment was simple, the Border Region Government had already implemented a free medical care system. Excitedly, he turned to his interpreter, “This is the New China, right here in Yan’an!”
 
-{{< /columns >}}
+{{% /columns %}}
     

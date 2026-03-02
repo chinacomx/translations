@@ -11,5 +11,5 @@ title: Page 124
 
 (124) There were several booklets on the shelf. Bethune carefully took one out to examine. Lao Feng told him: “These were brought back from the district training class at the beginning of the year. They contain your writings on surgical dressing techniques and the thirteen-step disinfection method.” Seeing that his teaching materials were being shared and promoted throughout the base area, Bethune smiled with joy.
 
-{{< /columns >}}
+{{% /columns %}}
     

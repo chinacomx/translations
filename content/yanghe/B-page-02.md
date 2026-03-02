@@ -12,4 +12,4 @@ title: Page 02
 
 On the first day, Guoqing and some pals rode along in a cart to haul yellow earth from the fields. When his grandma found out, she brought him back home and said: “You’re still too young. Running around with the livestock can easily lead to danger. Why don’t you find something else to do?”
 
-{{< /columns >}}
+{{% /columns %}}

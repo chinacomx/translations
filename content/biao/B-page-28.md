@@ -12,4 +12,4 @@ title: Page 28
 
 Petka was shocked. He firmly held on to his trousers: "What should I do? The watch..." Fortunately, the health worker left the bathroom for a moment. He did not have much time to think, so he quickly took the watch out of his pocket and put it in his mouth.
 
-{{< /columns >}}
+{{% /columns %}}

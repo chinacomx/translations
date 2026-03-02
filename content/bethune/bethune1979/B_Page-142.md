@@ -11,5 +11,5 @@ title: Page 142
 
 (142) As Bethune insisted, the commander approved his request. At the break of dawn, Bethune, full of energy, led the medical team as they prepared to set off. Grandma Meng, Er Niu, and the villagers crowded around the medical team to bid farewell to Bethune.
 
-{{< /columns >}}
+{{% /columns %}}
     

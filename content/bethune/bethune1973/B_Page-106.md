@@ -11,5 +11,5 @@ title: Page 106
 
 (106) After twenty-eight days, Captain Xu was discharged from the hospital with his wounds healed. As he was leaving, Captain Xu was moved and firmly held Bethune’s hand: “Comrade Bethune, when I return to the front, I will definitely kill more enemies!” Bethune happily patted his shoulder and said: “Go now, lad. Fight bravely for the great cause!”
 
-{{< /columns >}}
+{{% /columns %}}
     

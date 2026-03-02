@@ -13,4 +13,4 @@ weight: 10
 
 To support Lei Feng, her only remaining child, the mother worked as a servant at the landlord’s home, Tang Sigunzi. During the day, she washed clothes and cooked; at night, she ground rice and flour.
 
-{{< /columns >}}
+{{% /columns %}}

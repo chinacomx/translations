@@ -13,4 +13,4 @@ weight: 36
 
 His classmates glanced at Lei Feng’s exam paper and exclaimed: “Wow, we thought there would be many mistakes, but there is only one small error!” 
 
-{{< /columns >}}
+{{% /columns %}}

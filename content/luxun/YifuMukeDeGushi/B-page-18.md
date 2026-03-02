@@ -12,4 +12,4 @@ title: Page 18
 
 Der junge Mann sah den entschlossenen Blick Lu Xuns, in ihm brodelte heißes Blut und innerlich sagte er zu ihm: „Werter Herr Lu Xun, ich werde Ihren Rat auf jeden Fall befolgen, zuversichtlich bleiben und genauso weiterleben!” Lu Xun wandte sich noch einmal an ihn und sagte: „Ich werde über alles, was du mir gerade erzählt hast, einen Artikel schreiben, und wenn er in China nicht erscheinen darf, dann eben im Ausland!“
 
-{{< /columns >}}
+{{% /columns %}}

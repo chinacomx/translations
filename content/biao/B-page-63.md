@@ -12,4 +12,4 @@ title: Page 63
 
 The days were passing faster and faster. In March, on the Paris Commune Memorial Day, all the kids went out to sweep the tombs at the martyrs' cemetery. On their way, they came across a drunkard. Everyone rudely pushed and pulled him back and forth and even threw snowballs at his face. Petka recognized that this drunkard was Kudeyar.
 
-{{< /columns >}}
+{{% /columns %}}

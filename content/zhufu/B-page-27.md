@@ -12,4 +12,4 @@ title: Page 27
 
 When there was no response, she went outside to look. All that could be seen were beans scattered all over the ground. Her Ah Mao was gone.
 
-{{< /columns >}}
+{{% /columns %}}

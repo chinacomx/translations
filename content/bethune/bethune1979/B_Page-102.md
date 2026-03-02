@@ -11,5 +11,5 @@ title: Page 102
 
 (102) Minister Yu sat down: “Doctor Bai, I also bring you good news. Haven’t you always wanted to go to central Hebei to see how the Eighth Route Army deals with the enemy on the plains? The commander has approved it.” Upon hearing this, Bethune exclaimed: “Hooray!” and lifted Er Niu up in joy.
 
-{{< /columns >}}
+{{% /columns %}}
     

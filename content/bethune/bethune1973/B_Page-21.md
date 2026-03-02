@@ -11,5 +11,5 @@ title: Page 021
 
 (21) The boats were about to depart. Due to the rough waves, the smaller vessel was deemed unsafe, and the comrades urged Bethune to board the larger one. But he refused to leave and said: “These medical supplies represent Chairman Mao’s care for the wounded on the Jin-Cha-Ji frontlines. I must stay with you.”
 
-{{< /columns >}}
+{{% /columns %}}
     

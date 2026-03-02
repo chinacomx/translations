@@ -12,4 +12,4 @@ title: Page 27
 
 When Niqiu heard this, he grabbed a tree branch and pulled himself up onto the curved old willow tree at the pond. Using his hand as a visor, he looked westwards and saw a dozen or so puppet soldiers walking along a small path towards him.
 
-{{< /columns >}}
+{{% /columns %}}

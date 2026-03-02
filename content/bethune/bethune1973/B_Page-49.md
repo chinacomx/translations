@@ -11,5 +11,5 @@ title: Page 049
 
 (49) “To the frontlines! Wherever there are wounded, that’s where we must go!” Inspired by Bethune, medical personnel across the military district organized mobile field units and rushed toward the battlefront.
 
-{{< /columns >}}
+{{% /columns %}}
     

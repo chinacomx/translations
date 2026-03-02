@@ -12,5 +12,5 @@ title: Page 126
 (126) Bethune looked at Lao Feng and asked: “Where is your family?” Lao Feng paused for a moment and replied in a low voice: “I have no family. He sacrificed himself! The Japanese military police...”
 Bethune replied quickly: “Oh, I’m sorry!”
 
-{{< /columns >}}
+{{% /columns %}}
     

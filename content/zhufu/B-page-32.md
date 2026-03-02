@@ -12,4 +12,4 @@ title: Page 32
 
 When autumn came, He Laoliu's older brother took over the house and threw her.
 
-{{< /columns >}}
+{{% /columns %}}

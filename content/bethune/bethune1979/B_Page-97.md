@@ -11,5 +11,5 @@ title: Page 097
 
 (97) Within a few days, the new medicine pack was completed. Excited, Secretary Tong exclaimed: “Wonderful! Dr. Bai has another invention to his name!” Bethune humbly replied: “I actually got the idea from the local villagers’ manure packs.” Everyone laughed with joy at his remark.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 41
 
 When the sky was full of stars, the bell rang. Petka fell into bed and slept till dawn. "Get up! Get up!" The director shook his shoulder. "The chief wants you to come." Petka panicked and could not get his feet into his trousers no matter how hard he tried.
 
-{{< /columns >}}
+{{% /columns %}}

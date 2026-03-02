@@ -12,4 +12,4 @@ title: Page 29
 
 The health worker came back. He carried Petka's clothes outside with pliers, then returned to give him a bath. Petka had not taken a bath in five years, so when he lay in the bathtub, it felt really comfortable. The health worker asked a stream of questions. But because Petka had the watch in his mouth, he could not say a word, he just nodded or shook his head.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 151
 
 (151) The gunfire grew closer, punctuated by the occasional deafening explosion of enemy grenade launchers. Bethune completed the surgery in just twenty-five minutes. As he removed his gloves to wash his hands, he suddenly let out a cry of alarm—he noticed a cut on his left middle finger.
 
-{{< /columns >}}
+{{% /columns %}}
     

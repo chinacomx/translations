@@ -11,5 +11,5 @@ title: Page 166
 
 (166) Secretary Tong asked: “What about the medicine we sent people to buy in Beiping and Tianjin?” Minister Yu shook his head: “We’ve already sent five or six groups, but the enemy’s blockade is very tight. It will take some time. I’ve gathered the best medicine from all the military districts. We must find a way...”
 
-{{< /columns >}}
+{{% /columns %}}
     

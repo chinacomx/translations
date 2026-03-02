@@ -11,5 +11,5 @@ title: Page 032
 
 (32) One day, the cook had slaughtered a chicken and prepared chicken soup for Bethune. Delighted at the sight, he exclaimed repeatedly, “Excellent! Excellent!” He didn’t so much as take a bite before he fetched two bowls from the kitchen and divided the soup into two.
 
-{{< /columns >}}
+{{% /columns %}}
     

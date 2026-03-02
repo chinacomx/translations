@@ -15,4 +15,4 @@ title: Page 20
 
 Without another word, Petka turned around and ran. He seemed to have grown wings, he turned around the corner and his heart was about to jump out of his chest. Where should he go? He did not know himself.
 
-{{< /columns >}}
+{{% /columns %}}

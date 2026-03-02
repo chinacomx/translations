@@ -12,4 +12,4 @@ title: Page 11
 
 Die Ausstellung wurde eröffnet und der junge Mann suchte den gesamten Veranstaltungsort ab, konnte sein Lu Xun Porträt aber nicht finden. Er fragte den Ausstellungsleiter danach, dieser das Bild holte aus einer Schublade und erzählte ihm von der niederträchtigen Aktion der Inspekteure der Reaktionäre der Guomindang. Er sagte mitfühlend: „Du musst wissen, das ist Feuer, glühend heißes Feuer!“
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 31
 
 (31) As soon as Cheng Hai sat down, Ji Xiaobei’s mother turned her eyes towards him. Ji Guodong adjusted his glasses and said: “This master is here to talk about Xiaobei’s situation.”
 
-{{< /columns >}}
+{{% /columns %}}
     

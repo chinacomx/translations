@@ -11,5 +11,5 @@ title: Page 016
 
 (16) After Bethune finished his meal, Xiao Shao pursed his lips, picked up the leftover chicken bones, and carried them back to the kitchen. When the cook, Lao Zhang, saw him, he asked anxiously: “Did Doctor Bai enjoy the meal?” Xiao Shao snapped: “He enjoyed it! Thanks to you, I had to sit through that really awkward meal. He’ll eat whatever you eat! Or, just boil some yam and add a pinch of salt.”
 
-{{< /columns >}}
+{{% /columns %}}
     

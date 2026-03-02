@@ -11,5 +11,5 @@ title: Page 125
 
 (125) After emerging from the tunnel, Bethune quietly asked Lao Feng: “Did you study medicine?” Lao Feng replied: “I studied for a year at Hebei Medical College. Because of the war, I didn’t finish my studies.”
 
-{{< /columns >}}
+{{% /columns %}}
     

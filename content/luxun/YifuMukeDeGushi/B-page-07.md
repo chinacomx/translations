@@ -12,4 +12,4 @@ title: Page 07
 
 Im Jahr 1932, als der junge Mann gerade erst achtzehn Jahre alt gewesen war, hatte er unter dem Einfluss von Lu Xuns Initiative für den revolutionären Holzschnitt mit einigen anderen jungen Leuten eine Gesellschaft für auf die Beine gestellt. Einmal hatte er das Porträt eines ausländischen Schriftstellers geschnitzt, was von einem Spitzel entdeckt wurde. Er und zwei weitere junge Leute waren daraufhin festgenommen worden.
 
-{{< /columns >}}
+{{% /columns %}}

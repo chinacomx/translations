@@ -11,5 +11,5 @@ title: Page 129
 
 (129) Approaching the frontline, Bethune came across the wounded who was just being carried away. Bethune rushed forward and gloomily he reproached himself again and again: “Too late! I’m too late!”
 
-{{< /columns >}}
+{{% /columns %}}
     

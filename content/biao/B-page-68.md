@@ -12,4 +12,4 @@ title: Page 68
 
 Should Petka run away as he had planned? No, of course not! Now he did not want to leave this place. So, what should he do with the watch? Throw it away? That was quite stupid, the best option was to give it back to Kudeyar, but where could he find him? Petka hid this detestable watch in his clothes, his heart heavy.
 
-{{< /columns >}}
+{{% /columns %}}

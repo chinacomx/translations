@@ -12,4 +12,4 @@ title: Page 24
 
 Before long, they arrived at the reformatory. The building of the reformatory had a green roof and white walls. The windows had curtains and there was a yard. On the right side of the fence, there was a heavy gate. Petka sighed. He thought: "This reformatory is like a prison, who can escape from here?"
 
-{{< /columns >}}
+{{% /columns %}}

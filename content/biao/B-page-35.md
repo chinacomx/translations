@@ -12,4 +12,4 @@ title: Page 35
 
 Where did the watch go? Petka secretly peeped towards the bathtub. The water in the bathtub had already drained away, there was only a washcloth left. The health worker threw the plug back into the bathtub and was about to take the washcloth. Petka thought: "Too bad! The watch must be under the towel." He had a sudden idea and screamed: "Ouch! My stomach is aching!"
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,4 +11,4 @@ title: Page 03
 
 Während sie sich unterhielten, trat ein junger Verkäufer von Busfahrkarten mit gelber Uniformmütze auf dem Kopf herein. Der junge Mann warf Lu Xun und dem Ladenbesitzer einen kurzen Blick zu, bevor er anfing, sich die Bücher in den Regalen anzuschauen. Plötzlich sprang ihm der Name „Lu Xun" von einigen Buchrücken ins Auge. Sofort zog er ein Buch heraus und fing an, ungeduldig darin zu blättern.
 
-{{< /columns >}}
+{{% /columns %}}

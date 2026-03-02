@@ -12,4 +12,4 @@ title: Page 02
 
 Von Chinesen betriebene Buchhandlungen durften Lu Xuns Werke nicht verkaufen, so dass er den Vertrieb seiner Bücher einer von einem Ausländer geführten Buchhandlung anvertraute, um die Wahrheit der Revolution mit allen Mitteln unter den Massen der Arbeiter und Bauern zu verbreiten. Lu Xun sagte zu Uchiyama Kanzō: „Die Guomindang erlaubt es Buchhandlungen nicht, das von mir übersetzte Werk *Die Neunzehn* zu verkaufen, doch *Die Neunzehn* lässt sich nicht verbieten."
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 72
 
 Pyatakov started laughing: "But I did get 16 pieces of lumber that night, and sold that to a black-market handler..." he hit Petka on the forehead and staggered away.
 
-{{< /columns >}}
+{{% /columns %}}

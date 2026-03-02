@@ -11,5 +11,5 @@ title: Page 030
 
 (30) Overwhelmed with emotion upon reading Mao’s message, he immediately wrote a long heartfelt letter to Chairman Mao. He reported on his work in detail and proposed redirecting his stipend to fund nutritional care for the wounded.
 
-{{< /columns >}}
+{{% /columns %}}
     

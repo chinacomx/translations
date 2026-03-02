@@ -13,4 +13,4 @@ weight: 25
 
 The landlord class was defeated, and Lei Feng was smiling day and night. Someone asked him, “Child, what makes you so happy?” He replied, “Now we have the Party, and we won’t be bullied anymore. Why wouldn’t I smile? I even wake up smiling!”
 
-{{< /columns >}}
+{{% /columns %}}

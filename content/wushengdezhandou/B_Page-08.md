@@ -15,5 +15,5 @@ title: Page 08
 
 // Work safety (label on Cheng Hai’s jacket) //
 
-{{< /columns >}}
+{{% /columns %}}
     

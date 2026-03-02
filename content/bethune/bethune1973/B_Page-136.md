@@ -11,5 +11,5 @@ title: Page 136
 
 (136) The villagers and soldiers crowded in front of the door, finally saw Bethune, whom they had been thinking of day and night, and saw his skinny, bruised arm. With heavy hearts, they begged the doctors to do whatever it would take to cure Bethune’s illness.
 
-{{< /columns >}}
+{{% /columns %}}
     

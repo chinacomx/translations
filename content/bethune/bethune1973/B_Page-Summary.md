@@ -12,5 +12,5 @@ weight: 3
 
 [Summary] Comrade Norman Bethune, a member of the Communist Party of Canada, was a great internationalist fighter. In the spring of 1938, he traveled thousands of miles to China to aid in the Anti-Japanese War. In Yan’an, the great leader Chairman Mao received him warmly and inspired him profoundly. Soon after, he ventured deep into the Jin-Cha-Ji border region, a guerrilla base behind enemy lines, where he diligently studied Marxism-Leninism and the works of Chairman Mao. Adapting to the conditions of guerrilla warfare, he established a “Special Surgical Hospital” and organized “Mobile Medical Units,” saving the lives of countless Eighth Route Army soldiers while training a new generation of medical personnel. His contributions to the Chinese revolution were extraordinary. In November 1939, Bethune contracted a fatal infection while treating wounded soldiers and sacrificed his precious life. The great leader Chairman Mao wrote the celebrated essay “In Memory of Norman Bethune”, calling on us to learn from Norman Bethune. We must take the great internationalist fighter Norman Bethune as our model and strive to make greater contributions to humanity.
 
-{{< /columns >}}
+{{% /columns %}}
     

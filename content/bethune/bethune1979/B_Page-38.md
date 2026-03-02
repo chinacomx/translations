@@ -11,5 +11,5 @@ title: Page 038
 
 (38) When he had finished his rounds in the ward, he noticed a candlelight in the room where the trainees were sleeping. He walked over and tapped on the window.
 
-{{< /columns >}}
+{{% /columns %}}
     

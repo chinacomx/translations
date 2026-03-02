@@ -20,4 +20,4 @@ title: Frontmatter 01
 
 After Xianglin's wife lost her husband early in life, she comes to the Lu household as a servant. Later on, her mother-in-law forces her to remarry. Soon after, her second husband dies of illness, and her son is eaten by a wolf. She has no choice but to return to the Lu household. Mr. Lu loathes that she lost two husbands. He declares that she is tainted and would exert a bad moral influence. She also blames her own bad fate. After listening to Auntie Liu advice, she donates a threshold to the Temple of the Village God to atone for her sins, but people continue to despise her. She ages (prematurely) and becomes slow-witted. In the end, she is thrown out by the Lu family, turns into a beggar, and dies.
 
-{{< /columns >}}
+{{% /columns %}}

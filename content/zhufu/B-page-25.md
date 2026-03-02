@@ -12,4 +12,4 @@ title: Page 25
 
 One day in the following spring, Xianglin's wife opened the door early in the morning, scooped a basketful of beans into a small basket, and called Ah Mao to sit at the threshold and shell beans.
 
-{{< /columns >}}
+{{% /columns %}}

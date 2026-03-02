@@ -11,5 +11,5 @@ title: Page 160
 
 (160) “Why?” Bethune murmured to himself as he looked at his bandaged finger: “Just for this?” Just as he was about to turn his horse around, a sudden dizziness overcame him, and he fell off the horse.
 
-{{< /columns >}}
+{{% /columns %}}
     

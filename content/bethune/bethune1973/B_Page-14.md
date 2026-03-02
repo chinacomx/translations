@@ -11,5 +11,5 @@ title: Page 014
 
 (14) The happy moment had arrived. That night, the great leader Chairman Mao received Comrade Bethune cordially. It was already midnight, and the messenger sat on a stone bench at the doorway, gazing at the light in the cave where Chairman Mao lived, sharing Bethune's happiness.
 
-{{< /columns >}}
+{{% /columns %}}
     

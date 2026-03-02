@@ -11,5 +11,5 @@ title: Page 81
 
 (81) Secretary Zhao invited Cheng Hai to his office and asked him in detail about his experiences before the liberation. He then inquired about what his daughter was wearing when she was lost in front of the temple housing the village, and if she had anything else on her... Cheng Hai recalled: “No clothes, just wrapped in a few rags, with a ‘pawn ticket’ tucked on her body... Oh, why are you asking about this?”
 
-{{< /columns >}}
+{{% /columns %}}
     

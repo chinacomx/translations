@@ -11,5 +11,5 @@ title: Page 053
 
 (53) The training program concluded, and the trainees, carrying their backpacks, bid farewell to Bethune and Minister Yu. Fang Zhaoyuan approached Bethune, who took a letter from his pocket and handed it to him, speaking solemnly: “Please deliver this to Brigade Commander Wang. It’s my self-criticism.” With that, he embraced Fang Zhaoyuan tightly.
 
-{{< /columns >}}
+{{% /columns %}}
     

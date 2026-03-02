@@ -12,4 +12,4 @@ title: Page 02
 
 In the summer of 1942, Japanese invaders, spies, and puppet soldiers were stationed on the west side of the Luan River and often came out to take captive civilians and steal their things. Everyone in the village detested these bastards. One day, the enemy arrived at the east side of the river to "punish" the locals. They robbed and ate all the ripe watermelons on the patch of Uncle Zhang, a military dependent. Before leaving, they even beat him up.
 
-{{< /columns >}}
+{{% /columns %}}

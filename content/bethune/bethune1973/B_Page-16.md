@@ -11,5 +11,5 @@ title: Page 016
 
 (16) Upon returning to his accommodation, Bethune was too excited to sleep. He was immersed in the happiness of his cordial conversation with Chairman Mao earlier. He thought about the Long March, the great journey of the Chinese revolution under Chairman Mao’s leadership, he thought about the world revolution… He opened his diary and wrote down this unforgettable meeting.
 
-{{< /columns >}}
+{{% /columns %}}
     

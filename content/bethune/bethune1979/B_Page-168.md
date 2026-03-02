@@ -11,5 +11,5 @@ title: Page 168
 
 (168) Bethune shook his head: “You know, Fang, this is septicemia—we have no medicine!” As he spoke, he suddenly propped himself up, his eyes burning with fury: “No, we had it—it was taken by Chiang Kai-shek!”
 
-{{< /columns >}}
+{{% /columns %}}
     

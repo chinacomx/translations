@@ -12,4 +12,4 @@ title: Page 15
 
 Petka was taken into the chief\'s office. "Hello, little pickpocket! When were you born?" The chief asked. "I don't know, but I am eleven years old." - "You seem to be my guest for the seventh time? My decision is to forgive you your youth and ignorance, and send you to the reformatory." Petka's head started to buzz.
 
-{{< /columns >}}
+{{% /columns %}}

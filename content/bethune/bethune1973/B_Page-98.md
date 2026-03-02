@@ -11,5 +11,5 @@ title: Page 098
 
 (98) After occupying the bridgehead, Captain Xu instantly forgot about his pain and led the assault platoon towards the enemy’s position at the cemetery in the southwest. The soldiers, pointing at his bleeding abdomen, were anxious: “Captain, you...” Captain Xu pressed down on his abdomen and replied casually: “That’s just a minor injury, it’s nothing!” And then he rushed forward again.
 
-{{< /columns >}}
+{{% /columns %}}
     

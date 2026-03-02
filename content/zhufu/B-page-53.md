@@ -12,4 +12,4 @@ title: Page 53
 
 This time, there was a huge change in her. The next day, her eyes were sunken down, her spirit further wasted away, and she became very timid, like a mouse wandering out of its hole in daytime; on other occasions she sat blankly, like a puppet.
 
-{{< /columns >}}
+{{% /columns %}}

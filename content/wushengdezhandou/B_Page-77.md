@@ -11,5 +11,5 @@ title: Page 77
 
 (77) “On the eve of the liberation, you were found by a reconnaissance squad of the People’s Liberation Army. Since I was injured and stayed at the local for medical treatment, the organization entrusted you half-dead to me.”
 
-{{< /columns >}}
+{{% /columns %}}
     

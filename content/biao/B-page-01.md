@@ -12,4 +12,4 @@ title: Page 01
 
 Petka was confused about the things he had done. He walked around the marketplace thinking about all sorts of things. He was frustrated and sad. He was terribly hungry and wanted to buy something to eat, but he did not have any money in his pocket.
 
-{{< /columns >}}
+{{% /columns %}}

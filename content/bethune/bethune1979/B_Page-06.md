@@ -11,5 +11,5 @@ title: Page 006
 
 (6) The sound of gongs and drums echoed through the village, and the crowd rushed out to welcome them. Minister Yu, from the Health Department of the Military Region, stepped forward and firmly shook Bethune’s hand: “Welcome, Doctor Bethune!” Bethune raised his hand and saluted: “Norman Bethune, leader of the Canadian medical team, reporting for duty.”
 
-{{< /columns >}}
+{{% /columns %}}
     

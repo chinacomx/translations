@@ -13,4 +13,4 @@ weight: 26
 
 When anyone pitied Lei Feng for being an orphan, he would always say: “I am not an orphan. The Party is my dear father and mother!”
 
-{{< /columns >}}
+{{% /columns %}}

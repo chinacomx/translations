@@ -11,5 +11,5 @@ title: Page 28
 
 (28) Cheng Hai temporarily let the man with the shabby cap go. He followed the boy from a distance until he figured out the boy’s address, then returned home.
 
-{{< /columns >}}
+{{% /columns %}}
     

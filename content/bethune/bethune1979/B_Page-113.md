@@ -11,5 +11,5 @@ title: Page 113
 
 (113) Bethune argued: “Didn’t you say there are doctors and nurses there? If they can go, why can’t I?” Fang Zhaoyuan replied: “They’re wearing civilian clothes, disguised as ordinary villagers.” Bethune spread his hands: “I can disguise myself, too!” Fang Zhaoyuan couldn’t help but laugh.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 103
 
 (103) In February 1939, Bethune crossed the enemy blockade and reached the Plains of Central Hebei. He inspected various medical units on the plain and participated in many major battles.
 
-{{< /columns >}}
+{{% /columns %}}
     

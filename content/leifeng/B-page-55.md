@@ -13,4 +13,4 @@ weight: 58
 
 One day after school, Lei Feng and a classmate were walking home when they saw a rice field that had been harvested carelessly, and grain stalks were scattered all over the ground. On seeing this, Lei Feng and his classmate started gathering them.
 
-{{< /columns >}}
+{{% /columns %}}
