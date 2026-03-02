@@ -3,7 +3,7 @@ title: Page 012
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_015.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （12）门帘一掀，进来一个穿着整齐制服的小鬼。他把饭菜放到桌上，向白求恩敬个礼道：“白大夫，向你报到，我是派来招呼你的小鬼。”“小鬼？”白求恩叨念着，不理解这两字的含义。
 

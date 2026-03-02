@@ -4,7 +4,7 @@ title: Page 19
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0024_019.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 拉出轿来，贺老六的哥哥和祥林嫂的小叔子使劲的擒住她，也还拜不成天地。
 

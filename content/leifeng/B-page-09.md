@@ -5,7 +5,7 @@ weight: 12
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0013_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 8 穷人心连心，好心的六叔奶奶把雷锋收养下来。乡亲们也这家帮一口，那家帮一顿，雷锋总算活下来了。
 

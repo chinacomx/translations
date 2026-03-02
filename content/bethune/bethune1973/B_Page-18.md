@@ -3,7 +3,7 @@ title: Page 018
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_022.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (18）白求恩写好日记，满腔喜悦，推开门，只见一轮红日从东方喷薄升起。
 

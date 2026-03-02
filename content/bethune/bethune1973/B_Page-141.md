@@ -3,7 +3,7 @@ title: Page 141
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_145.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （141）医生含着热泪告诉他，一切都已安排，请他安心休息。白求恩脸上露出安详的微笑，他再次抬起头，向着身旁的中国战友，坚定地说：“努力吧！向着伟大的路，开辟前面的事业！”
 

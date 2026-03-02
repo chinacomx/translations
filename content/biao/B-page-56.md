@@ -4,7 +4,7 @@ title: Page 56
 
 ![biao page](/images/biao/seifert0726_biao_0060_056.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 可是，他来到院长办公室，却又失掉了勇气。院长问他有什么事，他只说是来向院长借画书的。院长见他喜欢读书了，很高兴，就拿给他许多书。
 

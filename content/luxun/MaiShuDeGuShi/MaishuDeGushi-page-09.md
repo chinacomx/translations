@@ -4,7 +4,7 @@ title: Page 09
 
 ![luxun front](/images/luxun/MaiShuDeGuShi/10-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 鲁迅温和地问道：“一元钱你有没有？一元钱？”青年回答一声：“有！”不觉抬起头来看着鲁迅热情的眼光。
 

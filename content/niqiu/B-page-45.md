@@ -4,7 +4,7 @@ title: Page 45
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0049_045.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 特务醒过来了，他在地上直打滚。泥鳅命令他：“不准动！”特务一见是个孩子，就假装求饶说：“老弟，放开我吧！”
 

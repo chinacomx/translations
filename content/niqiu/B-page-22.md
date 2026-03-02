@@ -4,7 +4,7 @@ title: Page 22
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0026_022.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 打了一阵，泥鳅使了个空城计，他悄悄地把头从瓜皮里退出来，一个猛子扎到大苇塘里，掏水鸟蛋去了，他的小伙伴们还向瓜皮上扔泥呢。
 

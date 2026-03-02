@@ -3,7 +3,7 @@ title: Page 042
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_046.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （42）在白求恩精心护理下，短时间内使大批伤病员迅速恢复健康，重返抗日前线，有力地支援了前线战斗。
 

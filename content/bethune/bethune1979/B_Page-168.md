@@ -3,7 +3,7 @@ title: Page 168
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_171.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （168）白求恩摇摇头：“你知道的，方，这是败血病，我们没有药！”说着，他忽又支起身子，眼里燃烧着愤怒的火焰说：“不，我们有的，是给蒋介石拿去了！”
 

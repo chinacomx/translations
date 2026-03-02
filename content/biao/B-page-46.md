@@ -4,7 +4,7 @@ title: Page 46
 
 ![biao page](/images/biao/seifert0726_biao_0050_046.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 忽然，库兑耶尔从后面追了上来，扑倒在他的脚上：“求求你，还我表吧！我的女人在生病，孩子在挨饿。看上帝面上，还给我！”
 

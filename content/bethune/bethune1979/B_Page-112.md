@@ -3,7 +3,7 @@ title: Page 112
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_115.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （112）白求恩把手一挥，象要把不快的事都扫除似地，说：“现在谈我们的事，我要去大王庄检查工作。”方兆元耐心地向他解释：“我不是不让你去大王庄，因为那里离敌人太近了。”
 

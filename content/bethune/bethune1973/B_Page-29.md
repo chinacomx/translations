@@ -3,7 +3,7 @@ title: Page 029
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （29）一天，毛主席给军区首长拍来一份电报，指示军区每月给白求恩一百元生活津贴费，并同意任命白求恩为军区卫生顾问，对他的意见和能力表示完全信任。翻译兴高采烈地告诉白求恩。
 

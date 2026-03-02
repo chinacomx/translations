@@ -4,7 +4,7 @@ title: Page 18
 
 ![biao page](/images/biao/seifert0726_biao_0023_018.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 他们穿过热闹的市场，彼蒂加只有一个念头：跑掉！他的心思被警察看透了：“想溜掉吗？那就跑吧！”可他却一本正经的说：“我才不跑呢！即使打死我，我也不跑。”
 

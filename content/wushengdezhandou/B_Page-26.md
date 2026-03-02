@@ -3,7 +3,7 @@ title: Page 26
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_029.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (26)这时，程海又发现了那个收旧货、戴旧便帽的人。男孩走到他身边，把打火机一甩，说：“这只老爷打火机，我不要了。”那人干笑了两声，从衣袋里掏出一个小纸盒：“这是新的，给你。”
 

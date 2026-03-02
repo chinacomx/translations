@@ -3,7 +3,7 @@ title: Page 50
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_053.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (50)正在这时，小贝、小汤和另一个青工拥了进来。“看！”小贝举着一把锈迹斑斑的活络扳手，说：“戴旧便帽的人叫我今晚到一家厂后面的临时库房去偷马达，偷到后给我十元……”
 

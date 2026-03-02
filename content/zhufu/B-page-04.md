@@ -4,7 +4,7 @@ title: Page 04
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0009_004.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 试工期内，祥林嫂整天的做，似乎闲着就无聊，她又有力，简直抵得过一个男子，所以第三天就定局，每月钱五百文。
 

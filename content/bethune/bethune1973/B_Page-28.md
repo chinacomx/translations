@@ -3,7 +3,7 @@ title: Page 028
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_032.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （28）会后，白求恩兴致勃勃地带领大家参观这所医院。医院分设手术室、内外科室、换药室……井井有条。医院的每一项设施都凝结着白求恩同志的血汗。
 

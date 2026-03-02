@@ -4,7 +4,7 @@ title: Page 78
 
 ![biao page](/images/biao/seifert0726_biao_0082_078.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 他从衣袋里掏出那只表，用发抖的手把它挂在表链上，递给娜塔莎说：“给你！”然后，飞快地跑走，消失在喧闹的人群中了。
 

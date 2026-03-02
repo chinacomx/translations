@@ -3,7 +3,7 @@ title: Page 63
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_066.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (63)妻子没有找到活，没有借到粮，拖着沉重的脚步回来了。她抱起女儿，止不住辛酸的泪水。“挺住吧，天快亮了。”程海吃力地说，“毛主席共产党的队伍就要来了。”
 

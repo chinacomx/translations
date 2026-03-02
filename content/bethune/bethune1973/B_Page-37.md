@@ -3,7 +3,7 @@ title: Page 037
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_041.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （37）一天深夜，有个伤员翻身，不小心翻了排尿罐，被子弄脏了。护士在给其他伤员换药，没注意。恰在这时，白求恩提着灯查病房，发现那个伤员的被子脏了。
 

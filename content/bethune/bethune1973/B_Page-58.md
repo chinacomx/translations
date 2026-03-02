@@ -3,7 +3,7 @@ title: Page 058
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_062.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （58）村外响起了战士们的欢呼声，白求恩向前看，只见数百名日寇瑟缩着被押往后方；八路军战士截断敌人补给线，运回大批缴获的武器。白求恩疲倦的脸上露出胜利的欢笑。
 

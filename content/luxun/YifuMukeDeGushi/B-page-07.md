@@ -4,7 +4,7 @@ title: Page 07
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/8-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 在反动派的法庭上，伪法官气势汹汹地指着他刻的文学家肖像喝问：“这是谁？”他回答：“一个文学家。”法官嚎叫起来：“这明明是红军的军官，你还想赖？”于是，他被判了两年六个月的徒刑。
 

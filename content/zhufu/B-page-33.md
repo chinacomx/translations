@@ -4,7 +4,7 @@ title: Page 33
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0038_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 祥林嫂走投无路，只好拎了一只荸荠式的圆篮，一个小铺盖，又到鲁镇来找卫老婆子。
 

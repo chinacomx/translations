@@ -3,7 +3,7 @@ title: Frontmatter-preface
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_003.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 【内容提要】退休老工人程海看到一个小学生嘴上叼着香烟，他通过仔细观察，发现是一个戴旧便帽的人在引诱这个学生。于是，他依靠厂的党组织，跟学校的卓老师密切配合，终于把腐蚀青少年的那个戴旧便帽的坏家伙揪了出来。而这个坏家伙正是解放前迫害程海一家的国民党特务分子。故事告诉我们，千万不要忘记阶级和阶级斗争。
 

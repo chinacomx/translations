@@ -4,7 +4,7 @@ title: Page 34
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0039_034.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 卫老婆子又将她带来鲁四老爷家里来了。四太太踌踌了一会，便叫祥林嫂拿圆篮和铺盖到下房去。四老爷照例皱皱眉，但鉴于向来雇用女工之难，也就并不大反对。
 

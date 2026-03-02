@@ -4,7 +4,7 @@ title: Page 17
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0021_017.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 一个机灵的孩子停住了，喊道：“别追了，这西瓜有 \'鬼\'，这是引咱们往深水里去，好淹死我们。”孩子们都害怕了，不敢再追。
 

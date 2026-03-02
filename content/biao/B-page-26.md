@@ -4,7 +4,7 @@ title: Page 26
 
 ![biao page](/images/biao/seifert0726_biao_0030_026.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 院长一边翻看着警察局的公文，一边对彼蒂加说：“哦，小偷？这干不得！你这小，再边几年就能成为一个有用的人了……现在我们首先得整理你的外表。”
 

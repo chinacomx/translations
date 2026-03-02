@@ -3,7 +3,7 @@ title: Page 069
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_072.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （69）白求恩的血液注射进徐连长的血管里，徐连长那蜡黄色的脸上逐渐有了血色，慢慢地睁开了眼。护士小贾兴奋地喊：“白大夫，他活了！他……” 激动得哭了起来。
 

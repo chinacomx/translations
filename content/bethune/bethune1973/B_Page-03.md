@@ -3,7 +3,7 @@ title: Page 003
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_007.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （3）在万恶的资本主义社会里，白求恩目睹劳动人民贫病交迫，悲惨死亡。他怀着拯救劳动人民的强烈愿望，发奋学医，刻苦钻研，成为欧美闻名的胸外科专家。
 

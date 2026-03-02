@@ -5,7 +5,7 @@ weight: 53
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0054_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 46 做完作业，雷锋又去帮助国华做饭、砍柴、打猪草。国华感动地说：“我一定向你学习，做一个好队员！”
 

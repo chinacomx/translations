@@ -3,7 +3,7 @@ title: Page 061
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_065.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （61）为了培养医务人材，白求恩举办“特种外科实习周”轮训各军分区卫生干部。膝盖当书桌，树荫作课堂，白求恩按照实战需要，亲自讲解打针、包扎、施手术等各种外科技术。
 

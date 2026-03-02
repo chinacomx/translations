@@ -3,7 +3,7 @@ title: Page 122
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_125.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （122）老冯领白求恩来到外间，拉开楼梯下的小门，露出一条只有一人多宽的地道。白求恩走下地道，开玩笑似地问：“这是什么地方？天方夜谭，阿里巴巴与四十大盗的山洞？”
 

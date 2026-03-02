@@ -4,7 +4,7 @@ title: Page 01
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/2-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 鲁迅十分重视新兴木刻，认为这是“新的，年轻的，前进的”艺术，“为革命所需要”。他组织“朝花社”，介绍外国革命木刻，又主持木刻讲习会，亲自担任翻译，请外国友人传授木刻技艺。
 

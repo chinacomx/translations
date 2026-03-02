@@ -4,7 +4,7 @@ title: Page 10
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/11-page-00001.jpg) 
 
-{{< columns >}}
+{{% columns %}}
 
 夜幕徐徐降临了，鲁迅这才和大家告别。青年们望着鲁迅渐渐远去的瘦弱身影，不禁想起他“横眉冷对千夫指，俯首甘为孺子牛”的著名诗句，想起他几十年的战斗历程。他们的眼眶湿润了。
  

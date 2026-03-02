@@ -3,7 +3,7 @@ title: Page 20
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_023.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (20)老伴安慰着说：“戴旧便帽的好找，他有时来这里收旧货。”“他是收旧货的吗？”程海警觉起来，“他怎么会这么大方……这里有鬼。”他想了一下，端起饭碗吃完就往外走。
 

@@ -3,7 +3,7 @@ title: Page 130
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_133.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （130）麻药就剩下这么一点了，贾护士迟疑了一下。伤员喘息着说：“白大夫！把麻药留给别的同志，我……能行。”白求恩拭把汗，坚持说：“不，把麻药全拿来！”
 

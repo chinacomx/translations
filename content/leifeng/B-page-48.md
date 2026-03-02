@@ -5,7 +5,7 @@ weight: 51
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0052_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 44 雷锋听了，就象自己遇到困难一样，立刻对他说：“你不用着急，我一定帮你学好功课！”几句话说得国华心里热呼呼的。
 

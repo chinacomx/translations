@@ -3,7 +3,7 @@ title: Page 128
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_131.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （128）“我回答他说，我就是要了解一下，为什么这样的军队，能够当法西斯在全世界横行无忌的时候，给了它当头一棒……我想，今天已经找到了答案……这是我的国土！这是我的人民！“
 

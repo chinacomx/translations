@@ -4,7 +4,7 @@ title: Page 31
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0035_031.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 一会儿，便衣队特务和两个伪军来到西瓜地里，满地里找西瓜，也没找到一个熟的，他们气的把瓜秧全给拔了，生西瓜蛋踢得满地乱滚。
 

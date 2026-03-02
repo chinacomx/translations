@@ -3,7 +3,7 @@ title: Page 060
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_063.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （60）敌人重机枪象泼雨般扫射过来。徐连长正接近时，忽觉得肚子上象给谁用劲打了一拳，踉跄一步，跌倒在地。
 

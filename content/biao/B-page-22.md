@@ -4,7 +4,7 @@ title: Page 22
 
 ![biao page](/images/biao/seifert0726_biao_0026_022.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 他循着原路回去找，可连表的影子也没看到。快到“米兰”茶馆时，他的眼睛突然一亮，马路上躺着装着表的袋子，他弯腰拾起袋子，哈! 表还在呢!
 

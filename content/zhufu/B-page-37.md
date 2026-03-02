@@ -4,7 +4,7 @@ title: Page 37
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0042_037.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 她只好缩了手，又去取烛台，四太太慌忙地说：“祥林嫂，你放着罢！我来拿。”
 

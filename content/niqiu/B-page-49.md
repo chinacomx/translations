@@ -4,7 +4,7 @@ title: Page 49
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0053_049.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 忽然，泥鳅听见特务在一块石头上磨绳子，走近一看，苇绳快被特务挣断了。
 

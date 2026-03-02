@@ -3,7 +3,7 @@ title: Page 33
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_036.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (33)卓红和蔼地说：“我们是有责任。可教育好孩子，还要靠学校、家庭、社会都配合起来。比如放学以后，孩子干些什么……”程海接着说：“小贝抽烟你们知不知道？”
 

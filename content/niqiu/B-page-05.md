@@ -4,7 +4,7 @@ title: Page 05
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0009_005.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 瓜地和村子隔着半里路宽的一个大水坑,坑里长着芦苇。泥鳅是穷人家的孩子，从小就学会了干活。他的水量很大，自从接受了看瓜的任务后，他每天都游水过去，照料西瓜。
 

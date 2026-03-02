@@ -5,7 +5,7 @@ weight: 8
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0009_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 4 老板一脚把哥哥踢出厂门。妈妈没钱给哥哥治病，在爸爸死去的第二年，哥哥也死了。
 

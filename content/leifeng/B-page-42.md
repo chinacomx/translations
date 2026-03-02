@@ -5,7 +5,7 @@ weight: 45
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0046_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 38 雷锋又主动帮助那个同学，要他遵守纪律；后来那个同学在上课时也不再乱说话了。同学们都喜欢雷锋，称赞他是个优秀的少先队员。
 

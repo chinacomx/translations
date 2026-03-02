@@ -3,7 +3,7 @@ title: Page 103
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_106.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （103）一九三九年二月，白求恩通过敌人封锁线，到达冀中平原。他检查了平原各医疗单位，参加了很多重大战役。
 

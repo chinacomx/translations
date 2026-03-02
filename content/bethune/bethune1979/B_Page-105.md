@@ -3,7 +3,7 @@ title: Page 105
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_108.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （105）白求恩把信和报纸塞进衣袋，又继续检查担架上的伤员。他才检查了四个轻伤员，护士就准备跟着担架走了。白求恩问：“还有呢？”护士说：“昨夜都送去了大王庄，是方政委安排的。”
 

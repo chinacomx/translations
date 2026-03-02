@@ -5,7 +5,7 @@ weight: 34
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0035_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 28 雷锋的功课一向很好，但他从不满足。有一次考历史，他对着发回的考卷发呆。有些同学见了，就小声议论起来：“雷锋这次准是考的不好！”
 

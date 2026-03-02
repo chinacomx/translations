@@ -5,7 +5,7 @@ weight: 57
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0058_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 49 雷锋一心爱社，他看见社里的农具丢在田里，赶快拾起来送回去；看见田埂有了缺口，立刻把它堵上。
 

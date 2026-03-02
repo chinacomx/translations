@@ -3,7 +3,7 @@ title: Page 084
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_088.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （84）“毛主席万岁！毛主席万岁！”群众的欢呼声震天动地。老大娘凝视着白求恩随风微动的几丝银发，眼里饱含着激动的泪花。
 

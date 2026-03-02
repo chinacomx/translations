@@ -3,7 +3,7 @@ title: Page 34
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_037.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (34)“抽烟？”纪国栋惊问着，看了看小贝妈妈。小贝妈妈“哟”了一声，不相信地说：“你看见啦？你是他们学校里的？你别认错人了！”
 

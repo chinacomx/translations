@@ -3,7 +3,7 @@ title: Page 050
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_053.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （50）白求恩停住步，茫然地问：“他自学成了一个医生？”于部长点点头：“是的，完全靠艰苦的摸索，看人家动手术，然后学着做。为了能跟你多学点东西，他现在又在努力学英文。”
 

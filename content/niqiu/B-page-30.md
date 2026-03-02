@@ -4,7 +4,7 @@ title: Page 30
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0034_030.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 那位老乡见劝不动他，只好走了。泥鳅抓住一条树枝一悠，“扑通”一声，就扎到水里，把西瓜皮又套到了头上，站在没脖儿深的水里。
 

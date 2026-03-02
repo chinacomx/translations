@@ -3,7 +3,7 @@ title: Page 35
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_038.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (35)程海诚恳而严肃地说：“我是个共产党员，有一说一，有二说二。我们要对下一代负责，发现问题不谈，就是对革命不负责任。”小贝妈妈面红耳赤，纪国栋埋怨道：“你呀，对孩子太娇惯了……”
 

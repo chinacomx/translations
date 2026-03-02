@@ -4,7 +4,7 @@ title: Page 18
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0023_018.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 祥林嫂不依，她婆婆就叫小儿子把她用绳子一捆，塞在花轿里。祥林嫂一路只是嚎，骂，花轿抬到贺家墺，她喉咙已经全哑了。
 

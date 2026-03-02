@@ -5,7 +5,7 @@ weight: 50
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0051_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 43 他把自己的苦恼告诉了雷锋。原来国华的妈妈和哥哥都病了，他要做饭、砍柴、打猪草……这些事耽误了他的学习。他觉得作为一个少先队员，应该学习得更好才对。
 

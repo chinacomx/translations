@@ -3,7 +3,7 @@ title: Page 087
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_090.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （87）鬼子军官见山顶上一个孩子，弓着腰象野兔般正往前窜，便向上一指，嚎叫着，指挥鬼子兵朝小虎方向追去。
 

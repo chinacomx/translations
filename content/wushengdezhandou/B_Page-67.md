@@ -3,7 +3,7 @@ title: Page 67
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_070.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (67)狗地主从车上爬下来，对赶车的吼叫着：“快，快搬上去拴好！”箱子实在太重，赶车人好不容易才移动一点。狗地主东张西望，看到坐在庙前的妇女，叫道：“喂！快来抬箱子！”
 

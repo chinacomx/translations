@@ -3,7 +3,7 @@ title: Page 156
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_159.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （156）方兆元回来时，白求恩已做完手术。白求恩说：“方，你来晚了。希望不大，但应该试试。”方兆元劝他说：“白大夫，你应该休息。”白求恩舒了口气：“好，现在可以休息、睡觉。”
 

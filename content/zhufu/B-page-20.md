@@ -4,7 +4,7 @@ title: Page 20
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0025_020.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 他们一不小心，一松手，祥林嫂就一头撞在香案角上，头上碰了一个大窟窿，鲜血直流，用了两把香灰,包上两块红布还止不住血。
 

@@ -4,7 +4,7 @@ title: Page 19
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/20-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 青年走后，鲁迅的心情久久不能平静。窗外一片漆黑，夜已深了。他提笔疾书。他要向全世界披露中国历史上最黑暗的一页，告诉人们中国的革命者正在这黑暗里浴血奋斗。于是，一篇犀利的杂文《写于深夜里》在斗争中诞生了。
 

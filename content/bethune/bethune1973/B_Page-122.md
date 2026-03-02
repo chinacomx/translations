@@ -3,7 +3,7 @@ title: Page 122
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_126.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （122）村口响起爆豆似的重机枪声，白求恩镇静地给伤员取出弹片，抬上担架，才迅速地从侧面高山转移。紧接着日寇先头部队就窜进了撤退一空的孙家庄。
 

@@ -5,7 +5,7 @@ weight: 22
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0023_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 17 在斗争地主的大会上，雷锋和小伙伴们组织起来进行宣传工作，他们齐声唱着揭露地主罪恶的快板。
 

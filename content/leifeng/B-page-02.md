@@ -5,7 +5,7 @@ weight: 5
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0006_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 1 雷锋出生在抗日战争年代。那时日本帝国主义践踏着我们的祖国，他们勾结国民党反动派和汉奸到处为非作歹，广大劳动人民在血泪里过日子。
 

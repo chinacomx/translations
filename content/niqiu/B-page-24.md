@@ -4,7 +4,7 @@ title: Page 24
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0028_024.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 泥鳅正在苇塘里掏水鸟蛋，离坑沿远，耳朵眼里又塞着秫秸芯，没有听见喊声。等他出了苇塘一看，哟！人都哪儿去了呢？水坑里只有那个西瓜皮还漂在水面上。
 

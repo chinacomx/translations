@@ -3,7 +3,7 @@ title: Page 09
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_012.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (9)“跟他家长谈谈嘛！”程海认真地说，“我们小时候想读书还读不上呢。”卓红急切地说：“是呀，这些同学都还小，如果我们放松警惕，资产阶级就会腐蚀他们……”
 

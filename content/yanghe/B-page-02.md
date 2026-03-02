@@ -4,7 +4,7 @@ title: Page 02
 
 ![yanghe page](/images/yanghe/yanghebianshang_004.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 第一天，他和几个小伙伴跟车到地里拉黄土。姥姥知道了，把国青拉回家里说：“你的年纪小，跟着牲口乱跑，容易出危险。找别的事儿干吧。”
 

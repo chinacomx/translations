@@ -3,7 +3,7 @@ title: Page 107
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_110.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （107）白求恩没有被说服，还想说什么，童秘书来催促：“快走吧，队伍已经出发了。”白求恩虎着脸对方兆元说：“好吧，现在执行你的命令，但是我有意见！”他气咻咻地走向枣红马。
 

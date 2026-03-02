@@ -3,7 +3,7 @@ title: Page 086
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_089.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （86）小虎奔上一大段路，回头看看，鬼子兵还在朝担架撤退方向跑，便灵机一动，往山下推下一块大石头，吸引鬼子的注意。
 

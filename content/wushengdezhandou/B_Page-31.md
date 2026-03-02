@@ -3,7 +3,7 @@ title: Page 31
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_034.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (31)程海一坐下，小贝妈妈的眼光一下子停留在程海身上，纪国栋扶了扶眼镜架，说：“这个师傅是来谈小贝情况的。”
 

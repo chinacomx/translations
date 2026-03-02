@@ -3,7 +3,7 @@ title: Page 087
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_091.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （87）日寇装甲巡逻车过后，白求恩和医疗队的同志们迅速越过铁路，前面冀中军分区已派出游击小队来迎接他们。
 

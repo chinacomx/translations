@@ -3,7 +3,7 @@ title: Page 021
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_024.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （21）“是我！”医院主任方兆元不安地站出来回答。白求恩狠狠看了方兆元一眼，气呼呼地说：“你——也是医生？由于你的糟糕技术，我们必须马上做手术，锯掉这个战士的腿。”
 

@@ -3,7 +3,7 @@ title: Page 82
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_085.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (82)老赵还没有回答，“哗”的一声门被推开了。在外听了一阵的卓红，手里拿着那张发黄了的“当票”，含着喜悦的泪花，飞快地冲进来，对着程海喊了一声“爸爸！”
 

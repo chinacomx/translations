@@ -3,7 +3,7 @@ title: Page 092
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_095.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （92）夜晚，白求恩和于部长、童秘书睡在孟奶奶家。白求恩痛苦地抱住头，喃喃自语：“我真糊涂。我应该想到，这个战斗没有前方后方！”又凝神思索：“我们应该怎么工作？”
 

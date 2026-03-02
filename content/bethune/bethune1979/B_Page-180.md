@@ -3,7 +3,7 @@ title: Page 180
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_183.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （180）“请转告毛泽东同志，并给加拿大党组织一封信告诉他们，我在这里十分快乐…… 我唯一的希望是能多作些贡献……”
 

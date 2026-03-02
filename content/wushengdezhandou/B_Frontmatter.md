@@ -3,7 +3,7 @@ title: Frontmatter
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_002.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 无声的战斗
 原著火笛

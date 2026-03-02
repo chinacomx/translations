@@ -3,7 +3,7 @@ title: Page 091
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_094.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （91）几天后，白求恩、于部长和童秘书来到松岩口被烧毁的医院门前。白求恩看着同志们花了多少心血建成的模范医院成为一片废墟，心象被撕裂一样地难受！
 

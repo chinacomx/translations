@@ -3,7 +3,7 @@ title: Page 019
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_023.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (19）白求恩知道伤员在前线，立即要求到前方去。春天的延安，晴空万里，白求恩身穿八路军灰色军装，骑着棕色高头大马，精神抖擞地奔赴晋察冀敌后抗日游击根据地。
 

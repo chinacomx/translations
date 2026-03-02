@@ -5,7 +5,7 @@ weight: 18
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0019_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 13 新中国成立了，广大劳动人民成了国家的主人。雷锋得到了党和政府的亲切关怀，苦日子结束了。
 

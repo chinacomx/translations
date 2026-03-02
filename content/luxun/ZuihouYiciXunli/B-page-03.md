@@ -4,7 +4,7 @@ title: Page 03
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/4-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 鲁迅踏进会场，整个会场顿时轰动起来。一群木刻青年立刻围上来，热烈地向他问候，关切地询问他的健康状况。鲁迅坦率地回答：“不好，不好，今年九个月中，足足大病了六个月。”说着，又是一阵咳嗽，脸色很苍白。
 

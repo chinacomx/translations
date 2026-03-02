@@ -3,7 +3,7 @@ title: Page 43
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_046.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (43) 近来程海和小贝交上朋友后，他发觉小贝很勤奋，有一个长大了驾驶飞机，保卫祖国的理想。程海就有意识地给他看一些反映解放军英雄的战斗故事书，还叫小汤做了一架大的滑翔飞机，校内校外都对他引导。
 

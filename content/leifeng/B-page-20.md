@@ -5,7 +5,7 @@ weight: 23
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0024_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 18 过去砍过雷锋三刀的地主婆受到人民的清算和斗争了。千仇万恨涌上雷锋的心头，他喊道：“你认识我不？今天共产党来了，我要报仇！”
 

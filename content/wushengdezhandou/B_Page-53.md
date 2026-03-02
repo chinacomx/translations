@@ -3,7 +3,7 @@ title: Page 53
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_056.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (53)一会儿，小贝爬了出来。戴旧便帽的人嘶哑的声音问：“螺丝松了？”“松了，东西搬到地上了。”“拿去，拴好。”小贝拿着长绳的一头，又不见了。
 

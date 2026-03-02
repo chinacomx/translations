@@ -3,7 +3,7 @@ title: Page 13
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_016.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (13)这突然而来的举动，使男孩退了两步，他嗫嚅着说：“你……你……你管得着吗？” “这样小就抽烟，象话吗？”程海说着往前跨了一步，男孩见苗头不对，拔腿飞快地跑了。
 

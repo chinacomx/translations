@@ -3,7 +3,7 @@ title: Page 089
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_092.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （89）一个鬼子兵赶上来，举枪射击。小虎中弹，踉跄一下，跌倒在地。
 

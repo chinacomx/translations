@@ -4,7 +4,7 @@ title: Page 51
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0056_051.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 她像是受了炮烙似的缩了手，脸色同时变作灰黑，也不再去取烛台，只是失神的站着。
 

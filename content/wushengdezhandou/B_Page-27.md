@@ -3,7 +3,7 @@ title: Page 27
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_030.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (27)那人继续说：“我这个人最讲义气，要抽烟，尽管说，嘴上一叼，多神气……”站在一旁的程海听了，只觉得血直往脸上涌，他恨不能一把抓住这个坏家伙。但他忍住了：这是一场争夺下一代的战斗啊！
 

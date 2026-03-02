@@ -3,7 +3,7 @@ title: Page 063
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_066.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （63）徐连长打死了敌军官，我军迅速夺下山岗子，重新封锁住豁口。敌军残余只好缩头往回窜。徐连长正欲继续指挥，猛觉一阵剧痛，昏了过去。
 

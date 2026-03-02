@@ -3,7 +3,7 @@ title: Page 30
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (30)小贝的父亲纪国栋从房里走出来，卓红把程海介绍给他。程海热情地同他握手说：“我主要想把你孩子的情况向你们谈一谈，便于教育。”纪国栋把程海和卓红请进了屋。
 

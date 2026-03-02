@@ -4,7 +4,7 @@ title: Page 01
 
 ![yanghe page](/images/yanghe/yanghebianshang_003.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 放暑假了，四年级学生赵国青，从城里去洋河岸边姥姥家。当天，他写了一封信告诉爸爸，他一定听妈妈的话，在农村好好劳动锻炼，接受贫下中农再教育，长大了要象爸爸一样，当一名保卫祖国海岸线的解放军！
 

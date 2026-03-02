@@ -3,7 +3,7 @@ title: Page 015
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_019.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （15）深夜两点多钟，白求恩从毛主席那里回来。他一看到通讯员，奔过去一下将他抱住，激动地说：“光荣！光荣！中国人民有了毛泽东就是光荣！幸福！幸福！中国人民有了毛泽东就是幸福！”
 

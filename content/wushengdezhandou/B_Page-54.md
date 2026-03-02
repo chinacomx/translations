@@ -3,7 +3,7 @@ title: Page 54
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_057.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (54)片刻，小贝在里面把绳子扯了三下。那人在外面开始拉动了，拉拉停停，终于拉出了一台小型电动机。他迅速解开绳子，用旧衣服盖住电动机，吃力地抱到停在远处黑影里的一辆自行车上。
 

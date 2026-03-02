@@ -3,7 +3,7 @@ title: Page 61
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_064.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (61)可是，穷凶极恶的狗地主不准程海一家在村内立脚，他们只得寄身在一个山洞里。山岗上，秋风瑟瑟，山洞里，遍体鳞伤的程海身边，躺着唯一的不满周岁的女儿。
 

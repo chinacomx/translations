@@ -4,7 +4,7 @@ title: Page 49
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0054_049.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 回来的时候，她神气舒畅，眼光也分外有神，高兴似的对四太太说，她已经在土地庙捐了门槛了。
 

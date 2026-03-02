@@ -3,7 +3,7 @@ title: Page 022
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_025.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （22）于部长告诉白求恩，他的手术器械还没有到。白求恩急于要看看这里的医疗设备。方兆元把他带到一只大蒸笼前，里面蒸着满满的敷料和器械。
 

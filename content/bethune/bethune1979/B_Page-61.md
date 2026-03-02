@@ -3,7 +3,7 @@ title: Page 061
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_064.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （61）敌人的重机枪又继续猛烈射击。徐连长一咬牙，站起身来，扔出一颗手榴弹，把敌重机枪手炸死。
 

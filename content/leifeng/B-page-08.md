@@ -5,7 +5,7 @@ weight: 11
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0012_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 7 可怜的妈妈受尽了剥削和欺压，还遭到地主的凌辱。她被逼上吊死了。这时雷锋还不满七岁，这么小的孤儿怎么生活呀？
 

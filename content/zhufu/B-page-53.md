@@ -4,7 +4,7 @@ title: Page 53
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0058_053.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 这一回她的变化非常大，第二天，不但眼睛凹陷下去，连精神也更不济了，而且很胆怯，有如在白天出穴游行的小鼠；否则呆坐着简直是一个木偶人。
 

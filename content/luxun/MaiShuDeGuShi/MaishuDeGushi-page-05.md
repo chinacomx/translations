@@ -4,7 +4,7 @@ title: Page 05
 
 ![luxun front](/images/luxun/MaiShuDeGuShi/6-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 店主人走了过来。这个青年很有礼貌地问：“先生，这本书多少钱？”店主人接过书翻看了一下说：“一元四角。”青年伸手摸了摸衬衫的口袋，里面只剩一元钱了。他轻声说了一句：“对不起，我的钱不够。”
 

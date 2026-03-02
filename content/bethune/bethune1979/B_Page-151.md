@@ -3,7 +3,7 @@ title: Page 151
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_154.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （151）枪声越来越近，不时爆发出敌人掷弹筒的轰然巨响。白求恩仅用二十五分钟的时间做完手术。他脱下手套洗手，忽然惊叫一声，发现左手中指被划破。
 

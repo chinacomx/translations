@@ -3,7 +3,7 @@ title: Page 095
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_098.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （95）一天，医疗队经过崎岖山路，长途跋涉回到村里。白求恩卸下驮子上的药箱，见好些药瓶被砸碎，不同颜色的药粉混杂在一起，不禁皱起了眉头。
 

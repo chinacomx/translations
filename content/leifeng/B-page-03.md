@@ -5,7 +5,7 @@ weight: 6
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0007_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 2 雷锋的家在湖南省望城县安庆乡。雷锋五岁那年，他爸爸因遭日本侵略者和国民党反动派的毒打，不久病死了。妈妈望着年幼的雷锋和他的哥哥、弟弟，强忍着眼泪，决心活下去。
 

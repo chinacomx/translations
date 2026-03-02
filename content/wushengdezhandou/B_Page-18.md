@@ -3,7 +3,7 @@ title: Page 18
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_021.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (18)程海跑到马路对面，刚才那两个人已不在了。他四周看了一下，踱到窗口下，仰着头问老伴：“他们哪里去了？”老伴说：“没看清。”
 

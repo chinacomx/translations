@@ -3,7 +3,7 @@ title: Page 03
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_006.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (3)锻工房门口，小汤正在对一个年轻的女同志比划着说：“我们从来不叫师傅的真名，大伙都叫‘他锤子师傅’。有一次，我把一节料扔到废品堆，他知道了，用‘锤子’把我头脑中大手大脚的思想彻底锤掉才罢休……”
 

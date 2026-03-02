@@ -3,7 +3,7 @@ title: Page 039
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_043.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （39）白求恩硬要把自己的被子给盖上去，伤员握住白求恩的手，感动得说不出话来。医生、护士见白求恩为伤员送被，也纷纷把自己的被子抱来，不一会，病房里被子叠了一大堆。
 

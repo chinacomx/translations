@@ -4,7 +4,7 @@ title: Page 25
 
 ![biao page](/images/biao/seifert0726_biao_0029_025.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 警察叫开门，他们走进二楼去见院长。警察向院长要了收据，看了彼蒂加一眼：“孩子好好地在这儿生活吧！再见!”
 

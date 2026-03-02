@@ -4,7 +4,7 @@ title: Page 10
 
 ![biao page](/images/biao/seifert0726_biao_0014_010.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 那醉汉顿着脚，好像给枪剌着一样大叫着：“救命呀！强盗……”彼蒂加吓坏了，紧紧抓着那块表。忽然，他想出了一个好主意。
 

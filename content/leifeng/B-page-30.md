@@ -5,7 +5,7 @@ weight: 33
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0034_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 27 雷锋非常爱惜时间，从不浪费一分钟。他每次上山打柴，口袋里总是装着书，一到休息时间就拿出来读。
 

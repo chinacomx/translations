@@ -5,7 +5,7 @@ weight: 54
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0055_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 47 国华入队以后，进步很快，不久就成了一个优秀的少先队员。雷锋看着国华的进步，比自己进步还要高兴哩！
 

@@ -3,7 +3,7 @@ title: Page 047
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_050.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （47）三人沿河边走着，于部长慢慢地叙述起方兆元的故事来：“方很小的时候，父母就全死了。家里很穷，年老的祖母只好把他送到地主家放牛。
 

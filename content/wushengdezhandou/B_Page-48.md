@@ -3,7 +3,7 @@ title: Page 48
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_051.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (48)程妈妈生气地说：“干脆把那个家伙抓起来，省得害人。”“把几个坏人抓起来，天下就太平了？”程海不同意老伴的看法。卓红替程妈妈辩解：“她是怕小贝被坏人拉下水。”说得大家一齐笑了起来。
 

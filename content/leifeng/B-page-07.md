@@ -5,7 +5,7 @@ weight: 10
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0011_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 6 妈妈为了养活这唯一的孩子——雷锋，不得不到地主唐四滚子家当佣人。她白天洗衣做饭，夜里碾米磨面。
 

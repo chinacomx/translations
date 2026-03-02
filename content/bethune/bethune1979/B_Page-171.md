@@ -3,7 +3,7 @@ title: Page 171
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_174.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （171）老乡们听说白求恩病重，都拥到白求恩的住屋前，要求为白求恩输血。于部长劝说着乡亲们。屋里，传来白求恩打字机字键缓慢的“答答”声。
 

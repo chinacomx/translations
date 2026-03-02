@@ -4,7 +4,7 @@ title: Page 64
 
 ![biao page](/images/biao/seifert0726_biao_0068_064.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 库兑耶尔呻吟着、挣扎着、躲来躲去。彼蒂加忽然产生了同情心，于是跳出来，叫道：“喂，住手吧！”
 

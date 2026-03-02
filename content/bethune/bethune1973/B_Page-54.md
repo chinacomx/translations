@@ -3,7 +3,7 @@ title: Page 054
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_058.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （54）天明，我英勇作战的伤员来到黑寺手术室，白求恩全神贯注地投入战斗。一会，日寇调来四架飞机轰炸，突然一声巨响，炸弹在庙后四十米地方爆炸，庙的后墙被震塌了。
 

@@ -3,7 +3,7 @@ title: Page 070
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_073.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （70）就在这时，山谷里的敌人已被我军全部歼灭。八路军战士从四面八方跃出工事。满山遍谷，欢声雷动。
 

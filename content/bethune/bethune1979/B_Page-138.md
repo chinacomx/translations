@@ -3,7 +3,7 @@ title: Page 138
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_141.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （138）傍晚，村子里处处袅起炊烟。童秘书走近白求恩问：“想家吗？” 白求恩点头说：假如飞机顺利，我可以赶上和老母一起过圣诞节。……但是，我得赶快回来，我的孩子们等着麻药动手术！”
 

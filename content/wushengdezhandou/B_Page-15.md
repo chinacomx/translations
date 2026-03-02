@@ -3,7 +3,7 @@ title: Page 15
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_018.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (15)回到家，老伴端出热腾腾的饭菜，程海却立在窗口。老伴奇怪地问：“吃饭了，你还想啥呢？”程海思索着说：“有个学校要我去讲一下，我在想讲些什么。”老伴说：“忆苦思甜嘛。”
 

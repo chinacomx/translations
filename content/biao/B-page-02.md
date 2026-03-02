@@ -4,7 +4,7 @@ title: Page 02
 
 ![biao front](/images/biao/seifert0726_biao_0006_002.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 忽然，他看见一个女人在卖蛋饼，那蛋饼焦黄、松脆，还冒着热气。他馋得直流 口涎，于是走过去，拿起一个蛋饼，嗅了一嗅，塞在袋子里，转身走开了。
 

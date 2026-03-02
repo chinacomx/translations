@@ -4,7 +4,7 @@ title: Page 06
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0010_006.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 泥鳅到了地理，总是闲不住，不是打瓜蔓，就是剜地蚕，嘴里还喊着：“沙瓤的大西瓜，谁吃谁甜掉牙！”
 

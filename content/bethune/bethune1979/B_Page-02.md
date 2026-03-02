@@ -3,7 +3,7 @@ title: Page 002
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_005.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （2）白求恩同志，加拿大共产党员，著名外科医生。九三八年初，他为了帮助中国人民的抗日战争，远渡重洋，突破重重阻挠，到达延安。同年六月，又主动请求前往晋察冀抗日根据地。
 

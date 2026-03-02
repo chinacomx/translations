@@ -5,7 +5,7 @@ weight: 20
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0021_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 15 雷锋热爱解放军，他常要解放军叔叔讲故事给他听。雷锋有个打算：希望解放军叔叔收下他这个小兵，他要替穷人报仇！
 

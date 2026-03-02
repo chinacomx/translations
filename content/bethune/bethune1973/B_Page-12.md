@@ -3,7 +3,7 @@ title: Page 012
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_016.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （12）第二天清晨，白求恩正在认真学习马列主义和毛主席著作，通讯员兴高采烈地奔进来向他报告，今天晚上伟大领袖毛主席将接见他。
 

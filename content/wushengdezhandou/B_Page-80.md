@@ -3,7 +3,7 @@ title: Page 80
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_083.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (80)这里，程海和小贝妈妈在交谈。小贝妈妈脸红红的，她想说什么又没说出来，最后迸出一句话：“程师傅……我，还有老纪，都希望你经常到我们家来……”程海爽朗地答应了。
 

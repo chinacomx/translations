@@ -4,7 +4,7 @@ weight: 1
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_002.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 上海电影制片厂供稿
 连环画改编  吴文焕

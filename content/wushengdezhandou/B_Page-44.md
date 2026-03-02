@@ -3,7 +3,7 @@ title: Page 44
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_047.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (44)在程海和卓红的帮助下，小贝转变了。昨天，他对程海说出了戴旧便帽的人约他见面的事。程海问他为什么，小贝摇摇头：“不晓得，他只说不去就要我还他的东西，还要叫人打我。”
 

@@ -3,7 +3,7 @@ title: Page 024
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_027.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （24）方兆元坦率地告诉他：“我们只有这个。”白求恩紧皱眉头，勉强地说声：“消毒！”
 

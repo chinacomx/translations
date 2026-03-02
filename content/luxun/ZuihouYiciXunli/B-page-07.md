@@ -4,7 +4,7 @@ title: Page 07
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/8-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 接着，鲁迅把话题转到木刻上。他说：“创作，我是不会的，但介绍翻印之类，也还要干下去。”青年们清楚记得，鲁迅辛勤收集翻印了许多外国进步木刻画集，馈赠给他们。那一本本精美的木刻画集，浸透了鲁迅培育青年的多少心血！
 
