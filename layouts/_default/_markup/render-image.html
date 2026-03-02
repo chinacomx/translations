@@ -2,5 +2,6 @@
 {{- if $url.Scheme -}}
   <img src="{{ .Destination }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
 {{- else -}}
-  <img src="{{ .Destination | relURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
+  {{- $cleanPath := strings.TrimPrefix "/" .Destination -}}
+  <img src="{{ $cleanPath | relURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
 {{- end -}}
