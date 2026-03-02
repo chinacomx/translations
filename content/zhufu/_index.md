@@ -7,6 +7,9 @@ title: The New Year's Sacrifice 祝福 (1974)
 # The New Year's Sacrifice 祝福 (1974)
 
 Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, translated by Stefanie Gondorf, Lena Henningsen, Charlotte Kräker, Jingying Li, Ghost Tian, Beijing: Beijing renmin meishu chubanshe, 1974.[^1]
+___
+<p style="text-align: right;"><i>translation and introduction: 15 March 2022</i></p>
+
 
 ## Introduction to the text[^2]
 

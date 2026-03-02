@@ -7,6 +7,8 @@ title: The Silent Fight 无声的战斗 (1976)
 # The Silent Fight 无声的战斗 (1976)
 
 *The Silent Fight* 无声的战斗, illustrated by Wu Dacheng 吴大成, adapted from the work of Huo Miao 火苗, by Dong Yaogen 董耀根, translated by Haoran Xu, Lena Henningsen: Shanghai People’s Press, 1976. (No author or editor named).[^1]
+___
+<p style="text-align: right;"><i>translation and introduction: 15 November 2025</i></p>
 
 ## Introductory note
 

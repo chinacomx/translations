@@ -7,6 +7,8 @@ title: The Legend of Bing Conglin 冰聪林传奇 (2024)
 # The Legend of Bing Conglin 冰聪林传奇 (2024)
 
 *The Legend of Bing Conglin* 冰聪林传奇, written by Und1c1 and Super Crystal Monkey, illustrated by Super Crystal Monkey, translated by Jiu Song, _Xiaohongshu_, 2024.[^1]
+___
+<p style="text-align: right;"><i>translation and introduction: 1 March 2026</i></p>
 
 ## Introduction to the text
 
