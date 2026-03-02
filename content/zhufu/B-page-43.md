@@ -2,7 +2,7 @@
 title: Page 43
 ---
 
-![zhufu panel](./../../images/zhufu/seifert0772_zf_0048_043.jpg)
+![zhufu panel](/images/zhufu/seifert0772_zf_0048_043.jpg)
 
 {{< columns >}}
 

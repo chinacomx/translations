@@ -2,7 +2,7 @@
 title: Page 04
 ---
 
-![luxun front](../../../images/luxun/ZuihouYiciXunli/5-page-00001.jpg)
+![luxun front](/images/luxun/ZuihouYiciXunli/5-page-00001.jpg)
 
 {{< columns >}}
 

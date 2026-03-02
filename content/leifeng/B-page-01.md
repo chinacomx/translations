@@ -3,7 +3,7 @@ title: Chapter 01
 weight: 4
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0005_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0005_0.jpg)
 
 {{< columns >}}
 

@@ -3,7 +3,7 @@ title: Page 44
 weight: 51
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0052_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0052_0.jpg)
 
 {{< columns >}}
 

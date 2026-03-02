@@ -2,7 +2,7 @@
 title: Page 35
 ---
 
-![zhufu panel](./../../images/zhufu/seifert0772_zf_0040_035.jpg)
+![zhufu panel](/images/zhufu/seifert0772_zf_0040_035.jpg)
 
 {{< columns >}}
 

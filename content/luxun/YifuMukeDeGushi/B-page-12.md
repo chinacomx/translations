@@ -2,7 +2,7 @@
 title: Page 12
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/13-page-00001.jpg)
+![luxun front](/images/luxun/YifuMukeDeGushi/13-page-00001.jpg)
 
 {{< columns >}}
 

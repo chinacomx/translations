@@ -3,7 +3,7 @@ title: Page 18
 weight: 23
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0024_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0024_0.jpg)
 
 {{< columns >}}
 

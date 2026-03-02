@@ -1,7 +1,7 @@
 ---
 title: Page 030
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_034.jpg)
+![bethune1973 page](/images/bethune/bethune1973/bethune1973_034.jpg)
 
 {{< columns >}}
 

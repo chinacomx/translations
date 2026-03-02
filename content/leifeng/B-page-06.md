@@ -3,7 +3,7 @@ title: Page 05
 weight: 9
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0010_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0010_0.jpg)
 
 {{< columns >}}
 

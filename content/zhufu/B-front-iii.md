@@ -2,7 +2,7 @@
 title: Frontmatter 03
 ---
 
-![zhufu front](./../../images/zhufu/seifert0772_zf_0005_0.jpg)
+![zhufu front](/images/zhufu/seifert0772_zf_0005_0.jpg)
 
 {{< columns >}}
 

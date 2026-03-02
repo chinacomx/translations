@@ -2,7 +2,7 @@
 title: Page 08
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/9-page-00001.jpg)
+![luxun front](/images/luxun/YifuMukeDeGushi/9-page-00001.jpg)
 
 {{< columns >}}
 

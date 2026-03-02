@@ -2,7 +2,7 @@
 title: Page 46
 ---
 
-![zhufu panel](./../../images/zhufu/seifert0772_zf_0051_046.jpg)
+![zhufu panel](/images/zhufu/seifert0772_zf_0051_046.jpg)
 
 {{< columns >}}
 

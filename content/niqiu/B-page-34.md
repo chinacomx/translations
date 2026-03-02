@@ -2,7 +2,7 @@
 title: Page 34
 ---
 
-![niqiu page](./../../images/niqiu/seifert0397_nqkg_0038_034.jpg)
+![niqiu page](/images/niqiu/seifert0397_nqkg_0038_034.jpg)
 
 {{< columns >}}
 

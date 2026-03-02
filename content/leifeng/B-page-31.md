@@ -3,7 +3,7 @@ title: Page 28
 weight: 34
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0035_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0035_0.jpg)
 
 {{< columns >}}
 

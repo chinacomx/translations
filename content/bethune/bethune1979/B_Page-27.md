@@ -1,7 +1,7 @@
 ---
 title: Page 027
 ---
-![bethune1979 page](./../../../images/bethune/bethune1979/bethune1979_030.jpg)
+![bethune1979 page](/images/bethune/bethune1979/bethune1979_030.jpg)
 
 {{< columns >}}
 

@@ -2,7 +2,7 @@
 title: Page 08
 ---
 
-![zhufu panel](./../../images/zhufu/seifert0772_zf_0013_008.jpg)
+![zhufu panel](/images/zhufu/seifert0772_zf_0013_008.jpg)
 
 {{< columns >}}
 

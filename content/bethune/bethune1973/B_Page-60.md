@@ -1,7 +1,7 @@
 ---
 title: Page 060
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_064.jpg)
+![bethune1973 page](/images/bethune/bethune1973/bethune1973_064.jpg)
 
 {{< columns >}}
 
