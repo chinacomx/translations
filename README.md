@@ -93,24 +93,31 @@ Each file is then split into:
   - `B-frontmatter.md`
   - `B-page-XX.md`
 
-The basic template for a translation page is
+The basic template for a translation page has changed in recent hugo/markdown updates. The theme now no longer uses the `<--->` separator. Instead, the columns shortcode automatically transforms a standard Markdown list into columns (up to 3). 
+
+Here is how the template should look like now:
+
 
 ```md
 ---
 title: Page XX
 ---
 
-![biao front](./../../images/biao/seifert0726_biao_00ZZ_0XX.jpg)
+![biao front](/images/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
-{{< columns >}}
+{{% columns %}}
+- Left column content: source text in Chinese
+- Right column content: translation text
+{{% /columns %}}
 
-<!-- source -->
+```
 
-<--->
+You will also notice, that the way the template handles images now also changed from relative links to absolute links:
 
-<!-- translation -->
+```md
+old: ![alt text](./../../../images/bethune/bethune1973/bethune1973_006.jpg)
 
-{{< /columns >}}
+new: ![alt text](/images/bethune/bethune1973/bethune1973_006.jpg)
 ```
 
 Use regex to create the proper markup inside the full `newcomic.md` file.
@@ -144,7 +151,7 @@ static
 To include images in your markdown use:
 
 ```md
- ![biao cover](./../../../images/biao/seifert0726_biao_0001_0.jpg)
+ ![biao cover](/images/biao/seifert0726_biao_0001_0.jpg)
 ```
 
 ## Deployment
