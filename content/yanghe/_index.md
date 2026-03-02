@@ -26,7 +26,7 @@ Setting aside the propagandistic exhortation that surfaces in the final panel, t
 
 Nevertheless, in comparison with other Cultural Revolution-era _lianhuanhua_ that foreground struggle and revolution, _By the Yang River_ maintains a balance between political inscription and everyday narrative appeal. Put differently, even if one were to strip away its political elements, the work could still be read as a self-contained short story with a coherent plot and elegant prose. The adaptor preserves the concision and liveliness of Hao Ran’s language, particularly in the nuanced rendering of dialogue, interiority, and gesture, as well as in the depiction of the big water training drill scenes (panels [8](https://chinacomx.github.io/translations/yanghe/b-page-08/), [9](https://chinacomx.github.io/translations/yanghe/b-page-09/), and [10](https://chinacomx.github.io/translations/yanghe/b-page-10/)). The visual presentation of this watercolor-illustrated, full-color _lianhuanhua_ is exquisite. Its paper quality is conspicuously superior to the thin and fragile stock typical of most _lianhuanhua_ of that time: it is thick, durable, and capable of rendering saturated colors with clarity. More than half a century later, the copy preserved by ChinaComx shows only slight yellowing, while the colors remain vivid. This material endurance testifies to the fact that even during the (late) Cultural Revolution, when the cultural publishing industry suffered severe disruption, children’s books of high quality continued to be produced and circulated.
 
-Finally, for readers whose engagement with this _lianhuanhua_ has prompted a deeper interest in Hao Ran, _By the Yang River_, or more broadly in rural life and childhood in northern China during the second half of the twentieth century, and for those wishing to further develop their Chinese-language proficiency, the translator recommends consulting a 2021 essay by Liang Dongfang 梁东方 listed in the references below as it offers further information about the _lianhuanhua_’s adaptation and its historical context. It also explains why this work deserves sustained attention from the viewpoint of a contemporary Chinese editor.
+Finally, for readers whose engagement with this _lianhuanhua_ has prompted a deeper interest in Hao Ran, _By the Yang River_, or more broadly in rural life and childhood in northern China during the second half of the twentieth century, and for those wishing to further develop their Chinese-language proficiency, the translator recommends consulting a 2021 essay by Liang Dongfang 梁东方 listed in the references below, as it offers further information about the _lianhuanhua_’s adaptation and its historical context. It also explains why this work deserves sustained attention from the viewpoint of a contemporary Chinese editor.
 
 ## Explanations regarding translation
 
@@ -38,13 +38,13 @@ On the translation of __onomatopoeia__: Hao Ran’s original text makes extensiv
 
 ## Reference
 
-Hao, R. (1980). _Haoran ertong gushi xuan_ [Selected children’s stories by Haoran]. Beijing Chubanshe.
+Hao, R. (1980). _Haoran ertong gushi xuan_ [Selected children’s stories by Hao Ran]. Beijing Chubanshe.
 
 Huang, J. C. (1976). Haoran: The peasant novelist. _Modern China_, _2_(3), 369–396.
 
 King, R. (2013). _Milestones on a golden road: Writing for Chinese socialism, 1945–80_. University of British Columbia Press.
 
-Liang, D. 梁东方. _Yu Haoran youguan de ‘Yanghe Bian Shang’_ [The realted to Hao Ran "By the Yang River"].” 博览群书, 2 (2021), 58–61.
+Liang, D. (2021). _Yu Haoran youguan de ‘Yanghe bian shang’_ [The stories related to Hao Ran's "By the Yang River"].” _Bolanqunshu_, (2), 58–61.
 
 Mao, Z. (1957, March 12). _Zai Zhongguo gongchandang quanguo xuanchuan gongzuo huiyi shang de jianghua_ [Speech at the Chinese Communist Party’s National Conference on Propaganda Work]. Marxists Internet Archive. https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm
 
