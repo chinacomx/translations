@@ -7,6 +7,8 @@ title: By the Yang River 洋河边上 (1974)
 # By the Yang River 洋河边上 (1974)
 
 _By the Yang River_ 洋河边上, adapted by Zhi Yi 志一, illustrated by Ye Yongsen 叶永森, translated by Astrid Y. Xiao, Tianjin: Tianjin renmin meishu chubanshe, 1974.[^1]
+___
+<p style="text-align: right;"><i>translation and introduction: 1 February 2026</i></p>
 
 ## Introduction to the text
 

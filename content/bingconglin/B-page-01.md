@@ -2,14 +2,11 @@
 title: Page 01
 ---
 
-![bingconglin page](./../../images/bingconglin/bingconglin_02.jpg)
+![bingconglin page](/images/bingconglin/bingconglin_02.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
-冰聪林原是林仙君殿内一株忘忧神草。
+- 冰聪林原是林仙君殿内一株忘忧神草。
+- Bing Conglin was originally a Forget-Worry Divine Herb in the palace of the Immortal Lady Lin.
 
-<--->
-
-Bing Conglin was originally a Forget-Worry Divine Herb in the palace of the Immortal Lady Lin.
-
-{{< /columns >}}
+{{% /columns %}}

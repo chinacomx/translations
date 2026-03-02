@@ -6,6 +6,11 @@ title: Geschichten über Lu Xun und Junge Leute 鲁迅和青年的故事 (1976)
 
 # Geschichten über Lu Xun und Junge Leute: Lu Xun und die chinesische Holzschnitt Bewegung 鲁迅和青年的故事
 
+_Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事, adapted by Shi Zhongpei 史中培, gezeichnet von Ding Rongkui 丁荣魁, Huang Yinghao 黄英浩, Chen Yifei 陈逸飞, Wei Jingshan 魏景山, Han Wu 韩伍, Yan Guoji 严国基, Han Min 韩敏, Hu Keli 胡克礼, Fan Naiji 范乃集 und Sheng Zengxiang 盛增祥, übersetzt von Dominik Weihrauch, Johannes Nentwig, Carolina Franke, Carla Nikolaus, Shanghai: Shanghai renmin chubanshe, 1976.
+
+___
+<p style="text-align: right;"><i>translation and introduction: 21 February 2024</i></p>
+
 ## Zur Einführung
 
 Lena Henningsen 

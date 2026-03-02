@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'ChinaComx: Translations'
 theme = 'hugo-book'
 
+hasCJKLanguage = true
+
 # Book configuration
 enableGitInfo = true
 
@@ -19,6 +21,8 @@ enableGitInfo = true
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'auto'
+
+  BookSearchConfig = '{"encode": false, "tokenize": "forward"}'
 
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png
