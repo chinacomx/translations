@@ -120,6 +120,43 @@ old: ![alt text](./../../../images/bethune/bethune1973/bethune1973_006.jpg)
 new: ![alt text](/images/bethune/bethune1973/bethune1973_006.jpg)
 ```
 
+So, to sum up, here is an example page the way we would write it in the old format:
+
+```md
+---
+title: Page 04
+---
+
+![bingconglin page](./../../images/bingconglin/bingconglin_05.jpg)
+
+{{< columns >}}
+
+林仙君识冰聪林并非能委以重任之人，便只派冰聪林帮着宫女处理殿内闲杂事。
+
+<--->
+
+The Immortal Lady Lin recognized that Bing Conglin was not someone who could be entrusted with important duties, so she merely assigned her to assist the palace maids with trivial chores within the hall.
+
+{{< /columns >}}
+```
+
+And here it is the way it should look from now on:
+
+```md
+---
+title: Page 04
+---
+
+![bingconglin page](/images/bingconglin/bingconglin_05.jpg)
+
+{{% columns %}}
+
+- 林仙君识冰聪林并非能委以重任之人，便只派冰聪林帮着宫女处理殿内闲杂事。
+- The Immortal Lady Lin recognized that Bing Conglin was not someone who could be entrusted with important duties, so she merely assigned her to assist the palace maids with trivial chores within the hall.
+
+{{% /columns %}}
+```
+
 Use regex to create the proper markup inside the full `newcomic.md` file.
 
 To create empty template files:

@@ -2,14 +2,11 @@
 title: Page 19
 ---
 
-![bingconglin page](./../../images/bingconglin/bingconglin_20.jpg)
+![bingconglin page](/images/bingconglin/bingconglin_20.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
-冰母本是江北有名的侠女。
+- 冰母本是江北有名的侠女。
+- Madam Bing had once been a well-known female warrior in the Jiangbei area.
 
-<--->
-
-Madam Bing had once been a well-known female warrior in the Jiangbei area.
-
-{{< /columns >}}
+{{% /columns %}}
