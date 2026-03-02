@@ -2,7 +2,7 @@
 title: Page 58
 ---
 
-![biao page](./../../images/biao/seifert0726_biao_0062_058.jpg)
+![biao page](/images/biao/seifert0726_biao_0062_058.jpg)
 
 {{< columns >}}
 

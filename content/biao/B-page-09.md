@@ -2,7 +2,7 @@
 title: Page 09
 ---
 
- ![biao page](./../../images/biao/seifert0726_biao_0013_009.jpg)
+ ![biao page](/images/biao/seifert0726_biao_0013_009.jpg)
 
 {{< columns >}}
 

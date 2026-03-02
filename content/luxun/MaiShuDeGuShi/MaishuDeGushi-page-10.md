@@ -2,7 +2,7 @@
 title: Page 10
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/11-page-00001.jpg)
+![luxun front](/images/luxun/MaiShuDeGuShi/11-page-00001.jpg)
 
 {{< columns >}}
 

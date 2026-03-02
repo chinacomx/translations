@@ -2,7 +2,7 @@
 title: Page 07
 ---
 
-![luxun front](../../../images/luxun/MaiShuDeGuShi/8-page-00001.jpg)
+![luxun front](/images/luxun/MaiShuDeGuShi/8-page-00001.jpg)
 
 {{< columns >}}
 

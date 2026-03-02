@@ -3,7 +3,7 @@ title: Page 40
 weight: 47
 ---
 
-![leifeng page](./../../images/leifeng/seifert0522_lf_0048_0.jpg)
+![leifeng page](/images/leifeng/seifert0522_lf_0048_0.jpg)
 
 {{< columns >}}
 

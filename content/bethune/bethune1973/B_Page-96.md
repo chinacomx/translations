@@ -1,7 +1,7 @@
 ---
 title: Page 096
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_100.jpg)
+![bethune1973 page](/images/bethune/bethune1973/bethune1973_100.jpg)
 
 {{< columns >}}
 

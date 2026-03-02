@@ -2,7 +2,7 @@
 title: Quotation by Chairman Mao
 weight: 2
 ---
-![bethune1973 page](./../../../images/bethune/bethune1973/bethune1973_004.jpg)
+![bethune1973 page](/images/bethune/bethune1973/bethune1973_004.jpg)
 
 {{< columns >}}
 

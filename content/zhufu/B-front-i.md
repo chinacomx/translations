@@ -2,7 +2,7 @@
 title: Frontmatter 01
 ---
 
-![zhufu front](./../../images/zhufu/seifert0772_zf_0003_0.jpg)
+![zhufu front](/images/zhufu/seifert0772_zf_0003_0.jpg)
 
 ## Preface to the 1957 edition 
 

@@ -2,7 +2,7 @@
 title: Page 40
 ---
 
-![zhufu panel](./../../images/zhufu/seifert0772_zf_0045_040.jpg)
+![zhufu panel](/images/zhufu/seifert0772_zf_0045_040.jpg)
 
 {{< columns >}}
 

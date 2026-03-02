@@ -2,7 +2,7 @@
 title: Page 41
 ---
 
-![biao page](./../../images/biao/seifert0726_biao_0045_041.jpg)
+![biao page](/images/biao/seifert0726_biao_0045_041.jpg)
 
 {{< columns >}}
 

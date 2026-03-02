@@ -2,7 +2,7 @@
 title: Page 09
 ---
 
-![luxun front](../../../images/luxun/YifuMukeDeGushi/10-page-00001.jpg)
+![luxun front](/images/luxun/YifuMukeDeGushi/10-page-00001.jpg)
 
 {{< columns >}}
 

@@ -2,7 +2,7 @@
 title: Page 19
 ---
 
-![niqiu page](./../../images/niqiu/seifert0397_nqkg_0023_019.jpg)
+![niqiu page](/images/niqiu/seifert0397_nqkg_0023_019.jpg)
 
 {{< columns >}}
 
