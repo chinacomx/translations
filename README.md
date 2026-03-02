@@ -34,7 +34,7 @@ within the submodule we are on the `master` branch now.
 
 ## Building
 
-To Build a local dev version run:
+Once a new translation has been added (and with any other update to the website as well), we need to make sure that the site renders correctly. To do so, we first try it out in a local dev version build. This is done by opening the branch/repo in terminal and running:
 
 ```bash
 hugo server -D  
