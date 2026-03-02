@@ -2,7 +2,7 @@
 title: Page 10
 ---
 
-![bingconglin page](./../../images/bingconglin\bingconglin_11.jpg)
+![bingconglin page](./../../images/bingconglin/bingconglin_11.jpg)
 
 {{< columns >}}
 

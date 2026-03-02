@@ -2,7 +2,7 @@
 title: Page 18
 ---
 
-![bingconglin page](./../../images/bingconglin\bingconglin_19.jpg)
+![bingconglin page](./../../images/bingconglin/bingconglin_19.jpg)
 
 {{< columns >}}
 
