@@ -4,7 +4,7 @@ title: Page 04
 
 ![luxun front](/images/luxun/MaiShuDeGuShi/5-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 这就是鲁迅译的小说《毁灭》。鲁迅的著译，在那暗无天日的岁月里给了他多大的鼓舞啊！但是由于反动派的查禁，鲁迅的书越来越难买到了，今天在这里是意外发现。他按捺不住内心的喜悦，捧着这本书，舍不得放下。
 

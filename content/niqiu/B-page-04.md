@@ -4,7 +4,7 @@ title: Page 04
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0008_004.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 村干部研究了一下，决定委托儿童团看管瓜田。儿童团把这个任务交给了一个最勇敢而又有斗争经验的团员——泥鳅。
 

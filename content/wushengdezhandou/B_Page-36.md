@@ -3,7 +3,7 @@ title: Page 36
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_039.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (36)小贝妈妈不服地说：“我娇惯，你去忙你的事情吧，不要你多管闲事，有本事把自己的孩子管管好。”其实，这些话是冲着程海说的。卓红说：“一切革命同志都有关心下一代的责任，这是反修防修的大事，根本不是闲事。”
 

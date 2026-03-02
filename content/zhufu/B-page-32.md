@@ -4,7 +4,7 @@ title: Page 32
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0037_032.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 到秋天，贺老六的哥哥竟来收屋，把她赶了出来。
 

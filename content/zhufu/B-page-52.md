@@ -4,7 +4,7 @@ title: Page 52
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0057_052.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 直到四老爷上香的时候，叫她走开，她才走开。她疑惑的想：难道自己已经在土地庙捐了门槛，还不能赎了这一世的罪名么？……
 

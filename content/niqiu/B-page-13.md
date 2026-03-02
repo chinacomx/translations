@@ -4,7 +4,7 @@ title: Page 13
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0017_013.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 吃完瓜，泥鳅抱着掏空了的大西瓜皮，在西瓜皮上挖了两个小洞，把西瓜皮往头上一套，象个大头娃娃似的，扭搭起秧歌，到坑沿上去了。
 

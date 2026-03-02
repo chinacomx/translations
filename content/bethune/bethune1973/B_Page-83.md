@@ -3,7 +3,7 @@ title: Page 083
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_087.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （83）老大娘一家和全村被白求恩医治过的群众，敲锣打鼓，提着红枣、鸡蛋，前来答谢白求恩。白求恩婉言谢绝礼物，说：“不要感谢我，我是个八路军医生，你们应该感谢八路军，感谢毛主席！”
 

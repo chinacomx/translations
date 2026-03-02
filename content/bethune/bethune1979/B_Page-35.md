@@ -3,7 +3,7 @@ title: Page 035
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_038.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （35）于部长耐心地说：“他还不是一个高明的医生，我看是学得好的！”白求恩仍未被说服，勉强说：“好吧，如果组织决定……”
 

@@ -3,7 +3,7 @@ title: Page 075
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_079.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （75）就这样，加拿大优秀共产党员诺尔曼白求恩的三百毫升鲜血，通过注射器，徐徐地注入中国八路军伤员的血管里。
 

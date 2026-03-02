@@ -3,7 +3,7 @@ title: Page 013
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_017.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （13）白求恩要通讯员给他领一套军装来。他穿起崭新的八路军服装，轻轻抚摸戴在左胳膊上的“八路军”臂章，兴奋地跟通讯员说：“从今天起，我也是个八路军战士啦！”接着爽朗地大笑起来。
 

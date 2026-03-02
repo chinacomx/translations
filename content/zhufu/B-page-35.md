@@ -4,7 +4,7 @@ title: Page 35
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0040_035.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 四老爷只是暗暗告诫四太太说，祥林嫂这种人虽然似乎很可怜，但是败坏风俗，用她帮忙还可以，祭祀时候可用不着她沾手，否则，不干不净，祖宗不是吃的。
 

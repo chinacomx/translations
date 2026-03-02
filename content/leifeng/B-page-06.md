@@ -5,7 +5,7 @@ weight: 9
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0010_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 5 谁知雷锋的小弟弟又害了伤寒病，死在妈妈怀里。一连串的灾难，使妈妈伤心得连哭也哭不出来了。
 

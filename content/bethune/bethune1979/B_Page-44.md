@@ -3,7 +3,7 @@ title: Page 044
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_047.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （44）方兆元醒来，发现自己睡在病床上，白求恩手拿听诊器，正俯身看着他。方兆元挣扎一下，想坐起来。白求恩按住他，温和地说：“不许动，要休息，明白？”
 

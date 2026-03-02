@@ -4,7 +4,7 @@ title: Page 17
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0022_017.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 原来祥林嫂瞒着她婆婆出来做工, 她婆婆要给小儿子娶媳妇，不把她嫁了就没有钱做聘礼，所以把她许给了贺家墺的贺老六。祥林嫂回家之后，她婆婆就逼她上轿。
 

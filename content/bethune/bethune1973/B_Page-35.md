@@ -3,7 +3,7 @@ title: Page 035
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_039.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （35）隔天，伤病员黑板报专栏里，登出一篇动人的报道，标题是：“两碗鸡汤何足重，阶级友爱似海深。”一连几天，大家传颂着白求恩“毫不利己专门利人”的事迹。
 

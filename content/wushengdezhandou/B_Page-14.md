@@ -3,7 +3,7 @@ title: Page 14
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_017.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (14)“站住！”程海想同他好好谈谈，但男孩头也不回，右手按着屁股后边的书包，跑得没了影儿。“啊，是学生！”程海心中一震，“这是谁家的孩子呢？”
 

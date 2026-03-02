@@ -8,7 +8,7 @@ title: 1 Norman Bethune 白求恩(1973)
 
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 白求恩
 

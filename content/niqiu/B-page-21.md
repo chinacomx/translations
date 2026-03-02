@@ -4,7 +4,7 @@ title: Page 21
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0025_021.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 一群孩子对付泥鳅一个人，在水里打起水仗来。烂泥从四面八方向他扔来，打得西瓜皮咚咚直响，泥鳅转着圈儿迎击。
 

@@ -4,7 +4,7 @@ title: Page 10
 
 ![luxun front](/images/luxun/MaiShuDeGuShi/11-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 鲁迅把两本书交到青年手里：“给你，两本书一元钱。”青年接过书，几乎不相信自己的耳朵，他目不转睛地看着站在面前的这个慈祥的老人，猛然想起在杂志上见过的鲁迅照片，高兴得\[sic\]跳起来：“您，您就是……”
 

@@ -5,7 +5,7 @@ weight: 31
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0032_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 25 有一天，北风呼呼地叫着，外面飞着大雪。六叔奶奶劝他说：“孩子，莫去罗！天太冷，路太滑呀！……”
 

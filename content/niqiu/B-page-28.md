@@ -4,7 +4,7 @@ title: Page 28
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0032_028.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 那个老乡叫他快走，泥鳅看了看瓜地，咬了咬嘴唇说：“大叔你走吧，我还要看瓜！”那个老乡说：“看瓜？这可不是闹着玩的！上回那些坏蛋来，吃了瓜还把张大爷打了一顿。”
 

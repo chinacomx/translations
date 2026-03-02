@@ -3,7 +3,7 @@ title: Page 134
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_137.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （134）司令员赞同白求恩的计划，说：“那很好。白大夫的宣传将起很大的作用。白大夫这次回来身体差多了，我早就想让他休息一下。”
 

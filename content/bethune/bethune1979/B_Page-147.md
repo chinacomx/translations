@@ -3,7 +3,7 @@ title: Page 147
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_150.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （147）不一会，山谷里响起密集的重机枪声，警卫连已和敌人接触上了。小邵立刻将药箱装上驮子。
 

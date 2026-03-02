@@ -3,7 +3,7 @@ title: Page 153
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_156.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （153）翻过几座山，天已经黑了，医疗队躲在一个避风的石岩下烤火。白求恩左手中指红肿，已用纱布带吊起来。童秘书不安地问他：“是不是病了？”白求恩摇摇头：“不，有一点疲倦！”
 

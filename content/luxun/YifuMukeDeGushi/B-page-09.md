@@ -4,7 +4,7 @@ title: Page 09
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/10-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 一九三五年夏天，全国木刻联合会在上海举办展览会的时候，主持者向他征求作品。他怀着向反动派示威的心情，决定把这副木刻送去，“让那些吃人的人看看！”
 

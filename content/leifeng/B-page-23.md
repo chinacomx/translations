@@ -5,7 +5,7 @@ weight: 26
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0027_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 21 碰上谁说起雷锋是个孤儿，他总是说：“我不是孤儿，党就是我的亲爹娘啊！
 

@@ -4,7 +4,7 @@ title: Page 01
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0005_001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 抗日战争时期，河北省乐亭县靠滦河的东岸，有一个张家庄，是抗日根据地的边沿区。这个庄的抗日组织在共产党的领导下，按照毛主席的军事路线，积极开展抗日斗争。
 

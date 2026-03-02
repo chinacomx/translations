@@ -4,7 +4,7 @@ title: Page 08
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0012_008.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 村里帮着泥鳅把熟了的西瓜及时摘下来，拉到集上卖掉，用卖瓜的钱给张大爷买药、治病。
 

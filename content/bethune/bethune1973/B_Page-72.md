@@ -3,7 +3,7 @@ title: Page 072
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_076.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （72）赶回杨家庄，天已漆黑。白求恩顾不上休息，直奔手术室，只见那位伤员脸色苍白，神志不清，预计很难经得起这次手术，便果断地决定：“输血！”
 

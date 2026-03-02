@@ -3,7 +3,7 @@ title: Page 098
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_101.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （98）和煦的太阳，晒得大地暖洋洋的，医疗队又在山路上行进。小郡边走边哼起了一支歌：“我们都是神枪手，每一颗子弹消灭一个仇敌！我们都是飞行军，哪怕山高水又深……”
 

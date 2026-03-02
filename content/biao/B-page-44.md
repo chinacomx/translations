@@ -4,7 +4,7 @@ title: Page 44
 
 ![biao page](/images/biao/seifert0726_biao_0048_044.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 “他根本就没有表。他诬赖好人！”彼蒂加对局长说。局长教训了库兑耶尔一顿。库兑耶尔放声大哭。局长命令警察把彼蒂加送回教养院。
 

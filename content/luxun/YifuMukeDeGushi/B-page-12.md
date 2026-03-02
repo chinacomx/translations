@@ -4,7 +4,7 @@ title: Page 12
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/13-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 青年拿回了这幅被禁止展出的木刻，把它珍藏在箱子里。过了些时候，他打开箱子，忽然想到：为什么不把这幅木刻寄给鲁迅先生看看，把它的遭遇告诉鲁迅先生呢？于是他立即写了一封信，连同这幅木刻，一起寄给了鲁迅。
 

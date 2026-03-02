@@ -3,7 +3,7 @@ title: Page 056
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_059.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （56）白求恩问：“灵邱在哪里？”于部长告诉他：“离这里四百多里。”白求恩兴奋地叫起来：“出发！”又回头叮嘱于部长：“不要忘记方兆元。”
 

@@ -3,7 +3,7 @@ title: Page 16
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_019.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (16)程海缓慢地说：“是啊，我想讲讲我们那孩子……”一句话勾起了老伴辛酸的往事，她掏出手帕擦了擦眼角。程海想起刚才看到的情形，坚定地说：“现在的孩子生在新社会，泡在甜水里，不晓得过去是什么世道啊。”
 

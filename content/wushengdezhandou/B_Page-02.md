@@ -3,7 +3,7 @@ title: Page 02
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_005.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (2)今天，他进厂后听说徒弟小汤被批准加入共青团，心里有说不出的高兴，想着小汤的进步，不由得加快了步伐，准备找他说上几句。
 

@@ -4,7 +4,7 @@ title: Page 41
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0046_041.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 她就只是反复的向人说她悲惨的故事，倘一看见两三岁的小孩子，她就想引出她的阿毛的故事来，说：“唉唉！我们的阿毛如果还在，也就有这么大了。……”
 

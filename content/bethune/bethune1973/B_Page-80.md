@@ -3,7 +3,7 @@ title: Page 080
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_084.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （80）白求恩听后立刻赶到老大娘家。他对病人进行一番认真检查，肯定地说：“能治。”随即拿包药放在老大娘手里，又仔细嘱咐一番。
 

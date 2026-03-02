@@ -9,7 +9,7 @@ title: 3 Der letzte Besuch 最后一次巡礼
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/1-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 最后一次巡礼
 

@@ -5,7 +5,7 @@ weight: 58
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0059_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 50 有一天放学以后，雷锋和一个同学一起回家，看见一块稻田割得很粗糙，满地都是稻穗，雷锋就和那个同学一起拾起来。
 

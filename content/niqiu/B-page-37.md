@@ -4,7 +4,7 @@ title: Page 37
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0041_037.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 特务晃晃悠悠地蹚着水向西瓜走来，高兴得鼻子眼睛全挤在一块了。眼看就快要够到手了，突然“妈呀！”一声不见了。
 

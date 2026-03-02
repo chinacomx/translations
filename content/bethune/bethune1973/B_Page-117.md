@@ -3,7 +3,7 @@ title: Page 117
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_121.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （117）白求恩看看表，估计日寇从对面山上下来需要四十分钟时间，便果断地决定：“马上添一张手术台，争取用最短时间做完这十个手术！”
 

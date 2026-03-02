@@ -5,7 +5,7 @@ weight: 14
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0015_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 10 有一次雷锋砍柴回来，地主婆跑来硬说砍了她家的柴。她夺过雷锋的柴刀，凶狠地朝雷锋手背上砍了三刀，还骂道：“穷鬼，下回再来，砍断你的手！”
 

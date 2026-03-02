@@ -3,7 +3,7 @@ title: Page 128
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_132.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （128）领导和同志们的劝阻，都没有效果，白求恩抱病和医疗队在大风雪中出发了。山路很滑，非常难走，白求恩折根树枝撑着，艰难地向火线方向挺进。
 

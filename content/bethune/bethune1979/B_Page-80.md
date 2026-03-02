@@ -3,7 +3,7 @@ title: Page 080
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_083.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （80）“那是另外一个问题。”司令员挥挥手，又指着白求恩说：“还有，你不让自己得到充分休息，这是从于部长到炊事员都有意见呢！”白求恩笑笑说：“好吧，回到松岩口，我睡上三天三夜！”
 

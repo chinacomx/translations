@@ -4,7 +4,7 @@ title: Page 01
 
 ![biao front](/images/biao/seifert0726_biao_0005_001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 彼蒂加对做过的事情都糊涂得很。他在市场里到处走，什么都想过了。他又懊恼、又伤心。他饿得很，想买点儿吃的，可是口袋里一分钱也没有。
 

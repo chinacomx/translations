@@ -3,7 +3,7 @@ title: Page 56
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_059.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (56)那人想逃跑，几道雪白的光柱射得他睁不开眼。程海冷笑一声，说：“你也太讲‘义气’，太‘够朋友’了，叫小孩钻进去，发觉了你好跑脱？休想！”
 

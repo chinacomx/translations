@@ -3,7 +3,7 @@ title: Page 145
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_148.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （145）这时，手术室里的电话铃也响了，指挥部通知他们：王安镇敌人出动，命令医疗队马上转移。
 

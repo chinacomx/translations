@@ -3,7 +3,7 @@ title: Page 83
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_086.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (83)程海一惊，接过“当票”，明白了。他张开双臂把卓红紧紧搂在怀里……。老赵在一旁感动地笑着，不知说什么才好。
 

@@ -4,7 +4,7 @@ title: Page 02
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/3-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 十月八日，是“中华全国木刻第二回流动展览会”展出的最后一天。那天午后，鲁迅抱病赶去参观。他多年来呕心沥血培育的这株幼苗，在白色恐怖的威胁下，终于成长起来，并开出了一枝枝花朵，这怎能不使鲁迅高兴呢！
 

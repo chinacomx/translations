@@ -5,7 +5,7 @@ title: Frontmatter 02
 ![zhufu front](/images/zhufu/seifert0772_zf_0004_0.jpg)
 
 
-{{< columns >}}
+{{% columns %}}
 
 ## 前言
 

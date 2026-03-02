@@ -3,7 +3,7 @@ title: Page 038
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_041.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （38）查完病房，白求恩发现学员们睡的屋里有烛光，便走过去敲敲窗。
 

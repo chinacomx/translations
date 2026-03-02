@@ -3,7 +3,7 @@ title: Page 01
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_004.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (1)在通往锻工房的大道上，走着一位魁梧健壮的老工人，浓黑的眉毛下，闪动着一对机警的眼睛。这位程海师傅，退休快半年了，可三天两头总要到长年累月战斗过的锻工房去走一走，看一看，干一干。
 

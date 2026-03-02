@@ -8,7 +8,7 @@ title: Frontmatter 01
 
 (not shown above)
 
-{{< columns >}}
+{{% columns %}}
 
 ### 内容说明
 

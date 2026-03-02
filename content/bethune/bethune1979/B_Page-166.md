@@ -3,7 +3,7 @@ title: Page 166
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_169.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （166）童秘书问：“去北平、天津买的药怎么样？”于部长摇摇头：“我们已经派了五、六批人，可是敌人封锁很严。一时还来不了。我已把各军分区最好的药都弄来了。我们一定要想办法……”
 

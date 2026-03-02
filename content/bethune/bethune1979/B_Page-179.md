@@ -3,7 +3,7 @@ title: Page 179
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_182.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （179）说完，白求恩已经没有力气了，用手指指打字机上的信。童秘书把信纸抽出，大声念：“亲爱的司令员同志：今天我感觉十分不好，也许我会和你永别了！
 

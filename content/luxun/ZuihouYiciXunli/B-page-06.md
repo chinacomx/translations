@@ -4,7 +4,7 @@ title: Page 06
 
 ![luxun front](/images/luxun/ZuihouYiciXunli/7-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 大家再三请鲁迅休息，他才在一张藤椅上坐下。青年们见鲁迅脸色苍白，都劝他出国疗养。鲁迅微笑着回答：“我这种人是无法休养的。不写文章就不得过。与其不工作而多活几年，倒不如赶快工作而少活几年的好。”
 

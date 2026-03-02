@@ -3,7 +3,7 @@ title: Page 032
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_035.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （32）白求恩回到模范医院，方兆元亲切地叫声：“白大夫！”满怀希望地递上介绍信。白求恩一看是方兆元，迟疑一下说：“不，你回去！我写信给王旅长！”说完就顾自走了。
 

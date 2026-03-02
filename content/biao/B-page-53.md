@@ -4,7 +4,7 @@ title: Page 53
 
 ![biao page](/images/biao/seifert0726_biao_0057_053.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 第二天，彼蒂加得了严重的肺炎，整整昏睡了三个星期。
 

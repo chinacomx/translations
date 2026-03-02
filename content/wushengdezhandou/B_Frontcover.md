@@ -4,7 +4,7 @@ title: Front and back cover
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_001.jpg)
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_090.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 无声的战斗
 

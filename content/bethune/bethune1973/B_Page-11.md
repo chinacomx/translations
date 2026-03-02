@@ -3,7 +3,7 @@ title: Page 011
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_015.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （11）参观完医院，白求恩向翻译表达多年来的宿愿，非常激动地说：“请转告毛主席，我希望早一天见到他！”
 

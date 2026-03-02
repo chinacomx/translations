@@ -3,7 +3,7 @@ title: Page 169
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_172.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （169）于部长扶白求恩睡下，告诉他：“白大夫，不要激动，我们已经派专人到天津去想办法了！”白求恩摇摇头感激地说：“谢谢，可是怕来不及了！”
 

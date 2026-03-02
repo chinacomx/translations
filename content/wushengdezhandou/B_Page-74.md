@@ -3,7 +3,7 @@ title: Page 74
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_077.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (74)一团团烈火在程海胸中燃烧。等小贝揭发完，程海“嚯”地站起来，在口号声平静下去后，他两步跨到台前，对着刁青云大喝一声：“刁青云，你看看我是谁！”刁青云身子一震，头微微偏了一点。
 

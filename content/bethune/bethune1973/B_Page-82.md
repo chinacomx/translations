@@ -3,7 +3,7 @@ title: Page 082
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_086.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （82）白求恩火热的阶级感情，高超的医疗技术，创造了惊人的奇迹：一星期后，病人已能下床行走；半个月后，病人已恢复健康，扛着锄头高高兴兴地下地劳动了。
 

@@ -3,7 +3,7 @@ title: Page 73
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_076.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (73)两天后，中国人民解放军把他们从火海中救了出来。程海和他的妻子终于盼来了光明，见到了红旗！
 

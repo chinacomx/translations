@@ -4,7 +4,7 @@ title: Page 16
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0021_016.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 卫老婆子连忙说：“啊呀啊呀! 我真上当。对不起，四老爷，四太太。她来求我荐地方，我哪里料得到是瞒着她的婆婆的呢。这一回我一定荐一个好的来折罪……。”
 

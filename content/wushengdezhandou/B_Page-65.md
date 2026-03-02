@@ -3,7 +3,7 @@ title: Page 65
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_068.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (65)妻子背着女儿，离开当铺，默默地把“当票”塞在孩子的怀中。她抓了两服药，买了两个烧饼，钱就用完了。
 

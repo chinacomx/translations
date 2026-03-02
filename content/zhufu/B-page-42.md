@@ -4,7 +4,7 @@ title: Page 42
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0047_042.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 但不久，全镇的人们几乎都能背诵她的话，一听到就烦厌得头痛，立即打断她的话，走开去了，让她张着口怔怔地站着。
 

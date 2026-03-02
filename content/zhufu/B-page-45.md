@@ -4,7 +4,7 @@ title: Page 45
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0050_045.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 柳妈看着祥林嫂说：“你和你第二个男人过活不到两年，倒落了一件罪名。你将来到阴司去，那两个死鬼的男人还要争，你给谁好呢？阎罗大王只好把你锯开来，分给他们。”
 

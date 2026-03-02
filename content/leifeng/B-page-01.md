@@ -5,7 +5,7 @@ weight: 4
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0005_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 第一章：吃人的旧社会
 

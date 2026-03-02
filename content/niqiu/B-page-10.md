@@ -4,7 +4,7 @@ title: Page 10
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0014_010.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 这时，张大爷的病已好多了，他见泥鳅送了瓜来，便高兴得一骨碌坐起来。泥鳅抱着大西瓜，叫他尝尝。
 

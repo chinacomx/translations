@@ -3,7 +3,7 @@ title: Page 094
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_098.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （94）白求恩亲自揭开徐连长鲜血浸透的军服，打开腹腔，发现肠子竟有十个穿孔，十分惊讶，敬佩地说：“真是坚强勇敢的小伙子！”他小心地为徐连长取出弹片，又仔细把每个裂口缝合。
 

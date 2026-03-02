@@ -3,7 +3,7 @@ title: Page 041
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_044.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （41）隔天傍晚，方兆元提着一桶沾满血污的绷带，走到河中间准备洗。小虎和二妞在河边玩，走近问：“干吗不发给妇救会洗啊？”方兆元笑笑说：“这我做得了。”
 

@@ -4,7 +4,7 @@ title: Page 48
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0053_048.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 从此，她整日紧闭了，默默的跑街，扫地，洗菜，淘米。快够一年，她才从四太太手里支取了历来积存的工钱，换算了十二元鹰洋，又请假镇西头去。
 

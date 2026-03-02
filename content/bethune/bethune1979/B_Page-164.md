@@ -3,7 +3,7 @@ title: Page 164
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_167.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （164）山路上，于部长带护士小贾和两个警卫员，骑着马，连夜向黄石口奔来。
 

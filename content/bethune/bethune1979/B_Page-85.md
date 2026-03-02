@@ -3,7 +3,7 @@ title: Page 085
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_088.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （85）孟奶奶忙回身招呼担架：“快！有情况，走小路！”担架匆忙往山上撤去。小虎飞快朝担架撤退相反的方向奔跑。
 

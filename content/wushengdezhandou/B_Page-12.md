@@ -3,7 +3,7 @@ title: Page 12
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_015.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (12)程海走到男孩面前，严肃地问：“你在干什么？“这只打火机老打不着。”男孩抬头看了程海一眼，又说，“有没有火柴？借个火！”程海用两只象老虎钳似的指头，把男孩嘴上的香烟钳了出来。
 

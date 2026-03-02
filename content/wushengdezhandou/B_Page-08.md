@@ -3,7 +3,7 @@ title: Page 08
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_011.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (8)一队朝气勃勃的同学抬着焦炭、废铁走来，程海见了称赞说：“看他们多认真啊！”卓红告诉程海：“有一个同学没有来，他开始逃学了。”
 

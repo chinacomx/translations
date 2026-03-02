@@ -4,7 +4,7 @@ title: Page 50
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0055_050.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 可是到冬至的祭祖时节，祥林嫂看四太太装好祭品，便坦然去拿酒杯和筷子。不料四太太照旧慌忙地大声说：“你放着罢，祥林嫂！”
 

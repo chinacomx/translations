@@ -3,7 +3,7 @@ title: Page 045
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_049.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （45）不久传来松岩口医院被日寇破坏的消息，白求恩异常气愤。他认真总结战地医疗工作经验，跟战友们说，我们必须按照游击战争的特点，建设我们的医院。
 

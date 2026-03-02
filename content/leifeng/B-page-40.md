@@ -5,7 +5,7 @@ weight: 43
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0044_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 36 打扫过教室，他还要到校园去浇水、拔草。同学们在雷锋的影响下，也都争着来干，学习为人民服务。
 

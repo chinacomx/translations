@@ -5,7 +5,7 @@ weight: 47
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0048_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 40 突然，一个喜讯在学校传开了：学校要建立少先队了！同学们兴致勃勃地谈论申请入队的事，谈的可热闹啦！
 

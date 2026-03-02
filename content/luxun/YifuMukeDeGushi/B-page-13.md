@@ -4,7 +4,7 @@ title: Page 13
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/14-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 鲁迅看了信和木刻，十分气愤。他立即给这个青年写了回信，信上写道：“我要保存这一幅画，一者是因为是遭过艰难的青年的作品，二是因为留着党老爷的蹄痕，三，则由此也纪念一点现在的黑暗和挣扎。”
 

@@ -4,7 +4,7 @@ title: Page 32
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0036_032.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 糟踏了一阵，他们站在坑沿上，用高粱叶子作扇子，扇着体息，口渴得直舐嘴唇。
 

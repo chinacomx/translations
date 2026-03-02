@@ -3,7 +3,7 @@ title: Page 173
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_176.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （173）这时，又一骑马战士，飞驰入村。这是徐连长。他得知白求恩病重，连夜从前线赶来探望。
 

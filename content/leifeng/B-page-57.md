@@ -5,7 +5,7 @@ weight: 60
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0061_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 52 雷锋一下冲到地主叶振钦跟前，说：“叶振钦，不许你这样糟蹋社里的粮食！”地主故意慢腾腾地说：“孩子，不要多嘴，稻子又不是你家的！”
 

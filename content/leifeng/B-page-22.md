@@ -5,7 +5,7 @@ weight: 25
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0026_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 20 地主阶级被打倒了，雷锋脸上整天堆着笑。有人问他：“孩子，你遇上什么高兴事了？”他说：“现在我们有了党，再不受人欺侮了，为啥不笑！睡着也要笑醒哩！
 

@@ -4,7 +4,7 @@ title: Page 33
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0037_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 那个高个子的伪军忽然向坑里指着说：“大西瓜！”小个儿马上说：“是我先看见的！”两个伪军争着要脱衣服下水去捞。
 

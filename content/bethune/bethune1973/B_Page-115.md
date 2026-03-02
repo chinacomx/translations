@@ -3,7 +3,7 @@ title: Page 115
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_119.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （115）第二天下午，站在土坎上了望的哨兵，突然发现北面高山上出现一面暗淡的膏药旗，随后是黑鸦鸦的数百名鬼子兵，气势汹汹地向这里袭来。情况紧急，哨兵赶紧跑回手术室报告。
 

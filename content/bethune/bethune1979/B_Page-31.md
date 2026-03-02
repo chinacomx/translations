@@ -3,7 +3,7 @@ title: Page 031
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_034.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （31）白求恩认出，正是他第一天进村时向他要路条的那个孩子，便拿过红缨枪，学着小虎的样子，把手一伸道：“路条！”小虎连脖根子都笑红了。
 

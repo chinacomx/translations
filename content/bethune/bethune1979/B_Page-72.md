@@ -3,7 +3,7 @@ title: Page 072
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_075.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （72）小邵从河边上走来，手里捧着军大衣、毛毯、香烟听头、牛奶罐头等，腰上还挂着一把日本军刀。他把东西送到白求恩面前：“白大夫，这是王旅长送来的战利品。”
 

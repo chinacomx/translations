@@ -3,7 +3,7 @@ title: Page 097
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_101.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （97）手榴弹在敌群中爆炸，吓得鬼子哇哇乱叫。徐连长飞身跃起，喊：“冲啊！”突然一颗子弹击中了他的腹部。
 

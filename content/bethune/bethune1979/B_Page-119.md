@@ -3,7 +3,7 @@ title: Page 119
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_122.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （119）白求恩一看，咧开嘴笑了，问老大娘：“你的孩子好不好？”老大娘笑着说：“好！老姜听话些，这小马是个属猴的，可淘气啦！”说着熟练地打开小马腿上的绷带。
 

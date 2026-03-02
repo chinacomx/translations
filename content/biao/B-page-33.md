@@ -4,7 +4,7 @@ title: Page 33
 
  ![biao page](/images/biao/seifert0726_biao_0037_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 洗完澡，卫生员给他一套新衣服。他第一次穿这么漂亮的衣服，乐得咧着嘴笑了。卫生员诧导地看着他嘴里发亮的东西：“这是什么？”
 

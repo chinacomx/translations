@@ -3,7 +3,7 @@ title: Page 076
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_080.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （76）白求恩感到一阵头晕，但他想念的是伤员安全，坚持着俯下身子观察伤员的变化。当他看到伤员的脸色由白泛红，渐渐清醒过来时，才松了一口气。在场的医务人员都被感动得流下热泪。
 

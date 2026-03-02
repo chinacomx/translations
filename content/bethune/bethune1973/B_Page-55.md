@@ -3,7 +3,7 @@ title: Page 055
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_059.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （55）同志们关心白求恩的安全，劝他赶紧隐蔽。白求恩巍然不动，说：“前线战士能不能因为空袭而停止作战？不！我们的战斗岗位是手术台，要坚守阵地。”说着继续进行手术。
 

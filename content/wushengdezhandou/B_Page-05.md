@@ -3,7 +3,7 @@ title: Page 05
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_008.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (5)程海打量着面前的女同志：她二十四、五岁，身穿蓝色的工作服，剪着齐耳的短发，清秀的脸上两只眼睛分外明亮。程海只觉得好面熟呀，可是在哪里见过她，却一时记不起了。
 

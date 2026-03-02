@@ -3,7 +3,7 @@ title: Page 013
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_016.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （13）幸好童秘书赶来，向白求恩解释：“这是小邵——卫生部派来招呼你的勤务员。”白求恩一听，立刻高兴地握住小邵的手：“啊！欢迎你参加我们这一家子！”
 

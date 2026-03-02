@@ -3,7 +3,7 @@ title: Page 030
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_033.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （30）这时门外进来一个虎头虎脑手拿红缨枪的孩子。孟奶奶喝住他：“小虎，快叫白大夫。”又向白求恩介绍：“这是我孙子。”
 

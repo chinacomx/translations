@@ -4,7 +4,7 @@ weight: 1
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_002.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 白求恩
 编 文 吴文焕

@@ -3,7 +3,7 @@ title: Page 58
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_061.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (58)批斗大会在学校的操场上召开。那天晚上，由于天黑，程海没有看清戴旧便帽人的脸，现在他认出了那人就是解放前的国民党特务兼工头，名叫刁青云。顿时，一幕幕往事浮现在眼前……
 

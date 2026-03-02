@@ -4,7 +4,7 @@ title: Page 26
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0031_026.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 她自己就在屋后劈柴，淘米，米下了锅，要蒸豆了，她这才叫阿毛。
 

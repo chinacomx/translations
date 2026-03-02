@@ -4,7 +4,7 @@ title: Page 60
 
 ![biao page](/images/biao/seifert0726_biao_0064_060.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 可是库房满了，木材没有搬完，彼蒂加大失所望，因为他的心爱的表仍然拿不出来。虽然院长表扬了他，可他感到很遗憾。
 

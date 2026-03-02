@@ -4,7 +4,7 @@ title: Page 25
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0030_025.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 第二年春天，这一日，祥林嫂一清早起来就开了门，拿小篮盛了一篮豆，叫阿毛坐在门槛上剥豆子。
 

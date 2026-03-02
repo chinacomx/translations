@@ -3,7 +3,7 @@ title: Page 077
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_080.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （77）一天，司令员特地赶来看望白求恩。司令员跟白求恩说：“我们接到了部长的报告，知道你在前线医疗作出了非常好的成绩，伤员的死亡率大大降低了。我给你带来封贺电。”
 

@@ -4,7 +4,7 @@ title: Page 46
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0050_046.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 泥鳅气愤地指着他说：“谁叫你当汉奸欺侮中国人哪？谁叫你抢了张大爷的瓜？”特务赶忙说：“吃瓜我给钱，快给我解开，我好给你掏钱。”
 

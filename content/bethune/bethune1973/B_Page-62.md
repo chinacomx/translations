@@ -3,7 +3,7 @@ title: Page 062
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_066.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （62）实习期间，他让每个学员轮流做手术，自己在一旁考问，答对了，便让动手；答不对，继续讲解。白求恩循循善诱，学员们边做边学，医疗技术水平迅速得到提高。
 

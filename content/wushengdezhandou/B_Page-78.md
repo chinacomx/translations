@@ -3,7 +3,7 @@ title: Page 78
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_081.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (78)“拣到你时，你只有几块破布裹着，里面塞了一张‘当票’，我一直保存着，现在交给你。你是穷人的孩子，要想到是毛主席、共产党给了你的生命，一定不要忘本……”
 

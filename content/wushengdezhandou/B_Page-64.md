@@ -3,7 +3,7 @@ title: Page 64
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_067.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (64)程海身子一晃，妻子赶忙扶他躺下。程海叫她把仅有的一床旧被子抱到镇上押给当铺借点钱，给孩子弄点药和吃的。
 

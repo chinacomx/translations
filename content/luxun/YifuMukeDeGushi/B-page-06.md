@@ -4,7 +4,7 @@ title: Page 06
 
 ![luxun front](/images/luxun/YifuMukeDeGushi/7-page-00001.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 一九三二年，这个青年才十八岁，由于受到鲁迅倡导革命木刻的影响，他和几个青年组织了一个木刻社。一次，他刻了一幅外国文学家的肖像，被特务发现了。他和另外两个青年便遭到了逮捕。
 

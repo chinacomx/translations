@@ -3,7 +3,7 @@ title: Page 138
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_142.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （138）他望着身旁的战友，激动地说：“请转告毛主席，感谢他和中国共产党给我的帮助。我相信中国人民一定会获得解放，遗憾的是我不能亲眼看到新中国的诞生！”
 

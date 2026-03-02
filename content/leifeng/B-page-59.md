@@ -5,7 +5,7 @@ weight: 62
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0063_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 54 这个地主还想耍赖，正好来了一个干部，这才不敢吱声了。干部狠狠地批判了这个地主。
 

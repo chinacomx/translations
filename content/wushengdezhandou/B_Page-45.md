@@ -3,7 +3,7 @@ title: Page 45
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_048.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (45)程海问：“你怎么想的？”小贝坚决地说：“我不去，这个家伙不是好人。”程海想了一下，要小贝去见那人当作任务来完成，小贝答应了。程海向学校和厂里领导汇报了情况，定了一个方案。
 

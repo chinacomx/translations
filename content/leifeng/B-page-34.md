@@ -5,7 +5,7 @@ weight: 37
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0038_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 31 雷锋把错的地方重新答了一遍，然后送给老师看。老师满意地说：“答得好，这回全对了！”雷锋这才松了一口气，觉得只有这样才不辜负党对他的培养。
 

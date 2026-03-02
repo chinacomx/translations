@@ -3,7 +3,7 @@ title: Page 17
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_020.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (17)“你不晓得，今天我看见一个……”程海的话突然停住，他的眼光一下子盯在马路对面，立即回头对老伴说，“快来，你看住对面那两个人，我出去一趟。”说着就冲出门外。
 

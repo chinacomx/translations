@@ -4,7 +4,7 @@ title: Page 12
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0016_012.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 泥鳅拿起刀，在西瓜把儿上，“嗖” 地一旋，碗大的一块西瓜皮掉下来，露出鸡冠子色的沙瓤，瓤里包着油亮亮的黑籽。他们都用小勺挖着吃，把西瓜籽吐出来留作籽用。
 

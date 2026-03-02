@@ -3,7 +3,7 @@ title: Page 104
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_107.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （104）一天，部队正紧急集合，准备出发。童秘书手里拿着一些信件，挥舞着跑过来喊：“白大夫，加拿大来的信！”白求恩接过信，遏制不住内心的喜悦，说：“到底来了信，谢谢你，童！”
 

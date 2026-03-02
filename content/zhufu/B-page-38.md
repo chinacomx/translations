@@ -4,7 +4,7 @@ title: Page 38
 
 ![zhufu panel](/images/zhufu/seifert0772_zf_0043_038.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 她转了几个圆圈，终于没有事情做，只得疑惑的走开。她在这一天可做的事只不过坐在灶下烧火。
 

@@ -5,7 +5,7 @@ weight: 16
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0017_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 第二章： 党就是亲娘
 

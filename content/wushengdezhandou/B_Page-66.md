@@ -3,7 +3,7 @@ title: Page 66
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_069.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (66)回山洞的路上，女儿嘤嘤地哭着，她边走边哄。走到土地庙前，她坐下歇气，摸出烧饼，咬烂喂孩子。一辆马车从路上跑来，拐弯时，车上滑下两只箱子，马车停住了。
 

@@ -5,7 +5,7 @@ weight: 35
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0036_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 29 放学了，雷锋也不回家。同学们劝他说：“回家吧，这次考的不好，下回再努力就是了。”雷锋说： “下次是下次，这次一定得补上！”
 

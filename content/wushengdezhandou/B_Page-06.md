@@ -3,7 +3,7 @@ title: Page 06
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_009.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (6)小汤向程海介绍说：“卓老师今天带学生来厂学工，顺便请一位老师傅到学校去作忆苦思甜的报告。党委书记老王推荐你去，要我给卓老师介绍一下情况呐！”
 

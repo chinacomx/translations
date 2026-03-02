@@ -5,7 +5,7 @@ weight: 42
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0043_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 35 参加了少先队的雷锋，对自己要求更严格了。他经常大早赶到学校，擦黑板，抹桌子。
 

@@ -3,7 +3,7 @@ title: Page 005
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_009.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （5）一九三六年，德、意法西斯侵犯西班牙，白求恩率领医疗队来到西班牙首都马德里。在炮火连天的战场上，他第一个创造把血库送上火线，实行战地输血，抢救了无数西班牙阶级兄弟的生命。
 

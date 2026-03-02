@@ -3,7 +3,7 @@ title: Page 043
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_046.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （43）小虎看见，连忙朝村子里大喊：“有人晕倒了！有人晕倒了！”
 

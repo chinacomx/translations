@@ -3,7 +3,7 @@ title: Page 69
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_072.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (69)程海的妻子眼快，站起一把抓住棍子，大声说：“你逃吧，逃过今天，逃不过明天！”“你……你……”狗地主气得浑身直抖。这时刁青云跑来，咬牙切齿地说：“跟你男人一样想翻天呐，告诉你，我们还要回来的！”
 

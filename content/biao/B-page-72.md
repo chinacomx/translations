@@ -4,7 +4,7 @@ title: Page 72
 
 ![biao page](/images/biao/seifert0726_biao_0076_072.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 毕塔珂夫大笑起来：“可那一夜我确实弄了十六根木材，卖给小贩了……”他敲了一下彼蒂加的前额，就踉踉跄跄地走了。
 

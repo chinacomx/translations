@@ -3,7 +3,7 @@ title: Page 40
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_043.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (40)分手时，程海关切地问卓红：“教书几年了？”“文化大革命中才开始，是个新兵哩。”卓红腼腆地说。程海握着卓红的手，说：“在思想战线上要打进攻仗，要有铁锤般的劲头。这个工作很重要，好好干吧。”
 

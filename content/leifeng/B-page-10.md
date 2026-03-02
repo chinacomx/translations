@@ -5,7 +5,7 @@ weight: 13
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0014_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 9 雷锋年纪虽小，却是个懂事的孩子，他知道六叔奶奶家生活困难，就每天争着下地劳动，上山打柴。
 

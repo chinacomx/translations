@@ -3,7 +3,7 @@ title: Page 118
 ---
 ![bethune1979 page](/images/bethune/bethune1979/bethune1979_121.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （118）推开东屋门，见一个老大娘坐在炕沿上纳鞋底，炕上坐着两个青年农民，盖着被子在吸烟袋。老冯揭开青年农民盖着的被子，露出里面缠着绷带的腿。
 

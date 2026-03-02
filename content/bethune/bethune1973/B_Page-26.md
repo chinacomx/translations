@@ -3,7 +3,7 @@ title: Page 026
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_030.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （26）白求恩考虑改进医疗，热情建议改建这所简陋医院。他亲自指导木工建病房，指导铁匠打探针、钳子、大腿骨折牵引架等医疗设备。
 

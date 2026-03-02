@@ -3,7 +3,7 @@ title: Page 52
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_055.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (52)夜，在工厂后面的田野里，除了隐约传来汽锤的声音外，十分寂静。临时库房外面的铁丝网被拔开了一个洞，小贝钻了进去，外面伏着戴旧便帽的人，不时地把头转来转去，象狼一样的嗅着周围的空气。
 

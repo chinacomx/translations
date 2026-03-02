@@ -3,7 +3,7 @@ title: Page 079
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_083.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （79）白求恩对群众无比热爱，经常背着药箱到各村巡视。有次，人群中冲出一位老大娘，急迫地说：“白大夫，我家媳妇得了重病，日夜叫喊疼痛，人已瘦得皮包骨，请了好些医生都没法治……”
 

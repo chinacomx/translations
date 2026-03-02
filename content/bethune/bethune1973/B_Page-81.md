@@ -3,7 +3,7 @@ title: Page 081
 ---
 ![bethune1973 page](/images/bethune/bethune1973/bethune1973_085.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 （81）病人服药后，当夜就不喊疼痛了。白求恩不辞辛劳，每天上门给病人治疗。病人丈夫在前线作战，白求恩又帮着她家挑水、背柴、修炕沿，村上人同声称赞白求恩是毛主席派来的好医生。
 

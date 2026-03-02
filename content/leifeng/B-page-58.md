@@ -5,7 +5,7 @@ weight: 61
 
 ![leifeng page](/images/leifeng/seifert0522_lf_0062_0.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 53 雷锋一听气坏了，大声喝道：“社就是我的家，就不许你这样割稻！”
 

@@ -4,7 +4,7 @@ title: Page 47
 
 ![niqiu page](/images/niqiu/seifert0397_nqkg_0051_047.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 泥鳅笑呵呵地说：“等我把你送到抗日政府，咱俩到那再算账。”特务看软的不行，便用硬的威胁，可是毛泽东思想哺育成长起来的儿童不听这一套，威胁利诱对他们行不通。
 

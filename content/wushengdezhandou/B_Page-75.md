@@ -3,7 +3,7 @@ title: Page 75
 ---
 ![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_078.jpg)
 
-{{< columns >}}
+{{% columns %}}
 
 (75)“不认识了？我就是你没有害死的程海！”刁青云象被烈火烧着了身子，颤抖着。程海愤怒地控诉起来……
 
