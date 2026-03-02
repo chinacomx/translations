@@ -58,8 +58,8 @@ You should see something like this:
   Cleaned          |   0  
 
 Built in 150 ms
-Watching for changes in /Users/hal1000/Documents/GitHub/comics/{archetypes,content,static,themes}
-Watching for config changes in /Users/hal1000/Documents/GitHub/comics/config.toml
+Watching for changes in /Users/hal1000/Documents/GitHub/translations/{archetypes,content,static,themes}
+Watching for config changes in /Users/hal1000/Documents/GitHub/translations/hugo.toml
 Environment: "development"
 Serving pages from memory
 Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
