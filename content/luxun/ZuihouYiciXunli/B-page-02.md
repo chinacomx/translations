@@ -12,4 +12,4 @@ title: Page 02
 
 Der 8. Oktober war der letzte Ausstellungstag der „2. Landesweiten Wanderausstellung für chinesische Holzschnitte“. Am Nachmittag machte sich der kranke Lu Xun daher zügig auf den Weg zur Ausstellung. Viele Jahre hatte er all seine Kraft darauf verwendet die Schösslinge auszubilden, und nun waren diese unter der Bedrohung durch den weißen Terror endlich herangewachsen und hatten selbst Blüten getrieben. Wie hätte dies Lu Xun nicht glücklich machen können!
 
-{{< /columns >}}
+{{% /columns %}}

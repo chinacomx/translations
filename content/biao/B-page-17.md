@@ -12,4 +12,4 @@ title: Page 17
 
 The chief said to the policeman: "Don't search, it doesn\'t matter. Take this document and bring this little hooligan to the reformatory." The policeman stuffed the document into his briefcase and turned to Petka: "Hooligan, let\'s go!" Happily, Petka pulled up his pants and followed with big steps.
 
-{{< /columns >}}
+{{% /columns %}}

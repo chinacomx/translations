@@ -12,4 +12,4 @@ title: Page 43
 
 The chief ordered a policeman to search Petka from head to toe. Petka, silently finding it hilarious, was not afraid at all. Later, both the chief and Kudeyar joined in, but in the end, they could not find anything.
 
-{{< /columns >}}
+{{% /columns %}}

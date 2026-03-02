@@ -12,4 +12,4 @@ title: Page 37
 
 Petka hastily put the watch into the pocket of his brand-new pants. Right then, the health worker brought a bottle of ammonia solution. Petka sniffed it, sneezed a few times, and then pretended to be cured. Now that he had freshened up, he turned into a pretty young lad.
 
-{{< /columns >}}
+{{% /columns %}}

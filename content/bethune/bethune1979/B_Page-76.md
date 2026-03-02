@@ -11,5 +11,5 @@ title: Page 076
 
 (76) Bethune personally boiled milk and eggs, brought them to Commander Xu’s bedside, and fed him spoonful by spoonful, speaking kindly: “Eat up, child. When you’re feeling better, we’ll return to the Songyankou Model Hospital.” Commander Xu tightly grasped Bethune’s hand and exclaimed, “Doctor Bai!” Tears streamed down his face.
 
-{{< /columns >}}
+{{% /columns %}}
     

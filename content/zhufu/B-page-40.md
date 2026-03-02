@@ -12,4 +12,4 @@ title: Page 40
 
 This story worked quite effectively. The men would stop smiling and walk away uninterestedly after they heard it. The women would seem to forgive her, immediately changing the contemptuous looks on their faces, and shedding tears along with her.
 
- {{< /columns >}}
+ {{% /columns %}}

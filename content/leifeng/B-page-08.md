@@ -13,4 +13,4 @@ weight: 11
 
 After being exploited and abused by the landlord, the poor mother was driven to hang herself. By this time, Lei Feng was not even seven. How could he survive as an orphan at such a young age?
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 059
 
 (59) The enemy officers noticed Captain Xu’s intention and immediately turned their firepower to counterattack Captain Xu and his men. Captain Xu saw that the enemy was about to escape through the gap and shouted: “Machine gun cover, charge!” He was the first to jump up and rush towards the enemy’s heavy machine gun position.
 
-{{< /columns >}}
+{{% /columns %}}
     

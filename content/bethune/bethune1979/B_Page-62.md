@@ -11,5 +11,5 @@ title: Page 062
 
 (62) The enemy officer lifted his head from the dirt and rushed toward the heavy machine gun. Commander Xu sprang up, leaping like a fierce tiger into the enemy fortifications, tackling the enemy officer to the ground.
 
-{{< /columns >}}
+{{% /columns %}}
     

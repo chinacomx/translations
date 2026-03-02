@@ -11,5 +11,5 @@ title: Page 20
 
 (20) His wife comforted him, saying, “The man in the shabby cap is easy to find. He sometimes comes here to collect second-hand goods.” – “Is he really just a junk collector?” Cheng Hai’s vigilance rose: “Why would he be so generous? There is something fishy about it.” After thinking for a moment, he picked up the bowl, finished his meal, and then made for the door.
 
-{{< /columns >}}
+{{% /columns %}}
     

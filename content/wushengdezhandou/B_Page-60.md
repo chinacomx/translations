@@ -11,5 +11,5 @@ title: Page 60
 
 (60) Under the leadership of the Chinese Communist Party, the masses of workers staged larger-scale strikes and protests. The military police had no choice but to release Cheng Hai and the others. With the help of the villagers, Cheng Hai’s wife took him to the countryside.
 
-{{< /columns >}}
+{{% /columns %}}
     

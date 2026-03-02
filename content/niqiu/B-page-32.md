@@ -12,4 +12,4 @@ title: Page 32
 
 After trampling for a while, they stood on the edge of the pond and used sorghum leaves as fans. Fanning, they rested and licked their lips with thirst.
 
-{{< /columns >}}
+{{% /columns %}}

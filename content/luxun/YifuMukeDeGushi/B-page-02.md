@@ -12,4 +12,4 @@ title: Page 02
 
 Lu Xun scheute auch sonst keine Mühen, er sammelte aus verschiedensten Ländern fortschrittliche Holzschnitte im Original und veranstaltete Ausstellungen, um jungen Menschen, die sich für den Holzschnitt begeisterten, Anschauungsmaterial zu bieten und davon zu lernen. Später ließ er diese Bilder persönlich reproduzieren und schenkte sie den jungen Leuten, die sich in der aufkeimenden Holzschnitt-Bewegung engagierten.
 
-{{< /columns >}}
+{{% /columns %}}

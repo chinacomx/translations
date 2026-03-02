@@ -11,5 +11,5 @@ title: Page 22
 
 (22) The next morning, after sweeping the sidewalk outside the dormitory area as usual, Cheng Hai sat down at the gate. That boy [I saw] yesterday might live nearby. Would he pass by here? He walked onto the sidewalk, cautiously watching groups of pupils laughing and chasing each other.
 
-{{< /columns >}}
+{{% /columns %}}
     

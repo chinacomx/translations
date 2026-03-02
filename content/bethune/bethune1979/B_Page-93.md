@@ -11,5 +11,5 @@ title: Page 093
 
 (93) Minister Yu said: “Didn’t our medical team perform well during the Battle of Lingqiu?” After a moment of contemplation, Bethune suddenly stubbed out his cigarette with force and declared with determination: “Let’s organize a guerrilla medical unit. We’ll go wherever there are wounded soldiers!”
 
-{{< /columns >}}
+{{% /columns %}}
     

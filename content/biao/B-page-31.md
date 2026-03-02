@@ -12,4 +12,4 @@ title: Page 31
 
 The hot water gushed from the tap ceaselessly. The water in the bathtub got hotter and hotter. Petka tossed about uneasily but was unable to speak out. In the end, he could not take it anymore. All of a sudden, he spit the watch into the bathtub, and screamed: "It's boiling!" and jumped out like a metal spring.
 
-{{< /columns >}}
+{{% /columns %}}

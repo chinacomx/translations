@@ -11,5 +11,5 @@ title: Page 63
 
 (63) Cheng Hai’s wife came back with heavy steps, unable to find work or borrow food. She picked up their daughter and could not stop her bitter tears. “Stop it. The sun will rise soon.” Cheng Hai said with effort, “the troops of Chairman Mao and the Communist Party will be here soon.”
 
-{{< /columns >}}
+{{% /columns %}}
     

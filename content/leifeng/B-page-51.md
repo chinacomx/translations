@@ -13,4 +13,4 @@ weight: 54
 
 After joining the Young Pioneers, Guohua made quick progress and soon became an outstanding member. Seeing Guohua’s improvement made Lei Feng even happier than if he had achieved it himself!
 
-{{< /columns >}}
+{{% /columns %}}

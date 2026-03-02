@@ -11,5 +11,5 @@ title: Page 057
 
 (57) On the mountain road between Lingqiu and Guangling, a large contingent of Japanese soldiers crossed into the mountains, brandishing their weapons and arrogance. Once the enemy entered the ambush zone, the Eighth Route Army commander stationed atop the mountain gave the order to fire. Instantly, the sounds of landmines, grenades, and machine guns erupted into chaos. The Japanese devils scattered in panic, thrown into complete disarray.
 
-{{< /columns >}}
+{{% /columns %}}
     

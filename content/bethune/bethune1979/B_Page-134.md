@@ -11,5 +11,5 @@ title: Page 134
 
 (134) The commander approved Bethune’s plan: “That’s excellent. Doctor Bai’s efforts in spreading the word will have a great impact. His health has deteriorated significantly since he returned this time—I’ve been wanting him to take a break for a while.”
 
-{{< /columns >}}
+{{% /columns %}}
     

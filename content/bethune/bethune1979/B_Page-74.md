@@ -11,5 +11,5 @@ title: Page 074
 
 (74) Excited, Secretary Tong picked up a camera: “Come on, let me take a photo of you.” Bethune stopped him: “Wearing this ‘wolf’s skin’? Oh, no! I’ll save it for an exhibition back in Canada.”
 
-{{< /columns >}}
+{{% /columns %}}
     

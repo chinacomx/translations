@@ -11,5 +11,5 @@ title: Page 11
 
 (11) A slight cracking sound interrupted Cheng Hai’s train of thought, [and] his expression suddenly turned stern. Under a tree at the other end of the bridge, a boy of about thirteen or fourteen years had a cigarette dangling from his lips, enthusiastically flicking a lighter.
 
-{{< /columns >}}
+{{% /columns %}}
     

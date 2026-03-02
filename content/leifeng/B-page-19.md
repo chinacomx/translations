@@ -13,4 +13,4 @@ weight: 22
 
 At a struggle meeting against the landlords, Lei Feng and his friends organized to carry out a propaganda campaign. They sang the Chinese Clapper Talk in unison, exposing the crimes of the landlords. 
 
-{{< /columns >}}
+{{% /columns %}}

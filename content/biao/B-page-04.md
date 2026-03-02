@@ -12,4 +12,4 @@ title: Page 04
 
 Following the woman's shouting, a group of people immediately gathered around them. They dragged him to the floor, beat him relentlessly and took him to the police station.
 
-{{< /columns >}}
+{{% /columns %}}

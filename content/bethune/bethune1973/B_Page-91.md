@@ -11,5 +11,5 @@ title: Page 091
 
 (91) The medical team quickly moved to the frontline in Tunzhuang. Bethune ordered that an operating room be set up immediately in a small temple at the village entrance. Here, the sounds of gunfire and artillery could be heard clearly, and half the sky was lit red by the flames of battle. Suddenly, an artillery shell exploded behind the operating room, shaking the building so violently that – crack, crack – chunks of mud from the roof came crashing down.
 
-{{< /columns >}}
+{{% /columns %}}
     

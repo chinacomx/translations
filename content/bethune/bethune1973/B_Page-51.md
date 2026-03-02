@@ -11,5 +11,5 @@ title: Page 051
 
 (51) In the depths of the night in Yanbei, the temperature dropped to below minus twenty degrees Celsius. Heavy snow and bone-chilling north wind made it difficult for people to keep their eyes open. Bethune rode a brown steed, racing through mountain peaks and valleys without a rest, heading towards his destination.
 
-{{< /columns >}}
+{{% /columns %}}
     

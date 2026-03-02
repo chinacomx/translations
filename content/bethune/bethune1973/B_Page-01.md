@@ -11,5 +11,5 @@ title: Page 001
 
 (1) On January 2nd, 1938, an ocean liner bound for China set sail from Vancouver, Canada. At the bow of the ship, a tall, middle-aged man with piercing eyes waved enthusiastically to bid farewell to a cheering crowd. He was the great internationalist fighter, Comrade Norman Bethune.
 
-{{< /columns >}}
+{{% /columns %}}
     

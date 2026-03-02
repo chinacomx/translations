@@ -11,5 +11,5 @@ title: Page 139
 
 (139) Bethune thought deeply of the Chinese Anti-Japanese forces and civilians. With trembling hands, he wrote a letter to the head of the military region. He wrote: “Please convey a message to the Communist Party of Canada and the people of the United States……. These past two years have been the happiest and most meaningful period of my life…… Allow me to express my heartfelt gratitude, a thousand times over, to you and to the other millions of dear comrades.”
 
-{{< /columns >}}
+{{% /columns %}}
     

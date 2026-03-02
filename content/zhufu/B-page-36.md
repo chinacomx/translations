@@ -12,4 +12,4 @@ title: Page 36
 
 Sacrificing to the ancestors was the biggest event for the family of Mr. Lu. Previously, the sacrifices were also the busiest time for Xianglin's wife. This time, however, she had nothing to do. The table was set in the centre of the hall, and she went to distribute glasses and chopsticks. Mrs. Lu rushed to say: "Xianglin's wife, leave it there! I'll do it."
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 05
 
 He was held in custody and looked outside the window at the bright, clear and shining sky as his sorrows were whirling around his head: "Life is so terrible! Only for a pancake…" He was just waiting for his impending fate.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 099
 
 (99) Our supporting fire from the village rained down on the enemy like a storm. Just then, another burst of gunfire ripped into Captain Xu’s abdomen—wounding him a second time.
 
-{{< /columns >}}
+{{% /columns %}}
     

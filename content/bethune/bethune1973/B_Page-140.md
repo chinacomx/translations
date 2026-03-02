@@ -11,5 +11,5 @@ title: Page 140
 
 (140) After finishing his letter and handing it to the interpreter, Bethune lost consciousness again. The comrades worked tirelessly to revive him, until he finally woke up again. He firmly grasped the hand of the specially dispatched officer from the military region and said: “I suggest organizing a medical team to get close to the front line and care for the wounded... When the battle is over, continue with the inspection work in the Fourth Division area.”
 
-{{< /columns >}}
+{{% /columns %}}
     

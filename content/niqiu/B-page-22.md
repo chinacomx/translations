@@ -12,4 +12,4 @@ title: Page 22
 
 After fighting for a while, Niqiu made a feint. He carefully backed his head away from the watermelon, rapidly went into the big reed pond and went to dig for waterbird eggs. His comrades were still throwing mud at the watermelon skin.
 
-{{< /columns >}}
+{{% /columns %}}

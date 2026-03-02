@@ -12,4 +12,4 @@ title: Page 13
 
 After eating the melon, Niqiu held the hollowed-out watermelon skin, cut two small holes into it and put the watermelon peel on his head, so he looked like a big-headed doll. Dancing a Yangge, he went to the edge of the water pond.
 
-{{< /columns >}}
+{{% /columns %}}

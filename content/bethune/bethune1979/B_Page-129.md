@@ -11,5 +11,5 @@ title: Page 129
 
 (129) In autumn, Bethune returned to Songyankou. With the enemy’s blockade tightening, medical supplies were becoming increasingly scarce. That day, he performed a surgery on a wounded soldier. Due to the shortage of anaesthetics, the soldier cried out in agony. His voice trembling, Bethune ordered the nurse to bring the anaesthesia.
 
-{{< /columns >}}
+{{% /columns %}}
     

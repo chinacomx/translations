@@ -12,4 +12,4 @@ title: Page 09
 
 Im Sommer 1935, als die Nationale Holzschnitt-Vereinigung in Shanghai eine Ausstellung veranstaltete, hatten ihn die Veranstalter nach einem seiner Werke gefragt. Mit dem Gedanken daran, gegen die Reaktionäre zu protestieren, beschloss er, jenen Holzschnitt einzureichen, „um es diesen Menschenfressern zu zeigen!“
 
-{{< /columns >}}
+{{% /columns %}}

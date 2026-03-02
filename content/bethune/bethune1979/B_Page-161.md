@@ -11,5 +11,5 @@ title: Page 161
 
 (161) Fang Zhaoyuan immediately picked up the phone to report to Minister Yu. Upon receiving the urgent report that Bethune was suffering from “blood poisoning and in critical condition”, the commander immediately instructed Minister Yu to spare no effort in saving him and to personally rush there with medical supplies.
 
-{{< /columns >}}
+{{% /columns %}}
     

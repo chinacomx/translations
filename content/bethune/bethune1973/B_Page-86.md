@@ -11,5 +11,5 @@ title: Page 086
 
 (86) Along both sides of the railway, the Japanese invaders had stationed heavy troops, with forts scattered all around. Mid-journey, their escort commander suddenly gave the order: “Take cover immediately!” A moment later, a Japanese armored patrol car drove across the railway, its blinding beam of searchlight swept across the tracks as it rumbled past.
 
-{{< /columns >}}
+{{% /columns %}}
     

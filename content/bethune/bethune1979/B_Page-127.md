@@ -11,5 +11,5 @@ title: Page 127
 
 (127) Returning from Dawang Village, the night was already deep, but Bethune’s mind was restless. He was still writing notes under the lamplight. He said affectionately to Secretary Tong: “When I decided to come to China, a colleague said I was crazy. He told me the Japanese have the most modern weapons, while the Eighth Route Army is just farmers armed with red-tasselled spears.”
 
-{{< /columns >}}
+{{% /columns %}}
     

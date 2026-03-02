@@ -11,5 +11,5 @@ title: Page 007
 
 (7) Upon arriving at the Military District Headquarters, Bethune was warmly received by the Commander: “Comrade Bethune, did you know? Foreign newspapers reported that you were captured by the Japanese while crossing the Yellow River!”
 
-{{< /columns >}}
+{{% /columns %}}
     

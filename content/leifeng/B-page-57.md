@@ -13,4 +13,4 @@ weight: 60
 
 Lei Feng stormed up to the landlord and said: “Ye Zhenqin, you are not allowed to waste the cooperative’s grain like this!” Ye Zhenqin, the landlord, slowly and dismissively, replied: “Kid, keep your mouth shut. Then again, the rice isn’t from your family!”
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 54
 
 Petka finally started to get better and recovered his consciousness. One day, his mate Milonov brought him a picture book. He told him that Pyatakov had been sent to the youth custody centre for stealing wood on the same day that Petka had fallen ill. Petka could not help but blush.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 147
 
 147) Soon, the sound of heavy machine gun fire echoed through the valley, indicating that the guard company had come into contact with the enemy. Xiao Shao immediately loaded the medical boxes onto the pack animals.
 
-{{< /columns >}}
+{{% /columns %}}
     

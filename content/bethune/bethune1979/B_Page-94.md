@@ -11,5 +11,5 @@ title: Page 094
 
 (94) The mobile medical unit was quickly organized, with Fang Zhaoyuan appointed as the political commissar. Nurse Jia, Xiao Shao, and Secretary Tong were all part of the team. Just like that, the medical unit led by Bethune moved through the rugged mountains of Shanxi and Hebei provinces. Amidst the hail of bullets, they timely saved the lives of countless wounded and sick soldiers of the Eighth Route Army.
 
-{{< /columns >}}
+{{% /columns %}}
     

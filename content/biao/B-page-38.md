@@ -12,4 +12,4 @@ title: Page 38
 
 When Petka arrived at the canteen, the food was hot and smelled good. He ate greedily, even licking the plate clean. The one-eyed Pyatakov began to tease him: "You greedy pig! You eat more than an elephant!" Petka became angry and threw his spoon right at One Eye's forehead.
 
-{{< /columns >}}
+{{% /columns %}}

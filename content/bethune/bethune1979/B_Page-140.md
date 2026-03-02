@@ -11,5 +11,5 @@ title: Page 140
 
 (140) Bethune thought for a moment and then made a swift decision: “Fang, add my name to your medical team.” Fang Zhaoyuan replied: “How is that going to work? The commander has already approved your return to Canada. This mission is even more important.”
 
-{{< /columns >}}
+{{% /columns %}}
     

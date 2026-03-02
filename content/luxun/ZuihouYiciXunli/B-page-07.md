@@ -12,4 +12,4 @@ title: Page 07
 
 Anschließend wechselte Lu Xun das Thema zu den Holzschnitten. Er sagte: „Kunstwerke erschaffen, das kann ich nicht, aber ich werde weiter Nachdrucke und Ähnliches vorstellen.“ Die jungen Leute erinnerten sich noch genau daran, dass Lu Xun in mühsamer Arbeit viele fortschrittliche Holzschnittsammlungen aus dem Ausland zusammengetragen und nachgeduckt und ihnen diese dann geschenkt hatte. Jede dieser hochwertigen Holzschnittsammlungen war durchtränkt von Lu Xuns Herzblut zur Förderung der Jugend! 
 
-{{< /columns >}}
+{{% /columns %}}

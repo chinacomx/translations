@@ -21,6 +21,6 @@ Der letzte Besuch
 
 Illustrationen: Sheng Zengxiang
 
-{{< /columns >}}
+{{% /columns %}}
 
 

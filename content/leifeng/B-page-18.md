@@ -13,4 +13,4 @@ weight: 21
 
 But he was too young—how could he become a soldier? He remembered what the PLA uncles told him: “Study well and be a good student of Chairman Mao.” Soon, the Land Reform Movement began in Lei Feng’s hometown, and he actively participated in the struggle. 
 
-{{< /columns >}}
+{{% /columns %}}

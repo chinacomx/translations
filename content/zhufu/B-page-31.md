@@ -12,4 +12,4 @@ title: Page 31
 
 Now, Xianglin's wife was left with nothing but her lone self.
 
-{{< /columns >}}
+{{% /columns %}}

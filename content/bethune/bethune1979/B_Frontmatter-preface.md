@@ -12,5 +12,5 @@ weight: 2
 
 【Summary】 In early 1938, Comrade Norman Bethune, a Canadian Communist Party member and renowned surgeon, travelled thousands of miles to China  to assist in China’s Anti-Japanese War. He established a model hospital and trained a large number of medical personnel in the Jin-Cha-Ji Anti-Japanese Base Area. Under heavy fire, he saved the lives of countless wounded soldiers of the Eighth Route Army on the battlefields, making an extraordinary contribution to the Chinese revolution. This film, guided by Chairman Mao’s brilliant work In Memory of Norman Bethune, depicts the remarkable achievements of Comrade Bethune, portraying him as a great internationalist warrior. (This book is adapted from the film of the same name.)
 
-{{< /columns >}}
+{{% /columns %}}
     

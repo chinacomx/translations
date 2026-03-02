@@ -11,5 +11,5 @@ title: Page 010
 
 (10) Bethune asked: “Are we surrounded by the enemy?” The Commander stood up and gestured: “No, it is us who have surrounded the enemy! The enemy may hold twenty-five of our cities, but the vast countryside is ours. From the perspective of the whole country, the enemy is submerged in the ocean of our people, who are resolutely resisting Japanese aggression.”
 
-{{< /columns >}}
+{{% /columns %}}
     

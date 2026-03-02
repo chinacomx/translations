@@ -11,5 +11,5 @@ title: Page 058
 
 (58) Outside the village, the cheers of the soldiers echoed. Bethune looked ahead and saw hundreds of Japanese soldiers shivering as they were escorted to the rear. The soldiers of the Eighth Route Army had cut off the enemy’s supply line and brought back a large number of captured weapons. A triumphant smile appeared on Bethune’s tired face.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -13,4 +13,4 @@ weight: 18
 
 New China had been established, and the vast labouring people had become the masters of the country. Lei Feng received the warm care of the Party and the government, and his hard days came to an end. 
 
-{{< /columns >}}
+{{% /columns %}}

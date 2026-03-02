@@ -12,4 +12,4 @@ title: Page 55
 
 Niqiu pulled the spy, who had had enough to drink, to the east bank. When everybody saw this, they happily said: "Niqiu is a good boy educated by the Communist Party, he averted yet another harm to the villagers!" Niqiu said with confidence: "Let's destroy this vermin and drive the Japanese devils out of China! Let's achieve total victory in the war!"
 
-{{< /columns >}}
+{{% /columns %}}

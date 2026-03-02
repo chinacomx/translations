@@ -11,5 +11,5 @@ title: Page 124
 
 (124) On the early morning of November 1st, 1939, after finishing his work at the rear hospital in Ganhe, the comrades packed their belongings and waited by the village for departure, while Bethune made a final inspection before leaving. He noticed that a severely wounded soldier who had undergone rescue treatment yesterday showed some improvement in his swelling, hinting at a ray of hope for survival.
 
-{{< /columns >}}
+{{% /columns %}}
     

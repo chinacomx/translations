@@ -11,5 +11,5 @@ title: Page 094
 
 (94) Bethune personally lifted Captain Xu’s blood-soaked uniform and, upon opening his abdomen, was shocked to find ten perforations in his intestines. He was all in admiration: “What a tough and courageous young man!” He carefully extracted the shrapnels from Captain Xu’s wounds and meticulously sutured each injury.
 
-{{< /columns >}}
+{{% /columns %}}
     

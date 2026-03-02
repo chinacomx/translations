@@ -16,5 +16,5 @@ title: Page 02
 // Warm congratulations to Comrade Tang Dagang on his honorable admission to the Communist Youth League of China! (Notice on the bulletin board) 
 Work hard, strive for the upper reaches. (Slogan on the bulletin board) //
 
-{{< /columns >}}
+{{% /columns %}}
     

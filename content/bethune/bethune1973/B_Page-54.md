@@ -11,5 +11,5 @@ title: Page 054
 
 (54) At dawn, wounded soldiers who had fought heroically in the battle were brought to the operating room at Heisi Temple, where Bethune worked with total concentration. Suddenly, the Japanese dispatched four bombers—a thunderous explosion rocked the area as a bomb detonated forty meters behind the temple, collapsing its rear wall.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 108
 
 (108) When he felt tired, Bethune would rinse his head with cold water. Sometimes, in the dead of night, he would suddenly jump off the kang, light a candle, put on his glasses, and sit by the typewriter to type or draw diagrams. Pouring his heart and soul into the work, in just two weeks, he compiled the learning materials urgently needed by the medical personnel.
 
-{{< /columns >}}
+{{% /columns %}}
     

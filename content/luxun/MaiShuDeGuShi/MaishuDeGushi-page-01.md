@@ -12,4 +12,4 @@ title: Page 01
 
 Es war ein vernieselter Tag im Spätherbst des Jahres 1932. Um die Mittagszeit war es in der Uchiyama-Buchhandlung in Shanghai ganz ruhig, es waren keine Kunden da. In einer Ecke des Ladens unterhielt sich Lu Xun mit dem Ladenbesitzer, seinem japanischen Freund Kanzō Uchiyama, darüber, wie die fortschrittliche Kultur durch die Reaktionäre der Guomindang unterdrückt wurde. Zu jener Zeit hatten diese nahezu sämtliche literarischen Schriften von Lu Xun verboten.
 
-{{< /columns >}}
+{{% /columns %}}

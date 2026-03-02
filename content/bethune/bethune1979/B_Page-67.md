@@ -11,5 +11,5 @@ title: Page 067
 
 (67) Bethune quickly rolled up his sleeve and said firmly: “Ling, draw my blood now.” Fang Zhaoyuan stepped forward, also rolling up his sleeve, and shouted: “No, take my blood!” Bethune pulled Fang back and said urgently: “There’s no time for a blood test. I’m Type O. Ling, hurry!”
 
-{{< /columns >}}
+{{% /columns %}}
     

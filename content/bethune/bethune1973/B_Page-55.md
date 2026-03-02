@@ -11,5 +11,5 @@ title: Page 055
 
 (55) The comrades were concerned about Bethune’s safety and urged him to take cover immediately. Bethune stood firm and said: “Can the frontline soldiers cease fighting when there are air raids? No! Our battlefield is the operating table, and we must hold our ground.” With that, he continued the surgery.
 
-{{< /columns >}}
+{{% /columns %}}
     

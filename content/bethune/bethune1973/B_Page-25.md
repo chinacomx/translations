@@ -11,5 +11,5 @@ title: Page 025
 
 (25) Bethune threw himself into his work with fiery dedication. In his first week, he examined over 500 wounded soldiers, and within the next four weeks, he performed surgery on more than 140. Deeply moved by the bravery of the Eighth Route Army soldiers, he said: “With such revolutionary spirit, we have everything!”
 
-{{< /columns >}}
+{{% /columns %}}
     

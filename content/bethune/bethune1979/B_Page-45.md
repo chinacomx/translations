@@ -11,5 +11,5 @@ title: Page 045
 
 (45) After Bethune had left the ward, he strolled along the riverside path with Minister Yu and Secretary Tong. Bethune muttered to himself: “I don’t understand. Fang is so diligent, yet his skills are so poor. What kind of school did he graduate from?”
 
-{{< /columns >}}
+{{% /columns %}}
     

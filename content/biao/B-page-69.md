@@ -12,4 +12,4 @@ title: Page 69
 
 Summer had arrived, and the roof needed to be painted. The director asked Petka to go shopping for paint. When he came to the market, he thought of his previous vagrant life and the embarrassment of stealing and being beaten up... UGH! What a bore! How confusing!
 
-{{< /columns >}}
+{{% /columns %}}

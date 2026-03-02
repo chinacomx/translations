@@ -11,5 +11,5 @@ title: Page 079
 
 (79) The Commander then said to Bethune: “However, I must also criticize you a bit. I heard you’ve been spending your entire monthly allowance of one hundred yuan on buying things to eat for the wounded. You know, this stipend was specifically given to you to take care of your health.” Bethune retorted: “But, Commander, how much do you receive each month? Five yuan, isn’t it?”
 
-{{< /columns >}}
+{{% /columns %}}
     

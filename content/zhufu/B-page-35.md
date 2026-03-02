@@ -12,4 +12,4 @@ title: Page 35
 
 Mr. Lu cautioned his wife in private, that although someone like Xianglin's wife seems pitiful, she exerts a bad moral influence. It is okay to use her help, but she should not lend a hand during the sacrifices. Otherwise, the ancestors would not eat on because of her taints.
 
-{{< /columns >}}
+{{% /columns %}}

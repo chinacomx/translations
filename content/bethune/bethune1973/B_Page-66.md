@@ -11,5 +11,5 @@ title: Page 066
 
 (66) At midday, just as Bethune was sterilizing instruments for an amputation surgery scheduled that afternoon, a breathless messenger rushed into the courtyard and reported: “The division chief of staff has suffered an injury to his left arm and is bleeding heavily, he’s already unconscious...”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -15,5 +15,5 @@ title: Page 58
 
 // Consolidate the dictatorship of the proletariat. (Slogan on sign) //
 
-{{< /columns >}}
+{{% /columns %}}
     

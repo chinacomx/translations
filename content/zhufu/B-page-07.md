@@ -12,4 +12,4 @@ title: Page 07
 
 Just after the new year, once when Xianglin's wife came back from rinsing rice by the river, she suddenly went pale and said that she just saw from afar a man pacing up and down on the other side of the riverband, who looked very similar to her husband's cousin. She was afraid that he had come to find her. Mrs. Lu was suspicious, but when she asked for details, Xianglin's wife would not say anything.
 
-{{< /columns >}}
+{{% /columns %}}

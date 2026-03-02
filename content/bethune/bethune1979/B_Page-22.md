@@ -11,5 +11,5 @@ title: Page 022
 
 (22) Minister Yu informed Bethune that his surgical instruments had not yet arrived. Eager to assess the medical equipment available, Fang Zhaoyuan led Bethune to a large steamer filled to the brim with sterilized dressings and instruments.
 
-{{< /columns >}}
+{{% /columns %}}
     

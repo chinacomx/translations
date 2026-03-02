@@ -11,5 +11,5 @@ title: Page 84
 
 (84) Cheng Hai and Zhuo Hong walked along the wide avenue of the work area. Xiaobei and a few classmates walked over, laughing and chatting. Cheng Hai asked them where they were going, and Xiaobei replied: “To my home to help me make up my lessons.” Zhuo Hong asked Xiaobei to teach them how to make a [model] glider, and Xiaobei nodded.
 
-{{< /columns >}}
+{{% /columns %}}
     

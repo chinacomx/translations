@@ -11,5 +11,5 @@ title: Page 139
 
 (139) Suddenly, the urgent assembly bugle sounded throughout the village. Fang Zhaoyuan came up the hill and told Bethune: “The enemy’s winter ‘mopping-up’ operation in Laiyuan has begun earlier than expected. A lieutenant general named Abe is personally leading the attack, and our forces have already engaged at Motian Ridge. When you depart, I’m afraid I won’t be able to come to see you off.”
 
-{{< /columns >}}
+{{% /columns %}}
     

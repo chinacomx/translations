@@ -12,4 +12,4 @@ title: Page 39
 
 Upon the commotion, the director rushed in. He gave Petka a stern look: "Stand in the doorway until everybody has finished their lunch!" After the children had finished their lunch, they ran past Petka in groups of twos and threes, some of them sticking out their tongues, some of them making faces at him.
 
-{{< /columns >}}
+{{% /columns %}}

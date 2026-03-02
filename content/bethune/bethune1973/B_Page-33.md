@@ -11,5 +11,5 @@ title: Page 033
 
 (33) Bethune told the messenger to carry one bowl, while he carried the other, heading straight for the wards. When the messenger  protested – “This was specially prepared for you by the organization!” – Bethune laughed and quipped: “If the organization can care for its soldier, shouldn’t I care for my wounded?”
 
-{{< /columns >}}
+{{% /columns %}}
     

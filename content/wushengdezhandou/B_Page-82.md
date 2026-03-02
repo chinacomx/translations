@@ -15,5 +15,5 @@ title: Page 82
 
 // Red Flag (cover of the book on the table) People’s Daily (on the newspaper at the back) //
 
-{{< /columns >}}
+{{% /columns %}}
     

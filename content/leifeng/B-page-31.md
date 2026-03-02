@@ -13,4 +13,4 @@ weight: 34
 
 Lei Feng always excelled at his homework, but he was never complacent about it. Once, he looked blankly at the history exam paper that had just been returned. Some classmates whispered to each other as they noticed him, saying: “It seems that Lei Feng didn’t do well this time!” 
 
-{{< /columns >}}
+{{% /columns %}}

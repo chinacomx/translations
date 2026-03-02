@@ -11,5 +11,5 @@ title: Page 116
 
 (116) They arrived at Dawang Village; it was eerily quiet. A village cadre led Bethune to the door of a house and knocked lightly three times. The door opened, and a young woman from the countryside, around twenty years old, stepped out. The cadre greeted her: “Lao Feng”.
 
-{{< /columns >}}
+{{% /columns %}}
     

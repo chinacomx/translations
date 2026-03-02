@@ -12,4 +12,4 @@ title: Page 47
 
 Petka did not pay him any attention and continued to walk ahead. Kudeyar caught up with him, yelling: "I will sue you! I will file a lawsuit!'' - "Go ahead and sue me, no one will believe an old drunkard like you.'' Petka felt very happy and went his way.
 
-{{< /columns >}}
+{{% /columns %}}

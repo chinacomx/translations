@@ -12,4 +12,4 @@ title: Page 78
 
 He took the watch out of his pocket, attached it to the watch chain with trembling hands and handed it to Natasha: "Here, for you!" Then he ran away quickly and disappeared into the noisy crowd.
 
-{{< /columns >}}
+{{% /columns %}}

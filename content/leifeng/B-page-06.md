@@ -13,4 +13,4 @@ weight: 9
 
 Unexpectedly, Lei Feng’s younger brother fell ill with typhoid and died in his mother’s arms. This series of disasters left their mother so heartbroken that she could not even cry.
 
-{{< /columns >}}
+{{% /columns %}}

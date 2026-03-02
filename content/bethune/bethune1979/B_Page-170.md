@@ -11,5 +11,5 @@ title: Page 170
 
 (170) In the distance, the intermittent sound of artillery fire could be heard. Bethune tilted his head and listened for a moment before asking: “The battle, how?” Minister Yu told him: “The situation is very good—the enemy has been completely surrounded by our forces.” A smile appeared on Bethune’s face.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 115
 
 (115) Bethune chuckled: “Three thousand yuan? So that’s my price?” Fang Zhaoyuan shook his head helplessly and said: “You’re really difficult to deal with!”
 
-{{< /columns >}}
+{{% /columns %}}
     

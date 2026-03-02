@@ -11,5 +11,5 @@ title: Page 157
 
 (157) In the morning, the wind and snow had stopped, and the medical team prepared to depart, but Bethune was nowhere to be seen. Secretary Tong pushed open the office door and found Bethune sleeping on the bed. His left hand’s middle finger, cut and swollen like a carrot, was soaking in a glass of saltwater. Secretary Tong was startled and exclaimed in surprise.
 
-{{< /columns >}}
+{{% /columns %}}
     

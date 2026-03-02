@@ -12,4 +12,4 @@ title: Page 33
 
 Suddenly, the tall puppet soldier pointed at the pond and said: "Look at the huge watermelon!" The short one immediately replied: "I saw it first!" The two puppet soldiers vied to undress in order to get into the water and fish it out.
 
-{{< /columns >}}
+{{% /columns %}}

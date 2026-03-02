@@ -11,5 +11,5 @@ title: Page 070
 
 (70) The comrades expressed their gratitude for Bethune’s timely rescue. With heartfelt joy, Bethune replied: “In saving lives, time is life. To save wounded soldier and alleviate their pain is the greatest happiness for us doctors.”
 
-{{< /columns >}}
+{{% /columns %}}
     

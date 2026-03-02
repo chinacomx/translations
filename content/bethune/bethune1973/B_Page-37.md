@@ -11,5 +11,5 @@ title: Page 037
 
 (37) Late one night, a wounded soldier shifted in bed and accidentally overturned his urinal, staining his quilt. The nurse, occupied with changing other patients’ dressings, hadn’t noticed. It was just at this moment that Bethune came to check on the patients with a lantern and found that quilt of the wounded was dirty.
 
-{{< /columns >}}
+{{% /columns %}}
     

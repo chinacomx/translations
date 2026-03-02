@@ -13,4 +13,4 @@ weight: 49
 
 When the students were going home after school, Lei Feng kindly asked: “Guohua, why aren’t you applying to join the Young Pioneers?” Tears dropped as Guohua heard the question.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 023
 
 (23) Bethune looked at the simple instruments and asked: “A saw, a saw for surgery?” Xiao Jia opened the white cloth bag and took out a saw used by engineers. Bethune was stunned: “This is for sawing wood!”
 
-{{< /columns >}}
+{{% /columns %}}
     

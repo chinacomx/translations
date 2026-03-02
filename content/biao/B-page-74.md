@@ -12,4 +12,4 @@ title: Page 74
 
 At this time, the police and a group of people arrived. Pyatakov was arrested.
 
-{{< /columns >}}
+{{% /columns %}}

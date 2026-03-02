@@ -12,4 +12,4 @@ title: Page 76
 
 He clearly recognized that the watch chain belonged to Kudeyar. He asked Natasha where the watch chain came from. She said: "This is my father\'s. He sent a letter from prison asking me to sell it… I can't live like this…"
 
-{{< /columns >}}
+{{% /columns %}}

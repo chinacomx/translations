@@ -12,4 +12,4 @@ title: Page 22
 
 He went back the same way, but he did not even see a shadow of his watch. When he had almost reached the "Milan" teahouse, his eyes suddenly brightened, as he saw the pocket with the watch in it. He bent down to pick it up. HA! The watch was still there!
 
-{{< /columns >}}
+{{% /columns %}}

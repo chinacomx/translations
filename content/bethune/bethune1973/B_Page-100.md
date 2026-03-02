@@ -11,5 +11,5 @@ title: Page 100
 
 (100) The assault platoon stormed into the enemy position like fierce tigers. Gunfire erupted instantly as our forces closed in from all sides. Clutching his wounded abdomen, Captain Xu stubbornly kept commanding—right until victory was secured.
 
-{{< /columns >}}
+{{% /columns %}}
     

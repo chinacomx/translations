@@ -11,5 +11,5 @@ title: Page 026
 
 (26) Bethune’s request was quickly approved by the Commander. The military district decided to convert the small temple at the entrance of Songyankou Village into a proper hospital. Immediately, the temple became a hive of activity, with soldiers painting, sewing, and making preparations. Bethune personally guided carpenters in crafting various medical instruments.
 
-{{< /columns >}}
+{{% /columns %}}
     

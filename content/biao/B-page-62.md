@@ -12,4 +12,4 @@ title: Page 62
 
 Everybody trusted him a lot, and he took care of all of their affairs with his full heart; he studied diligently and made good progress. When the new year started, he moved up to a higher class and studied together with the senior students. He did not have time to think about the matter of the watch anymore.
 
-{{< /columns >}}
+{{% /columns %}}

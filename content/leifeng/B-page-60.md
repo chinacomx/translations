@@ -13,4 +13,4 @@ weight: 63
 
 Determined to prevent any loss to the collective property, Lei Feng and his classmate worked together to pick up every single grain left in the field. The cooperative members all praised Lei Feng, calling him a young member who truly loved the collective.
 
-{{< /columns >}}
+{{% /columns %}}

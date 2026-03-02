@@ -12,4 +12,4 @@ title: Page 40
 
 At dusk, Petka worried that keeping the watch on him might cause trouble, so he went to the yard and dug a small hole at the foot of a wall. He wrapped up the watch, buried it and stuck a small twiglet on it in order not to remember the wrong spot.
 
-{{< /columns >}}
+{{% /columns %}}

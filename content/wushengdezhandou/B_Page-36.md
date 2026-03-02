@@ -11,5 +11,5 @@ title: Page 36
 
 (36) Xiaobei’s mother said unconvinced: “I spoiled [him]? You should focus on your own business and stop meddling in mine. If you’re so capable, why don’t you take care of your own child?” In fact, these words were directed at Cheng Hai. Zhuo Hong responded, “Every revolutionary comrade has the responsibility to care for the next generation. It is a major issue to oppose and prevent revisionism, this really is not a small issue.”
 
-{{< /columns >}}
+{{% /columns %}}
     

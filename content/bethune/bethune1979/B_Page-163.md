@@ -11,5 +11,5 @@ title: Page 163
 
 (163) When the medical team arrived at Huangshikou, Bethune had fallen unconscious and could no longer continue. Xiao Shao, clinging to a tree trunk, broke down in tears.
 
-{{< /columns >}}
+{{% /columns %}}
     

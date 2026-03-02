@@ -12,4 +12,4 @@ title: Page 18
 
 The children all went ashore, looking anxiously at the huge watermelon. Niqiu watched their frightened expressions through the small holes in the watermelon and could not help wanting to laugh.
 
-{{< /columns >}}
+{{% /columns %}}

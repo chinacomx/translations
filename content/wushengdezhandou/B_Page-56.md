@@ -11,5 +11,5 @@ title: Page 56
 
 (56) The man tried to escape, but several snow-white beams of light shone so brightly that he couldn’t open his eyes. Cheng Hai laughed scornfully and said, “You’re way too ‘loyal,’ what a ‘good friend.’ Asking a kid to crawl in while you were ready to escape if he was discovered? No way!”
 
-{{< /columns >}}
+{{% /columns %}}
     

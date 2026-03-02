@@ -11,5 +11,5 @@ title: Page 07
 
 (7) Zhuo Hong introduced herself to Cheng Hai and then asked when he would be available. Cheng Hai scratched the back of his head, [looking] a bit awkward. Xiao Tang hastened to say, “My master gives excellent talks, when he spoke to us...” Cheng Hai stopped him with a smile.
 
-{{< /columns >}}
+{{% /columns %}}
     

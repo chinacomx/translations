@@ -12,4 +12,4 @@ title: Page 02
 
 All of a sudden, he saw a woman selling pancakes which were brown, crisp and gave off hot steam. His mouth was watering, so he went and took one of the pancakes, smelled it, stuffed it in his pocket, turned around and walked away.
 
-{{< /columns >}}
+{{% /columns %}}

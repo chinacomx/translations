@@ -11,5 +11,5 @@ title: Page 069
 
 (69) As the hours passed, the surgery progressed under intense focus. Gradually, a smile broke through Bethune’s stern face— the division chief of staff was regaining consciousness.
 
-{{< /columns >}}
+{{% /columns %}}
     

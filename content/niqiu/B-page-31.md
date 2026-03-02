@@ -12,4 +12,4 @@ title: Page 31
 
 After a while, a plain clothes spy and two puppet soldiers came to the watermelon patch and searched the whole ground for melons but could not find a single ripe one. They became so angry that they pulled up all the melon seedlings and kicked the unripe melons all over the place.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 111
 
 (111) The organization approved Bethune’s request to return to the Americas in October. Before his departure, Bethune organized an inspection team to conduct a tour of the hospitals in the rear areas. He worked tirelessly day and night and, within less than a month, had diligently inspected three of the four military divisions.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 136
 
 (136) With tears in his eyes, Bethune spoke amid enthusiastic applause: “Dear comrades, over the past year and a half, I have taught you some medical techniques. But from you, I have learned what it means to be a true revolutionary fighter, one that the people truly need. For this, I will always be grateful to you.”
 
-{{< /columns >}}
+{{% /columns %}}
     

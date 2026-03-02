@@ -12,4 +12,4 @@ title: Page 13
 
 Als Lu Xun nun den Brief las und das Bild ansah, wurde er sehr wütend. Er verfasste sofort eine Antwort an den jungen Mann. Darin schrieb er: „Ich werde dieses Bild aufbewahren, erstens weil es das Werk eines jungen Mannes ist, der so viel erleiden musste, zweitens weil darauf die Inspekteure der Guomindang mit ihren Klauen Spuren hinterlassen haben und drittens auch zum Gedenken an die Dunkelheit und die Mühen der heutigen Zeit.“
 
-{{< /columns >}}
+{{% /columns %}}

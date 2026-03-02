@@ -12,4 +12,4 @@ title: Page 41
 
 She just kept telling people again and again about her tragedy. Whenever she saw a two- or three-year-old child, she would bring up the story about her Ah-mao, and say, "Ah ah! If our Ah-mao were still alive, he would be around that age…" 
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 18
 
 Xianglin's wife would not comply, so her mother-in-law told the younger son to tie her up with a rope and shove her into the sedan chair. Xianglin's wife howled and cursed the whole way, so by the time they arrived at Hejia Village, she was completely hoarse.
 
-{{< /columns >}}
+{{% /columns %}}

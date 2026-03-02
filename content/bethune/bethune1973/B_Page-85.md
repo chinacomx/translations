@@ -11,5 +11,5 @@ title: Page 085
 
 (85) Having treated most of the sick and wounded in the mountain area, Bethune volunteered to join the “Eastern Expedition Medical Unit,” bringing healthcare to the guerrilla bases across the plains of the central Hebei. In February 1939, through biting winter winds, he and his medical team penetrated Japanese-occupied territory near the Pinghan Railway blockade line.
 
-{{< /columns >}}
+{{% /columns %}}
     

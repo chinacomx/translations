@@ -13,4 +13,4 @@ weight: 45
 
 Lei Feng voluntarily helped that classmate by encouraging him to follow the rules. Eventually, that student stopped talking during class. Lei Feng’s classmates all liked him and praised him as an outstanding Young Pioneer.
 
-{{< /columns >}}
+{{% /columns %}}

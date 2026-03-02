@@ -11,5 +11,5 @@ title: Page 131
 
 (131) On November 9th, Bethune’s condition deteriorated severely. Though comrades urged him to seek treatment in the rear, he adamantly refused to leave the frontline. Eventually, the organization dispatched a senior officer who told him: The anti-“mop-up” campaign had been victorious and the battle was soon to be concluded.
 
-{{< /columns >}}
+{{% /columns %}}
     

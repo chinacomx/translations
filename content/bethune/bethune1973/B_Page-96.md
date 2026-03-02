@@ -11,5 +11,5 @@ title: Page 096
 
 (96) One afternoon, the battle on the frontline was extremely intense. The Japanese invaders were at the village bridgehead and at a cluster of three graveyards to the southwest, were putting up a desperate last stand from their fortified positions. Captain Xu was ordered to lead an assault platoon to capture the enemy’s machine gun position at the bridgehead. He and his soldiers leaped over the open field and, taking advantage of the enemy’s exposure when they looked out, threw a volley of grenades at them.
 
-{{< /columns >}}
+{{% /columns %}}
     

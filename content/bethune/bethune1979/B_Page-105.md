@@ -11,5 +11,5 @@ title: Page 105
 
 (105) Bethune stuffed the letters and newspapers into his pocket and continued examining the wounded on the stretchers. He had only checked four lightly wounded soldiers when the nurse prepared to follow the stretchers and leave. Bethune asked: “What about the others?” The nurse replied: “They were all sent to Dawang Village last night, arranged by Commissar Fang.”
 
-{{< /columns >}}
+{{% /columns %}}
     

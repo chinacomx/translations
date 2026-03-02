@@ -11,5 +11,5 @@ title: Page 149
 
 (149) The wounded soldier, realizing the urgency, pleaded: “Doctor Bai, please go! Don’t worry about me…” Fang Zhaoyuan glanced at his clock—only ten minutes remained. He made up his mind and said to Bethune: “Doctor Bai, you go ahead. I’ll finish the surgery!”
 
-{{< /columns >}}
+{{% /columns %}}
     

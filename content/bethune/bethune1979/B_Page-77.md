@@ -11,5 +11,5 @@ title: Page 077
 
 (77) One day, the Commander made a special trip to visit Bethune. The Commander said to him: “We received the Minister’s report and learned about the outstanding results you've achieved in frontline medical care. The mortality rate of the wounded has significantly decreased. I’ve brought you a congratulatory message.”
 
-{{< /columns >}}
+{{% /columns %}}
     

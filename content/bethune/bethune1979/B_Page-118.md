@@ -11,5 +11,5 @@ title: Page 118
 
 (118) Pushing open the door to the east room, Bethune saw an old woman sitting on the edge of the kang, stitching a shoe sole. On the kang, two young farmers sat under their quilts, smoking from long-stemmed pipes. Lao Feng lifted the quilt covering one of the young men, revealing his bandaged leg.
 
-{{< /columns >}}
+{{% /columns %}}
     

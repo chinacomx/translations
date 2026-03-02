@@ -11,5 +11,5 @@ title: Page 090
 
 (90) The gunshot echoed through the valley. Grandma Meng gazed in the direction where Xiaohu had fallen, overwhelmed with grief.
 
-{{< /columns >}}
+{{% /columns %}}
     

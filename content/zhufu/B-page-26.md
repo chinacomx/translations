@@ -12,4 +12,4 @@ title: Page 26
 
 She herself was at the back of the house chopping firewood and rinsing rice. After putting the rice into the pot, it was time to steam the beans, and only then did she call Ah Mao.
 
-{{< /columns >}}
+{{% /columns %}}

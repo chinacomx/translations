@@ -11,5 +11,5 @@ title: Page 004
 
 (4) Bethune arrived at Songyankou, the location of the Jin-Cha-Ji Military District Headquarters. As they were about to enter the village, a child wielding a red-tasselled spear jumped spiritedly into the middle of the road and demanded: “Where are you going? Do you have a travel pass?” Bethune dismounted with a smile and said to Secretary Tong, the interpreter, “It seems we’ll need to do a bit of diplomacy!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -13,4 +13,4 @@ weight: 46
 
 Soon, Lei Feng transferred to another school, which had not yet established a Young Pioneers branch. His new classmates were drawn to the red scarf on his chest. How everyone admired this red scarf!
 
-{{< /columns >}}
+{{% /columns %}}

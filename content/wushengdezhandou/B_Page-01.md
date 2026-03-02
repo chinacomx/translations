@@ -17,5 +17,5 @@ title: Page 01
 // Left: Learn from Daqing in Industry
 Right: Go all out and go fast //
 
-{{< /columns >}}
+{{% /columns %}}
     

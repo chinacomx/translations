@@ -13,4 +13,4 @@ weight: 41
 
 Lei Feng had great affection for the red scarf. The government gave him a white shirt, and this became his special “uniform” for wearing the red scarf. He always kept the shirt clean and folded the red scarf neatly.
 
-{{< /columns >}}
+{{% /columns %}}

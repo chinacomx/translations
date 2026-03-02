@@ -11,5 +11,5 @@ title: Page 011
 
 (11) That evening, Bethune sat in front of his typewriter and wrote a letter to his wife in Canada: “Dear Edith, and please convey this to the Party organization: I am thrilled to tell you that today I arrived at the headquarters of the Jin-Cha-Ji Military District and have been honoured to be appointed as the medical consultant for the entire army of this heroic unit.”
 
-{{< /columns >}}
+{{% /columns %}}
     

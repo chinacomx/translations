@@ -11,5 +11,5 @@ title: Page 76
 
 (76) After listening to Cheng Hai’s speech, Zhuo Hong’s mind was in a tumult, and her eyes filled with tears. “The timing and place are the same. Could this be real, or just a coincidence?” She recalled what her father, the district party secretary, had told her when she graduated from school.
 
-{{< /columns >}}
+{{% /columns %}}
     

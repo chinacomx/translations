@@ -11,5 +11,5 @@ title: Page 104
 
 (104) Soon after, the troops hurried to assemble and prepare their departure. Secretary Tong ran over, waving some letters in his hand, and shouted: “Doctor Bai, letters from Canada!” Bethune took the letters, unable to hide his excitement: “Finally, they have arrived. Thank you, Tong!”
 
-{{< /columns >}}
+{{% /columns %}}
     

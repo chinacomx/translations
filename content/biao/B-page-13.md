@@ -12,4 +12,4 @@ title: Page 13
 
 Everything was fine. Only one thing was not fine, to be locked up like a mouse in a jar. "Never mind!" He comforted himself, "in the evening, once the market closes, they will let me go." But how slowly the time passed! The sun was not in a hurry at all.
 
-{{< /columns >}}
+{{% /columns %}}

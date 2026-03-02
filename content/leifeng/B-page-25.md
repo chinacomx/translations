@@ -13,4 +13,4 @@ weight: 28
 
 To raise Lei Feng, the Party sent him to school for free. Lei Feng recalled the past: In the old society, we could only watch the landowners’ children go to school, but today, under the leadership of the Communist Party and Chairman Mao, I can go to school! 
 
-{{< /columns >}}
+{{% /columns %}}

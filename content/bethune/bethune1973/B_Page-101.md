@@ -11,5 +11,5 @@ title: Page 101
 
 (101) After hearing about Captain Xu’s heroic deeds, Bethune expressed his deep admiration. He firmly shook the hands of the two soldiers and replied: “Don’t worry, we will definitely do our best to restore his health as soon as possible!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 115
 
 (115) The next afternoon, a sentry standing on a dirt mound suddenly spotted a faint Japanese military banner on a high mountain to the north. Soon after, several hundred menacing enemy soldiers emerged, advancing aggressively towards their position. Recognizing the urgency of the situation, the sentry quickly ran back to the operating room to report.
 
-{{< /columns >}}
+{{% /columns %}}
     

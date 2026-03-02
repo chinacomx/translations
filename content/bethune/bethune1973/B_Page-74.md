@@ -11,5 +11,5 @@ title: Page 074
 
 (74) The comrades, concerned about Bethune’s age and frail condition, unanimously objected to him donating blood. But Bethune firmly with resolution: “If our soldiers at the front can shed blood and sacrifice their lives for the nation, how can I—working safely in the rear—hesitate to give even a little bit of mine?” He ordered the doctor beside him: “Quick, now! The wounded man’s life comes first!”
 
-{{< /columns >}}
+{{% /columns %}}
     

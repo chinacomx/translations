@@ -11,5 +11,5 @@ title: Page 66
 
 (66) On the way back to the cave, her daughter sobbed, and as she walked, she tried to comfort her. When she reached the temple of the village god, she sat down to catch her breath, took out a baked bun, and chewed it into small pieces to feed her child. A horse-drawn cart came up the road, and as it came to a turn in the road, two boxes slid off the cart, and the cart came to a stop.
 
-{{< /columns >}}
+{{% /columns %}}
     

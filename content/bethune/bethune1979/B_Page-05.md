@@ -11,5 +11,5 @@ title: Page 005
 
 (5) Just then, a little boy in a military uniform ran out of the village. Seeing the scene, he immediately dashed back into the village, shouting as he ran: “The foreign doctor is here! The foreign doctor is here!” – “Foreign doctor?” the child murmured to himself, looking at Bethune with astonished eyes.
 
-{{< /columns >}}
+{{% /columns %}}
     

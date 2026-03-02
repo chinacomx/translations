@@ -16,7 +16,7 @@ The life of Xianglin's wife was a life filled with oppression and humiliation, a
 
 In the current struggle to criticize Lin Biao and Confucius, "The New Year's Sacrifice" is of considerable significance in revealing the reactionary nature of the Confucian and Menzian doctrines, therefore we compile and publish this *lianhuanhua*.
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Further remark in the reprint:
 
@@ -30,4 +30,4 @@ In the current struggle to criticize Lin Biao and Confucius, "The New Year's Sac
 
 This book was first published by our publishing house in 1957, revised and republished in 1963. As requested by our readers, we have now included it into our "Image Repository of Modern Stories" series for a new edition.
 
-{{< /columns >}}
+{{% /columns %}}

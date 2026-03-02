@@ -11,5 +11,5 @@ title: Page 080
 
 (80) Bethune immediately rushed to her home. After carefully examining the patient, he declared with certainty: “This is treatable.” He then placed a packet of medicine into the elderly woman’s hands and gave her detailed instructions.
 
-{{< /columns >}}
+{{% /columns %}}
     

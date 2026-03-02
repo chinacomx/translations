@@ -11,5 +11,5 @@ title: Page 131
 
 (131) After completing the surgery, Bethune tore off his mask and, filled with anger, said to Secretary Tong: “We cannot be without anaesthesia! The wounded are brave, but I can’t bear it!” Secretary Tong told him: “The situation is serious! The Japanese blockade is tight, and there is no news from the comrades sent to Beiping and Tianjin to buy medicine.”
 
-{{< /columns >}}
+{{% /columns %}}
     

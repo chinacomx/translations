@@ -15,5 +15,5 @@ title: Page 25
 
 // Day and Night Store (Store Sign) //
 
-{{< /columns >}}
+{{% /columns %}}
     

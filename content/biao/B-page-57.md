@@ -12,4 +12,4 @@ title: Page 57
 
 One Saturday evening, Kudeyar suddenly came to pay Petka a visit, bringing toffees and begging him to return his watch. Petka's face instantly turned white: "No! I ask you to leave!" -- "What? You tell me to go? Give me back my watch!" Kudeyar started to make a big scene.
 
-{{< /columns >}}
+{{% /columns %}}

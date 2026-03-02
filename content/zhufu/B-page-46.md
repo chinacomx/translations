@@ -12,4 +12,4 @@ title: Page 46
 
 When she heard Auntie Liu's words, a look of horror appeared on her face. Auntie Liu continued: "I think, it would be better if you go to compensate for it as soon as possible. Go to the Temple of the Village God. Donate a threshold, make it as your substitute, let thousands of people step on it, let tens of thousands of people cross over it in order to atone for your sins in life, so that you will not have to suffer in death."
 
-{{< /columns >}}
+{{% /columns %}}

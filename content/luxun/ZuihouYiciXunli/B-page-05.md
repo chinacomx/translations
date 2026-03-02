@@ -12,4 +12,4 @@ title: Page 05
 
 Als er sich die Ausstellung zur Hälfte angesehen hatte, blätterte Lu Xun beiläufig in einem Gästebuch zur Ausstellung. Er sah, dass darin lobende Worte wie „Der Ruhm der Kunst“ und Ähnliches eingetragen waren und sagte: „Das ist doch eine ‚Schrifttafel‘.“ Die jungen Leute lachten. Sie verstanden die tiefere Bedeutung von Lu Xuns Worten: Genau wie die Lobhudeleien einer ‚Schrifttafel‘, die hoch über dem Eingang zu einer Halle hängt, hatte blindes Lob für die jungen Leute keinerlei Nutzen.
 
-{{< /columns >}}
+{{% /columns %}}

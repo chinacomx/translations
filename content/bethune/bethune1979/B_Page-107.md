@@ -11,5 +11,5 @@ title: Page 107
 
 (107) Bethune was not convinced and wanted to say more, but Secretary Tong urged him: "Let’s go! The unit has already set off.” With a stern face, Bethune said to Fang Zhaoyuan: “Alright, I’ll follow your orders for now, but I have my objections!” Still fuming, he strode toward his red horse.
 
-{{< /columns >}}
+{{% /columns %}}
     

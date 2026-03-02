@@ -12,4 +12,4 @@ title: Page 65
 
 Kudeyar also recognized Petka and shouted in anger: "You rogue! You stole my watch!" Petka felt very ashamed.
 
-{{< /columns >}}
+{{% /columns %}}

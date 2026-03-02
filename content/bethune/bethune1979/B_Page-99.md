@@ -11,5 +11,5 @@ title: Page 099
 
 (99) Listening to the song, brimming with the spirit of battle, Bethune asked Secretary Tong: “What song is this?” Secretary Tong replied: “It’s the ‘Song of the Guerrillas’.” Bethune praised it: “Good, very good”, and began humming along with Xiao Shao.
 
-{{< /columns >}}
+{{% /columns %}}
     

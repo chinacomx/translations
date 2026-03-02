@@ -11,5 +11,5 @@ title: Page 26
 
 (26) At this moment, Cheng Hai spotted the junk collector with the shabby cap again. The boy walked up to him, threw the lighter, and said, “I don’t want this grandpa lighter anymore.” The man forced a smile, [then] pulled a small cardboard box from his pocket and said, “Here is a new one for you.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 007
 
 (7) Holding onto the ship’s railing, Bethune’s heart surged with emotions: He felt immense honor being entrusted by the Communist Parties of Canada and the United States to go to China. A new life with battles was about to begin, and his heart was closely connected with the Chinese people who were fighting against Japanese imperialism.
 
-{{< /columns >}}
+{{% /columns %}}
     

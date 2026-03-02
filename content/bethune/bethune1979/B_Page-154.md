@@ -11,5 +11,5 @@ title: Page 154
 
 (154) Before dawn, Bethune arrived at a medical station. The station director invited him inside to rest. Bethune had not slept all night and felt extremely fatigued. Yet, upon hearing that there were over fifty wounded soldiers who had just come from the front lines, he immediately stood up to examine them.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 49
 
 Suddenly, Niqiu heard the spy grinding the rope on a rock, and when he came closer, he saw that the rope was about to be torn apart.
 
-{{< /columns >}}
+{{% /columns %}}

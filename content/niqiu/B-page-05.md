@@ -12,4 +12,4 @@ title: Page 05
 
 The watermelon patch and the village were separated by a big water pond, half a mile wide with reeds growing inside. Niqiu came from a poor family and had learned to work hard since he was a small kid. He was a good swimmer, so after he had accepted responsibility to protect the melons, he swam over each day to tend to the watermelons.
 
-{{< /columns >}}
+{{% /columns %}}

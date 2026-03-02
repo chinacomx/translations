@@ -13,4 +13,4 @@ weight: 40
 
 Lei Feng always held himself to strict standards and enthusiastically helped others. When he first tied the red scarf around his neck, he took an oath: “I am a Young Pioneer of Chairman Mao, and I will make the red scarf even redder through my actions!”
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 064
 
 (64) As soon as the battle began, Bethune set up a makeshift operating room in a small temple, five miles from the front line. Undeterred by enemy shelling and ignoring his own exhaustion, he remained on the battlefield, tirelessly he was treating the wounded, day in and day out.
 
-{{< /columns >}}
+{{% /columns %}}
     

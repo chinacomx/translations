@@ -11,5 +11,5 @@ title: Page 52
 
 (52) At night, in the field behind the factory, it was very silent except for the faint sound of the steam hammer. Xiaobei crawled into a hole that had been cut in the wire fence outside the temporary warehouse. The man with the shabby cap crouched outside, turning his head back and forth from time to time, sniffing the air like a wolf.
 
-{{< /columns >}}
+{{% /columns %}}
     

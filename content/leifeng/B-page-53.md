@@ -13,4 +13,4 @@ weight: 56
 
 An advanced agricultural cooperative was established in Lei Feng’s hometown. Working as a unit empowered everyone to work better; the following year, they reaped an abundant harvest. The rice stalks were so heavy with grain that they bent under the weight. Lei Feng was filled with indescribable joy.
 
-{{< /columns >}}
+{{% /columns %}}

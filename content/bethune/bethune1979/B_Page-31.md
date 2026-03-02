@@ -11,5 +11,5 @@ title: Page 031
 
 (31) Bethune recognized the child as the one who had asked for his travel pass on his first day in the village. He took the red-tasselled spear and, imitating Xiaohu’s manner, stretched out his hand and said: “Travel pass!” Xiaohu laughed so hard that even the back of his neck turned red.
 
-{{< /columns >}}
+{{% /columns %}}
     

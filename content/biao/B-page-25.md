@@ -12,4 +12,4 @@ title: Page 25
 
 The policeman called to open the door and they went to the second floor to see the director. The policeman requested for a receipt from the director and glanced at Petka: "Child, live well here! Goodbye!"
 
-{{< /columns >}}
+{{% /columns %}}

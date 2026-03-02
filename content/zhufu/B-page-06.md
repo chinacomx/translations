@@ -12,4 +12,4 @@ title: Page 06
 
 The days passed quickly, but her work never slacked off. Everyone said the female worker employed by Mr. Lu indeed was more diligent than a diligent man. By the end of the year, sweeping the dust, washing the ground, killing the chickens, slaughtering the geese, and preparing blessing ceremonies all night long, all of which were done by her alone without additional short-term helpers. The corners of her mouth gradually had a hint of a smile, her face also grew fairer and plumber.
 
-{{< /columns >}}
+{{% /columns %}}

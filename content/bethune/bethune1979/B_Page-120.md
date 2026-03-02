@@ -11,5 +11,5 @@ title: Page 120
 
 (120) As they stepped out of the east room, Lao Feng led Bethune to a backyard. She moved aside a bundle of sorghum stalks leaning against the wall, revealing a small door. Bethune squeezed through and found himself in what looked like a shop storeroom. On the kang lay three workers, and standing by the table was a neat and tidy young apprentice.
 
-{{< /columns >}}
+{{% /columns %}}
     

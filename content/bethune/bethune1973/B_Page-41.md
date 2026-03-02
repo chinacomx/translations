@@ -11,5 +11,5 @@ title: Page 041
 
 (41) For the noble ideals of communism, Bethune took pride in hardship and found joy in struggle. In a letter to comrades-in-arms abroad, he wrote: “Life here is quite hard, but I am profoundly happy.” – “Life in the past was once tempting, but for the sake of my ideals, let those days be gone forever! Onward, comrades, to the front!”
 
-{{< /columns >}}
+{{% /columns %}}
     

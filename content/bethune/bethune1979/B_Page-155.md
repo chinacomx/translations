@@ -11,5 +11,5 @@ title: Page 155
 
 (155) Fang Zhaoyuan went out to contact the commander about an urgent matter. In the ward, Bethune discovered a wounded soldier with a head injury so swollen that it was the size of a washbasin. The soldier was unconscious, and Bethune decided to perform surgery immediately. Secretary Tong suggested waiting for Fang Zhaoyuan to return, but Bethune insisted on acting quickly, determined to save time, and refused to wait.
 
-{{< /columns >}}
+{{% /columns %}}
     

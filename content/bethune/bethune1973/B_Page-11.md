@@ -11,5 +11,5 @@ title: Page 011
 
 (11) After visiting the hospital, confided his long-cherished wish to the interpreter and spoke with excitement: “Please convey to Chairman Mao that I hope to meet him soon!”
 
-{{< /columns >}}
+{{% /columns %}}
     

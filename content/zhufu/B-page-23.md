@@ -12,4 +12,4 @@ title: Page 23
 
 Unexpectedly, after three years, He Laoliu caught typhoid fever. He had already recovered, but after eating a bowl of cold rice, he relapsed and died at a young age.
 
-{{< /columns >}}
+{{% /columns %}}

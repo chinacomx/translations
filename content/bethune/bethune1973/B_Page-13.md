@@ -11,5 +11,5 @@ title: Page 013
 
 (13) Bethune asked the messenger to bring him a set of military uniform. After putting on the brand-new Eighth Route Army uniform, he gently touched the “Eighth Route Army” armband on his left arm and cheerfully told the messenger: “As of today, I am also an Eighth Route Army soldier!” Then, he burst into a hearty laugh.
 
-{{< /columns >}}
+{{% /columns %}}
     

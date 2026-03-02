@@ -12,4 +12,4 @@ title: Page 44
 
 "He doesn't even own a watch, he's accusing innocent people!" Petka said to the chief. The chief read Kudeyar the riot act. Kudeyar began to cry loudly. The chief ordered the policeman to take Petka back to the reformatory.
 
-{{< /columns >}}
+{{% /columns %}}

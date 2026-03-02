@@ -11,5 +11,5 @@ title: Page 74
 
 (74) Waves of fire raged in Cheng Hai’s chest. After Xiaobei finished his revelation, Cheng Hai rose abruptly and with a fierce shout. After the slogans calmed down, he took two steps forward to the front of the stage and yelled at Diao Qingyun, “Diao Qingyun, look at who I am!” Diao Qingyun’s body trembled, and he turned his head slightly.
 
-{{< /columns >}}
+{{% /columns %}}
     

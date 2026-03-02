@@ -11,5 +11,5 @@ title: Page 132
 
 (132) Bethune remained silent, pacing back and forth anxiously as if deep in thought. Suddenly, he stopped, and said to Secretary Tong in a firm voice: “I’m going back to Canada!”
 
-{{< /columns >}}
+{{% /columns %}}
     

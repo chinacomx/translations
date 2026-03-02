@@ -11,5 +11,5 @@ title: Page 111
 
 (111) As Bethune spoke, he handed a letter from Canada to Secretary Tong, heavy-heartedly. Secretary Tong picked it up and read: “The medical supplies from the Aid China Committee were sent out long ago, with a total of three batches shipped.” Bethune said angrily: “This confirms the news that someone discovered these supplies on the black market in Chongqing.”
 
-{{< /columns >}}
+{{% /columns %}}
     

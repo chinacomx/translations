@@ -11,5 +11,5 @@ title: Page 022
 
 (22) As the boat reached the middle of the river, the waves grew even fiercer, tossing the vessel violently. Bethune sat by the edge, his entire body drenched by the roaring spray, yet he remained focused on securing the medical crates, crossing the Yellow River without fear.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 110
 
 (110) Soon after, news spread that international aid supplies destined for China had been withheld by the Guomindang reactionaries. Bethune was extremely outraged and proposed to his superiors that he personally travel to the Americas to report to the world about China’s great Anti-Japanese War, raise funds for more medical equipment and supplies, and return to establish new medical schools and hospitals to meet the needs of the revolutionary war.
 
-{{< /columns >}}
+{{% /columns %}}
     

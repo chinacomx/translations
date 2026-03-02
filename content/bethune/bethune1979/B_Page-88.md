@@ -11,5 +11,5 @@ title: Page 088
 
 (88) The distance between Xiaohu and the stretchers grew wider. As he ran, he tripped and fell but quickly scrambled to his feet and kept going. Whooshing, the enemy’s hunting dogs lunged toward him.
 
-{{< /columns >}}
+{{% /columns %}}
     

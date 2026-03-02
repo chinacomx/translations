@@ -13,4 +13,4 @@ weight: 14
 
 Once, when Lei Feng came back from firewood chopping, the landlady asserted that he had chopped firewood on her land. She grabbed the billhook from Lei Feng’s hand and viciously slashed the back of his hand three times while cursing him: “You pauper! If you come again, I’ll cut off your hand!”
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 58
 
 The director hurried over and asked: "What's going on here?" Petka said: "He is my uncle, he ran away from the madhouse. Please don't let him come in again!" So everyone chased off Kudeyar.
 
-{{< /columns >}}
+{{% /columns %}}

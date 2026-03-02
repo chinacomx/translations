@@ -11,5 +11,5 @@ title: Page 103
 
 (103) After the surgery, Captain Xu had a hard time breathing. Bethune personally cut and assembled wooden boards to make a “backrest” for him to lie on comfortably.
 
-{{< /columns >}}
+{{% /columns %}}
     

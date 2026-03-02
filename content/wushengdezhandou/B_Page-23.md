@@ -11,5 +11,5 @@ title: Page 23
 
 (23) A model airplane grazed the sycamore leaves and landed in front of Cheng Hai, who picked it up. A few pupils came running, [all shouting], “Give it to me!” The one in front extended [his] hand, while the boy lagging behind, fuming with anger, shouted, “It’s mine! Give it to me!”
 
-{{< /columns >}}
+{{% /columns %}}
     

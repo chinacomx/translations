@@ -12,4 +12,4 @@ title: Page 30
 
 The villager saw that Niqiu could not be persuaded, so he could only walk away. Niqiu grabbed a long tree branch, swung himself and - SPLASH - plunged into the water. He put the watermelon skin on his head again and stood in the water which did not reach his neck.
 
-{{< /columns >}}
+{{% /columns %}}

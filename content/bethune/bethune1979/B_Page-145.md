@@ -11,5 +11,5 @@ title: Page 145
 
 (145) At that moment, the phone in the operating room also rang. The command centre informed them that the enemy was on the move from Wang’an and ordered the medical team to evacuate immediately.
 
-{{< /columns >}}
+{{% /columns %}}
     

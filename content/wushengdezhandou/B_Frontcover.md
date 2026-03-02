@@ -12,5 +12,5 @@ title: Front and back cover
 
 The Silent Fight
 
-{{< /columns >}}
+{{% /columns %}}
     

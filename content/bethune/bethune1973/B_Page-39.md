@@ -11,5 +11,5 @@ title: Page 039
 
 (39) Bethune insisted on covering the wounded soldier with his own quilt. The soldier, deeply moved, held Bethune’s hand and couldn’t utter a word. Seeing Bethune giving his quilt to the wounded soldier, the other doctors and nurses also brought their own quilts. Soon, the ward was filled with a pile of quilts.
 
-{{< /columns >}}
+{{% /columns %}}
     

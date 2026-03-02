@@ -16,5 +16,5 @@ title: 1 Norman Bethune 白求恩(1973)
 
 Norman Bethune
 
-{{< /columns >}}
+{{% /columns %}}
     

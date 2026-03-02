@@ -11,5 +11,5 @@ title: Page 073
 
 (73) Bethune took the Japanese military sword, swung it a couple of times, then draped the grass-green military coat over his shoulders. Like a child, he exclaimed: “Look, don’t I resemble a Turkish duke sweeping across the Balkan Peninsula?"”Secretary Tong and Xiao Shao burst into laughter, thoroughly amused.
 
-{{< /columns >}}
+{{% /columns %}}
     

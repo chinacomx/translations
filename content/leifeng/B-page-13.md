@@ -13,4 +13,4 @@ weight: 16
 
 Chapter 2: The Party is My Dear Mother
 
-{{< /columns >}}
+{{% /columns %}}

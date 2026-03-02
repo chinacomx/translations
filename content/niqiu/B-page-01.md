@@ -12,4 +12,4 @@ title: Page 01
 
 During the War of Resistance Against Japan, there was a place named Zhangjia Village, located on the east bank of the Luan River in Laoting County, which was in the border area of an anti-Japanese base. The village's anti-Japanese organization was under the leadership of the Communist Party and actively carried out the anti-Japanese struggle in accordance with Chairman Mao's military line.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 17
 
 As it turned out, Xianglin's wife had left for work without telling her mother-in-law. Her mother-in-law wanted to find a wife for her younger son, and without the income from marrying her off they could not afford to pay the bride price. Xianglin\'s wife was thus promised to He Laoliu of Hejia Village. After Xianglin's wife came home, her mother-in-law forced her to enter the bridal sedan chair.
 
-{{< /columns >}}
+{{% /columns %}}

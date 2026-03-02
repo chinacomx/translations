@@ -13,4 +13,4 @@ weight: 27
 
 Chapter 3: Studying for the Revolution
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 029
 
 (29) One day, Chairman Mao sent a telegram to the military command, instructing that Bethune be granted a monthly stipend of 100 yuan and appointing him as the military district’s medical advisor, expressing full trust in his expertise. Excited, the interpreter relayed the news to Bethune.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 050
 
 (50) One late night in November 1938, the frontline troops sent an urgent message notifying Bethune’s medical team to arrive at the frontline the next day to carry out their duty The location of the medical team was over a hundred li away from the frontline, with towering mountains and steep cliffs along the way, making travel extremely difficult. Without hesitation, Bethune declared: “Let’s leave immediately!”
 
-{{< /columns >}}
+{{% /columns %}}
     

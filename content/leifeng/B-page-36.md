@@ -13,4 +13,4 @@ weight: 39
 
 Chapter 4: Wearing the Red Scarf
 
-{{< /columns >}}
+{{% /columns %}}

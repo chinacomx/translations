@@ -11,5 +11,5 @@ title: Page 69
 
 (69) Quick to react, Cheng Hai’s wife stood up and grabbed the stick. She shouted, “You can run off, but even if you escaped today, you won’t escape tomorrow!” – “You! You!” The dog of a landlord trembled with anger. At that moment, Diao Qingyun rushed over, gnashed his teeth, and said, “You want to overturn everything, just like your husband. Let me tell you, we will be back!”
 
-{{< /columns >}}
+{{% /columns %}}
     

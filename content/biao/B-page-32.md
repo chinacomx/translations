@@ -12,4 +12,4 @@ title: Page 32
 
 The health worker then poured cold water into the bathtub, so Petka jumped in again. He anxiously felt for the watch at the bottom of the bathtub and finally got hold of a smooth round thing. He eagerly put it into his mouth again. He did not know why, but the water in the bathtub became less and less.
 
-{{< /columns >}}
+{{% /columns %}}

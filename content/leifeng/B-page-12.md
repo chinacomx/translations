@@ -13,4 +13,4 @@ weight: 15
 
 Blood was dripping from the back of Lei Feng’s hand. A burning flame of rage ignited his heart: Revenge! Revenge for his family! Overthrow this man-eating old society!
 
-{{< /columns >}}
+{{% /columns %}}

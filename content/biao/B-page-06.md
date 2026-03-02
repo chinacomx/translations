@@ -12,4 +12,4 @@ title: Page 06
 
 Suddenly, he noticed a tapping sound on the wooden wall: "Masters! Comrades! Let me out! In the name of God! My children are waiting for me!" A wave of boozy breath came over. It turned out to be a drunkard.
 
-{{< /columns >}}
+{{% /columns %}}

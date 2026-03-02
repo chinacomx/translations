@@ -12,4 +12,4 @@ title: Page 16
 
 Old Wei answered hurriedly, "Ah, ah! I was fooled. I apologize for this, Mr. and Mrs. Lu. She had come to me and begged for a work recommendation. How could I have known that she concealed this from her mother-in-law? Next time, I will find someone better to make up for the mistake."
 
-{{< /columns >}}
+{{% /columns %}}

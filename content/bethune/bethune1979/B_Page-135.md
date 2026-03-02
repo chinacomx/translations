@@ -11,5 +11,5 @@ title: Page 135
 
 (135) The military region held a grand farewell ceremony for Bethune. Representatives from the medical teams of each military division walked toward the rostrum, holding banners dedicated to Bethune. When Bethune received the final banner—from Fang Zhaoyuan, he couldn’t help but embrace him tightly.
 
-{{< /columns >}}
+{{% /columns %}}
     

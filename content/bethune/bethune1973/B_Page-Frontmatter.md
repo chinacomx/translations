@@ -22,5 +22,5 @@ Sheng Liangxian
 Zhou Yunda
 Shanghai Renmin Chubanshe
 
-{{< /columns >}}
+{{% /columns %}}
     

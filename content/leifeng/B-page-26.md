@@ -13,4 +13,4 @@ weight: 29
 
 On his first day of school, Lei Feng decided: The Party and Chairman Mao sent me to school, so I must study hard! As soon as he learned to write, he wrote “Long Live Chairman Mao” in his notebook. 
 
-{{< /columns >}}
+{{% /columns %}}

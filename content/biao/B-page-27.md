@@ -12,4 +12,4 @@ title: Page 27
 
 Petka was taken to the infirmary. The health worker told him to take off all his clothes, to take a bath in the bathtub and to burn his worn-out clothes in exchange for a set of new ones.
 
-{{< /columns >}}
+{{% /columns %}}

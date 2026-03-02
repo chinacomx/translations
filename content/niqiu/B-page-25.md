@@ -12,4 +12,4 @@ title: Page 25
 
 He got onto the west bank, stood up straight and looked at his shadow which was still short. He thought: "It's not yet afternoon, why did they all leave?"
 
-{{< /columns >}}
+{{% /columns %}}

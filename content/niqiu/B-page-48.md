@@ -12,4 +12,4 @@ title: Page 48
 
 At that moment -- BANG, BANG! -- suddenly two shots rang out, and the bullets flew over the reed pond. Niqiu hurriedly got down on the ground. The two puppet soldiers had fired the shots. In order to strengthen their courage, they had fired the two shots towards the sky and fled.
 
-{{< /columns >}}
+{{% /columns %}}

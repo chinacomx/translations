@@ -12,4 +12,4 @@ title: Page 07
 
 Because of Niqiu's enthusiastic work, and the frequent rainfalls, the melon vines crawled over the whole field and the small watermelons began to grow again. Before half a month had passed, they had all grown even bigger than Niqiu's wicker basket.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 077
 
 (77) After the news spread that Bethune had donated blood to a wounded soldier of the Eighth Route Army, village officials and villagers eagerly rushed to the operating room, volunteering to donate blood to the wounded. Looking at the enthusiastic crowd, Bethune asked with excitement, “How about we organize a volunteer blood transfusion team?” – “Yes!” came a thunderous response from the crowd.
 
-{{< /columns >}}
+{{% /columns %}}
     

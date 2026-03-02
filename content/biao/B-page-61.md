@@ -12,4 +12,4 @@ title: Page 61
 
 Because he had worked energetically, everyone elected him unanimously as group leader for general affairs. This cheered Petka up again.
 
-{{< /columns >}}
+{{% /columns %}}

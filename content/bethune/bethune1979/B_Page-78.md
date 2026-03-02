@@ -11,5 +11,5 @@ title: Page 078
 
 (78) Secretary Tong took the telegram and gasped: “Chairman Mao!” Overcome with emotion, he told Bethune: “Comrade Mao Zedong congratulates you on your achievements and wishes you good health!” Bethune took the telegram, pressed his hand to his chest, and said again and again: “Thank you! Thank you!”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -14,5 +14,5 @@ weight: 2
 Quotation by Chairman Mao:
 “Comrade Bethune, a member of the Communist Party of Canada, was over fifty when he was sent by the Communist Parties of Canada and the United States to aid China’s War of Resistance. He arrived in Yan’an in the spring of last year and later worked in Wutai Mountain, where he unfortunately died at his post. A foreigner, with no selfish motives but wholeheartedly dedicating himself to the liberation of the Chinese people—what kind of spirit is this? It is the spirit of internationalism, the spirit of communism. Every Chinese Communist must learn from this spirit.”
 
-{{< /columns >}}
+{{% /columns %}}
     

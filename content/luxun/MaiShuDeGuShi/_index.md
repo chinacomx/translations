@@ -20,5 +20,5 @@ Die Geschichte eines Buchkaufs
 
 Illustrationen: Hu Keli
 
-{{< /columns >}}
+{{% /columns %}}
 

@@ -12,4 +12,4 @@ title: Page 40
 
 After Niqiu dragged the spy down into the water to fill him up, he pulled him by the legs around the water chestnut pond, the lotus pond, and the big reed pond in one go.
 
-{{< /columns >}}
+{{% /columns %}}

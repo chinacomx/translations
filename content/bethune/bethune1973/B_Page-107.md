@@ -11,5 +11,5 @@ title: Page 107
 
 (107) After completing his mission in Central Hebei, Bethune returned to the mountainous regions of Western Hebei in June 1939 and threw himself into new battles. Guided by Marxism-Leninism and Chairman Mao’s writings, he began compiling his frontline medical experience, working day and night to produce compile books like "On the Organization and Techniques of Division-level Field Hospitals in Guerrilla Warfare".
 
-{{< /columns >}}
+{{% /columns %}}
     

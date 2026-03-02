@@ -11,5 +11,5 @@ title: Page 080
 
 (80) “That’s a different matter”, the Commander waved his hand and then pointed at Bethune: “Also, you don’t allow yourself proper rest. Everyone from Minister Yu to the cook has complaints about this!” Bethune smiled: “Alright, when I return to Songyankou, I’ll sleep for three days and three nights!”
 
-{{< /columns >}}
+{{% /columns %}}
     

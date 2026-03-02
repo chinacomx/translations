@@ -12,4 +12,4 @@ title: Page 44
 
 In the blink of an eye, it was the end of another year. After the 20<sup>th</sup> day of the twelfth lunar month, the Lu household was busy with the New Year's celebration again. This time, they found an extra help, Auntie Liu. Auntie Liu was a Buddhist vegetarian woman who refused to kill chickens and geese, but merely washed the vessels. Xianglin's wife had nothing to do except tend the fire, so she sat idly watching Auntie Liu wash the vessels.
 
-{{< /columns >}}
+{{% /columns %}}

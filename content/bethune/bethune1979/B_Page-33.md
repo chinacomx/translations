@@ -11,5 +11,5 @@ title: Page 033
 
 (33) Fang Zhaoyuan was stunned, feeling a chill run down his spine. Secretary Tong patted him on the shoulder and said comfortingly: “Go find Minister Yu.”
 
-{{< /columns >}}
+{{% /columns %}}
     

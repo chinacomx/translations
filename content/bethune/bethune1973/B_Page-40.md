@@ -11,5 +11,5 @@ title: Page 040
 
 (40) Bethune showed meticulous care and concern for the wounded and sick, yet he Bethune himself embraced austere living without complaint and without asking for anything in return. He resided in a civilian house, lit by an oil lamp, ate millet and black beans, and wore coarse military uniforms of the Eighth Route Army. Like the soldiers of the Eighth Route Army, he carried a sewing kit with him and mended his own clothes when they tore.
 
-{{< /columns >}}
+{{% /columns %}}
     

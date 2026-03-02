@@ -16,5 +16,5 @@ title: 2 Doctor Bethune 白求恩大夫(1979)
 
 Doctor Bethune
 
-{{< /columns >}}
+{{% /columns %}}
     

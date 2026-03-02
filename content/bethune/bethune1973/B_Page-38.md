@@ -11,5 +11,5 @@ title: Page 038
 
 (38) Without a word, Bethune turned and left the ward. Moments later, he returned carrying his own quilt. He removed the soiled bedding and began tucking his own quilt around the wounded soldier. Seeing that it was Bethune's quilt, the wounded soldier extended his hands quickly to stop him.
 
-{{< /columns >}}
+{{% /columns %}}
     

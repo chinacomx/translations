@@ -11,5 +11,5 @@ title: Page 078
 
 (78) The revolutionary masses’ immense enthusiasm for voluntarily donating blood deeply moved Bethune. He said to his comrades: “The masses are our blood bank. This is a groundbreaking achievement in the history of medicine. Chairman Mao said that by mobilizing and relying on the masses, we can overcome any difficulty. What a magnificent idea this is!”
 
-{{< /columns >}}
+{{% /columns %}}
     

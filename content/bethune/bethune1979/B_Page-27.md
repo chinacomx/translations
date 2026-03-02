@@ -11,5 +11,5 @@ title: Page 027
 
 (27) Within a few days, the small temple was completely transformed, and a wooden sign reading “Songyankou Model Hospital” was hung at the entrance. Fang Zhaoyuan, carrying a letter of introduction from Brigade Commander Wang, arrived excitedly to report to the hospital training program. Dr. Wang at the hospital informed him that all trainees were personally reviewed by Bethune, who had gone to the village to treat local villagers and had not yet returned.
 
-{{< /columns >}}
+{{% /columns %}}
     

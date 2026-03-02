@@ -11,5 +11,5 @@ title: Page 048
 
 (48) Having studied Marxism-Leninism and Chairman Mao’s works, Bethune immediately put theory into practice. Adapting to guerrilla warfare conditions, he proposed: At the frontlines—organize mobile medical units; in the rear areas—establish flexible special surgical hospitals. Build hospitals among the soldiers, among the masses—then the enemy can never destroy them.
 
-{{< /columns >}}
+{{% /columns %}}
     

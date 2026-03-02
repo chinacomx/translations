@@ -12,4 +12,4 @@ title: Page 47
 
 That evening, Xianglin's wife thought about Auntie Liu's words, the more she thought about it the more afraid she became. Only at dawn did she fall into a hazy sleep, and even then she had a nightmare. The next day, after breakfast, she went to the Temple of the Village God at the west end of town to ask to donate a threshold. At first, the temple attendant did not give his permission, only when she shed tears out of fear did he grudgingly agree. The price was twelve thousand large copper coins.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 171
 
 (171) When the villagers heard that Bethune was seriously ill, they crowded in front of his house, offering to donate blood for him. Minister Yu tried to persuade the villagers to calm down. Inside the house, the typewriter could be head with a slow “clack-clack”.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -12,4 +12,4 @@ title: Page 77
 
 Petka felt his head swell and the ground under his feet shaking, and he almost fell. He took the watch chain and looked at it for a long time…
 
-{{< /columns >}}
+{{% /columns %}}

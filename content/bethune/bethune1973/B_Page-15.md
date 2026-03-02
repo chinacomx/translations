@@ -11,5 +11,5 @@ title: Page 015
 
 (15) After 2 a.m., Bethune returned from Chairman Mao's place. Upon seeing the messenger, he ran over and hugged him, and said with excitement: “Glorious! Glorious! It is glorious for the Chinese people to have Mao Zedong! Happiness! Happiness! It is pure happiness for the Chinese people to have Chairman Mao.”
 
-{{< /columns >}}
+{{% /columns %}}
     

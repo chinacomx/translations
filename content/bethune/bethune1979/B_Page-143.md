@@ -11,5 +11,5 @@ title: Page 143
 
 (143) Bethune once again led the medical team to the front lines, moving from place to place. Finally, he participated in the famous Battle of Huangtuling. That day, he set up an operating room on a small stage in a dilapidated temple not far from the battlefield. Fang Zhaoyuan was performing surgery on a wounded soldier, with Bethune assisting him by his side.
 
-{{< /columns >}}
+{{% /columns %}}
     

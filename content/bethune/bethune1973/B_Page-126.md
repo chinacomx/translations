@@ -11,5 +11,5 @@ title: Page 126
 
 (126) A few days later, Bethune’s finger had swollen badly. His superiors urged him to rest in bed and even forbade sharing any news of the frontline battles with him. By then, the full-scale counterattack had already begun. One day, Bethune heard the distant “rumbling” of artillery. He pushed the door open and said with anger: “Listen! What’s that sound?”
 
-{{< /columns >}}
+{{% /columns %}}
     

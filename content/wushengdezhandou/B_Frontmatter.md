@@ -19,5 +19,5 @@ Adaptation: Dong Yaogen
 Painting: Wu Dacheng
 Shanghai People’s Press
 
-{{< /columns >}}
+{{% /columns %}}
     

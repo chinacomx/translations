@@ -12,4 +12,4 @@ title: Page 35
 
 Pouting with anger, the two puppet soldiers on the bank said: "That pond is really deep, be careful not to drown." The spy said proudly: "I won't drown. The old man who grows melons reserved this one especially for me. If I hadn't taught him a lesson last time, would he have saved one for me today?"
 
-{{< /columns >}}
+{{% /columns %}}

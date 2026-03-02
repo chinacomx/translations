@@ -11,5 +11,5 @@ title: Page 098
 
 (98) Under the warm, gentle sun, the medical team marched along the mountain paths once more. Xiao Shao hummed a Guerrilla Song as he walked: “We are all sharpshooters bold, each bullet strikes, each foe we fold! We are the troops that fly with speed, Through mountains high and river’s deep! ...”
 
-{{< /columns >}}
+{{% /columns %}}
     

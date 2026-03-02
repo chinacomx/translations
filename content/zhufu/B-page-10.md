@@ -12,4 +12,4 @@ title: Page 10
 
 Mr. Lu said, "now that her mother-in-law wants her to go home, what can we say?" Then they settled her wages. As Xianglin's wife had not used a single coin, the entire sum was handed over to her mother-in-law. The woman picked up the clothes of Xianglin's wife, thanked Mr. Lu, and then left. It was already midday.
 
-{{< /columns >}}
+{{% /columns %}}

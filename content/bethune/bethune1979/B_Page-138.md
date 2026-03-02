@@ -11,5 +11,5 @@ title: Page 138
 
 (138) By evening, smoke curled up from chimneys throughout the village. Secretary Tong approached Bethune and asked: “Do you miss home?” Bethune nodded: “If the flight goes smoothly, I can make it home to spend Christmas with my mother… but I must hurry back here. My children are waiting for anaesthesia to undergo surgery!”
 
-{{< /columns >}}
+{{% /columns %}}
     

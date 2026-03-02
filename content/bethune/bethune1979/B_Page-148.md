@@ -11,5 +11,5 @@ title: Page 148
 
 (148) Secretary Tong ran onto the stage and urgently shouted: “Doctor Bai, we must retreat immediately!” Bethune calmly replied: “This is an abdominal injury. If we don’t operate right away, it could be life-threatening!” Carefully, he continued with the surgery.
 
-{{< /columns >}}
+{{% /columns %}}
     

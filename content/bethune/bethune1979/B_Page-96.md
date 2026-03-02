@@ -11,5 +11,5 @@ title: Page 096
 
 (96) That night, Bethune worked by candlelight to design a new medicine chest. Fang Zhaoyuan looked at the blueprint and asked: “What is this? A medicine pack?” Bethune pointed and explained: “Yes, look—these compartments hold the medicine bottles securely. Open it, and everything is ready for use; close it, and it’s safe for travel.”
 
-{{< /columns >}}
+{{% /columns %}}
     

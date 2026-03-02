@@ -11,5 +11,5 @@ title: Page 093
 
 (93) On the afternoon of the third day of the battle, suddenly two soldiers rushed in carrying Captain Xu, who was seriously wounded. Captain Xu was unconscious, but he kept muttering in a low voice, “Comrades, charge! ...” Bethune immediately stepped forward, waved his hand, and said: “Quick, bring him to the operating table!”
 
-{{< /columns >}}
+{{% /columns %}}
     

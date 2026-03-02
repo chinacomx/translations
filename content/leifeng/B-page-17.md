@@ -13,4 +13,4 @@ weight: 20
 
 Lei Feng loved the People’s Liberation Army, and he often asked the uncle soldiers to tell him stories. Lei Feng had a plan: He hoped these PLA uncles would take him in as a young recruit so he could avenge the poor! 
 
-{{< /columns >}}
+{{% /columns %}}

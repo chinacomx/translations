@@ -13,4 +13,4 @@ weight: 48
 
 However, only one student, Guohua, sat aside silently. Why was that? Lei Feng was determined to find out.
 
-{{< /columns >}}
+{{% /columns %}}

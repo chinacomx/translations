@@ -11,5 +11,5 @@ title: Page 044
 
 (44) When Fang Zhaoyuan woke up, he found himself lying in a hospital bed, with Bethune leaning over him, holding a stethoscope. Fang Zhaoyuan struggled to sit up, but Bethune gently pressed him back and said in a kind tone: “Don’t move. You need to rest, understand?”
 
-{{< /columns >}}
+{{% /columns %}}
     

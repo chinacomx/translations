@@ -13,4 +13,4 @@ weight: 13
 
 Even though Lei Feng was still young, he was a very reasonable child. He knew that Great-aunt Six had a hard life, so he eagerly helped with the daily chores, went to the fields and gathered firewood in the mountains.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 10
 
 Lu Xun legte beide Bücher in die Hände des jungen Mannes: „Hier, zwei Bücher für einen Yuan." Der junge Mann nahm die Bücher entgegen und konnte seinen Ohren kaum trauen. Unverwandt blickte er den gütigen alten Mann an, der vor ihm stand. Plötzlich erinnerte er sich an ein Foto von Lu Xun, das er in einer Zeitschrift gesehen hatte. Er sprang fröhlich auf: „Sie, Sie sind doch..."
 
-{{< /columns >}}
+{{% /columns %}}

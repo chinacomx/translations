@@ -11,5 +11,5 @@ title: Page 162
 
 (162) At this moment, the medical team was moving along the mountain path. Bethune woke up and found himself lying on a stretcher. The sound of artillery was gone, and Xiao Shao was sobbing beside him. He forced a smile: “Little devil, why are you crying? How about singing a song?” With that, he began to lead the singing of the “Song of the Guerrillas”. Xiao Shao sang a few lines but soon broke into sobs again.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 021
 
 (21) “Me!” The hospital director, Fang Zhaoyuan, stepped forward uneasily to answer. Bethune shot Fang Zhaoyuan a stern look and said angrily: “You—are you even a doctor? Because of your poor technique, we must perform surgery immediately and amputate this soldier’s leg.”
 
-{{< /columns >}}
+{{% /columns %}}
     

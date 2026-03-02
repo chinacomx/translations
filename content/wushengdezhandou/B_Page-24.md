@@ -11,5 +11,5 @@ title: Page 24
 
 (24) Cheng Hai handed the airplane to the boy who arrived last. Wasn’t this the kid with the cigarette? Cheng Hai immediately recognized him. The boy also remembered what had happened yesterday, grasped the airplane tightly, and took to his heels again.
 
-{{< /columns >}}
+{{% /columns %}}
     

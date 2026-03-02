@@ -11,5 +11,5 @@ title: Page 75
 
 (75) “You don’t recognize me? I am the Cheng Hai you failed to kill!” Diao Qingyun trembled like his body had been scorched by flames. Furious, Cheng Hai began his denunciation…
 
-{{< /columns >}}
+{{% /columns %}}
     

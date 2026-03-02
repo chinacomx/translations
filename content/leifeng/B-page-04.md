@@ -13,4 +13,4 @@ weight: 7
 
 Not yet 12 years old, Lei Feng’s brother started working as a child labourer in a factory. The factory owner exploited the workers mercilessly like a vampire. His brother worked long hours every day, performing heavy tasks that even adults could not bear, and soon became seriously ill from exhaustion.
 
-{{< /columns >}}
+{{% /columns %}}

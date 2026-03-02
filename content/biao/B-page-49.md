@@ -12,4 +12,4 @@ title: Page 49
 
 He arrived at the spot where he had buried the watch. Timber was piled high on top of it. "My watch..." Broken-hearted, he started to cry.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 081
 
 (81) When the commander heard Bethune mention Songyankou, he frowned slightly and said: “There was a group of enemies sneaking in there. I fear the model hospital is…”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 019
 
 (19) Knowing that the wounded were at the frontline, Bethune immediately requested to go there. Under Yanan’s spring skies, Bethune wore the gray uniform of the Eighth Route Army and rode a tall brown horse, heading to the Anti-Japanese guerrilla base in Shanxi-Chahar-Hebei in high spirits.
 
-{{< /columns >}}
+{{% /columns %}}
     

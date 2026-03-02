@@ -19,5 +19,5 @@ title: Page 024
 Long live the people’s revolutionary struggle!
 Long live the Chinese Communist Party! //
 
-{{< /columns >}}
+{{% /columns %}}
     

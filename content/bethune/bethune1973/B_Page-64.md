@@ -11,5 +11,5 @@ title: Page 064
 
 (64) After returning to the village, Bethune borrowed the “dung carrier” from the villager to study it and designed a “medical carrier”. This tool was made of wooden boards and resembled a bridge in shape, with three drawers on each side. Carried by two mules, it could accommodate all the supplies needed for an operating room, a treatment room and a pharmacy.
 
-{{< /columns >}}
+{{% /columns %}}
     

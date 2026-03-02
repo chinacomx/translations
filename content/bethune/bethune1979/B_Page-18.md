@@ -11,5 +11,5 @@ title: Page 018
 
 (18) When he examined a young soldier and noticed that the soldier was running a fever, he gestured for the nurse to remove the bandage from the wounded leg.
 
-{{< /columns >}}
+{{% /columns %}}
     

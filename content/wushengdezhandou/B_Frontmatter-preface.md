@@ -11,5 +11,5 @@ title: Frontmatter-preface
 
 Abstract: Cheng Hai, a retired old worker, saw a pupil with a cigarette in his mouth. After careful observation, he discovered a man wearing a shabby cap who was luring the pupil. Thus, relying on the factory’s Party organization and cooperating closely with Teacher Zhuo, they finally caught the bad guy with the shabby cap who was corrupting a youth. This bad guy turned out to be a Guomindang spy who had destroyed Cheng Hai’s family before the liberation of China. The story alerts us to never forget class differences and remain vigilant about class struggle.
 
-{{< /columns >}}
+{{% /columns %}}
     

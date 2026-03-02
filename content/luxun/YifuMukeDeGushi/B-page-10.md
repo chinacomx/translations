@@ -12,4 +12,4 @@ title: Page 10
 
 Einen Tag vor der offiziellen Eröffnung der Ausstellung kamen die Herrschaften vom städtischen Parteibüro der reaktionären Guomindang zur Inspektion der Ausstellungsstücke. Als sie den Holzschnitt sahen, erschauderten sie vor Angst, als empfingen sie das strenge Urteil von Lu Xun, und sagten zitternd: „Dieses da, dieses Bild geht nicht!" Und so zwangen sie die Veranstalter, das Bild wieder abzuhängen.
 
-{{< /columns >}}
+{{% /columns %}}

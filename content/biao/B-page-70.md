@@ -12,4 +12,4 @@ title: Page 70
 
 "Catch the thief! Catch him!" Suddenly there was shouting. In the blink of an eye, an unkempt child ran past him. Petka immediately recognized that it was Pyatakov. He grabbed Pyatakov's shoulder at once. Pyatakov flinched, and then gave him a punch in the gut.
 
-{{< /columns >}}
+{{% /columns %}}

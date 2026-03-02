@@ -11,5 +11,5 @@ title: Page 169
 
 (169) Minister Yu helped Bethune lie down and told him: “Doctor Bai, don’t get agitated. We’ve already sent someone specially to Tianjin to find a solution!” Bethune shook his head and said gratefully: “Thank you, but I’m afraid it might be too late!”
 
-{{< /columns >}}
+{{% /columns %}}
     

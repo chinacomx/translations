@@ -15,4 +15,4 @@ weight: 3
 Dear Little Friends: You all love hearing stories about Uncle Lei Feng, don’t you? Uncle Lei Feng was a great revolutionary soldier—he was steadfast in his beliefs, clear in his loves and hates; selfless, always putting others first; hardworking, humble, and never forgetting his roots. Uncle Lei Feng will always be a role model from whom we can learn. 
 When Uncle Lei Feng was young, he also wore a red scarf. You must be curious about how he treated his life, studies, classmates, and the collective back then, right? This lianhuanhua tells the story of Uncle Lei Feng’s childhood.
 
-{{< /columns >}}
+{{% /columns %}}

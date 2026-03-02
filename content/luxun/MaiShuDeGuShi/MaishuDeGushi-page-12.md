@@ -12,4 +12,4 @@ title: Page 12
 
 Der junge Mann wollte Lu Xun so viel sagen, doch in dem Moment wusste er nicht, wo er anfangen sollte. Er schaute Lu Xun mit tiefer Zuneigung an, verbeugte sich respektvoll, steckte die beiden Bücher, die von einer tiefen revolutionären Freundschaft zeugten, vorsichtig in seine Leinentasche und verließ schnellen Schrittes den Laden.
 
-{{< /columns >}}
+{{% /columns %}}

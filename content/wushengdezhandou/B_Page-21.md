@@ -11,5 +11,5 @@ title: Page 21
 
 (21) It was completely dark. Cheng Hai ran across the main road of the work area and the nearby dormitories. [But] he couldn’t find the junk collector, nor did he see the boy with the cigarettes.
 
-{{< /columns >}}
+{{% /columns %}}
     

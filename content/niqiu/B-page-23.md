@@ -12,4 +12,4 @@ title: Page 23
 
 Suddenly, someone screamed from the west of the pond: "The enemies are coming!" As soon as the children heard that, they hurriedly went ashore and slipped into the sorghum field.
 
-{{< /columns >}}
+{{% /columns %}}

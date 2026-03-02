@@ -12,4 +12,4 @@ title: Page 04
 
 Im Frühjahr 1936 erhielt Lu Xun einen Holzschnitt und einen Brief. Geschickt wurden sie ihm von einem jungen Mann, der sich dem revolutionären Holzschnitt widmete und aus diesem Grund von den Reaktionären festgenommen und eingesperrt worden war.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ title: Page 12
 
 Mr. Lu checked outside, and did not find any trace of it either. He finally found it placed neatly on the river bank, with a bunch of vegetables next to it.
 
-{{< /columns >}}
+{{% /columns %}}

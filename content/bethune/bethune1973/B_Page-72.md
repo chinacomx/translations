@@ -11,5 +11,5 @@ title: Page 072
 
 (72) By the time Bethune had rushed back to Yangjiazhuang Village, it was already pitch-black outside. Without a rest, he went straight into the operating room. There, he found the wounded soldier—pale-faced and barely conscious. Anticipating that the soldier might not be able to survive the surgery, Bethune decided: “Blood transfusion!”
 
-{{< /columns >}}
+{{% /columns %}}
     

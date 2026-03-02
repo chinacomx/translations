@@ -11,5 +11,5 @@ title: Page 114
 
 (114) Under the starry night sky, Bethune, Fang Zhaoyuan, and Secretary Tong, all disguised as villagers, rode horses toward Dawang Village. Bethune removed his large mask and asked Fang Zhaoyuan in a low voice: “So, are you still mad at me?” Fang Zhaoyuan replied sternly: “I still think this risk you’re taking is unnecessary. The enemy put up a bounty of 3,000 yuan on you!”
 
-{{< /columns >}}
+{{% /columns %}}
     

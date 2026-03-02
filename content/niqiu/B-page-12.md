@@ -12,4 +12,4 @@ title: Page 12
 
 Niqiu picked up a knife, and -- WHOOSH -- let it down on the watermelon. A large piece of the watermelon fell off and revealed the cockscomb-coloured melon pulp, which was covered with shiny black seeds. They both dug out some pulp with small spoons and ate it, spitting out the watermelon seeds in order to use them as seeds.
 
-{{< /columns >}}
+{{% /columns %}}

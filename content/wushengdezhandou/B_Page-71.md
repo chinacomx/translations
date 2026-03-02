@@ -11,5 +11,5 @@ title: Page 71
 
 (71) With force, father and son Diao dragged Cheng Hai’s wife onto the speeding horse-drawn cart, beating her until she lost consciousness before pushing her off the cart. When she regained consciousness, it was already dark. Filled with bitter and deep-seated hatred, she gritted her teeth, endured the intense pain, and began to walk back, step by step.
 
-{{< /columns >}}
+{{% /columns %}}
     

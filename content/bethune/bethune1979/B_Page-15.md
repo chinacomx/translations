@@ -11,5 +11,5 @@ title: Page 015
 
 (15) Bethune grinned: “Alright, I’ll eat it. But tomorrow...” He made a gesture indicating that this should not happen again, then tore off a piece of chicken wing and held it out to Xiao Shao: “Eat! The Eighth Route Army does not allow waste!” This put Xiao Shao in a difficult position.
 
-{{< /columns >}}
+{{% /columns %}}
     

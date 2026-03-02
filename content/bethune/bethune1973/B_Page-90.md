@@ -11,5 +11,5 @@ title: Page 090
 
 (90) Bethune quickly threw himself into battlefield medical work. In late April, over 2,000 Japanese troops from Hejian City attacked our army’s station at Tunzhuang. One of our regiments intercepted them at Qihui Village, triggering fierce combat. Bethune led the medical team through a hail of bullets and rushed to the frontline to rescue the wounded.
 
-{{< /columns >}}
+{{% /columns %}}
     

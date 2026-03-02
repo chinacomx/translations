@@ -11,5 +11,5 @@ title: Page 063
 
 (63) After Commander Xu killed the enemy officer, our forces quickly seized the hill and re-sealed the breach. The remaining enemy troops had no choice but to retreat. Just as Commander Xu was about to continue directing the battle, a sharp pain suddenly overwhelmed him, and he passed out.
 
-{{< /columns >}}
+{{% /columns %}}
     

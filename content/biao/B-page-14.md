@@ -12,4 +12,4 @@ title: Page 14
 
 Carefully, he looked at the watch and put it into the pocket of his tattered trousers. Just in case, he tied the pocket with a knot. After a while, the door opened, a policeman walked in and called him out. Rejoicing, Petka jumped up, pulled up his pants and followed the policeman out of the guardroom.
 
-{{< /columns >}}
+{{% /columns %}}

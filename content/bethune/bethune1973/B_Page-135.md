@@ -11,5 +11,5 @@ title: Page 135
 
 (135) Upon hearing the news of Bethune’s critical illness, villagers and passing Eighth Route Army soldiers rushed to pay him a visit. Many of them had been treated by Bethune, and some even had Bethune’s blood flowing through their veins.
 
-{{< /columns >}}
+{{% /columns %}}
     

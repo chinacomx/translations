@@ -12,4 +12,4 @@ title: Page 11
 
 Lu Xun nickte lächelnd und sagte zu ihm: „Dieses Buch *Der eiserne Strom* hat ein anderer Herr übersetzt, daher muss ich von dir einen Teil der Kosten dafür einziehen. Das von mir übersetzte Buch aber schenke ich dir." Der junge Mann konnte seine innere Aufregung nicht mehr verbergen, sodass ihm Tränen in die Augen stiegen. Eilig zog er die Silbermünze, die noch seine Körperwärme trug, heraus und legte sie Lu Xun in die Hand.
 
-{{< /columns >}}
+{{% /columns %}}

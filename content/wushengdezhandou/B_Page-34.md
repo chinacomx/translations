@@ -11,5 +11,5 @@ title: Page 34
 
 (34) “He smokes?” Ji Guodong asked in shock, glancing at Xiaobei’s mother. Xiaobei’s mother exclaimed: “Oh!” and said doubtfully, “Did you see [him smoke]? Are you from their school? Don’t accuse the wrong person!”
 
-{{< /columns >}}
+{{% /columns %}}
     

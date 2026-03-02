@@ -12,4 +12,4 @@ title: Page 38
 
 After making a few rounds around the house, finally, there was nothing left for her to do but to walk away in confusion. All she could do on this day was to sit by the stove and tend to the fire.
 
-{{< /columns >}}
+{{% /columns %}}

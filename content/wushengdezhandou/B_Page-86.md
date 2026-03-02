@@ -11,5 +11,5 @@ title: Page 86
 
 (86) Zhuo Hong said with a smile: “Under the leadership of the working class, we will certainly do our job well.” Side by side and with vigorous strides, father and daughter were ready to face new fights.
 
-{{< /columns >}}
+{{% /columns %}}
     

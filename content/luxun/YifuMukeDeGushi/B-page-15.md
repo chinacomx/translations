@@ -12,4 +12,4 @@ title: Page 15
 
 Als Lu Xun den Bericht des jungen Mannes angehört hatte, sagte er entrüstet: „Für das Schnitzen eines Schriftsteller-Porträts eine solche Strafe zu erhalten, das ist wirklich düster, aber auch total lächerlich.“ Der junge Mann lachte bitter auf und sagte: „Im Gefängnis habe ich unerwarteterweise vieles gelernt. Ich habe so viele brutale Strafen gesehen, es war wirklich nicht auszuhalten…“
 
-{{< /columns >}}
+{{% /columns %}}

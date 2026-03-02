@@ -12,4 +12,4 @@ title: Page 21
 
 Finally, he stopped at the end of the market. He turned around and saw that no one was following him, thinking: "In the end I got away! Now I'm free!" He remembered the watch and felt for it. OH NO! The watch was gone, even his pocket had disappeared. He was so disheartened that he almost began to cry.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 068
 
 (68) Dr. Ling, suppressing his emotions, inserted the needle into Bethune’s left arm. Bright red blood streamed into the transparent syringe.
 
-{{< /columns >}}
+{{% /columns %}}
     

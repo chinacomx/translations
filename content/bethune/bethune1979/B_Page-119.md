@@ -11,5 +11,5 @@ title: Page 119
 
 (119) Seeing this, Doctor Bethune grinned and asked the elderly woman: “How are your children doing?” The old woman laughed: “They’re good! Lao Jiang is more obedient, this Xiao Ma was born in the Year of the Monkey, he’s so mischievous!” As she spoke, she skilfully unwrapped the bandage on Xiao Ma’s leg.
 
-{{< /columns >}}
+{{% /columns %}}
     

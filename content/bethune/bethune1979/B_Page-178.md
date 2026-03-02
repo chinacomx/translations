@@ -11,5 +11,5 @@ title: Page 178
 
 (178) Fang Zhaoyuan, tears streaming down his face, took Bethune’s surgical knife. Bethune sat up, raised his fist, and almost shouted: “Keep striving! For the needs of the revolution!”
 
-{{< /columns >}}
+{{% /columns %}}
     

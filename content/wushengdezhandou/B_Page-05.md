@@ -15,5 +15,5 @@ title: Page 05
 
 // Focus on revolution, promote production. (Slogan on the wall) //
 
-{{< /columns >}}
+{{% /columns %}}
     

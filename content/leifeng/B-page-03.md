@@ -13,4 +13,4 @@ weight: 6
 
 Lei Feng’s home was in Anqing Township, Wangcheng County, Hunan Province. When Lei Feng was five years old, his father died of a severe beating by the Japanese invaders and Guomindang reactionaries. Looking at her little son Lei Feng and his brothers, Lei Feng’s mother held back her tears and resolved to carry on.
 
-{{< /columns >}}
+{{% /columns %}}

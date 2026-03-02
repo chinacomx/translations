@@ -12,4 +12,4 @@ title: Page 09
 
 Nachdem sich Lu Xun alle Ausstellungsstücke angesehen hatte, fragten ihn die jungen nach seinem Gesamteindruck. Lu Xun nickte zufrieden und sagte: „Natürlich gibt es Fortschritte zu früher. Aber es gibt auch noch einige Mängel. Dies liegt an mangelnder Erfahrung und unzureichender Beobachtungsgabe.“ Er ermutigte die jungen Leute sich mehr dem realen Kampf zu widmen. 
 
-{{< /columns >}}
+{{% /columns %}}

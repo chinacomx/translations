@@ -13,4 +13,4 @@ weight: 47
 
 One day, exciting news spread throughout the school: a Young Pioneers branch was going to be established! The students eagerly discussed applying to join, and their chatter was lively!
 
-{{< /columns >}}
+{{% /columns %}}

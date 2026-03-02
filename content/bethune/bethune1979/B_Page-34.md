@@ -11,5 +11,5 @@ title: Page 034
 
 (34) That night, Bethune was writing training handouts by candlelight. Minister Yu entered the room and said with a smile: “I wanted to talk to you about the trainee doctors, particularly Dr. Fang from the Ninth Brigade.” Bethune replied stubbornly: “There’s no need to discuss. Fang—is not a doctor.”
 
-{{< /columns >}}
+{{% /columns %}}
     

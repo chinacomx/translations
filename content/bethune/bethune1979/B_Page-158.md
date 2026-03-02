@@ -11,5 +11,5 @@ title: Page 158
 
 (158) Fang Zhaoyuan picked up the pair of gloves Bethune had discarded during yesterday’s surgery and noticed a tear on the left middle finger. He said regretfully: “What bad luck—it had to be this glove that tore!”
 
-{{< /columns >}}
+{{% /columns %}}
     

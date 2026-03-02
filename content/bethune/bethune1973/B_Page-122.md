@@ -11,5 +11,5 @@ title: Page 122
 
 (122) The sound of heavy machine guns echoed at the village entrance. Bethune calmly removed the shrapnel from the wounded soldier, had him placed on a stretcher, and then quickly evacuated from the side of the mountain. Soon after, the Japanese invaders stormed into Sunjiazhuang – only to find the village completely evacuated.
 
-{{< /columns >}}
+{{% /columns %}}
     

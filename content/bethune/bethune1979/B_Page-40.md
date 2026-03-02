@@ -11,5 +11,5 @@ title: Page 040
 
 (40) Fang Zhaoyuan watched as Bethune walked away, then found a folder to block the candlelight. Smiling, he muttered: “You old chap, you’re not resting either!” He then turned back to his notes and continued writing.
 
-{{< /columns >}}
+{{% /columns %}}
     

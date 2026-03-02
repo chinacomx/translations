@@ -11,5 +11,5 @@ title: Page 084
 
 (84) “Long live Chairman Mao! Long live Chairman Mao!” The cheers of the crowd echoed thunderously. As the elderly woman gazed at Bethune’s silver strands of hair gently fluttering in the breeze, her eyes filled with tears of excitement.
 
-{{< /columns >}}
+{{% /columns %}}
     

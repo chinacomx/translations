@@ -11,5 +11,5 @@ title: Page 39
 
 (39) The sky was full of stars. Cheng Hai and Zhuo Hong said goodbye and left together. When they came out, a figure flashed in front of them. Zhuo Hong recognized Xiaobei and told Cheng Hai, “Xiaobei might have been eavesdropping just now.” Cheng Hai looked around and said, “It’s good that he heard. Oh, by the way, try to talk to him and invite him over to my place sometime.”
 
-{{< /columns >}}
+{{% /columns %}}
     

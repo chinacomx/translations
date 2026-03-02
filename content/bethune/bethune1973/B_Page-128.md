@@ -11,5 +11,5 @@ title: Page 128
 
 (128) Neither his superiors’ dissuasion nor his comrades’ objections could stop him. Despite his illness, Bethune set out with the medical team through a raging snowstorm. The mountain path was treacherously slippery, yet he pressed forward—snapping off a tree branch for support as he painstakingly advanced toward the front lines.
 
-{{< /columns >}}
+{{% /columns %}}
     

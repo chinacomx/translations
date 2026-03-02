@@ -12,4 +12,4 @@ title: Page 44
 
 Niqiu blinked with his small eyes and had an idea. He pulled a handful of green reeds, stepped them on the ground, twisting them into a rope. While the spy was still unconscious, he tied his hands together tightly.
 
-{{< /columns >}}
+{{% /columns %}}

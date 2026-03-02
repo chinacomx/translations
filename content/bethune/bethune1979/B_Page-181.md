@@ -11,5 +11,5 @@ title: Page 181
 
 (181) Fang Zhaoyuan could not bear it any longer. Covering his face, he ran outside and sat on the steps, sobbing uncontrollably. Snow began to fall again. Through the paper windows, people could see Minister Yu, Secretary Tong, and Company Commander Xu slowly removing their military caps. Outside, in the snow-covered courtyard, the people gathered likewise bowed their heads in deep grief.
 
-{{< /columns >}}
+{{% /columns %}}
     

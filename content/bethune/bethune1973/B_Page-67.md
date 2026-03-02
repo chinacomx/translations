@@ -11,5 +11,5 @@ title: Page 067
 
 (67) After confirming that the location was sixty li away, Bethune packed his medical bag, jumped onto his brown steed, and set off. The two military horses galloped like a whirlwind on the rugged mountain path, with Bethune’s heart burning with urgency, wishing he could grow wings to reach the wounded officer faster.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 062
 
 (62) During the training, he made every trainee take turns performing surgeries while standing by to quiz them. Those who answered correctly got to proceed immediately; those who didn’t received further explanation. Under Bethune’s meticulous guidance, the trainees learned through hands-on practice, rapidly advancing their medical skills.
 
-{{< /columns >}}
+{{% /columns %}}
     

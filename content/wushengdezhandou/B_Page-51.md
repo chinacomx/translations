@@ -11,5 +11,5 @@ title: Page 51
 
 (51) Cheng Hai asked which factory it was. Xiao Tang walked over and said, “It’s our factory.” Xiaobei looked at Xiao Tang in surprise, and Xiao Tang smiled. Cheng Hai waved his hand and said, “Come on, let’s discuss it and report to the Party Committee later.”
 
-{{< /columns >}}
+{{% /columns %}}
     

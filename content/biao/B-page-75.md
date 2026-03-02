@@ -12,4 +12,4 @@ title: Page 75
 
 Petka crossed the market and walked to the paint shop gloomily. He squeezed the watch in his pocket fiercely: What do I want this burden for? This hapless game! As he turned around the corner of the street, he suddenly saw a girl selling a watch chain. The girl turned out to be Natasha.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 041
 
 (41) The next evening, Fang Zhaoyuan carried a bucket of bloodstained bandages to the middle of the river, preparing to wash them. Xiaohu and Er Niu, who were playing by the riverbank, approached and asked: “Why not give them to the Women’s Rescue Association to wash?” Fang Zhaoyuan smiled and replied: “I can handle this myself.”
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -15,4 +15,4 @@ weight: 64
 Dear Little Friends: The story above is just a glimpse of what Uncle Lei Feng was like as a child. From a young age, Uncle Lei Feng loved the Party, loved Chairman Mao, and despised the old society. He always remembered the Party’s nurturing, set high standards for himself, and worked hard in his studies for the revolution. He loved the people, loved socialism, and always cared for the interests of the collective… Uncle Lei Feng cultivated these noble revolutionary qualities from a young age.
 Little friends, after reading this lianhuanhua, hopefully, you will follow Uncle Lei Feng’s example. From a young age, listen to the Party, listen to Chairman Mao, study hard, make progress every day, and strive to become successors to the revolutionary cause of the proletariat.
 
-{{< /columns >}}
+{{% /columns %}}

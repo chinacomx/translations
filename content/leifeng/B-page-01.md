@@ -13,4 +13,4 @@ weight: 4
 
 Chapter 1: The Man-Eating Old Society
 
-{{< /columns >}}
+{{% /columns %}}

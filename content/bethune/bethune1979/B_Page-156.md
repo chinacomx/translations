@@ -11,5 +11,5 @@ title: Page 156
 
 (156) By the time Fang Zhaoyuan returned, Bethune had already completed the surgery. Bethune said: “Fang, you’re late. The chances are slim, but we had to try.” Fang Zhaoyuan urged him: “Doctor Bai, you should rest.” Bethune sighed: “Alright, now I can rest and sleep.”
 
-{{< /columns >}}
+{{% /columns %}}
     

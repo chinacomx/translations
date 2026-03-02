@@ -12,4 +12,4 @@ title: Page 19
 
 The policeman walked and became thirsty, just as they passed by a teahouse called "Milan". He asked Petka to go in together to drink some tea, but Petka refused. The policeman said: "I know you won't run away. You're a good boy…" He left Petka waiting outside and went in by himself.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 17
 
 (17) “You don’t know, today I saw a...” Cheng Hai stopped. His eyes fixed on [something] across the road, and he immediately turned to his wife and said, “Come here. Keep an eye on those two people across the road. I’m going out for a bit.” Saying that, he rushed out.
 
-{{< /columns >}}
+{{% /columns %}}
     

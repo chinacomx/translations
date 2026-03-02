@@ -12,4 +12,4 @@ title: Page 50
 
 When it came to the winter solstice and the sacrifices to the ancestors, Xianglin's wife saw Mrs. Lu preparing the sacrificial offerings and went to get the wine cups and chopsticks. But to her surprise, Mrs. Lu, as before, rushed to say: "Leave it there, Xianglin's wife!" 
 
-{{< /columns >}}
+{{% /columns %}}

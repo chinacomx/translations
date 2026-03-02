@@ -11,5 +11,5 @@ title: Page 028
 
 (28) After the meeting, Bethune led a tour of the hospital with great enthusiasm. The hospital was equipped with a surgical suite, medical and surgical wards, a treatment room, and more — all arranged in an orderly fashion. All facilities in the hospital had coagulated from comrade Bethune’s blood and sweat.
 
-{{< /columns >}}
+{{% /columns %}}
     

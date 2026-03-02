@@ -11,5 +11,5 @@ title: Page 091
 
 (91) A few days later, Bethune, Minister Yu, and Secretary Tong arrived at the ruins of the burned-down hospital in Songyankou. Bethune gazed at the devastated remains of the Model Hospital, built with so much effort and dedication by his comrades. His heart ached as if it were being torn apart.
 
-{{< /columns >}}
+{{% /columns %}}
     

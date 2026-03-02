@@ -11,5 +11,5 @@ title: Page 002
 
 (2) Comrade Norman Bethune was born in March 1890 in Gravenhurst, Ontario, Canada. In his youth, he worked as a lumberjack, newspaper vendor, restaurant waiter, and ship stoker, forging deep class solidarity with the labouring people.
 
-{{< /columns >}}
+{{% /columns %}}
     

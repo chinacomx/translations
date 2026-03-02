@@ -11,5 +11,5 @@ title: Page 060
 
 (60) The entire mountain village buzzed with activity. Bethune organized the youth and children to stand guard and sing; the women to sew clothes and wash bandages; the middle-aged people to carry stretchers; and the elderly to assist with nursing care—mobilizing every villager into one resolute combat collective.
 
-{{< /columns >}}
+{{% /columns %}}
     

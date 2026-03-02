@@ -11,5 +11,5 @@ title: Page 060
 
 (60) The enemy heavy machine gun fired like a torrential downpour. Just as Commander Xu was closing in, he suddenly felt as if someone had punched him hard in the stomach. He staggered and fell to the ground.
 
-{{< /columns >}}
+{{% /columns %}}
     

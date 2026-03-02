@@ -13,4 +13,4 @@ weight: 30
 
 Lei Feng studied very hard. The school was 15 miles from his home, and he always went to school at the crack of dawn. He was never late or missed a single lesson. 
 
-{{< /columns >}}
+{{% /columns %}}

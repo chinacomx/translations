@@ -11,5 +11,5 @@ title: Page 023
 
 (23) In June 1938, Bethune arrived at Mount Wutai in Shanxi Province and was warmly welcomed by the military and civilians of the border region. Bethune declared enthusiastically: “Resisting fascism and imperialism is our common task. I will fight side by side with my Chinese comrades until victory is ours.”
 
-{{< /columns >}}
+{{% /columns %}}
     

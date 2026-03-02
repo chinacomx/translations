@@ -11,5 +11,5 @@ title: Page 33
 
 (33) Zhuo Hong said kindly: “We do have a responsibility [for educating children]. But cooperation between the school, family, and society is also needed to educate them well. For example, what does [your] child do after school?” Cheng Hai then added: “Do you know that Xiaobei smokes?”
 
-{{< /columns >}}
+{{% /columns %}}
     

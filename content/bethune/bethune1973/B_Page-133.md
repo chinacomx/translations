@@ -11,5 +11,5 @@ title: Page 133
 
 (133) On November 11, when Bethune arrived at Huangshikou Village in Tang County, his condition had taken a critical turn. The Party Central Committee and the great leader Chairman Mao were deeply concerned about Comrade Bethune’s health. At this time, an urgent telegram was sent from Yan’an, ordering the military region to spare no effort in rescuing him and to report on Bethune’s condition to Chairman Mao at any time.
 
-{{< /columns >}}
+{{% /columns %}}
     

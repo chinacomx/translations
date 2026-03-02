@@ -11,5 +11,5 @@ title: Page 073
 
 (73) When the medical staff heard the wounded soldier needed blood, they all rushed to roll up their sleeves. But Bethune stopped them with a glance: “No! You’ve all donated recently—you can’t donate more. This time, it’s my turn. I’m Type O, the universal donor.” With that, he unbuttoned his sleeve and extended his arm.
 
-{{< /columns >}}
+{{% /columns %}}
     

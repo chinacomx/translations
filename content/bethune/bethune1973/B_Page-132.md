@@ -11,5 +11,5 @@ title: Page 132
 
 (132) Carried on a stretcher through relentless gunfire, Bethune departed Wangjiatai. Violent fits of vomiting wracked his body throughout the journey, yet he kept his gaze fixed on the frontline: “What torments me most is our bleeding soldiers at the front. If I had but an ounce of strength left, I’d remain there.”
 
-{{< /columns >}}
+{{% /columns %}}
     

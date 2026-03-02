@@ -12,4 +12,4 @@ title: Page 26
 
 While the director looked through the police documents, he turned to Petka: "Oh, a thief? This can't be! You're still young, in a few years, you can turn into a useful person... now, we first have to put your appearance in order."
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 036
 
 (36) Bethune maintained constant vigilance over his patients’ conditions and wellbeing. At the slightest word of a patient’s distress, he would immediately rush to the ward. There, he would carefully observe each man’s spirits: when the wounded laughed and chatted, his face lit with joy; when anyone appeared downcast, he would sit beside them, gently inquiring if their wounds pained them.
 
-{{< /columns >}}
+{{% /columns %}}
     

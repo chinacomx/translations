@@ -11,5 +11,5 @@ title: Page 042
 
 (42) The children ran off to play again. Fang Zhaoyuan squatted on a large rock, scrubbing the bandages. As he scrubbed, he suddenly felt dizzy, staggered, and collapsed into the river.
 
-{{< /columns >}}
+{{% /columns %}}
     

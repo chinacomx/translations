@@ -11,5 +11,5 @@ title: Page 085
 
 (85) Grandma Meng quickly turned around and called to the stretcher bearers: “Hurry! There’s danger—take the side path!” The stretchers were rushed up the mountain. Meanwhile, Xiaohu sprinted into the opposite direction, dashing away from the retreating group.
 
-{{< /columns >}}
+{{% /columns %}}
     

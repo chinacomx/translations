@@ -11,5 +11,5 @@ title: Page 071
 
 (71) After the battle, Bethune and Secretary Tong went to wash themselves by the riverbank outside Quhuisi Village. Admiring the enchanting scenery, Bethune exclaimed: “How beautiful! It reminds me of where I was born—Gravenhurst, Muskoka Lake. I’ve always loved water, trees, and the sun since I was a child.”
 
-{{< /columns >}}
+{{% /columns %}}
     

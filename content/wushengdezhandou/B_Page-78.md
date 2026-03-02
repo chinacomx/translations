@@ -11,5 +11,5 @@ title: Page 78
 
 (78) “When [they] picked you up, you were wrapped in just a few rags, with a pawn ticket tucked inside. I kept it all the time, and now I give it to you. You are a child of the poor, and you must realize that it was Chairman Mao and the Communist Party who gave you your life. Never forget your roots...”
 
-{{< /columns >}}
+{{% /columns %}}
     

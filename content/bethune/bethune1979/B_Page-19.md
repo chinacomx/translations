@@ -11,5 +11,5 @@ title: Page 019
 
 (19) Nurse Xiao Jia unwrapped the blood-stained bandage, and several sorghum stalks fell out from inside. Bethune grabbed the stalks and demanded sharply: “Why wasn’t a splint used?” Xiao Jia stammered in response: “We ran out of splints.”
 
-{{< /columns >}}
+{{% /columns %}}
     

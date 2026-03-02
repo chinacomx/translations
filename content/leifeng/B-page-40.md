@@ -13,4 +13,4 @@ weight: 43
 
 After cleaning the classroom, he would go out to water the plants and pull weeds around the schoolyard. Inspired by Lei Feng, his classmates also competed to do good deeds and learn to serve the people.
 
-{{< /columns >}}
+{{% /columns %}}

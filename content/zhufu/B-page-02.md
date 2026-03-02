@@ -12,4 +12,4 @@ title: Page 02
 
 Old Wei called her Xianglin's wife, said she was her maternal family's neighbour, and she came out to work because her husband had died. Mr. Lu frowned, and his wife immediately knew what he meant, that he disliked the status of Xianglin's wife as a widow.
 
-{{< /columns >}}
+{{% /columns %}}

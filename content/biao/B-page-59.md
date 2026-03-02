@@ -12,4 +12,4 @@ title: Page 59
 
 Winter came and heavy snow fell. The director called the children to carry the timber from inside the courtyard into the storehouse. Petka thought of how he could finally get his hands on his beloved watch, so he also joined with enthusiasm: "Move up, come on!" He threw himself into the task at hand and ordered everyone to pass the timber just like a commander.
 
-{{< /columns >}}
+{{% /columns %}}

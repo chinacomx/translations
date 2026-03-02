@@ -13,4 +13,4 @@ weight: 19
 
 A cadre from the peasant association was very concerned about Lei Feng and often told him, “Remember, our saviors are the Communist Party and Chairman Mao. You must listen to the Party and listen to Chairman Mao’s words…” Lei Feng kept this firmly in his heart. 
 
-{{< /columns >}}
+{{% /columns %}}

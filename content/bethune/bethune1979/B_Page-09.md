@@ -11,5 +11,5 @@ title: Page 009
 
 (9) After Bethune took his seat, the Commander pointed to a map on the wall and explained: “The Guomindang has abandoned this area, which spans 800,000 square kilometres and is home to 25 million people. The Japanese have concentrated their forces from Shanxi, Hebei, and Chahar provinces to confront us. Comrade Bethune, you could say that you are now at the very heart of the war.”
 
-{{< /columns >}}
+{{% /columns %}}
     

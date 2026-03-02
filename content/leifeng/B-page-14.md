@@ -13,4 +13,4 @@ weight: 17
 
 In 1949, the old society had collapsed, and Lei Feng’s hometown had been liberated. The Communist Party had arrived! The People’s Liberation Army had arrived! Lei Feng and the villagers cheered together: “We have hope now! We have been freed!”
 
-{{< /columns >}}
+{{% /columns %}}

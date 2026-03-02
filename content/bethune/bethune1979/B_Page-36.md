@@ -11,5 +11,5 @@ title: Page 036
 
 (36) The training began, and Bethune taught the trainees various medical techniques—sterilization, wound dressing, trauma treatment, amputation, and more—in a clear and accessible manner. Fang Zhaoyuan listened attentively and took detailed notes.
 
-{{< /columns >}}
+{{% /columns %}}
     

@@ -11,5 +11,5 @@ title: Page 137
 
 (137) After the meeting, Bethune returned to his room to pack his belongings. As he flipped through his things, he came across a photograph of himself with Xiaohu, who was holding his red-tasselled spear. His expression suddenly changed. He stared at the photo for a long time, lost in deep thought.
 
-{{< /columns >}}
+{{% /columns %}}
     

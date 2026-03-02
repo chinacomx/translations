@@ -12,4 +12,4 @@ title: Page 51
 
 She withdrew her hand as if it had been branded with red-hot metal, her face instantly became ashen, and she did not try again to fetch the candlestick, but just stood there dejectedly.
 
-{{< /columns >}}
+{{% /columns %}}

@@ -11,5 +11,5 @@ title: Page 112
 
 (112) Just at this moment, the Japanese invaders amassed 50,000 troops and launched a large-scale “winter mop-up” against the mountainous areas of western Hebei. Under the leadership of the great leader Chairman Mao, the border region’s military and civilians once again launched an anti-“mop-up” campaign. Bethune decided to postpone his return and led the medical team to rush to Motianling, where the fighting was most intense.
 
-{{< /columns >}}
+{{% /columns %}}
     

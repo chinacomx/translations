@@ -12,4 +12,4 @@ title: Page 52
 
 GLUG, GLUG -- The spy drank from the water like a bottle gourd from sesame oil, and a stream of bubbles rose to the surface.
 
-{{< /columns >}}
+{{% /columns %}}

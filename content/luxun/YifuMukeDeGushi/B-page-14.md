@@ -12,4 +12,4 @@ title: Page 14
 
 Nicht viel später erhielt der junge Mann Lu Xuns Einladung, ihn zu Hause zu besuchen und mit ihm ein persönliches Gespräch zu führen. Lu Xun fragte ihn zu seinem harten Los, und der junge Mann vertraute ihm die seit Jahren in ihm schwelende Verbitterung und seinen Kummer an, auch von der Festnahme und Inhaftierung durch die Reaktionäre der Guomindang im Jahr 1932 erzählte er Lu Xun.
 
-{{< /columns >}}
+{{% /columns %}}

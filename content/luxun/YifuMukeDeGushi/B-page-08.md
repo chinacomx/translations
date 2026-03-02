@@ -12,4 +12,4 @@ title: Page 08
 
 Zu Beginn des Jahres 1935 war der junge Mann dann, nachdem er nach einem qualvollen Gefängnisaufenthalt entlassen worden war, Lehrer an einer Schule geworden. Aber er hatte sich immer noch ganz genau an Lu Xuns Unterweisungen erinnert. In seiner Freizeit nahm er wieder das Schnitzmesser zur Hand. Um die Erfolge von Lu Xuns Kampf zu ehren und seine eigene Entschlossenheit auszudrücken, dessen Kampf fortzusetzen, hatte er diesen Holzschnitt angefertigt.
 
-{{< /columns >}}
+{{% /columns %}}

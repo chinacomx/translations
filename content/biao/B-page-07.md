@@ -12,4 +12,4 @@ title: Page 07
 
 This was ridiculous! "You fool", Petka said, "how can I let you out? I am locked up in here just like you!"
 
-{{< /columns >}}
+{{% /columns %}}

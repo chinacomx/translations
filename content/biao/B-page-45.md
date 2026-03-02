@@ -12,4 +12,4 @@ title: Page 45
 
 The policeman said to Petka: "Go back by yourself, you are an honest boy.'' And Petka indeed started to walk back to the reformatory. He did not want to run away now because his beloved watch was still buried in the yard of the reformatory!
 
-{{< /columns >}}
+{{% /columns %}}
