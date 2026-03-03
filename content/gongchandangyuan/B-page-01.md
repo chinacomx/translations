@@ -2,7 +2,7 @@
 title: "Page 01 / Panels 01-06"
 ---
 
-![renyu page](/images/renyu/renyu_01.png)
+![gongchandangyuan page](images/gongchandangyuan/gcdy_01.png)
 
 {{% columns %}}
 

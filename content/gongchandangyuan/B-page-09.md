@@ -2,7 +2,7 @@
 title: "Page 04 / Panels 20-25"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_06.png)
+![gongchandangyuan page](images/gongchandangyuan/gcdy_09.png)
 
 {{% columns %}}
 -   二十&emsp;一场异常紧张的战斗。 

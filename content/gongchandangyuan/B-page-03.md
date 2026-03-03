@@ -2,7 +2,7 @@
 title: "Page 03 / Panels 13-19"
 ---
 
-![renyu page](/images/renyu/renyu_03.png)
+![gongchandangyuan page](images/gongchandangyuan/gcdy_03.png)
 
 {{% columns %}}
 -   十三&emsp;这里风平浪静，水草丰盛，不仅鱼群多，而且还有海豚等大海兽来栖息。这时渔船关掉马达缓慢行驶，因为人鱼视觉虽然差，但听觉却很灵敏，稍有机器响动就会闻声而逃。 

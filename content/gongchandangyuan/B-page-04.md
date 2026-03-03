@@ -2,7 +2,7 @@
 title: "Page 04 / Panels 20-25"
 ---
 
-![renyu page](/images/renyu/renyu_04.png)
+![gongchandangyuan page](images/gongchandangyuan/gcdy_04.png)
 
 {{% columns %}}
 -   二十&emsp;一场异常紧张的战斗。 

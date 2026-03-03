@@ -2,7 +2,7 @@
 title: "Page 02 / Panels 07-12"
 ---
 
-![renyu page](/images/renyu/renyu_02.png)
+![gongchandangyuan page](images/gongchandangyuan/gcdy_02.png)
 
 {{% columns %}}
 -  七&emsp;生物学家为了对人鱼进行研究，不得不把它取了出来，摆开一看，发现它是一具人造模型，只不过是把猴子的下身用一张鱼皮精巧地缝在一起而已。 
