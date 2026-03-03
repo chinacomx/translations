@@ -1,5 +1,5 @@
 ---
-title: Page 04 / Panels 20-25
+title: "Page 04 / Panels 20-25"
 ---
 
 ![renyu page](/images/renyu/renyu_04.png)
@@ -16,7 +16,7 @@ title: Page 04 / Panels 20-25
 
 {{% columns %}}
 -   二十二&emsp;大船刚把人鱼吊上来，科学家们就开始了紧张的调查。每一个有价值的场面都被摄入镜头。 
--   23&emsp;The large ship had barely lifted the mermaid, when the scientists began their tense investigation. Every valuable aspect was recorded by the camera lens.
+-   22&emsp;The large ship had barely lifted the mermaid, when the scientists began their tense investigation. Every valuable aspect was recorded by the camera lens.
 {{% /columns %}}
 
 {{% columns %}}
