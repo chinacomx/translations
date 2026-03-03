@@ -1,5 +1,5 @@
 ---
-title: Page 02 / Panels 07-12
+title: "Page 02 / Panels 07-12"
 ---
 
 ![renyu page](/images/renyu/renyu_02.png)
