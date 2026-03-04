@@ -1,5 +1,5 @@
 ---
-title: "Page 01 / Panels 01-06"
+title: "Page 01 / Panels 01-03"
 ---
 
 ![gongchandangyuan page](images/gongchandangyuan/gcdy_01.png)
