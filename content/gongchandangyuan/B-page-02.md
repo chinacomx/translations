@@ -5,31 +5,31 @@ title: "Page 02 / Panels 04-09"
 ![gongchandangyuan page](images/gongchandangyuan/gcdy_02.png)
 
 {{% columns %}}
--  七&emsp;生物学家为了对人鱼进行研究，不得不把它取了出来，摆开一看，发现它是一具人造模型，只不过是把猴子的下身用一张鱼皮精巧地缝在一起而已。 
--   7&emsp;In order to conduct research on the mermaid, biologists had no choice but to take it out, [but] after opening it up, they discovered it was a man-made model: it was merely the lower body of a monkey ingeniously sewn together with fish skin.
+- 4&emsp;当辽沈战役即将打响的时候，团长命令他留下和师长一起接管铁路。他抱着枪哭了一宿，执拗地要跟队伍向南方开拔。
+- 4&emsp;When the fighting during the Liaoshen Campaign was about to begin, the regiment commander ordered him to stay behind and together with the division commander assume control over the railroad. Hugging his rifle he cried the entire night, stubbornly wanting to set out southward with the troops.
 {{% /columns %}}
 
 {{% columns %}}
--   八&emsp;此后，世界上又流传过一些所谓的人鱼照片，有两手叉腰像武士的“海人”；有上半身是鱼、下半身是女人的“鱼美人”等等。但都是些经不起检验的伪造品。 
--   8&emsp;Ever since, so-called photographs of mermaids would spread around the world occasionally. There was the “seaman” with two hands on his hips like a warrior; there was the “fish beauty” with the upper body of a fish and the lower body of a woman, and so forth and so on. But upon closer scrutiny, these all turned out to be forgeries.
+- 5&emsp;第二天一早，师长来了：“谁是刘大山?” 他哭丧着脸站了起来。师长亲切而严厉地吼道：“哭得像个媳妇？你是共产党员吗?”
+- 5&emsp;The next morning, the division commander arrived: “Who is Liu Dashan?” He stood up with a tearful expression. The division commander roared kindly yet sternly: “Crying like a young bride? Are you a Communist?”
 {{% /columns %}}
 
 {{% columns %}}
--   九&emsp;既然没有人鱼，那为什么它的传说竟在世界各地流传了几千年呢？为了彻底弄清这个问题，1975年10月，我国的海洋科学家到南海一带进行调查。 
--   9&emsp;Even though there are no mermaids, why are legends about them passed down throughout the world for thousands of years? In October 1975, in order to thoroughly and fully clarify this question, our own marine scientists conducted investigations in the South China Sea region.
+- 6&emsp;他呆呆地站在那里，耳朵灌满了师长那声吼：“你是共产党员吗?” 他留下来跟铁轨打起交道来。慢慢地，他爱上了两根铁轨。
+- 6&emsp;He stood there blankly; his ears were filled with the division commander’s roar: “Are you a Communist?” He stayed behind and began to deal with the railroad. Slowly, he fell in love with the two iron tracks.
 {{% /columns %}}
 
 {{% columns %}}
--   十&emsp;科学家们的足迹踏遍了海岛渔村，根据线索来到了广西合浦县沿海。当地渔民说，他们见到过人鱼，而且在1958年由几个年青人捉到过一条！ 
--   10&emsp;The scientists’ trail traversed the island fishing villages; following clues they arrived at the coast of Hepu County in Guangxi. Local fishermen said they had seen mermaids, and that several young people had in fact captured one in 1958!
+- 7&emsp;老师长早去世了。但他时常记起那句吼：“你是共产党员吗?” 就这样，“文化革命”十年的折磨，他腰没弯，背没驼……
+- 7&emsp;Before long, the old division commander had passed away. But Liu Dashan often remembered that roar: “Are you a Communist?” Just like that, through the ten years of “Cultural Revolution’s” torment and torture his waist did not bend, nor did his back hunch…
 {{% /columns %}}
 
 {{% columns %}}
--   十一&emsp;渔民们还说最近又发现了人鱼，科学家们很兴奋，在沙田党组织和渔民的积极协助下，一场追索人鱼的战斗开始了。 
--   11&emsp;The fishermen also said that a mermaid was spotted again just recently. The scientists were thrilled, and with the enthusiastic support of the Shatian party organization and the fishermen, the battle to pursue the mermaid began.
+- 8&emsp;一天刘大山在秘书室发现桌子上有一封他的信，内容是白塔车站扳道员吕久才向他反映该站隐瞒撞车事故的事实真相。
+- 8&emsp;One day, Liu Dashan found a letter for him on the desk in the secretary’s office; in it, the switchman Lü Jiucai from Baita station revealed the truth about that station’s cover-up of a train crash accident. 
 {{% /columns %}}
 
 {{% columns %}}
--   十二&emsp;10月28日这天，天气晴朗，两艘大渔船又载着捕捞队，向人鱼出没的海区驶去。 
--   12&emsp;On this day, 28 October, the weather was clear and bright. Two large fishing boats once again loaded with the fishing team set sail for the sea area where the mermaid roamed about.
+- 9&emsp;这个事故，他已经按一般性事故处理了。但信上说是一起大事故，是白塔车站和北仓分局假报了情况。他看着看着，两额的青筋突突直跳。
+- 9&emsp;He had already dealt with the accident as a common matter. But the letter stated it was a major accident, and that Baita station and the Beicang branch office had faked the report on its circumstances. As he read on, the blue veins on his temples pulsated violently.
 {{% /columns %}}

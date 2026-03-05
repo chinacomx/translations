@@ -5,31 +5,31 @@ title: "Page 08 / Panels 40-45"
 ![gongchandangyuan page](images/gongchandangyuan/gcdy_08.png)
 
 {{% columns %}}
--   二十&emsp;一场异常紧张的战斗。 
--   20&emsp;An extremely tense battle.
+- 40&emsp;玲玲出来撅着嘴倒了一杯水给刘大山。淌着泪说：“刘伯伯，我妈妈在十年浩劫中被迫害致死，现在你这样对待爸爸，他要死了，我……”
+- 40&emsp;Lingling came out with a pout and poured a glass of water for Liu Dashan. Through tears, she said: “Uncle Liu, my mother was persecuted to death during the ten-year catastrophe, now with you doing this to my dad, if he dies, I…”
 {{% /columns %}}
 
 {{% columns %}}
--   二十一&emsp;人鱼终于被捕获，小艇拖着胜利品凯旋归来。大家争先来观望。乐得合不拢咀。 
--   21&emsp;Finally, the mermaid was captured. The skiffs towed the trophy and returned victoriously. Everyone rushed to take a look, so happy that they couldn’t keep their mouths shut. 
+- 41&emsp;刘大山抚摸着玲玲的头，心里一动，说：“你爸爸不会死的，真要死了，我当你的老子。”后一句话，倒把玲玲说笑了。
+- 41&emsp;Liu Dashan gently caressed Lingling’s head, his heart stirring, and said: “Your father won’t die. If he really dies, I'll act as your old man.” The last sentence made Lingling laugh.
 {{% /columns %}}
 
 {{% columns %}}
--   二十二&emsp;大船刚把人鱼吊上来，科学家们就开始了紧张的调查。每一个有价值的场面都被摄入镜头。 
--   22&emsp;The large ship had barely lifted the mermaid, when the scientists began their tense investigation. Every valuable aspect was recorded by the camera lens.
+- 42&emsp;刘大山把椅子往白帆的床前挪了挪说：“娘的，你痛苦，我就舒服？可难受咋办呢？信念不要啦？党员不当了？来吧……我想喝点酒。”
+- 42&emsp;Liu Dashan pulled his chair closer toward Bai Fan’s bed while saying: “Damn it, you’re in pain and I’m all comfortable? What are we supposed to do when the pain’s unbearable? Do we just abandon our beliefs? Quit the Party? Come on… I think I need a drink.”
 {{% /columns %}}
 
 {{% columns %}}
--   二十三&emsp;不久，科学家们公布了完整的人鱼资料。它很像海豚，能长到三米，四百多公斤，全身长着稀疏粗硬的黄褐色的短毛，胸部有一对乳头，其它内脏和牛差不多。但性情温和，人很容易接近它。（见封面） 
--   23&emsp;Not long after, the scientists published a complete mermaid file. It greatly resembles a dolphin; can reach up to three meters and weigh over four hundred kilograms; its whole body is covered with thin, coarse, and rough tawny short hair; on its chest there is a pair of nipples; its other internal organs are about the same as a cow’s. But it has a gentle disposition, and people can easily approach it. (See cover image)
+- 43&emsp;白帆身子转过来问：“为着什么酒？为友谊？为二年牛棚，还是为记大过？” 刘大山没回答，自己打开柜，挑了一瓶二锅头，倒了半瓷缸。
+- 43&emsp;Bai Fan turned over and asked: “A drink to what? To friendship? To the two years in the cowshed? Or to the serious mistake?” Liu Dashan didn’t answer. He opened the cabinet, grabbed a bottle of Erguotou and filled half an enamel mug.
 {{% /columns %}}
 
 {{% columns %}}
--   二十四&emsp;科学家们认为，这种动物在远古时代是生活在陆地上，由于地球发生巨变，它才转向水中。它不是鱼，更不是人，而是属哺乳动物纲，叫做“儒艮（音更）”。 
--   24&emsp;The scientists believe that this animal lived on dry land in prehistoric times, but due to great changes occurring on Earth, it then adapted to live in water. It is not a fish, even less is it human, but rather belongs to the genus of mammals called “dugong.” 
+- 44&emsp;刘大山说：“为友谊干杯！” 他喝一口，给白帆，白帆没动；“为了消灭蒸机车，不用人板道岔干杯！” 又喝了一口，给白帆，白帆还是不动。
+- 44&emsp;Liu Dashan said: “To friendship, ganbei!” He took a sip, offered it to Bai Fan, but Bai Fan didn’t move; “To eliminating steam locomotives, and to no longer needing humans to manually pull the railroad switch, ganbei!” He took another sip, offered it to Bai Fan, but Bai Fan still didn’t move.
 {{% /columns %}}
 
 {{% columns %}}
--   二十五 &emsp;“人鱼之谜”被揭开了！中国科学界又给人类知识史册上增添了新的篇章。展望大海，辽阔深沉，她还有无数领域等着我们去开发。 
--   25&emsp;The “mystery of the mermaid” has been solved! Chinese scientists have once again contributed a new chapter to the historical records of human knowledge. Look ahead at the vast and deep ocean, for she still has countless realms waiting for us to develop.
+- 45&emsp;刘大山第三次端起杯子：“为了我们都是共产党员，为了当初我介绍你入党没介绍信，干杯。” 他又大喝了一口，把缸子给白帆。这回，白帆……
+- 45&emsp;Liu Dashan raised the mug for the third time: “To us both being Communists, and to the time I sponsored your Party membership without a recommendation letter, ganbei.” He took another big sip and offered the mug to Bai Fan. This time, Bai Fan…
 {{% /columns %}}

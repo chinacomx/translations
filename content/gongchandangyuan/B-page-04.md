@@ -5,31 +5,31 @@ title: "Page 04 / Panels 16-21"
 ![gongchandangyuan page](images/gongchandangyuan/gcdy_04.png)
 
 {{% columns %}}
--   二十&emsp;一场异常紧张的战斗。 
--   20&emsp;An extremely tense battle.
+- 16&emsp;调查组走访了工人，察看了现场，测量了撞坏的车辆。结论是：吕久才反映的情况是真实的，实实在在是个严重的大事故。
+- 16&emsp;The investigation team visited the workers, inspected the scene, and surveyed the accident-damaged vehicles. The conclusion was: the situation was as reported by Lü Jiucai; it was indeed a serious major accident.
 {{% /columns %}}
 
 {{% columns %}}
--   二十一&emsp;人鱼终于被捕获，小艇拖着胜利品凯旋归来。大家争先来观望。乐得合不拢咀。 
--   21&emsp;Finally, the mermaid was captured. The skiffs towed the trophy and returned victoriously. Everyone rushed to take a look, so happy that they couldn’t keep their mouths shut. 
+- 17&emsp;白塔车站站长是一个叫眼珠滴溜转的精灵的年轻人。假话报告就是他写的，说这样做是为了分局的荣誉。白帆称赞也有头脑!
+- 17&emsp;The Baita station stationmaster was a spirited young man with deep-set nervously moving eyes. The fake report was written by him, and he said he did it for the reputation of the branch office. Bai Fan praised him for having the brains to do so.
 {{% /columns %}}
 
 {{% columns %}}
--   二十二&emsp;大船刚把人鱼吊上来，科学家们就开始了紧张的调查。每一个有价值的场面都被摄入镜头。 
--   22&emsp;The large ship had barely lifted the mermaid, when the scientists began their tense investigation. Every valuable aspect was recorded by the camera lens.
+- 18&emsp;刘大山听了调查组的汇报，腾地站起来，摸着刷子一样的头发说：“坏事就出在这些人手里！给白塔站打电话，把那花舍子站长撤掉，……”
+- 18&emsp;After listening to the investigation team’s report, Liu Dashan shot to his feet and, rubbing his brushy hair, said: “Bad things came out of the hands of these people! Call Baita station, have that imposter stationmaster dismissed from office…”
 {{% /columns %}}
 
 {{% columns %}}
--   二十三&emsp;不久，科学家们公布了完整的人鱼资料。它很像海豚，能长到三米，四百多公斤，全身长着稀疏粗硬的黄褐色的短毛，胸部有一对乳头，其它内脏和牛差不多。但性情温和，人很容易接近它。（见封面） 
--   23&emsp;Not long after, the scientists published a complete mermaid file. It greatly resembles a dolphin; can reach up to three meters and weigh over four hundred kilograms; its whole body is covered with thin, coarse, and rough tawny short hair; on its chest there is a pair of nipples; its other internal organs are about the same as a cow’s. But it has a gentle disposition, and people can easily approach it. (See cover image)
+- 19&emsp;调查组的人走后，刘大山思忖着怎么处分白帆。往事件件涌上心头：两人一起从部队转业；又一起蹲牛棚，朝夕相处、嘴对着瓶吮酒、谈心。
+- 19&emsp;When the investigation team had left, Liu Dashan pondered what disciplinary action to take against Bai Fan. Past events flooded his heart and mind one after the other: the two of them were demobilized and assigned work together; they also squatted together in the cowshed, interacted and got along day and night, drank straight from the bottle, and talked their hearts out.
 {{% /columns %}}
 
 {{% columns %}}
--   二十四&emsp;科学家们认为，这种动物在远古时代是生活在陆地上，由于地球发生巨变，它才转向水中。它不是鱼，更不是人，而是属哺乳动物纲，叫做“儒艮（音更）”。 
--   24&emsp;The scientists believe that this animal lived on dry land in prehistoric times, but due to great changes occurring on Earth, it then adapted to live in water. It is not a fish, even less is it human, but rather belongs to the genus of mammals called “dugong.” 
+- 20&emsp;他记得一次白帆问：“老刘，你出去还干铁路？我算干够了，干二十年倒有罪了。” 刘大山说：“我舍不得离开那两根铁轨，就象俺离不开老婆似的……。”
+- 20&emsp;He remembered how Bai Fan once asked: “Old Liu, when you get out, are you still going to work the railroad? I guess I’ve done enough, worked twenty years only to end up guilty.” Liu Dashan said: “I would hate to part ways with those two iron tracks; it’s just like me and my wife, we’re inseparable….”
 {{% /columns %}}
 
 {{% columns %}}
--   二十五 &emsp;“人鱼之谜”被揭开了！中国科学界又给人类知识史册上增添了新的篇章。展望大海，辽阔深沉，她还有无数领域等着我们去开发。 
--   25&emsp;The “mystery of the mermaid” has been solved! Chinese scientists have once again contributed a new chapter to the historical records of human knowledge. Look ahead at the vast and deep ocean, for she still has countless realms waiting for us to develop.
+- 21&emsp;从牛棚出来后，白帆有时解开衣服，把 “造反派” 打出的伤痕给人看。刘大山却不，他说：“搞四化要安定，这种记号，有啥看的！”
+- 21&emsp;After getting out of the cowshed, Bai Fan would sometimes unbutton his clothes and show people the scars from beatings by the “rebel faction.” But Liu Dashan wouldn’t, saying: “To achieve Four Modernizations, we need stability; what’s there to see in these kinds of marks!”
 {{% /columns %}}
