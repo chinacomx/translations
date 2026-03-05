@@ -39,4 +39,4 @@ Similarly, the last words on panel 24 say: “...叫做“儒艮（音更）”,
 
 {{<section>}}
 
-[^1]: The translator acknowledges the support of the ERC-funded project “Comics Culture in the People's Republic of China” (CHINACOMX, Grant agreement ID: 101088049). My thanks go to the ChinaComx team for their helpful comments on previous versions of this text and translation, and to our research assistants for producing the high resolution scans of the journal.
+[^1]: The translator acknowledges the support of the ERC-funded project “Comics Culture in the People's Republic of China” (ChinaComx, Grant agreement ID: 101088049). My thanks go to the ChinaComx team for their helpful comments on previous versions of this text and translation, and to our research assistants for producing the high resolution scans of the journal.
