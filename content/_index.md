@@ -7,52 +7,52 @@ type: docs
 ___
 <p style="text-align: right;"><i>latest update: 9 March 2026</i></p>
 
-To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English translations on this webpage. Ranging from book-length standalone stories to one-pagers found in magazines, we hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
+To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English or German translations on this webpage. Ranging from book-length standalone stories to one-pagers found in magazines, we hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
 
-As of today, we have published sixteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five distinct thematic categories:
+All translations are available free and openly on this website. Each comes with high-resolution scanned imaged, the transcribed text in original, and its translation next to each other. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).  
+
+As of today, we have published fifteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five thematic categories (but note that some stories may equally well fit in two categories or more):
 
 1. Works adapted from classics of Chinese literature:
 
-    - _The New Year’s Sacrifice_ 祝福 (1974) is a lianhuanhua adaptation of Lu Xun's famous critique of tradition and feudalism: [read it in English here](https://chinacomx.github.io/translations/zhufu/);
+    - _The New Year’s Sacrifice_ 祝福 (1974) is a lianhuanhua adaptation of Lu Xun's famous critique of tradition and feudalism: read the English translation [here](https://chinacomx.github.io/translations/zhufu/);
      
-    - _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: [read them in German here](https://chinacomx.github.io/translations/luxun/);
+    - _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: read the German translation [here](https://chinacomx.github.io/translations/luxun/);
 
     - tweezers
 
     - Hou xi you ji
 
-    - Ne zha
-
-2. Tales of youth and general socialist-patriotic ideals:
+2. Tales of youth and socialist-patriotic ideals:
     
-    - _Lei Feng’s Youth Years_ 雷锋的少年时代 (1973) provides a biographical look at the early years of the socialist icon Lei Feng: [read it in English here](https://chinacomx.github.io/translations/leifeng/);
+    - _Lei Feng’s Youth Years_ 雷锋的少年时代 (1973) provides a biographical look at the early years of the socialist icon Lei Feng: read the English translation [here](https://chinacomx.github.io/translations/leifeng/);
 
-    - _By the Yang River_ 洋河边上 (1974) 
+    - _Niqiu Protects the Watermelons_ 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children: read the English translation [here](https://chinacomx.github.io/translations/niqiu/);
 
-    - _Niqiu Protects the Watermelons_ 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children: [read it in English here](https://chinacomx.github.io/translations/niqiu/);
+    - _By the Yang River_ 洋河边上 (1974) adapts a coming-of-age short story by Hao Ran about an elementary school pupil whose mundane actions are framed as meaningful acts of ideological practice: read the English translation [here](https://chinacomx.github.io/translations/yanghe/);
 
-    - _The Silent Fight_ 无声的战斗 (1976) is a story of espionage and counterespionage in the early-PRC told from the perspective of a young boy: [read it in English here](https://chinacomx.github.io/translations/wushengdezhandou/);
+    - _The Silent Fight_ 无声的战斗 (1976) is a story of espionage and counterespionage in the early-PRC told from the perspective of a young boy: read the English translation [here](https://chinacomx.github.io/translations/wushengdezhandou/);
 
-    - _Are You a Communist?_ 你是共产党员吗 (1981) is an allegorical scar literature lianhuanhua that raises an existential inquiry into what it meant to be a CCP member in 1981: [read it in English here](https://chinacomx.github.io/translations/gongchandangyuan/);
+    - _Are You a Communist?_ 你是共产党员吗 (1981) is piece of allegorical scar literature lianhuanhua that raises an existential inquiry into what it meant to be a CCP member in 1981: read the English translation [here](https://chinacomx.github.io/translations/gongchandangyuan/);
 
 3. Science popularization lianhuanhua:
 
-    - _Mermaid_ 人鱼 (1982) is an early-Reform Era lianhuanhua strip that both celebrates patriotic science and invites to venture beyond that what is known: [read it in English here](https://chinacomx.github.io/translations/renyu/);
+    - _Mermaid_ 人鱼 (1982) is an early-Reform Era lianhuanhua strip that both celebrates patriotic science and invites to venture beyond what is known: read the English translation [here](https://chinacomx.github.io/translations/renyu/);
 
 4. Transcultural texts and storylines:
 
-    - _Norman Bethune_ 白求恩 (1973) and _Doctor Bethune_ 白求恩大夫 (1979) are two lianhuanhua adaptations of biographical tales about Norman Bethune: [read them in English here](https://chinacomx.github.io/translations/bethune/).
+    - _Norman Bethune_ 白求恩 (1973) and _Doctor Bethune_ 白求恩大夫 (1979) are two lianhuanhua adaptations of biographical tales about Norman Bethune: read the English translation [here](https://chinacomx.github.io/translations/bethune/).
 
-    - _The Watch_ 表 (1980) is a beloved Soviet children's story adapted into lianhuanhua for a Chinese audience: [read it in English here](https://chinacomx.github.io/translations/biao/);
+    - _The Watch_ 表 (1980) is a beloved Soviet children's story adapted into lianhuanhua for a Chinese audience: read the English translation [here](https://chinacomx.github.io/translations/biao/);
 
     - Jules 
 
 5. Contemporary lianhuanhua:
 
-    - _The Legend of Bing Conglin_ 冰聪林传奇 (2024) is an ongoing contemporary lianhuanhua serialised on Xiaohongshu 小红书 by a young fan: [read it in English here](https://chinacomx.github.io/translations/bingconglin/).
+    - _The Legend of Bing Conglin_ 冰聪林传奇 (2024) is an ongoing contemporary lianhuanhua serialised on Xiaohongshu 小红书 by a young fan: read the English translation [here](https://chinacomx.github.io/translations/bingconglin/).
 
 
-__And this is just the beginning as we are constantly working on new translations!__
+__And this is just the beginning: we are continiously working on new translations!__
 
 ## Our translation philosophy and choices
 

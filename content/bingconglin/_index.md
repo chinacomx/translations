@@ -33,27 +33,27 @@ Rather than repeating a traditional or stereotypical “hero saves the beauty”
 
 ## About the translation
 
-In preparing this translation, my objective was to present the creator’s intent with clarity and minimal intervention. The original text moves between modern vernacular and Classical Chinese, creating a classical aesthetic that posed particular challenges in translation. On key terms, I consulted the creator herself. As a _xianxia_ 仙侠 narrative, the story draws on both Taoist and Buddhist terminology without strict sectarian distinction. My translation choices therefore follow contextual usage and the creator’s interpretation.
+In preparing this translation, my objective was to present the creator’s intent with clarity and minimal intervention. The original text moves between modern vernacular and Classical Chinese, creating a classical aesthetic that posed particular challenges in translation. On key terms, I consulted the creator herself. As a _xianxia_ 仙侠 narrative, the story draws on both Taoist and Buddhist terminology without strict sectarian distinction. My translation choices therefore follow contextual usage and the creator’s interpretation:
 
-Panel [2](https://chinacomx.github.io/translations/bingconglin/b-page-02/): __Immortal 仙君__
+- Panel [2](https://chinacomx.github.io/translations/bingconglin/b-page-02/): __Immortal 仙君__
 I chose “Immortal” rather than “Celestial” because the narrative framework aligns with Taoist concepts of self-cultivation and cyclical growth.
 
-Panel [2](https://chinacomx.github.io/translations/bingconglin/b-page-02/): __Attendant 座下童子__
+- Panel [2](https://chinacomx.github.io/translations/bingconglin/b-page-02/): __Attendant 座下童子__
 In classical mythology, Immortals or Bodhisattvas are accompanied by youthful disciples who assist with daily duties. For example, in _Journey to the West_ 西游记, Red Boy 红孩儿 becomes Guanyin’s attendant (Wu 2010, chap. 42). I selected “attendant” rather than “acolyte” to convey both service and discipleship without overt religious specificity.
 
-Panel [10](https://chinacomx.github.io/translations/bingconglin/b-page-10/): __Clan 族__ and __Lineage 一脉__ 
+- Panel [10](https://chinacomx.github.io/translations/bingconglin/b-page-10/): __Clan 族__ and __Lineage 一脉__ 
 I use “clan” to describe the large, prominent family group sharing the same surname; for the latter half of the sentence mentioning “冰父一脉,” I translated it as “Conglin’s father’s lineage” to specifically refer to the small, direct family unit consisting of her father and grandfather.
 
-Panel [12](https://chinacomx.github.io/translations/bingconglin/b-page-12/): __Child-Giving Guanyin 送子观音__
+- Panel [12](https://chinacomx.github.io/translations/bingconglin/b-page-12/): __Child-Giving Guanyin 送子观音__
 I retained the functional modifier “Child-Giving” to reflect its devotional role in folk belief and kept “Guanyin” as an established transliteration rather than adopting the Sanskrit form.
 
-Panel [19](https://chinacomx.github.io/translations/bingconglin/b-page-19/): __Warrior 侠__
+- Panel [19](https://chinacomx.github.io/translations/bingconglin/b-page-19/): __Warrior 侠__
 When describing Madam Bing 冰母, I chose “warrior.” This emphasizes her identity as a highly skilled female martial figure.
 
-Panel [23](https://chinacomx.github.io/translations/bingconglin/b-page-23/): Character Descriptions
+- Panel [23](https://chinacomx.github.io/translations/bingconglin/b-page-23/): Character Descriptions
 In translating 凤眼 and 黑睛藏威, I adopted accessible phrasing while preserving their poetic quality. 凤眼 denotes both a distinctive upward-tilted eye shape and Bing Conglin’s innate nobility. I therefore rendered 凤眼 as “a pair of phoenix eyes” and translated 黑睛藏威 as “a concise expression conveying the restrained power within her dark gaze”.
 
-Panel [25](https://chinacomx.github.io/translations/bingconglin/b-page-25/): __The Four Arts 琴棋书画__ and __Feminine Arts 刺绣女工__ 
+- Panel [25](https://chinacomx.github.io/translations/bingconglin/b-page-25/): __The Four Arts 琴棋书画__ and __Feminine Arts 刺绣女工__ 
 These phrases refer to the traditional accomplishments expected of a young woman from an elite family. To retain the concision of the original, I translated them as: “the four arts of the Chinese scholar, but even more so with embroidery and the feminine arts.” In the classical context, The Four Arts 琴棋书画 specifically denote mastery the music instrument guqin, Go, calligraphy, and painting, while Feminine Arts 刺绣女工 refer to traditional women’s handicrafts, particularly embroidery. I use “feminine arts” as a concise collective term to convey this cultural scope.
 
 ## References
@@ -73,4 +73,3 @@ Wu, Cheng’en 吴承恩. 2010. _Journey to the West_ 《西游记》. 3rd ed. B
 {{<section>}}
 
 [^1]: This translation was produced by Jiu Song, a PhD student at the Institute of Chinese Studies, Heidelberg University, supervised by Lena Henningsen. The translator acknowledges the support of the ERC-funded project “Comics Culture in the People's Republic of China” (CHINACOMX, Grant agreement ID: 101088049). I thank the creator of _The Legend of Bing Conglin_ for granting permission to reproduce and translate her work. The original version is available on her Xiaohongshu homepage (see References).
-
