@@ -29,11 +29,11 @@ In the end, the story both celebrates patriotic science and extends an invitatio
 
 ## Notes on the translation 
 
-- The text adopts a slightly incoherent use of gender pronouns. The ocean, in panel 1, is an “it” 它 but at the end becomes a “she” 她. The mermaid of the legends (in panels 2, 3, 4) is a “she” 她, the faked specimen in panel 7 is an “it” 它, and once uncovered as an animal in panel 23, it is continues to be referred to as an “it” 它. However, even though the measure word used in panel 10,  *yi tiao* 一条, suggests early on that the eventually captured mermaid will end up being an “it” 它 as it is usually used when counting thin objects but also fish, throughout panels 11-22 no pronouns appear. The translation thus makes an effort to retain the ambiguity until it’s final reveal on panel 23. 
+The text adopts a slightly incoherent use of gender pronouns. The ocean, in panel 1, is an “it” 它 but at the end becomes a “she” 她. The mermaid of the legends (in panels 2, 3, 4) is a “she” 她, the faked specimen in panel 7 is an “it” 它, and once uncovered as an animal in panel 23, it is continues to be referred to as an “it” 它. However, even though the measure word used in panel 10,  *yi tiao* 一条, suggests early on that the eventually captured mermaid will end up being an “it” 它 as it is usually used when counting thin objects but also fish, throughout panels 11-22 no pronouns appear. The translation thus makes an effort to retain the ambiguity until it’s final reveal on panel 23. 
 
-- Panels 4-5 retell a version of the legend of the Mermaid of Warsaw, Poland, and a literal transliteration of both the name of the hero, Wars, and the city, Warsaw, would render them respectively as “Hua’ernuosha” and “Huasha.” While the key aspect of how Warsaw was named after Wars would also be retained through the repetition of “Hua” in both names, the translation uses English for an easier reading experience.
+Panels 4-5 retell a version of the legend of the Mermaid of Warsaw, Poland, and a literal transliteration of both the name of the hero, Wars, and the city, Warsaw, would render them respectively as “Hua’ernuosha” and “Huasha.” While the key aspect of how Warsaw was named after Wars would also be retained through the repetition of “Hua” in both names, the translation uses English for an easier reading experience.
 
-- Similarly, the last words on panel 24 say: “...叫做“儒艮（音更）”,” and a literal translation would be: “...called “rugen” (where ‘gen’ is pronounced ‘geng’ ).” For an easier reading experience, the translation simply says: “...called dugong.”
+Similarly, the last words on panel 24 say: “...叫做“儒艮（音更）”,” and a literal translation would be: “...called “rugen” (where ‘gen’ is pronounced ‘geng’ ).” For an easier reading experience, the translation simply says: “...called dugong.”
 
 ## Read the translated lianhuanhua
 

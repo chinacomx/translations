@@ -11,7 +11,7 @@ To provide contemporary readers and researchers with a glimpse into the vast Chi
 
 All translations are available free and openly on this website. Each comes with high-resolution scanned imaged, the transcribed text in original, and its translation next to each other. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).  
 
-As of today, we have published fifteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five thematic categories (but note that some stories may equally well fit in two categories or more):
+As of today, we have published fourteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five thematic categories (but note that some stories may equally well fit in two categories or more):
 
 1. Works adapted from classics of Chinese literature:
 
@@ -20,8 +20,6 @@ As of today, we have published fifteen ChinaComx translations of various types o
     - _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: read the German translation [here](https://chinacomx.github.io/translations/luxun/);
 
     - tweezers
-
-    - Hou xi you ji
 
 2. Tales of youth and socialist-patriotic ideals:
     

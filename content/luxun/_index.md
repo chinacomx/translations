@@ -37,7 +37,7 @@ Diese politische Interpretation des Gedichts entspricht nicht unbedingt der dich
 
 ## Erläuterung der Übersetzung
 
-- Die Texte verwenden die Partikel 得, 地 und 的 nicht entsprechend des heutigen Standardgebrauchs, aber durchaus entsprechend der Gepflogenheiten der späten 1970er. Das Gleiche gilt für das Schriftzeichen anstelle 象 von 像. Wir haben diese Stellen entsprechend in der Transkription markiert, aber nicht korrigiert.
+Die Texte verwenden die Partikel 得, 地 und 的 nicht entsprechend des heutigen Standardgebrauchs, aber durchaus entsprechend der Gepflogenheiten der späten 1970er. Das Gleiche gilt für das Schriftzeichen anstelle 象 von 像. Wir haben diese Stellen entsprechend in der Transkription markiert, aber nicht korrigiert.
 
 Wir haben uns sehr bemüht, den Herausgeber dieses Comics zu kontaktieren, um die Erlaubnis des Rechteinhabers zur Online-Veröffentlichung der Seiten und der Übersetzung zu erhalten. Wir bedauern, dass wir keine Antworten auf unsere Anfragen erhalten haben. Wenn Sie der Meinung sind, dass Ihre Urheberrechte nicht respektiert werden, senden Sie uns bitte [eine E-Mail-Nachricht](mailto:chinacomx.erc@gmail.com). Wir werden Ihnen so schnell wie möglich antworten und mit Ihnen zusammenarbeiten, um das Material entweder korrekt zu akkreditieren oder es ganz zu entfernen.
 
