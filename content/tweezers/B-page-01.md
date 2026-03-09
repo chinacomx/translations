@@ -5,7 +5,7 @@ title: "Page 01"
 {{< tabs "tweezer" >}}
 {{< tab "Chinese" >}} 
 ### Chinese
-![Chinese](/images/tweezers/tweezersCN.jpg)
+![Chinese](/images/tweezers/tweezersCN.png)
 {{< /tab >}}
 {{< tab "English" >}}
 ### English
