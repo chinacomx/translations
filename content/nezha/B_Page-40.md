@@ -12,4 +12,4 @@ weight: 44
 - 
 40&emsp;Just as he was about to catch up, Nezha, following his master’s instructions, raised his Qiankun Ring and struck Ao Guang in the middle of the back. Caught off guard, Ao Guang was knocked down by him.
 
-{{% columns %}}
+{{% /columns %}}

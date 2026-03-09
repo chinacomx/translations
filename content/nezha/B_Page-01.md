@@ -12,4 +12,4 @@ weight: 5
 - 
 1&emsp;It is said that Li Jing, the high ranking commander of Chentang Pass, had studied under Master Du’e of West Kunlun in his youth and mastered the art of the Five Elements Escaping Technique. Later, he descended the mountain to assist King Zhou of Shang dynasty. Upon hearing that four hundred lords had rebelled, he urgently issued orders to drill the army and tighten the pass defenses.
 
-{{% columns %}}
+{{% /columns %}}

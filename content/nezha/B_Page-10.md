@@ -12,4 +12,4 @@ weight: 14
 - 
 9&emsp;Unknowingly, seven summers and winters went by. One hot day in May, Nezha, feeling restless, went to see his mother and asked for permission to play outside the pass. Lady Yin was concerned and sent a household guard to accompany him.
 
-{{% columns %}}
+{{% /columns %}}

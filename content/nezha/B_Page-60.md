@@ -12,4 +12,4 @@ weight: 64
 - 
 60&emsp;Li Jing was furious. He ordered the troops to make camp. Then, he rode his horse up the mountain, entered the temple, and pointed at Nezha’s statue, cursing, “You beast! In life you disturbed and harmed your parents; in death you still fool the people!”
 
-{{% columns %}}
+{{% /columns %}}

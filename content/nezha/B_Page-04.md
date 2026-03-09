@@ -12,4 +12,4 @@ weight: 8
 - 
 
 
-{{% columns %}}
+{{% /columns %}}

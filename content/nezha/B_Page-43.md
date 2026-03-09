@@ -13,4 +13,4 @@ weight: 47
 - 
 43&emsp;When Ao Guang heard this, he exploded with rage and shouted, “You little brat! You’ve already harmed two gods—your crimes are unforgivable! And now you dare attack the righteous god in charge of clouds and rain outside the Baode Gate? That is all the more evil. I shall go to the Celestial court and report…” But Nezha didn’t give him a chance to speak further and struck him again with his fist.
 
-{{% columns %}}
+{{% /columns %}}

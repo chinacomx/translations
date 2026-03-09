@@ -12,4 +12,4 @@ weight: 46
 - 
 42&emsp;Nezha, provoked by the curses, could no longer hold back his anger and said: “You shout and curse all you like, I’ll just beat you to death, you old loach—that’s no big deal! If I didn’t tell you, you wouldn't even know who I am. I’m not someone else — I'm Nezha, disciple of Master Taiyi from the Golden Light Cave on Mount Qianyuan!”
 
-{{% columns %}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ weight: 107
 - 
 103&emsp;Nezha thought to himself: “Li Jing actually could never defeated me. Just now, the Daoist blew toward him and struck him—there must surely be some purpose. Better I strike down the Daoist first, and then deal with Li Jing.” So he leapt beyond the combat circle and thrust his spear straight at the Daoist.
 
-{{% columns %}}
+{{% /columns %}}

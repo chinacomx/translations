@@ -12,4 +12,4 @@ weight: 39
 - 
 35&emsp;Nezha stepped out of the residence, grabbed a handful of earth, scattered it in the air, and vanished without a trace — he had used the Earth Escape to reach Mount Qianyuan.
 
-{{% columns %}}
+{{% /columns %}}

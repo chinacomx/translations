@@ -30,7 +30,7 @@ Guy de Maupassant
 Sun Yufan (Adaptation)
 Pang Bangben (Illustrations)
 
-{{% columns %}}
+{{% /columns %}}
 
 {{% columns %}}
 
@@ -72,4 +72,4 @@ Pang Bangben (Illustrations)
 - 6&emsp; 每个星期天，全家忙得不亦乐乎。母亲和姐姐们穿红戴绿，打扮得就象节日的船只。父亲的礼服又用汽油擦去了污垢，浑身散发出汽油味来，使我一闻到这种气味，就知道又到了星期天。
 - 6&emsp; Every Sunday, our home was a flurry of activity. My mother and sisters dressed up in vibrant colors, beribboned like festive boats. My father's frock coat would be wiped clean with benzine, leaving him reeking of it; whenever I smelled that odor, I knew Sunday had come again.
 
-{{% columns %}}
+{{% /columns %}}

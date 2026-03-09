@@ -12,4 +12,4 @@ weight: 40
 - 
 36&emsp;Arriving at the Golden Light Cave on Mount Qianyuan, Nezha met his master, Master Taiyi, and reported all that had happened. To save his disciple, Master Taiyi drew an invisibility talismanic script on Nezha’s chest. Then he instructed him to go to the Baode Gate of the Celestial Palace and how to intercept Ao Guang.
 
-{{% columns %}}
+{{% /columns %}}

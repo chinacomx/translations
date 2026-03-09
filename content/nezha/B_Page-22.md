@@ -12,4 +12,4 @@ weight: 26
 - 
 21&emsp;Nezha rose to look at the water, and saw a water-beast appearing in the waves. Atop it sat a monster, shouting: “Who killed my patrolling Yaksha?” Nezha replied: “That was me. I was here to escape the summer heat and take a bath— Why did he bother about that?  He came to attack me, so I struck him dead. What of it?”
 
-{{% columns %}}
+{{% /columns %}}

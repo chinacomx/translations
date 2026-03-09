@@ -12,4 +12,4 @@ weight: 104
 - 
 100&emsp;Nezha rushed up on his Wind-and-Fire Wheels, and the Daoist spoke: “Since you have already made peace with your father at Mount Five Dragons, yet now you pursue him again, you are the one at fault. If you refuse to make peace, then fight with him once more before me!”
 
-{{% columns %}}
+{{% /columns %}}

@@ -14,4 +14,4 @@ weight: 30
 25&emsp;(Seizing his chance), Nezha quickly leapt forward, stomped on Ao Bing’s neck, raised the Qiankun Ring, and smashed it down onto his head.
 26&emsp;He struck the Third Prince’s true form straight out—a dragon lay stretched across the ground. Nezha said: “So, I’ll beat out the little dragon’s true form. All right then, I’ll rip out his tendons and make a dragon-tendons cord for my father to fasten his armor.”
 
-{{% columns %}}
+{{% /columns %}}

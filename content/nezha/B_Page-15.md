@@ -12,4 +12,4 @@ weight: 19
 - 
 14&emsp;The Yaksha came to Jiuwan River, and saw the entire river dyed red, glowing brilliantly.  A child was bathing with a red silk dipped in the water. He shouted: “What kind of weird thing is that child using to make the river red and make the palace shake?”
 
-{{% columns %}}
+{{% /columns %}}

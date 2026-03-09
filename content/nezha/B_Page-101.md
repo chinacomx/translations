@@ -12,4 +12,4 @@ weight: 105
 - 
 101&emsp;Li Jing hastened to say: “Master, this beast possesses boundless strength. I am no match for him.” The Daoist stepped forward, blew a breath toward Li Jing, and struck him upon the back: “Fight him again. With me here at your side, you have nothing to fear.”
 
-{{% columns %}}
+{{% /columns %}}

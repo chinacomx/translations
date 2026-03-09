@@ -12,4 +12,4 @@ weight: 71
 - 
 67&emsp;Master Taiyi commanded the boy attendant to pluck two lotus blossoms and three lotus leaves from Five-Lotus Pond. The master plucked the petals and arranged them into Three Powers—Heaven, Earth, and Man—then broke the lotus stems apart, forming three hundred bone joints. He shouted with a thunderous voice: “If not now, then when shall Nezha take human form?”
 
-{{% columns %}}
+{{% /columns %}}

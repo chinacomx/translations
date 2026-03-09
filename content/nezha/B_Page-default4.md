@@ -14,4 +14,4 @@ weight: 4
 Summary of the story
 Seven-year-old Nezha goes to bathe in the sea, disturbing the Dragon King of the Eastern Sea. The Dragon King sends Yaksha and his third son to intervene, but both are killed by Nezha. This sets off a fascinating and touching story of how Nezha sacrifices himself, is reborn, and emerges as an unmatched hero.
 
-{{% columns %}}
+{{% /columns %}}

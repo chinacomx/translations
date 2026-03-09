@@ -12,4 +12,4 @@ weight: 95
 - 
 91&emsp;Suddenly, wind swept across the fields, clouds and mist obscured the sky, dust stirred up from the ground, and with a swoosh from above, a golden ring fell and clasped Nezha’s neck, two more encircled his legs, and a gleaming golden pillar pressed against his back, pinning him so that he could not move at all.
 
-{{% columns %}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ weight: 41
 - 
 37&emsp;Nezha departed from Mount Qianyuan and headed straight for the Baode Gate. He found the sight of the Celestial Palace to be truly marvelous, filled with purple mist and red clouds, with dragons soaring and phoenixes dancing across the sky. The palace hall pierced the clouds and was resplendent in gold and jade, totally different from the human world.
 
-{{% columns %}}
+{{% /columns %}}

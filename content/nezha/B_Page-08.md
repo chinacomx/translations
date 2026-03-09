@@ -12,4 +12,4 @@ weight: 12
 - 
 7&emsp;A servant brought out the child, and the Taoist carefully observed him, saying: “The golden bracelet on his hand is called the ‘Qiankun Ring’, and the red silk on his belly is called ‘Huntian Silk’. These are treasures from the Golden Light Cave of Mount Qianyuan, where I reside. It seems this child is fated with me—how about letting him become my disciple?”
 
-{{% columns %}}
+{{% /columns %}}

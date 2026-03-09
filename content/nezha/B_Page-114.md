@@ -12,4 +12,4 @@ weight: 118
 - 
 114&emsp;Then the Daoist spoke to both of them: “From now on, let father and son be reconciled, and forget all past resentments. In the future, you shall both serve a righteous ruler as the ministers in the same court. Now, each of you, go your own way.”
 
-{{% columns %}}
+{{% /columns %}}

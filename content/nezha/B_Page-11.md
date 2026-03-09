@@ -12,4 +12,4 @@ weight: 15
 - 
 10&emsp;When the two of them arrived outside the pass, they entered the shade of green willows. There, they were suddenly met by a gentle summer breeze, so that their hearts felt light and all their worries faded away.
 
-{{% columns %}}
+{{% /columns %}}

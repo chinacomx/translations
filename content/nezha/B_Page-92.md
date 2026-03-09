@@ -12,4 +12,4 @@ weight: 96
 - 
 92&emsp;The Heavenly Venerable then called his disciple Jinzha to fetch the flat cane and gave Nezha a severe beating, striking him until his Samādhi Fire flared up, and flames burst from all seven orifices.
 
-{{% columns %}}
+{{% /columns %}}

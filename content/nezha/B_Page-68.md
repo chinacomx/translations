@@ -12,4 +12,4 @@ weight: 72
 - 
 68&emsp;With a sudden crack, a figure leapt forth: a delicate and fair face, with lips as red as cinnabar, eyes shining with brilliantly, one zhang and six chi tall. This was Nezha, reborn from the lotus.
 
-{{% columns %}}
+{{% /columns %}}

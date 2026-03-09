@@ -12,4 +12,4 @@ weight: 10
 - 
 5&emsp;Li Jing was astonished, stepped forward and picked him up. Clearly, the child was perfectly normal, and he couldn't bear to take him for a monster and take his life. He handed the child to Lady Yin. Their affection for the child turned their worry into joy.
 
-{{% columns %}}
+{{% /columns %}}

@@ -12,4 +12,4 @@ weight: 17
 - 
 12&emsp;Nezha took off his clothes and sat on a rock, dipping his seven-foot Huntian Silk into the water to bathe. As soon as this treasure touched the water, the river turned red. With each stir, the current shook violently; with each swish, heaven and earth trembled.
 
-{{% columns %}}
+{{% /columns %}}

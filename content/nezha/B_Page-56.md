@@ -12,4 +12,4 @@ weight: 60
 - 
 56&emsp;Nezha’s spirit went to his mother’s private room, appeared in her dream and requested: “Mother, please build me a temple. Let me receive incense offerings for three years, and then I can return from death to the human world.”
 
-{{% columns %}}
+{{% /columns %}}

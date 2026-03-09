@@ -12,4 +12,4 @@ weight: 69
 - 
 65&emsp;Nezha asked: “What happened?” The attendants replied: “It was your father, Li Jing, who smashed your statue and burned down the temple for reasons unknown.” Enraged, Nezha said: “I have already returned my flesh and blood to my parents, this has nothing to do with him! Why must he destroy my statue and burn down my temple, leaving me no place to dwell?”
 
-{{% columns %}}
+{{% /columns %}}

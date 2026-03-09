@@ -12,4 +12,4 @@ weight: 67
 - 
 63&emsp;Returning to the commander’s residence, Li Jing was still furious. He said to his wife  Lady Yin, “Such a fine son you bore! As if the harm he caused wasn’t enough, now you build him a temple to delude the common people! Today I burned it to the ground. If you dare rebuild, I will not let the matter rest!”
 
-{{% columns %}}
+{{% /columns %}}

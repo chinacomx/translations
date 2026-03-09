@@ -12,4 +12,4 @@ weight: 98
 - 
 94&emsp;The Heavenly Venerable came out to greet him and said with a smile: “I have given your disciple a lesson.” Master Taiyi smiled in return: “I sent him here because he has committed serious acts of killing and must temper his true nature. Who would have thought he truly offended the Heavenly Venerable, so of course, he deserves to be punished.”
 
-{{% columns %}}
+{{% /columns %}}

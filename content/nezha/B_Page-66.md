@@ -12,4 +12,4 @@ weight: 70
 - 
 66&emsp;Drifting like a wisp of cloud, Nezha returned to Mount Qianyuan to seek his master again. When Master Taiyi heard what had occurred, he was very displeased: “This indeed is Li Jing’s fault. Very well—since matters stand thus I shall do a good deed, restore your spirit to life!”
 
-{{% columns %}}
+{{% /columns %}}

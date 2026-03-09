@@ -12,4 +12,4 @@ weight: 7
 - 
 3&emsp;That night at midnight, Lady Yin felt pain in her abdomen and went into labor. Suddenly, a red mist appeared, and a strange fragrance filled the room. To the servants and Lady Yin’s astonishment, she gave birth to a ball of flesh that rolled and spun around the room.
 
-{{% columns %}}
+{{% /columns %}}

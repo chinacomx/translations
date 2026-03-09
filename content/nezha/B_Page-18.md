@@ -12,4 +12,4 @@ weight: 22
 - 
 17&emsp;Nezha threw the Qiankun Ring from his right hand into the air — the treasure struck down and  smashed into Yaksha’s head. Immediately, its brains gushed out, and it died on the riverbank.
 
-{{% columns %}}
+{{% /columns %}}

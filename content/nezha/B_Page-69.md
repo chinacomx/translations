@@ -12,4 +12,4 @@ weight: 73
 - 
 69&emsp;Nezha, restored to human form, knelt to pay respects to his master. Master Taiyi spoke: “The matter of Li Jing destroying your clay statue is grievous indeed.” Nezha replied: “Master, I cannot possibly let this hatred go unavenged!”
 
-{{% columns %}}
+{{% /columns %}}

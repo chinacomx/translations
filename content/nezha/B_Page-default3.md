@@ -20,4 +20,4 @@ Bai Yu Adapted
 Chen Huiguan Illustrated
 People’s Fine Arts Publishing House
 
-{{% columns %}}
+{{% /columns %}}

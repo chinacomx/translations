@@ -12,4 +12,4 @@ weight: 63
 - 
 59&emsp;One day, as Li Jing was returning from drilling the troops, he passed the foot of Mount Cuiping. Seeing a magnificent temple on the mountain thriving with incense offerings, he asked: “What temple is that? Which deity is worshiped there?” The officer replied, “That’s Nezha’s temple.”
 
-{{% columns %}}
+{{% /columns %}}

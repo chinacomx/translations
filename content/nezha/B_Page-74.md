@@ -12,4 +12,4 @@ weight: 78
 - 
 74&emsp;Enraged, Li Jing seized his decorated ji, mounted his blue-and-white steed, and rode out. He saw Nezha treading on the Wind-and-Fire Wheels, a Fire-tipped Spear in hand, utterly unlike the way he had looked before. Li Jing was thunderstruck: “ You beast! You caused chaos in life, returned as a ghost after death, you should not dare to come back and disturb us once more!”
 
-{{% columns %}}
+{{% /columns %}}

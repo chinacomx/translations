@@ -12,4 +12,4 @@ weight: 120
 - 
 116&emsp;Li Jing respectfully inquired after the Daoist’s name. The Daoist replied: “I am Randeng Daoist, from Spirit Vulture Mountain. The King Zhou of Shang has lost his virtue, and chaos reigns across the land. For now, there is no need for you to hold a post in the court—when King Wu’s army rises, come forth again to earn your merit.” Li Jing bowed in gratitude to the Daoist and returned to his pass to withdraw into seclusion.
 
-{{% columns %}}
+{{% /columns %}}

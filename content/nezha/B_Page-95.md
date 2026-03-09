@@ -12,4 +12,4 @@ weight: 99
 - 
 95&emsp;The Heavenly Venerable then ordered Jinzha to release Nezha and bring him into the cave. Master Taiyi spoke: “Come, kneel and bow to your elder master!” Nezha dared not disobey his master’s command, so he knelt and said: “I am grateful for your punishment."
 
-{{% columns %}}
+{{% /columns %}}

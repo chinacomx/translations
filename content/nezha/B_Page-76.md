@@ -12,4 +12,4 @@ weight: 80
 - 
 76&emsp;Li Jing met the attack with his ji. Wheels and horse wheeled around each other, weapons flashing as the spear and ji clashed. Yet Nezha’s strength was boundless, and Li Jing gradually began to falter.
 
-{{% columns %}}
+{{% /columns %}}

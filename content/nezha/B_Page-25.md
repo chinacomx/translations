@@ -12,4 +12,4 @@ weight: 29
 - 
 24&emsp;Ao Bing thrust again. Nezha became impatient, unfurled his Huntian Silk in midair—it blazed like a thousand clusters of fire, swirling in all directions and wrapping the prince around to pull him off the water-repelling steed.
 
-{{% columns %}}
+{{% /columns %}}

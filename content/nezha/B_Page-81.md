@@ -13,4 +13,4 @@ weight: 85
 - 
 81&emsp;Only then did Nezha realize it was his second brother. He recounted in detail the matter of the temple which happened on Cuiping Mountain and asked whose fault it truly was. Muzha rebuked him, saying he had forgotten the love and bond of parents. Nezha retorted, “I have already returned my flesh and bones to him—what parental bond remains!”
 
-{{% columns %}}
+{{% /columns %}}

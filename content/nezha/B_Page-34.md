@@ -12,4 +12,4 @@ weight: 38
 - 
 34&emsp;Seeing his parents weeping, Nezha stood uneasily, then dropped to his knees and said respectfully: “As the saying goes: ‘one should bear sole responsibility for one's own actions.’ How could I, your son, possibly dare to implicate my parents in this matter? I shall now go to Mount Qianyuan and ask for my master’s guidance — he will surely have a way.”
 
-{{% columns %}}
+{{% /columns %}}

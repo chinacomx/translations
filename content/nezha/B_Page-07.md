@@ -12,4 +12,4 @@ weight: 11
 - 
 6&emsp;The next day, many officials came to congratulate. Just as Li Jing had finished receiving them, a Taoist arrived, introducing himself as Master Taiyi from the Golden Light Cave of Mount Qianyuan. He also came to offer his blessings. Li Jing quickly welcomed him into the residence.
 
-{{% columns %}}
+{{% /columns %}}

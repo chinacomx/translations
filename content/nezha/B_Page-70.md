@@ -12,4 +12,4 @@ weight: 74
 - 
 70&emsp;Master Taiyi then led Nezha to the rear garden, where he imparted to him the art of the Fire-tipped Spear. Before long, Nezha had mastered its use.
 
-{{% columns %}}
+{{% /columns %}}

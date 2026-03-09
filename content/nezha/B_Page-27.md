@@ -13,4 +13,4 @@ weight: 31
 - 
 27&emsp;Nezha ripped out the Third Prince's tendons and brought it back to the pass. The household guard was so frightened, his bones went soft and his body went limp; he couldn't even move his legs.
 
-{{% columns %}}
+{{% /columns %}}

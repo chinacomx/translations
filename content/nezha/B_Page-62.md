@@ -12,4 +12,4 @@ weight: 66
 - 
 62&emsp;He then ordered, “Set fire to the temple!” He admonished the common folk who had come to offer incense, “This is no true deity—no offerings allowed!” Terrified, the crowd scattered down the mountain.
 
-{{% columns %}}
+{{% /columns %}}

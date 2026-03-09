@@ -12,4 +12,4 @@ weight: 24
 - 
 19&emsp;How could the Crystal Palace withstand the shock of these two treasures? The two almost shook the palace down. When Ao Guang learned that the Yaksha had been killed, he became extremely furious. His third son, Ao Bing, said: “Father, please calm your anger. I shall go and get him back.”
 
-{{% columns %}}
+{{% /columns %}}

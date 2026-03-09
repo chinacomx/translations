@@ -12,4 +12,4 @@ weight: 42
 - 
 38&emsp;At the Baode Gate, Nezha saw no sign of Ao Guang. He noticed that all the gates to the Celestial Palace were closed, so he waited beneath the Gathering Juxian Gate. Before long, he saw Ao Guang in official robe, heading straight for the Nantian Gate.
 
-{{% columns %}}
+{{% /columns %}}

@@ -30,4 +30,4 @@ Print Run: 1–400,000 copies
 Format: 787 × 1092 mm, 1/64
 Sheets: 17/8
 
-{{% columns %}}
+{{% /columns %}}

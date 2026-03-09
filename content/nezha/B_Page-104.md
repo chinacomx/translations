@@ -12,4 +12,4 @@ weight: 108
 - 
 104&emsp;The Daoist opened his mouth, and a white lotus emerged, catching the Fire-tipped Spear. He shouted, “You evil creature! How dare you stab at me!”
 
-{{% columns %}}
+{{% /columns %}}

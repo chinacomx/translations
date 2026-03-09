@@ -12,4 +12,4 @@ weight: 48
 - 
 44&emsp;As the old saying goes, “a dragon fears its scales being torn, a tiger fears its tendons being pulled.” Nezha grabbed Ao Guang’s official robe and wrenched aside half of it. Then with his bare hands, he ripped out four or five dozen of Ao Guang’s scales. Ao Guang was in unbearable pain, and could do nothing but cry out: “Spare me!”
 
-{{% columns %}}
+{{% /columns %}}

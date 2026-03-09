@@ -12,4 +12,4 @@ weight: 56
 - 
 52&emsp;Nezha stayed in the Golden Light Cave for several days. Master Taiyi called him and said: “The Four Dragon Kings have reported to the Jade Emperor, who granted his approval, and are coming to seize your parents. You must hurry back! Only by doing so can you save your parents.” Nezha thanked his master and returned to Chentang Pass through the Earth Escape.
 
-{{% columns %}}
+{{% /columns %}}

@@ -6,9 +6,9 @@ title: A Pair of Tweezers 一把镊子 (1981)
 
 # A Pair of Tweezers 一把镊子 (1981)
 
-_A Pair of Tweezers_ 一把镊子 (1981), adaptation and woodcut illustration by Wu Weide 邬维德, translated by Lena Henningsen, published in _Fuchunjiang huabao_ 富春江画报，no. 343, 1981, pp. 14.[^1]
+_A Pair of Tweezers_ 一把镊子 (1981), adaptation and woodcut illustration by Wu Weide 邬维德, translated by Lena Henningsen, published in _Fuchunjiang huabao_ 富春江画报, no. 343, 1981, pp. 14.[^1]
 ___
-<p style="text-align: right;"><i>translation and introduction: 1 March 2026</i></p>
+<p style="text-align: right;"><i>translation and introduction: 9 March 2026</i></p>
 
 ## Introductory Note
 

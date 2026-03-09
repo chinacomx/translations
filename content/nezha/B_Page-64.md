@@ -12,4 +12,4 @@ weight: 68
 - 
 64&emsp;Meanwhile, Nezha’s spirit happened to be away from his temple. When he returned, he found the temple gone, the mountain was red and the soil burned, smoke and embers not yet extinguished. His two ghostly attendants came to meet him, weeping.
 
-{{% columns %}}
+{{% /columns %}}

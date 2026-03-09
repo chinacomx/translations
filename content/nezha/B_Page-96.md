@@ -12,4 +12,4 @@ weight: 100
 - 
 96&emsp;Master Taiyi then told Jinzha to invite Li Jing out. Li Jing bowed deeply. Master Taiyi spoke: “In the matter at Cuiping Mountain, you too were at fault. From now on, father and son must not quarrel again. You may go now.” Li Jing thanked both the Heavenly Venerable and Master Taiyi and left the cave, returning to Chentang Pass.
 
-{{% columns %}}
+{{% /columns %}}

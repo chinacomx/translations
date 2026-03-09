@@ -12,4 +12,4 @@ weight: 110
 - 
 106&emsp;The Daoist leapt aside and raised his sleeve. Suddenly, auspicious clouds swirled, with purple mist drifting around. From above, something descended through the air.
 
-{{% columns %}}
+{{% /columns %}}

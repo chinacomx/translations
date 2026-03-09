@@ -12,4 +12,4 @@ weight: 55
 - 
 51&emsp;Ao Guang left in a gust of wind. Li Jing stamped his foot and said: “This trouble is getting worse and worse—what should we do?” Nezha answered: “Father, Mother, don’t worry. If anything serious happens, my master will handle it, of course. You don’t need to worry.” With that, he left again for Mount Qianyuan.
 
-{{% columns %}}
+{{% /columns %}}
