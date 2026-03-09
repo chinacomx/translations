@@ -100,6 +100,14 @@ In the recent years, more and more lianhuanhua in new translation appear online:
 
 If you know about more lianhuanhua in translation, or maybe even produced one yourself, please [get in touch](https://chinacomx.github.io/contact/) and we will gladly add a link to the list above!
 
+## Terms of Use & Copyright Notice
+
+The translations and transcriptions on this website are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). You are free to copy and redistribute these texts for non-commercial educational, classroom, and research purposes, provided proper attribution is given. If you wish to quote or reproduce these translations in a formal academic publication (such as a journal article or book) or for any commercial purpose, you must [contact us](https://chinacomx.github.io/contact/) first to request prior written permission.
+
+The original Chinese texts and lianhuanhua illustrations remain the intellectual property of their respective creators and original publishers. These digital reproductions are provided strictly under educational fair use principles for the purpose of non-commercial teaching and scholarly study. They may not be extracted, printed, or distributed for commercial gain. The physical artifacts from which these scans were produced are held in the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) at the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/).
+
+We have taken much effort to contact the publishers of the respective comics in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email](mailto:chinacomx.erc@gmail.com) or get in touch using the [contact page](https://chinacomx.github.io/contact/). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely. 
+
 ## Acknowledgements
 
 This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzunowski as part of a proof of concept arising from work conducted with support from the ERC-funded project [“The Politics of Reading in the People’s Republic of China”](https://readchina.github.io/) (READCHINA, grant agreement no. 757365). The translations published here until 2023 originated as joint translation projects by students at the [Institute of Chinese Studies, University of Freiburg](https://uni-freiburg.de/sinologie/), supervised by Lena Henningsen. Students from FU Berlin, supervised by Dominik Weihrauch, also contributed translations during this phase.
@@ -107,7 +115,5 @@ This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzun
 Since 2024, the webpage is maintained by Damian Mandzunowski and the ERC-funded project [“Comics Culture in the People’s Republic of China”](https://chinacomx.github.io/) (ChinaComx, grant agreement no. 101088049) at the [Institute of Chinese Studies, Heidelberg University](https://www.zo.uni-heidelberg.de/de/china).
 
 Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/) for providing us with high resolution scans of the lianhuanhua, part of the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) — as well to Andreas Seifert for donating his collection to Heidelberg University in the first place.
-
-We have taken much effort to contact the publishers of the respective comics in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email](mailto:chinacomx.erc@gmail.com) or get in touch using the [contact page](https://chinacomx.github.io/contact/). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely. 
 
 The ChinaComx Team and collaborating translators
