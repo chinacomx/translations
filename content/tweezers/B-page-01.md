@@ -4,12 +4,12 @@ title: "Page 01"
 
 {{< tabs "tweezer" >}}
 {{< tab "Chinese" >}} 
-<h3>Chinese</h3>
-<img src="/translations/images/tweezers/tweezersCN.jpg">
+### Chinese
+![Chinese](/images/tweezers/tweezersCN.jpg)
 {{< /tab >}}
 {{< tab "English" >}}
-<h3>English</h3>
-<img src="/translations/images/tweezers/tweezersEN.jpg">
+### English
+![English](/images/tweezers/tweezersEN.jpg)
 {{< /tab >}}
 {{< /tabs >}}
 
