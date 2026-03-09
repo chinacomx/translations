@@ -26,7 +26,7 @@ Other evidence may push the circulation history of the story in China even furth
 >![Cover page of a 1983 _lianhuanhua_ adaptation of _My Uncle Jules_,](/images/uncle/image2.jpg)
 *Cover page of the _lianhuanhua_ adaptation of _My Uncle Jules_, Hunan Children and Youth Press, 1983. Source: _Kongfuzi jiushuwang_.*
 
-Coincidentally, _My Uncle Jules_ was also illustrated and published in the eighth issue of _Lianhuanhua bao_ in 1980. _Lianhuanhua bao_ is a monthly magazine founded in 1951 and published by the China Fine Arts Publishing Group (see also _Are You A Communist?_). In this version, the story is presented concisely in four pages with a total of twenty-four panels. The decision to translate the _lianhuanhua bao_ version is more of an aesthetic choice for the appreciation of its visual style.
+Coincidentally, _My Uncle Jules_ was also illustrated and published in the eighth issue of _Lianhuanhua bao_ in 1980. _Lianhuanhua bao_ is a monthly magazine founded in 1951 and published by the China Fine Arts Publishing Group (see also [_Are You A Communist?_](https://chinacomx.github.io/translations/gongchandangyuan/). In this version, the story is presented concisely in four pages with a total of twenty-four panels. The decision to translate the _lianhuanhua bao_ version is more of an aesthetic choice for the appreciation of its visual style.
 
 When adapted into both the textbook and _lianhuanhua_, the narration of the story has all been changed. These differences become especially clear when comparing the opening paragraphs of the three versions: Maupassant’s original story, the _lianhuanhua bao_ adaptation, and the Chinese textbook version:
 
