@@ -100,7 +100,7 @@ In the recent years, more and more lianhuanhua in new translation appear online:
 
 If you know about more lianhuanhua in translation, or maybe even produced one yourself, please [get in touch](https://chinacomx.github.io/contact/) and we will gladly add a link to the list above!
 
-## Terms of Use & Copyright Notice
+## Terms of use & copyright notice
 
 The translations and transcriptions on this website are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). You are free to copy and redistribute these texts for non-commercial educational, classroom, and research purposes, provided proper attribution is given. If you wish to quote or reproduce these translations in a formal academic publication (such as a journal article or book) or for any commercial purpose, you must [contact us](https://chinacomx.github.io/contact/) first to request prior written permission.
 
