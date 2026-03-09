@@ -6,10 +6,7 @@ weight: 21
 
 {{% columns %}}
 
-- 
-16 夜叉分水一跃，跳上岸来，往哪吒头顶一斧劈下。哪吒正赤身站立，见夜叉来得勇猛忙将身躲过。
-
-- 
-16&emsp;The Yaksha split the water and jumped onto the riverbank, swinging its axe down at Nezha’s head. Nezha, standing naked, saw the fierce attack coming from the Yaksha and swiftly dodged aside.
+- 17&emsp;哪吒将右手套的乾坤圈往空中一丢，那宝打将下来，正落在夜叉头上，立时，脑浆迸流，死于岸边。
+- 17&emsp;Nezha threw the Qiankun Ring from his right hand into the air — the treasure struck down and  smashed into Yaksha’s head. Immediately, its brains gushed out, and it died on the riverbank.
 
 {{% /columns %}}

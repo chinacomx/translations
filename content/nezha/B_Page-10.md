@@ -6,10 +6,8 @@ weight: 14
 
 {{% columns %}}
 
-- 
-9 暑往寒来，不觉七载。时逢五月，天气炎热，那哪吒心下烦躁，便来参见母亲，要去关外玩耍。殷夫人放心不下，命一名家将跟随。
+- 10&emsp;两人来到关外，进入绿柳深荫，顿觉薰风荡荡，襟怀舒放，烦恼尽解。
+- 10&emsp;When the two of them arrived outside the pass, they entered the shade of green willows. There, they were suddenly met by a gentle summer breeze, so that their hearts felt light and all their worries faded away.
 
-- 
-9&emsp;Unknowingly, seven summers and winters went by. One hot day in May, Nezha, feeling restless, went to see his mother and asked for permission to play outside the pass. Lady Yin was concerned and sent a household guard to accompany him.
 
 {{% /columns %}}

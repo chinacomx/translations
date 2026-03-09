@@ -6,10 +6,7 @@ weight: 17
 
 {{% columns %}}
 
-- 
-12 哪吒脱了衣裳，坐在石上，把七尺混天绫放在水里，蘸水洗澡。此宝放入水中，把水都映红了，摆一摆，江河晃动，摇一摇，乾坤震撼。
-
-- 
-12&emsp;Nezha took off his clothes and sat on a rock, dipping his seven-foot Huntian Silk into the water to bathe. As soon as this treasure touched the water, the river turned red. With each stir, the current shook violently; with each swish, heaven and earth trembled.
+- 13&emsp;这河乃是九湾河，在东海口上。此时，水晶官已被震动。东海龙王敖光忙唤左右，问道：“算来地不该震 ，为何宫殿摇晃？”忙传巡海夜叉李艮，去海口查看是何物作怪。
+- 13&emsp;This was the Jiuwan River, located at the mouth of the East Sea. At this moment, the Crystal Palace trembled. The Dragon King of the East Sea, Ao Guang, hastily summoned his attendants. “By all accounts, the ground shouldn’t tremble. Why is the palace shaking?” He hurriedly called for the sea-patrolling Yaksha Li Gen and ordered him to go to the river mouth to investigate what was causing the disturbance. 
 
 {{% /columns %}}

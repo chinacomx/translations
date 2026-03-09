@@ -6,10 +6,7 @@ weight: 119
 
 {{% columns %}}
 
-- 
-115 哪吒见事已如此，只得告别道人和父亲自回乾元山去了。
-
-- 
-115&emsp;Seeing matters settled, Nezha took leave of the Daoist and his father, and returned to Mount Qianyuan.
+- 115&emsp;哪吒见事已如此，只得告别道人和父亲自回乾元山去了。
+- 115&emsp;Seeing matters settled, Nezha took leave of the Daoist and his father, and returned to Mount Qianyuan.
 
 {{% /columns %}}

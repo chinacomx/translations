@@ -6,10 +6,7 @@ weight: 29
 
 {{% columns %}}
 
-- 
-24 敖丙又一戟刺下。哪吒急了，把七尺混天绫往空中一展，似火块千团，四下里飞舞，将三太子裹下逼水兽来。
-
-- 
-24&emsp;Ao Bing thrust again. Nezha became impatient, unfurled his Huntian Silk in midair—it blazed like a thousand clusters of fire, swirling in all directions and wrapping the prince around to pull him off the water-repelling steed.
+-  25&emsp;哪吒抢一步赶上去，一脚踏住敖丙的颈项，提起乾坤圈，照顶门猛打。   
+- 25&emsp;(Seizing his chance), Nezha quickly leapt forward, stomped on Ao Bing’s neck, raised the Qiankun Ring, and smashed it down onto his head.
 
 {{% /columns %}}

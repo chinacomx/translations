@@ -6,10 +6,7 @@ weight: 25
 
 {{% columns %}}
 
-- 
-20 敖丙忙调龙兵，上了逼水兽，提杆画戟，径出水晶宫来。分开水势，浪如山倒，波涛横生,平地水涨数尺。
-
-- 
-20&emsp;Ao Bing quickly mobilized the dragon troops, mounted his water-repelling steed, took up a decorated ji, and set off from the Crystal Palace. As he parted the waters, the waves crashed down like mountains, raging currents erupted all around, and the ground was flooded several feet high.
+- 21&emsp;哪吒起身看水，只见波浪中出现一头水兽，兽上坐一怪物，叫道：“是甚人打死我巡海夜叉？”哪吒道：“是我。我在此避暑洗澡，与他何干；他来打我，我打死了他，有何妨！”
+- 21&emsp;Nezha rose to look at the water, and saw a water-beast appearing in the waves. Atop it sat a monster, shouting: “Who killed my patrolling Yaksha?” Nezha replied: “That was me. I was here to escape the summer heat and take a bath— Why did he bother about that?  He came to attack me, so I struck him dead. What of it?”
 
 {{% /columns %}}

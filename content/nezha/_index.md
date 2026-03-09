@@ -8,10 +8,9 @@ title: Nezha Wreaks Havoc in the East Sea 哪吒闹东海 (1985)
 
 _Nezha Wreaks Havoc in the East Sea_, 哪吒闹东海, adapted by Bai Yu 白宇, illustrated by Chen Huiguan 陈惠冠, translated by Jinyi Zhu, People’s Fine Arts Publishing House, 1985.[^1]
 ___
-<p style="text-align: right;"><i>translation and introduction: 1 February 2026</i></p>
+<p style="text-align: right;"><i>translation and introduction: 9 March 2026</i></p>
 
-## Introduction to the text
-***Nezha Wreaks Havoc in the East Sea:* Introduction to the Story and its Translation**
+## Introduction to the Story and its Translation
 
 Jinyi Zhu
 
@@ -51,7 +50,7 @@ The 1980s edition exhibits more complex characterizations and attempts to reprod
 
 By contrast, the 1979 edition reduced the story significantly, retaining only the single-line conflict between Nezha and the Dragon King. The illustrations are simpler, the intended readers were likely very young children. Given that the primary purpose of this edition was likely to be educational for children, cultivating moral values, this adaptation completely removed the storyline depicting the fight between father and son. It is also likely that the lingering effects of the Cultural Revolution made them delete the narrative of the construction and destruction of Nezha's temple. Given that the primary purpose of this edition was likely to be educational for children, particularly for children in the post-Cultural Revolution period, the narrative revisions can be interpreted accordingly. On the one hand, the removal of father-son conflict may reflect an attempt to reawaken people's concern for familial bonds and to promote people return to the family-centered social structure in the aftermath of a decade with intergenerational violence. On the other hand, the removal of the episode involving the construction and destruction of Nezha's temple may also be interpreted as a revision to avoid touching the trauma from the decade, while presenting a narrative aligned with the values of the time.
 
-### About the translation
+## About the translation
 
 This *lianhuanhua* draws some lines directly from the original novel *Investiture of the Gods*, hence the language style is rather classical. In our translation of proper nouns, including locations, spells and magical instruments, we employ a combination of transliteration and literal translation. Many of these concepts lack exact English equivalents, but the chosen translations, we hope, help make the narrative more accessible to English-speaking readers. In order not to exoticise the translation too much, we have decided not to translate all of the place names, even if they have a meaning, such as Baode Gate (宝德门 panel 36 and after) which could be rendered "Precious Virtue Gate", or Nantian Gate (南天门, panel 38) "Southern Heavenly Gate".
 
@@ -71,7 +70,7 @@ A few terms and concepts may warrant explanation.
 
 - **Panel 92** refers to Samadhi Fire 三昧真火: In *Investiture of the Gods*, this is a mystical flame forged through the cultivation of essence, qi, and spirit (精，气，神). It bursts forth from the eyes, nose, and mouth, it cannot be extinguishd by ordinary water, and serves as a weapon to consume one's foes.
 
-### References
+## References
 
 Kao, Karl S. Y. 2002: "Domains of Moral Discourse: Self, History, and Fantasy in 'Fengshen Yanyi." *Chinese Literature: Essays, Articles, Reviews (CLEAR)*, vol. 24, 75-97.
 
@@ -86,3 +85,5 @@ Zheng, Weili 2022: "The Death of Nezha: Hero's Compensation, National Identity a
 ## Read the translated lianhuanhua
 
 {{<section>}}
+
+[^1]:text

@@ -6,10 +6,8 @@ weight: 15
 
 {{% columns %}}
 
-- 
-10 两人来到关外，进入绿柳深荫，顿觉薰风荡荡，襟怀舒放，烦恼尽解。
+- 11&emsp;猛见那清波滚滚，绿水滔滔，哪吒便要下河洗澡。家将说：“公子当心，只怕老爷回来，须早些回去。” 哪吒道：“不妨。”
+- 11&emsp;Upon seeing the clear waves rolling and the jade water surging, Nezha wanted to bathe in the river. The  household guard said: “Young master, please be careful. I'm afraid the master will be back— we should head back earlier.” Nezha replied: “Don’t worry.”
 
-- 
-10&emsp;When the two of them arrived outside the pass, they entered the shade of green willows. There, they were suddenly met by a gentle summer breeze, so that their hearts felt light and all their worries faded away.
 
 {{% /columns %}}

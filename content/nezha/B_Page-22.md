@@ -6,10 +6,7 @@ weight: 26
 
 {{% columns %}}
 
-- 
-21 哪吒起身看水，只见波浪中出现一头水兽，兽上坐一怪物，叫道：“是甚人打死我巡海夜叉？”哪吒道：“是我。我在此避暑洗澡，与他何干；他来打我，我打死了他，有何妨！”
-
-- 
-21&emsp;Nezha rose to look at the water, and saw a water-beast appearing in the waves. Atop it sat a monster, shouting: “Who killed my patrolling Yaksha?” Nezha replied: “That was me. I was here to escape the summer heat and take a bath— Why did he bother about that?  He came to attack me, so I struck him dead. What of it?”
+- 22&emsp;两人互通姓名。哪吒笑道：“你原来是敖光之子，不要妄自尊大。若恼了我，连你那老泥鳅都揪出来，把他的皮也剥了。”三太子大叫一声：“气杀我！好泼贼！这等无礼！”
+- 22&emsp;The two exchanged names. Nezha laughed and said: “So, you’re Ao Guang’s son. Don’t act so self-important. If you anger me, I’ll even drag that old loach  out and peel off his skin!” The Third Prince roared: “How outrageous! You scoundrel! What insolence!”
 
 {{% /columns %}}

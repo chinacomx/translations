@@ -6,10 +6,7 @@ weight: 109
 
 {{% columns %}}
 
-- 
-105 哪吒大怒，把枪展一展，又劈脑刺来。
-
-- 
-105&emsp;Nezha was furious—he swung his spear again and thrust straight for the Daoist’s  head.
+- 105&emsp;哪吒大怒，把枪展一展，又劈脑刺来。
+- 105&emsp;Nezha was furious—he swung his spear again and thrust straight for the Daoist’s  head.
 
 {{% /columns %}}

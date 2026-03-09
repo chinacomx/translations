@@ -6,10 +6,7 @@ weight: 12
 
 {{% columns %}}
 
-- 
-7 侍儿将公子抱出来，真人端详良久，言道：“此儿手上金镯名唤 ‘乾坤圈’ 腹上红绫叫作 ‘混天绫’，原是我乾元山镇洞之宝，看来和我有缘，就与贫道作个徒弟如何？”
-
-- 
-7&emsp;A servant brought out the child, and the Taoist carefully observed him, saying: “The golden bracelet on his hand is called the ‘Qiankun Ring’, and the red silk on his belly is called ‘Huntian Silk’. These are treasures from the Golden Light Cave of Mount Qianyuan, where I reside. It seems this child is fated with me—how about letting him become my disciple?”
+- 8&emsp;李靖欣然应道：“我长子金吒，拜五龙山文殊广法天尊为师；次子木吒，拜九宫山普贤真人为师。老师既要收此儿，先请赐个名字。” 真人便给小儿取名哪吒，收于门下。
+- 8&emsp;Li Jing replied gladly: “My eldest son, Jinzha, is a disciple of of Mount Five-Dragon; my second son, Muzha, studies under the Sage of Universal Virtue of Mount Nine-Palace. Since Master you wish to take my third son as a disciple, please bestow him a name.” The Taoist then named the boy Nezha and accepted him as his disciple.
 
 {{% /columns %}}

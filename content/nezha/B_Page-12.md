@@ -6,10 +6,8 @@ weight: 16
 
 {{% columns %}}
 
-- 
-11 猛见那清波滚滚，绿水滔滔，哪吒便要下河洗澡。家将说：“公子当心，只怕老爷回来，须早些回去。” 哪吒道：“不妨。”
+- 12&emsp;哪吒脱了衣裳，坐在石上，把七尺混天绫放在水里，蘸水洗澡。此宝放入水中，把水都映红了，摆一摆，江河晃动，摇一摇，乾坤震撼。
+- 12&emsp;Nezha took off his clothes and sat on a rock, dipping his seven-foot Huntian Silk into the water to bathe. As soon as this treasure touched the water, the river turned red. With each stir, the current shook violently; with each swish, heaven and earth trembled.
 
-- 
-11&emsp;Upon seeing the clear waves rolling and the jade water surging, Nezha wanted to bathe in the river. The  household guard said: “Young master, please be careful. I'm afraid the master will be back— we should head back earlier.” Nezha replied: “Don’t worry.”
 
 {{% /columns %}}

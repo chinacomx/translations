@@ -6,10 +6,7 @@ weight: 9
 
 {{% columns %}}
 
-- 
-
-
-- 
-4&emsp;Li Jing was shocked, grasping his treasured sword, he slashed at the flesh ball. The ball split open, and out jumped a child who ran all over the floor. The child wore a golden bracelet on his right hand and a piece of red silk around his belly. He had a delicate and fair face and looked very clever.
+- 5&emsp;李靖骇异，上前一把抱将起来，分明是个好孩子，又不忍作为妖怪坏他性命，就递与夫人看。彼此恩爱不舍，转忧为喜。
+- 5&emsp;Li Jing was astonished, stepped forward and picked him up. Clearly, the child was perfectly normal, and he couldn't bear to take him for a monster and take his life. He handed the child to Lady Yin. Their affection for the child turned their worry into joy.
 
 {{% /columns %}}
