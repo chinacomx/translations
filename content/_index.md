@@ -9,7 +9,7 @@ ___
 
 To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English or German translations on this webpage. Ranging from book-length standalone stories to one-pagers found in magazines, we hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
 
-All translations are available free and openly on this website. Each comes with high-resolution scanned imaged, the transcribed text in original, and its translation next to each other. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).  
+All translations are available free and openly on this website. Each comes with high-resolution scanned images, the transcribed text in original, and its translation next to each other. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).  
 
 As of today, we have published fourteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five thematic categories (but note that some stories may equally well fit in two categories or more):
 
