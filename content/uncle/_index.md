@@ -44,6 +44,9 @@ If we further examine teaching plans designed for the textbook version, the stor
 
 The People’s Education Press loves this story because elements in it can lead to and support the lesson that “in capitalist society, relationships between people are essentially monetary relationships” (Cheng, 2024). Yet students may remember it differently. Regardless of the textbook interpretation, ask almost any Chinese reader about _My Uncle Jules_, and they will smile knowingly and say, “Oyster!” The vivid depiction of well-dressed tourists savoring oysters left a deep impression on generations of students, especially for inland children like me, who grew up at a time when oysters were not that commonly found. Here, by presenting the lianhuanhua version of My Uncle Jules, we hope to present how foreign stories are interpreted, adapted, and remembered within a different cultural context.
 
+## Notes on the translation
+
+For this translation, in addition to the usual side-by-side transcription and translation texts, we have prepared a scanlated version for easy browsing as well; this was done in partial inspiration by [John A. Crespi's work on scanlating *manhua*](https://chinacomx.github.io/jekyll/update/2025/11/03/CrespiTalkHeidelberg.html).
 
 ## References
 
@@ -66,10 +69,6 @@ Sohu 搜狐 2020: 《我的叔叔于勒》：教材删去了3处关键信息，�
 Sun, Weimin 孙为民 1980: Tianjin: Tianjin renmin meishu chubanshe. Accessed [online](https://book.kongfz.com/445182/7940712702) (last access Mar. 6, 2026).
 
 Shuang, Lin 霜林 1983: Changsha: Hunan shaonian ertong chubanshe. Accessed [online](https://book.kongfz.com/615584/8337478218) (last access Mar. 6, 2026).
-
-## Notes on the translation
-
-For this translation, in addition to the usual side-by-side transcription and translation texts, we have prepared a scanlated version for easy browsing as well; this was done in partial inspiration by [John A. Crespi's work on scanlating *manhua*](https://chinacomx.github.io/jekyll/update/2025/11/03/CrespiTalkHeidelberg.html).
 
 ## Read the translated lianhuanhua
 
