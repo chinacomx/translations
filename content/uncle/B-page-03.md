@@ -3,14 +3,13 @@ title: "Page 03 / Panels 13-18"
 ---
 
 {{< tabs "uncle03" >}}
-
-{{< tab "My Uncle Jules Chinese Page 3" >}} 
+{{< tab "Chinese, Page 03 / Panels 13-18" >}} 
 <h3>Chinese</h3>
-<img src="/translations/images/uncle/jules-03.jpg>
+<img src="/translations/images/uncle/jules-03.jpg">
 {{< /tab >}}
-{{< tab "My Uncle Jules English Page 3" >}}
-<h3>English Translation</h3>
-<img src="/translations/images/uncle/jules_EN_03.png>
+{{< tab "English, Page 03 / Panels 13-18" >}}
+<h3>English, Page 03 / Panels 13-18</h3>
+<img src="/translations/images/uncle/jules_EN_03.png">
 {{< /tab >}}
 {{< /tabs >}}
 
