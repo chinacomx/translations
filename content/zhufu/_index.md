@@ -79,26 +79,6 @@ The differences in historical framing among the two versions become more obvious
 
 On the one hand, the adaptations represent a reduction of the complexity and ambiguity of Lu Xun's original and as such can be seen as a losing in the course of adaptation, with the realism inscribed into the images and with the loss of the ambiguous first-person narrator from Lu Xun's short story. On the other hand, however, the comics in their variety of framing and individual painting styles serve to keep the story visible and meaningful to later generations of readers. In their simplicity, they provide access to the story to a readership who may not be literate enough to read the original -- and they may add a distinct interpretation of the story for those readers familiar with the original, thus clearly representing a gain in adaptation.
 
-### References
-
-Denton, Kirk, A. 2016: "Literature and Politics: Mao Zedong's 'Yan'an Talks' and Party Rectification", in: Kirk A. Denton \[ed.\]: *The Columbia Companion to Modern Chinese Literature*, New York: Columbia University Press, 224-230.
-
-Henningsen, Lena 2021: *Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China*, Basingstoke: Palgrave Macmillan.
-
-Hoffmann, Hans Peter 2015: „Der Neujahrssegen Lu Xuns -- Ein Essay zum literarischen Übersetzen", in Lu, Xun 2015 (1924): *Der Neujahrssegen* (transl. Alisa Daniczek, Brigitte Höhenrieder, Hans Peter Hoffmann, Julia Neubauer, Angelika Opitz; edition pengkun), Bochum: Projektverlag, 43-72.
-
-Lu Xun 鲁迅 2005 (1963, 1957): *The New Year's Sacrifice* 祝福, adapted by Xu Gan 徐淦, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Renmin meishu chubanshe. Accessed online at: [https://www.sohu.com/a/355550011_120441479](https://www.sohu.com/a/355550011_120441479) (last access Jan. 28, 2022).
-
-Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Renmin meishu chubanshe.
-
-Lu Xun 鲁迅 1979: *Xianglin's Wife* 祥林嫂, adapted by Wu Chen 吴琛, Mo Xin 沫, IMAGES Sun Weide 孙为德, Wang Qia 王恰, Shanghai: Renmin meishu chubanshe. (photos / movie stills)
-
-Lu, Xun 2009 (1924): "New Year's Sacrifice" (transl. Julia Lovell), in: Lu Xun: *The Real Story of Ah-Q and other Tales of China: The Complete Fiction of Lu Xun*, London: Penguin, 161-177.
-
-Lu, Xun 2015 (1924): *Der Neujahrssegen* (transl. Alisa Daniczek, Brigitte Höhenrieder, Hans Peter Hoffmann, Julia Neubauer, Angelika Opitz; edition pengkun), Bochum: Projektverlag.
-
-McDougall, Bonnie \[ed.\] 1980: *Mao Zedong\'s "Talks at the Yan\'an Conference on literature and art"*, Ann Arbor: Center for Chinese Studies, University of Michigan.
-
 ## About the translation
 
 In preparing this translation, our aim was to produce a text that would do justice to the legacy of Lu Xun, but more so, to the language and contents of the PRC adaptation of the story. In his essay accompanying his retranslation of the original short story into German, Hans Peter Hoffmann (2015) makes a convincing argument for the use of slightly outdated terms as markers for what Lu Xun wanted to emphasize as backward in his times. As we translated from an adaptation of Lu Xun's story in rather blunt PRC language, we measure our translation against that language. We thus aimed at staying close both to the literal meaning of the text and to its spirit -- bearing in mind that this is, likely, a story targeting not only adults, but also children; we also aimed at a translation that would not make the text longer than in the original, thus subverting the simplicity, elegance and brevity of *lianhuanhua* language. While many names in the Chinese language are 'speaking names' and thus reveal information about the person or place they relate to, we opted for the more neutral terms derived at by transliterating and not translating the names in order not to unduly exoticize the translation. We also decided against adding explanations for terms into the text. But as the names of the protagonists and places may be confusing for readers unfamiliar with Chinese naming conventions, the following may be helpful:
@@ -119,10 +99,30 @@ In preparing this translation, our aim was to produce a text that would do justi
 
 We have taken much effort to contact the publisher of this comic in order to acquire permission by the copyright holder to publish the pages online. We regret that we have not received responses to our inquiries. If you believe that copyrights are not being respected, please [send us an email message](mailto:chinacomx.erc@gmail.com). We will respond as soon as possible and will work with you to either accredit the material correctly or remove it entirely.
 
-[^1]: This translation was produced in a joint translation project by students at the Institute of Chinese Studies, University of Freiburg, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). Special thanks go to Eve Y. Lin for her critical reading of the translation and to Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.cats.uni-heidelberg.de/bibliothek/sammlungen/sinologie.html).
+## References
 
-[^2]: This essay has been developed as part of the project "The Politics of Reading in the People's Republic of China" (READCHINA) which has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 757365) and as part of the class "Comics in China" (winter 2021/2022) taught at the University of Freiburg.
+Denton, Kirk, A. 2016: "Literature and Politics: Mao Zedong's 'Yan'an Talks' and Party Rectification", in: Kirk A. Denton \[ed.\]: *The Columbia Companion to Modern Chinese Literature*, New York: Columbia University Press, 224-230.
+
+Henningsen, Lena 2021: *Cultural Revolution Manuscripts: Unofficial Entertainment Fiction from 1970s China*, Basingstoke: Palgrave Macmillan.
+
+Hoffmann, Hans Peter 2015: „Der Neujahrssegen Lu Xuns -- Ein Essay zum literarischen Übersetzen", in Lu, Xun 2015 (1924): *Der Neujahrssegen* (transl. Alisa Daniczek, Brigitte Höhenrieder, Hans Peter Hoffmann, Julia Neubauer, Angelika Opitz; edition pengkun), Bochum: Projektverlag, 43-72.
+
+Lu Xun 鲁迅 2005 (1963, 1957): *The New Year's Sacrifice* 祝福, adapted by Xu Gan 徐淦, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Renmin meishu chubanshe. Accessed online at: [https://www.sohu.com/a/355550011_120441479](https://www.sohu.com/a/355550011_120441479) (last access Jan. 28, 2022).
+
+Lu Xun 鲁迅 1974: *The New Year's Sacrifice* 祝福, illustrated by Yong Xiang 永祥, Hong Ren 洪仁, Yao Qiao 姚巧, Beijing: Renmin meishu chubanshe.
+
+Lu Xun 鲁迅 1979: *Xianglin's Wife* 祥林嫂, adapted by Wu Chen 吴琛, Mo Xin 沫, IMAGES Sun Weide 孙为德, Wang Qia 王恰, Shanghai: Renmin meishu chubanshe. (photos / movie stills)
+
+Lu, Xun 2009 (1924): "New Year's Sacrifice" (transl. Julia Lovell), in: Lu Xun: *The Real Story of Ah-Q and other Tales of China: The Complete Fiction of Lu Xun*, London: Penguin, 161-177.
+
+Lu, Xun 2015 (1924): *Der Neujahrssegen* (transl. Alisa Daniczek, Brigitte Höhenrieder, Hans Peter Hoffmann, Julia Neubauer, Angelika Opitz; edition pengkun), Bochum: Projektverlag.
+
+McDougall, Bonnie \[ed.\] 1980: *Mao Zedong\'s "Talks at the Yan\'an Conference on literature and art"*, Ann Arbor: Center for Chinese Studies, University of Michigan.
 
 ## Read the translated lianhuanhua
 
 {{<section>}}
+
+[^1]: This translation was produced in a joint translation project by students at the Institute of Chinese Studies, University of Freiburg, supervised by Lena Henningsen. We acknowledge the support of the ERC-funded project "The Politics of Reading in the People's Republic of China" (READCHINA, Grant agreement No. 757365/SH5: 2018-2023). Special thanks go to Eve Y. Lin for her critical reading of the translation and to Matthias Arnold and Hanno Lecher from the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high resolution scans of the comics which are part of the [Seifert collection](https://www.cats.uni-heidelberg.de/bibliothek/sammlungen/sinologie.html).
+
+[^2]: This essay has been developed as part of the project "The Politics of Reading in the People's Republic of China" (READCHINA) which has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 757365) and as part of the class "Comics in China" (winter 2021/2022) taught at the University of Freiburg.
