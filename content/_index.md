@@ -19,7 +19,9 @@ As of today, we have published fourteen ChinaComx translations of various types 
      
     - _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: read the German translation [here](https://chinacomx.github.io/translations/luxun/);
 
-    - tweezers
+    - _A Pair of Tweezers_ 一把镊子 (1981) is a one-paged lianhuanhua strip adaptation of an equally short story about Lu Xun: read the English translation [here](https://chinacomx.github.io/translations/tweezers/);
+
+    - _Nezha Wreaks Havoc in the East Sea_ 哪吒闹东海 (1985) is part three of a fifteen-part 1980s lianhuanhua adaptaion of the famous legend: read the English translation [here](https://chinacomx.github.io/translations/nezha/);
 
 2. Tales of youth and socialist-patriotic ideals:
     
@@ -43,7 +45,7 @@ As of today, we have published fourteen ChinaComx translations of various types 
 
     - _The Watch_ 表 (1980) is a beloved Soviet children's story adapted into lianhuanhua for a Chinese audience: read the English translation [here](https://chinacomx.github.io/translations/biao/);
 
-    - Jules 
+    - _My Uncle Jules_ 我的叔叔于勒 (1980) is a lianhuanhua strip adapting a short story by Guy de Maupassant that probably every schoolchild in China was made to read in class: read the English translation [here](https://chinacomx.github.io/translations/uncle/)
 
 5. Contemporary lianhuanhua:
 
