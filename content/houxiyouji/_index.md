@@ -25,7 +25,7 @@ Da sich die Erzähltechniken der meisten Lianhuanhua der zweiten Hälfte des 20.
 
 | Die Version von 1989 | Die Version von 1984 |
 | :--- | :--- |
-| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/1.png)<br>Abb.1: *Nach der Reise in den Westen* 3: Mönche verfälschen die Sutren, 1989, S. 5. | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/2.png)<br>Abb.2: *Nach der Reise in den Westen* 2: Der kleine Heilige macht Aufruhr im Himmelspalast, 1984, S. 1. |
+| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/1.png)<br>Abb.1: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren*, 1989, S. 5. | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/2.png)<br>Abb.2: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1984, S. 1. |
 | **Sprechblase:**<br>**Sun:** Was haben Sie vor, Meister?<br><br>**Mönch Tang:** Ich will hinuntergehen und mir anschauen, wie die Mönche des Großen Tang ihre Sutras vortragen. | Mönch Tang Sanzang brachte die wahren Sutras nach China zurück, wo sie über zweihundert Jahre verbreitet wurden. Zur Zeit des Tang-Kaisers Xianzong war die echte Überlieferung jedoch verloren, und Mönche täuschten das Volk im Namen des Buddhismus. Mönch Tang empfand darüber Sorge und stieg, begleitet von Sun Wukong, erneut auf die Erde hinab, um die Lage der Sutras zu prüfen. |
 
 Die Version von 1989 wirkt trotz ähnlichen Inhalts durch ihre entspanntere, dialogorientierte Comic-Erzählweise zugänglicher als die von 1984.
@@ -41,8 +41,8 @@ Wie für viele Lianhuanhua üblich, erscheinen hier drei Formen von Text: ein de
 
 | Version aus den 1940er Jahren | Version von 1989 (mit Übersetzung von Gruppe 1) |
 | :--- | :--- |
-| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/4.png) | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/5.png) |
-| **Diegetischer Text:** Blumen-Früchte-Berg<br>**Blocktext:** Sun Wukong schleppte den japanischen Piloten zurück zum Blumen-Früchte-Berg.<br>**Name:** Su Wukong<br>japanischer Pilot<br><br>Abb. 4: Jiang 1945-1949: *Die neue Reise in den Westen*, S. 57. | **Diegetischer Text:** Blumen-Früchte-Berg<br>**Sprechblase 1:** Von nun an hältst du hier Wache, Faulenzen verboten!<br>**Sprechblase 2:** Schon gut, schon gut.<br><br>Abb. 5: *Nach der Reise in den Westen* 2: Der kleine Heilige macht Aufruhr im Himmelspalast, 1989, S. 26. |
+| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/4.png) | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0030.jpg) |
+| **Diegetischer Text:** Blumen-Früchte-Berg<br>**Blocktext:** Sun Wukong schleppte den japanischen Piloten zurück zum Blumen-Früchte-Berg.<br>**Name:** Su Wukong<br>japanischer Pilot<br><br>Abb. 4: Jiang 1945-1949: *Die neue Reise in den Westen*, S. 57. | **Diegetischer Text:** Blumen-Früchte-Berg<br>**Sprechblase 1:** Von nun an hältst du hier Wache, Faulenzen verboten!<br>**Sprechblase 2:** Schon gut, schon gut.<br><br>Abb. 5: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1989, S. 26. |
 
 ### Intertextualität und Übersetzung der Lianhuanhua *Nach der Reise in den Westen*
 Die beiden Lianhuanhua aus den 1980er Jahren sind Adaptionen desselben Romans *Nach der Reise in den Westen*, der zu Beginn der Qing-Dynastie veröffentlicht wurde (Zhang 2020, 293) und zu den drei bedeutenden Fortsetzungen des ursprünglichen Romans *Xiyouji* (西遊記 *Die Reise in den Westen*, verfasst von Wu Cheng’en im 16. Jh. zur Zeit der Ming-Dynastie) zählt. Was den Umfang betrifft, so umfasst die hier übersetzte Lianhuanhua Version von 1989 zwanzig Bände, während der Roman *Nach der Reise in den Westen* vierzig Kapitel enthält. Ein Vergleich der Inhalte zeigt, dass jeweils ein Band der Lianhuanhua ungefähr zwei Kapiteln des Romans entspricht. 
@@ -83,7 +83,7 @@ Im Verlauf eines Semesters intensiver Diskussionen konnten wir mehrere zentrale 
 #### 1.	Die Leserichtung innerhalb eines Panels
 In den Lianhuanhua wird die Leserichtung stärker durch die inhaltliche Bedeutung des Textes als durch die räumliche Platzierung der Sprechblasen auf der Seite bestimmt. Zu Beginn unterlaufen den Studierenden manchmal Fehler, da sie zu sehr an die von oben nach unten verlaufende Leserichtung konventioneller westlicher Comics gewöhnt sind. So kann, wie im folgenden Beispiel, eine Sprechblase am oberen Rand des Panels inhaltlich nach derjenigen am unteren Panel-Rand folgen (Abb.6):
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/6.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0018.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -95,7 +95,7 @@ Die untere Sprechblase zeigt, dass der Schildkrötenminister offensichtlich ver�
 
 Hier ist ein weiteres Beispiel: Die räumliche Stellung im Panel verdeutlicht nicht nur die Standposition der Figuren, sondern sogar ihre Machtverhältnisse. Auch die Reihenfolge der Sprechblasen folgt hier nicht dem üblichen Verlauf von oben nach unten, sondern von unten nach oben, wie etwa in Panel 15 (Abb. 7).
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/7.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0019.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -108,13 +108,13 @@ Die Machtverhältnisse spiegeln sich auch im Sprachstil der Figuren wider. Der M
 #### 2.	Reimverse und Zauberspruch 
 Reimverse treten in den Romanen *Die Reise in den Westen* und *Nach der Reise in den Westen* sehr häufig auf. Auch in den Lianhuanhua lassen sich einige Beispiele finden. Die Reimverse sind in der Regel kurz und einfach, wie zum Beispiel in Abb.8:
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/8.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0025.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
 | Die Sohlen am Boden Im Himmel der Sinn<br>So rannen allmählich<br>Die Jahre dahin<br><br>Doch darauf, ganz plötzlich<br>Fiel der Meister ihm ein:<br>Dank himmlischen Speisen<br>Wird auch er ewig sein! | Steht auf der Erde, unter dem Himmel; verbringt die Zeit, Jahr für Jahr; trinkt göttlichen Wein, frisst himmlische Pfirsiche; der Gibbon wird auch ein Unsterblicher! |
 >
->Abb. 8: Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt, 1989, S. 21.
+>Abb. 8: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt*, 1989, S. 21.
 
 Diese vier Zeilen bilden einen kompakten Vers, wobei jede Zeile genau sieben Schriftzeichen umfasst (allerdings nicht als Vers im Druck gesetzt sind). Nur die ersten beiden Zeilen und die letzte Zeile reimen sich, also ein aaba-Schema. In nur diesen wenigen Worten verdichtet der Erzähler die Zeit. Nach Jahren hat der Gibbon die Sterblichkeit überwunden.
 
@@ -122,7 +122,7 @@ Gruppe 1 hat sich bemüht, in formaler Hinsicht eine ähnliche Wirkung zu erziel
 
 Der Zauberspruch ist ein weiteres charakteristisches sprachliches Element des Originalromans *Die Reise in den Westen*, seines Fortsetzungsromans *Nach der Reise in den Westen* sowie der Lianhuanhua (siehe Abb.9 und 10):
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/9.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0013.jpg)
 >
 >| Gruppe 1 | Gruppe 2 | Eva Lüdi Kong |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Der Zauberspruch ist ein weiteres charakteristisches sprachliches Element des Or
 >
 >Abb. 9: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1989, S. 9.
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/10.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0015.jpg)
 >
 >| Gruppe 1 | Gruppe 2 | Eva Lüdi Kong |
 | :--- | :--- | :--- |
@@ -147,7 +147,7 @@ Bei der Wiederholung „好，好“ spiegeln die Lianhuanhua-Übersetzungen „
 
 Viele Sätze tragen einen ausrufenden Tonfall; so vermittelt etwa der Ausdruck „唔“ ein Gefühl von Überraschung oder Skepsis. In diesem Beispiel wiederholt Meister Gibbon den Satz „不一般“ auch zweimal. Beide Gruppen haben nicht das „唔“ wiederholt, sondern vielmehr den nachfolgenden Satz „不一般“ (siebe Abb. 11):
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/11.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0015.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -158,7 +158,7 @@ Viele Sätze tragen einen ausrufenden Tonfall; so vermittelt etwa der Ausdruck �
 #### 4.	Der diegetische Text 
 Der diegetische Text in Lianhuanhua enthält mitunter Ortsnamen aus *Die Reise in den Westen*, von denen viele bereits deutsche Übersetzungen besitzen. Bei der Übertragung muss jedoch der begrenzte Platz in einem Panel berücksichtigt werden, da diese Ortsnamen häufig sehr lang sind. Zum Beispiel die Übersetzung von dem diegetischen Text im Panel bereits referenziert in Abb. 5:
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/5.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0030.jpg)
 >
 >| Gruppe 1 | Gruppe 2 | Eva Lüdi Kong |
 | :--- | :--- | :--- |
@@ -170,7 +170,7 @@ Da der Blumen-Früchte-Berg als Geburtsort des Affenkönigs gilt und eine zentra
 
 Eine weitere Schwierigkeit der Übersetzung besteht darin, dass der diegetische Text Ortsnamen mit deren jeweiligen Erzählfunktionen verknüpft, etwa wenn in den Dialogen darauf Bezug genommen wird (Abb. 12): 
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/12.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0047.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -178,7 +178,7 @@ Eine weitere Schwierigkeit der Übersetzung besteht darin, dass der diegetische 
 >
 >Abb. 12: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt*, 1989, S. 43.
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/13.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0051.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -193,7 +193,7 @@ Der Originalroman *Die Reise in den Westen* ist voller Humor. Die Figuren sind l
 
 Das folgende Beispiel zeigt, dass der Wächter des Drachenpalastes und der Meeresdrachenkönig bereits Erfahrung im Kampf mit Sun Wukong hatten – wie es in *Die Reise in den Westen* überliefert ist. Aus den Dialogen in Abb. 6, 7 (siehe oben), 14 und 15 wird zudem deutlich, dass der Meeresdrachenkönig Furcht vor dem kleinen Affen hat.
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/14.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0016.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -202,7 +202,7 @@ Das folgende Beispiel zeigt, dass der Wächter des Drachenpalastes und der Meere
 >Abb. 14: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1989, S. 12. 
 
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/15.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0017.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -213,7 +213,7 @@ Das folgende Beispiel zeigt, dass der Wächter des Drachenpalastes und der Meere
 
 Im weiteren Verlauf der Handlung erweist sich niemand als imstande, den kleinen Affen zu bezwingen, sodass man schließlich gezwungen ist, seinen Ahnen Sun Wukong um Hilfe zu rufen. Dies macht explizit, dass *Nach der Reise in den Westen* eine Fortsetzung des Romans *Die Reise in den Westen* darstellt, siehe Abb. 16:
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/16.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0059.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -228,11 +228,11 @@ Wie bereits mehrfach hervorgehoben, stammen viele der in diesem Lianhuanhua verw
 
 Darüber hinaus stammen einige Ortsnamen in *Die Reise in den Westen* und in *Nach der Reise in den Westen* aus buddhistischen Sutren. Sie wurden bereits aus dem Sanskrit ins Chinesische als Kombination von Bedeutungs- und Lautübersetzung übertragen. Zum Beispiel heißt der Ort, den der kleine Affe aufsuchen möchte, Aparagodaniya (siehe Abb. 17):
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/17.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0043.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
-| Der westliche Kontinent Aparagodaniya! Hier gibt es bestimmt Unsterbliche, ich höre mich mal gründlich um.<br>Gerne, gerne. | Der westliche Kontinent Aparagodaniya! Das ist ein sehr belebter Ort, hier gibt es bestimmt Unsterbliche. Am besten höre ich mich um. |
+| Der westliche Kontinent Aparagodaniya! Hier gibt es bestimmt Unsterbliche, ich höre mich mal gründlich um. | Der westliche Kontinent Aparagodaniya! Das ist ein sehr belebter Ort, hier gibt es bestimmt Unsterbliche. Am besten höre ich mich um. |
 >
 >Abb. 17: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt*, 1989, S. 39.
 
@@ -240,7 +240,7 @@ In der chinesischen Übersetzung "西牛賀洲" erscheint dabei das Zeichen "西
 
 Ganz ähnlich auch im folgenden Beispiel (Abb. 18):
 
->![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/18.png)
+>![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0057.jpg)
 >
 >| Gruppe 1 | Gruppe 2 |
 | :--- | :--- |
@@ -259,21 +259,21 @@ Im Unterricht diskutieren wir häufig, ob präzise, etablierte deutsche Überset
 
 ## Literatur
 
-Jiang, Ping 蔣萍 1945-1949: Die neue Reise in den Westen 1 新西遊記（上）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/aamglhh/index.html?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B (zuletzt abgerufen am 19. November 2025)
+Jiang, Ping 蔣萍 1945-1949: *Die neue Reise in den Westen 1* 新西遊記（上）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/aamglhh/index.html?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B (zuletzt abgerufen am 19. November 2025)
 
-Jiang, Ping 蔣萍 1945-1949: Die neue Reise in den Westen 2 新西遊記（下）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/Reader/ReadBook.aspx?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B&m=108489&p=F96932D700BA33BC63FE63C5004D66D1&y_l_s=1CF377447BA61C894C8A622B297C3CE8099F6C666AF0A5B1 (zuletzt abgerufen am 19. November 2025)
+Jiang, Ping 蔣萍 1945-1949: *Die neue Reise in den Westen 2* 新西遊記（下）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/Reader/ReadBook.aspx?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B&m=108489&p=F96932D700BA33BC63FE63C5004D66D1&y_l_s=1CF377447BA61C894C8A622B297C3CE8099F6C666AF0A5B1 (zuletzt abgerufen am 19. November 2025)
 
-O. V. 1984: Nach der Reise in den Westen 2: Erneute Reise zum Westlichen Himmel 後西遊記（二）：重赴西天. Bearbeitet von Gan Liyue 甘禮樂, illustriert von Xu, Youwu 徐有武 und Xu Yougang 徐友剛. Zhejiang: Zhejiang renmin meishu chubanshe.
+O. V. 1984: *Nach der Reise in den Westen 2: Erneute Reise zum Westlichen Himmel* 後西遊記（二）：重赴西天. Bearbeitet von Gan Liyue 甘禮樂, illustriert von Xu, Youwu 徐有武 und Xu Yougang 徐友剛. Zhejiang: Zhejiang renmin meishu chubanshe.
 
-O. V. 1989: Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt 後西遊記之一：小石猴出世. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Wu Bingyu 吳冰玉. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt* 後西遊記之一：小石猴出世. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Wu Bingyu 吳冰玉. Shanghai: Shanghai renmin meishu chubanshe.
 
-O. V. 1989: Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast 後西遊記之二：小聖鬧天宮. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Luo Xixian羅希賢. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast* 後西遊記之二：小聖鬧天宮. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Luo Xixian羅希賢. Shanghai: Shanghai renmin meishu chubanshe.
 
-O. V. 1989: Nach der Reise in den Westen 3: Mönche verfälschen die Sutren 後西遊記之三：和尚念歪經. Bearbeitet von Chen Yuanshan 陳元山, illustriert von Chen Guchang 陳谷長. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren* 後西遊記之三：和尚念歪經. Bearbeitet von Chen Yuanshan 陳元山, illustriert von Chen Guchang 陳谷長. Shanghai: Shanghai renmin meishu chubanshe.
 
-Wu Cheng’en吳承恩 2016: Die Reise in den Westen. Ein klassischer chinesischer Roman. Übersetzt von Eva Lüdi Kong. Stuttgart: Reclam.
+Wu Cheng’en 吳承恩 2016: *Die Reise in den Westen. Ein klassischer chinesischer Roman*.* Übersetzt von Eva Lüdi Kong. Stuttgart: Reclam.
 
-Zhang Yiwei 張怡微 2020: Die *Xiyouji*-Fortsetzungen der späten Ming- und frühen Qing-Zeit 明末清初《西遊記》續書研究. Shanghai: Huadong shifan daxue chubanshe.
+Zhang Yiwei 張怡微 2020: *Die* Xiyouji-*Fortsetzungen der späten Ming- und frühen Qing-Zeit* 明末清初《西遊記》續書研究. Shanghai: Huadong shifan daxue chubanshe.
 
 ## Read the translated lianhuanhua
 
