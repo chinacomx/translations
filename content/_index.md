@@ -116,6 +116,6 @@ This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzun
 
 Since 2024, the webpage is maintained by Damian Mandzunowski and the ERC-funded project [“Comics Culture in the People’s Republic of China”](https://chinacomx.github.io/) (ChinaComx, grant agreement no. 101088049) at the [Institute of Chinese Studies, Heidelberg University](https://www.zo.uni-heidelberg.de/de/china).
 
-Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/) for providing us with high resolution scans of the lianhuanhua, part of the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) — as well to Andreas Seifert for donating his collection to Heidelberg University in the first place.
+Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/) for providing us with high resolution scans of the lianhuanhua, part of the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) as digitized with generous support from [Confucius Institute Heidelberg](https://konfuzius-institut-heidelberg.de/) — as well to Andreas Seifert for donating his collection to Heidelberg University in the first place.
 
 The ChinaComx Team and collaborating translators
