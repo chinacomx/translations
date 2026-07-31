@@ -1,14 +1,14 @@
 ---
 bookCollapseSection: true
 type: docs
-title: Nach der Reise in den Westen 後西遊記 (1989)
+title: Nach der Reise in den Westen 后西游记 (1989)
 ---
 
-# Nach der Reise in den Westen 後西遊記 (1989)
+# Nach der Reise in den Westen 后西游记 (1989)
 
-*Nach der Reise in den Westen, Band 1* 後西遊記之一, edited by Cao Xinyuan 曹欣渊, drawn by Wu Bingyu 吴冰玉, translated by Gruppe 1: Britta Dick, Xueqi Hu, Yimeng Zhang and Gruppe 2: Yunxiang Li, Martyna Joanna Ociepa, Jieyan Sun, Chen Zhang, Feng Yi, both supervised by Yun-Jou Chen, Shanghai: Shanghai People's Fine Arts Publishing House, 1989.[^1]
+*Nach der Reise in den Westen, Band 1* 后西游记之一, edited by Cao Xinyuan 曹欣渊, drawn by Wu Bingyu 吴冰玉, translated by Gruppe 1: Britta Dick, Xueqi Hu, Yimeng Zhang and Gruppe 2: Yunxiang Li, Martyna Joanna Ociepa, Jieyan Sun, Chen Zhang, Feng Yi, both supervised by Yun-Jou Chen, Shanghai: Shanghai People's Fine Arts Publishing House, 1989.[^1]
 
-*Nach der Reise in den Westen, Band 2* 後西遊記之二, edited by ao Xinyuan 曹欣渊, drawn by Luo Xixian 罗希贤, translated by Gruppe 1: Britta Dick, Xueqi Hu, Yimeng Zhang and Gruppe 2: Yunxiang Li, Martyna Joanna Ociepa, Jieyan Sun, Chen Zhang, Feng Yi, both supervised by Yun-Jou Chen, Shanghai: Shanghai People's Fine Arts Publishing House, 1989.[^1]
+*Nach der Reise in den Westen, Band 2* 后西游记之二, edited by ao Xinyuan 曹欣渊, drawn by Luo Xixian 罗希贤, translated by Gruppe 1: Britta Dick, Xueqi Hu, Yimeng Zhang and Gruppe 2: Yunxiang Li, Martyna Joanna Ociepa, Jieyan Sun, Chen Zhang, Feng Yi, both supervised by Yun-Jou Chen, Shanghai: Shanghai People's Fine Arts Publishing House, 1989.[^1]
 ___
 <p style="text-align: right;"><i>translation and introduction: 12 March 2026</i></p>
 
@@ -16,11 +16,12 @@ ___
 
 Yun-Jou Chen
 
-Die deutsche Übersetzung des Liahuanhua *Hou Xiyouji* (後西遊記 *Nach der Reise in den Westen* aus dem Jahr 1989) entstand als Zusammenarbeit von Studierenden des Fachbereichs Translations-, Sprach- und Kulturwissenschaft der Universität Mainz im Wintersemester 2024/2025 im Rahmen des Kurses „Übersetzen von Lianhuanhua (chinesische Comic-Büchlein) ZH>DE“. Dieses Projekt wurde unter meiner Leitung und in Kooperation mit dem ChinaComx-Team der Universität Heidelberg sowie der CATS-Bibliothek durchgeführt.
+Diese deutsche Übersetzung des Liahuanhua *Hou Xiyouji* (后西游记 *Nach der Reise in den Westen* aus dem Jahr 1989) entstand als Zusammenarbeit von Studierenden des Fachbereichs Translations-, Sprach- und Kulturwissenschaft der Universität Mainz im Wintersemester 2024/2025 im Rahmen des Kurses „Übersetzen von Lianhuanhua (chinesische Comic-Büchlein) ZH>DE“. Dieses Projekt wurde unter meiner Leitung und in Kooperation mit dem ChinaComx-Team der Universität Heidelberg sowie der CATS-Bibliothek durchgeführt.
 
 ### Lianhuanhua als Lehrmaterial im Übersetzungskurs 
 
 Der Kurs Übersetzen von Lianhuanhua gehört zum Schwerpunkt „Literatur, Medien und Kultur“ und soll den Studierenden praktische Erfahrungen im Übersetzen von Comics vermitteln. Ich wollte den Studierenden einen Text geben, der ihnen ermöglicht, sich mit den narrativen Konventionen von Comics auseinanderzusetzen.
+
 Da sich die Erzähltechniken der meisten Lianhuanhua der zweiten Hälfte des 20. Jahrhunderts von denjenigen westlicher Comics unterscheidet, habe ich eine Version *Nach der Reise in den Westen* von 1989 gewählt. Unter den verschiedenen Lianhuanhua mit dem Titel *Nach der Reise in den Westen* erweist sich die Version von 1989 als jene, deren Erzähltechnik – eine Mischung aus Blocktext, Sprechblasen und diegetischem Text – den konventionellen kommerziellen Comics aus Europa und Amerika am nächsten kommt (siehe Abb. 1 und 2): 
 
 | Die Version von 1989 | Die Version von 1984 |
@@ -28,8 +29,7 @@ Da sich die Erzähltechniken der meisten Lianhuanhua der zweiten Hälfte des 20.
 | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/1.png)<br>Abb.1: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren*, 1989, S. 5. | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/2.png)<br>Abb.2: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1984, S. 1. |
 | **Sprechblase:**<br>**Sun:** Was haben Sie vor, Meister?<br><br>**Mönch Tang:** Ich will hinuntergehen und mir anschauen, wie die Mönche des Großen Tang ihre Sutras vortragen. | Mönch Tang Sanzang brachte die wahren Sutras nach China zurück, wo sie über zweihundert Jahre verbreitet wurden. Zur Zeit des Tang-Kaisers Xianzong war die echte Überlieferung jedoch verloren, und Mönche täuschten das Volk im Namen des Buddhismus. Mönch Tang empfand darüber Sorge und stieg, begleitet von Sun Wukong, erneut auf die Erde hinab, um die Lage der Sutras zu prüfen. |
 
-Die Version von 1989 wirkt trotz ähnlichen Inhalts durch ihre entspanntere, dialogorientierte Comic-Erzählweise zugänglicher als die von 1984.
-Bemerkenswert ist, dass das Lianhuanhua *Nach der Reise in den Westen* zwar im Jahr 1989 erschien, seine Erzähltechniken jedoch dem Lianhuanhua der 1940er Jahre wesentlich näherstehen, wie etwa dem Lianhuanhua *Xin Xiyouji* (新西遊記 *Die neue Reise in den Westen*, Abb. 3) aus den späten 1940er Jahren:
+Die Version von 1989 wirkt trotz ähnlichen Inhalts durch ihre entspanntere, dialogorientierte Comic-Erzählweise zugänglicher als die von 1984. Bemerkenswert ist, dass das Lianhuanhua *Nach der Reise in den Westen* zwar im Jahr 1989 erschien, seine Erzähltechniken jedoch dem Lianhuanhua der 1940er Jahre wesentlich näherstehen, wie etwa dem Lianhuanhua *Xin Xiyouji* (新西游记 *Die neue Reise in den Westen*, Abb. 3) aus den späten 1940er Jahren:
 
 >![image name](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/3.png)
 >
@@ -45,9 +45,9 @@ Wie für viele Lianhuanhua üblich, erscheinen hier drei Formen von Text: ein de
 | **Diegetischer Text:** Blumen-Früchte-Berg<br>**Blocktext:** Sun Wukong schleppte den japanischen Piloten zurück zum Blumen-Früchte-Berg.<br>**Name:** Su Wukong<br>japanischer Pilot<br><br>Abb. 4: Jiang 1945-1949: *Die neue Reise in den Westen*, S. 57. | **Diegetischer Text:** Blumen-Früchte-Berg<br>**Sprechblase 1:** Von nun an hältst du hier Wache, Faulenzen verboten!<br>**Sprechblase 2:** Schon gut, schon gut.<br><br>Abb. 5: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1989, S. 26. |
 
 ### Intertextualität und Übersetzung der Lianhuanhua *Nach der Reise in den Westen*
-Die beiden Lianhuanhua aus den 1980er Jahren sind Adaptionen desselben Romans *Nach der Reise in den Westen*, der zu Beginn der Qing-Dynastie veröffentlicht wurde (Zhang 2020, 293) und zu den drei bedeutenden Fortsetzungen des ursprünglichen Romans *Xiyouji* (西遊記 *Die Reise in den Westen*, verfasst von Wu Cheng’en im 16. Jh. zur Zeit der Ming-Dynastie) zählt. Was den Umfang betrifft, so umfasst die hier übersetzte Lianhuanhua Version von 1989 zwanzig Bände, während der Roman *Nach der Reise in den Westen* vierzig Kapitel enthält. Ein Vergleich der Inhalte zeigt, dass jeweils ein Band der Lianhuanhua ungefähr zwei Kapiteln des Romans entspricht. 
+Die beiden Lianhuanhua aus den 1980er Jahren sind Adaptionen desselben Romans *Nach der Reise in den Westen*, der zu Beginn der Qing-Dynastie veröffentlicht wurde (Zhang 2020, 293) und zu den drei bedeutenden Fortsetzungen des ursprünglichen Romans *Xiyouji* (西游记 *Die Reise in den Westen*, verfasst von Wu Cheng’en im 16. Jh. zur Zeit der Ming-Dynastie) zählt. Was den Umfang betrifft, so umfasst die hier übersetzte Lianhuanhua Version von 1989 zwanzig Bände, während der Roman *Nach der Reise in den Westen* vierzig Kapitel enthält. Ein Vergleich der Inhalte zeigt, dass jeweils ein Band der Lianhuanhua ungefähr zwei Kapiteln des Romans entspricht. 
 
-Bei der 1989 erschienenen Version der Lianhuanhua waren sowohl der Textbearbeiter als auch der Illustrator nicht konstant besetzt. Nach dem ersten Band des Lianhuanhua wurde die Bearbeitung von Cao Xinyuan 曹欣淵 übernommen, während die Illustrationen von Wu Bingyu 吳冰玉 stammen. Allerdings wechseln in den meisten Fällen sowohl der Textbearbeiter als auch der Illustrator von Band zu Band. Bereits im zweiten Band war der Illustrator ein anderer, nämlich Luo Xixian 羅希賢. 
+Bei der 1989 erschienenen Version der Lianhuanhua waren sowohl der Textbearbeiter als auch der Illustrator nicht konstant besetzt. Nach dem ersten Band des Lianhuanhua wurde die Bearbeitung von Cao Xinyuan 曹欣渊 übernommen, während die Illustrationen von Wu Bingyu 吴冰玉 stammen. Allerdings wechseln in den meisten Fällen sowohl der Textbearbeiter als auch der Illustrator von Band zu Band. Bereits im zweiten Band war der Illustrator ein anderer, nämlich Luo Xixian 罗希贤. 
 
 Um diese beiden Lianhuanhua ins Deutsche zu übersetzen, war es erforderlich, sich der Intertextualität zwischen der*Nach der Reise in den Westen* und dem ursprünglichen Roman *Die Reise in den Westen* bewusst zu sein und mehrere geeignete deutsche Fassungen von *Die Reise in den Westen* heranzuziehen. Der Originalroman *Die Reise in den Westen* liegt in verschiedenen deutschen Übersetzungen vor; die jüngste und zugleich vollständigste Ausgabe ist die bei Reclam erschienene Übersetzung von Eva Lüdi Kong (Kong 2016), die für unsere Arbeit eine zentrale Referenz darstellt.
 
@@ -236,7 +236,7 @@ Darüber hinaus stammen einige Ortsnamen in *Die Reise in den Westen* und in *Na
 >
 >Abb. 17: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt*, 1989, S. 39.
 
-In der chinesischen Übersetzung "西牛賀洲" erscheint dabei das Zeichen "西" (Westen), da der Sanskrit-Begriff "Apara" (अपरा) wörtlich "Westen" bedeutet.
+In der chinesischen Übersetzung "西牛贺洲" erscheint dabei das Zeichen "西" (Westen), da der Sanskrit-Begriff "Apara" (अपरा) wörtlich "Westen" bedeutet.
 
 Ganz ähnlich auch im folgenden Beispiel (Abb. 18):
 
@@ -259,21 +259,21 @@ Im Unterricht diskutieren wir häufig, ob präzise, etablierte deutsche Überset
 
 ## Literatur
 
-Jiang, Ping 蔣萍 1945-1949: *Die neue Reise in den Westen 1* 新西遊記（上）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/aamglhh/index.html?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B (zuletzt abgerufen am 19. November 2025)
+Jiang, Ping 蒋萍 1945-1949: *Die neue Reise in den Westen 1* 新西游记（上）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/aamglhh/index.html?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B (zuletzt abgerufen am 19. November 2025)
 
-Jiang, Ping 蔣萍 1945-1949: *Die neue Reise in den Westen 2* 新西遊記（下）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/Reader/ReadBook.aspx?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B&m=108489&p=F96932D700BA33BC63FE63C5004D66D1&y_l_s=1CF377447BA61C894C8A622B297C3CE8099F6C666AF0A5B1 (zuletzt abgerufen am 19. November 2025)
+Jiang, Ping 蒋萍 1945-1949: *Die neue Reise in den Westen 2* 新西游记（下）. Shanghai: Guangji shuju. Online zugänglich unter: http://www.zhlhh.com/ReadRoom/Reader/ReadBook.aspx?libcode=FD30C7636BC17ACBF7E3335D7E61E3DDD1FFFA083135297B&m=108489&p=F96932D700BA33BC63FE63C5004D66D1&y_l_s=1CF377447BA61C894C8A622B297C3CE8099F6C666AF0A5B1 (zuletzt abgerufen am 19. November 2025)
 
-O. V. 1984: *Nach der Reise in den Westen 2: Erneute Reise zum Westlichen Himmel* 後西遊記（二）：重赴西天. Bearbeitet von Gan Liyue 甘禮樂, illustriert von Xu, Youwu 徐有武 und Xu Yougang 徐友剛. Zhejiang: Zhejiang renmin meishu chubanshe.
+O. V. 1984: *Nach der Reise in den Westen 2: Erneute Reise zum Westlichen Himmel* 后西游记（二）：重赴西天. Bearbeitet von Gan Liyue 甘礼乐, illustriert von Xu, Youwu 徐有武 und Xu Yougang 徐友刚. Zhejiang: Zhejiang renmin meishu chubanshe.
 
-O. V. 1989: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt* 後西遊記之一：小石猴出世. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Wu Bingyu 吳冰玉. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 1: Der kleine Steinaffe kommt zur Welt* 后西游记之一：小石猴出世. Bearbeitet von Cao Xinyuan 曹欣渊, illustriert von Wu Bingyu 吳冰玉. Shanghai: Shanghai renmin meishu chubanshe.
 
-O. V. 1989: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast* 後西遊記之二：小聖鬧天宮. Bearbeitet von Cao Xinyuan曹欣淵, illustriert von Luo Xixian羅希賢. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast* 后西游记之二：小圣闹天宫. Bearbeitet von Cao Xinyuan 曹欣渊, illustriert von Luo Xixian 罗希贤. Shanghai: Shanghai renmin meishu chubanshe.
 
-O. V. 1989: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren* 後西遊記之三：和尚念歪經. Bearbeitet von Chen Yuanshan 陳元山, illustriert von Chen Guchang 陳谷長. Shanghai: Shanghai renmin meishu chubanshe.
+O. V. 1989: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren* 后西游记之三：和尚念歪经. Bearbeitet von Chen Yuanshan 陈元山, illustriert von Chen Guchang 陈谷长. Shanghai: Shanghai renmin meishu chubanshe.
 
 Wu Cheng’en 吳承恩 2016: *Die Reise in den Westen. Ein klassischer chinesischer Roman*.* Übersetzt von Eva Lüdi Kong. Stuttgart: Reclam.
 
-Zhang Yiwei 張怡微 2020: *Die* Xiyouji-*Fortsetzungen der späten Ming- und frühen Qing-Zeit* 明末清初《西遊記》續書研究. Shanghai: Huadong shifan daxue chubanshe.
+Zhang Yiwei 張怡微 2020: *Die* Xiyouji-*Fortsetzungen der späten Ming- und frühen Qing-Zeit* 明末清初《西游记》续书研究. Shanghai: Huadong shifan daxue chubanshe.
 
 ## Read the translated lianhuanhua
 
