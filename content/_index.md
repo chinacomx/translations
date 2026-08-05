@@ -5,7 +5,7 @@ type: docs
 # Chinese Comics in Translation
 
 ___
-<p style="text-align: right;"><i>latest update: 9 March 2026</i></p>
+<p style="text-align: right;"><i>latest update: 1 August 2026</i></p>
 
 To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English or German translations on this webpage. Ranging from book-length standalone stories to one-pagers found in magazines, we hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
 
@@ -99,6 +99,8 @@ In the recent years, more and more lianhuanhua in new translation appear online:
 -  A short lianhuanhua adaptation of *The Cowherd and Weaving Maiden* 牛郎織女 legend, translated by Stephen Kow [here](https://web.archive.org/web/20141026010208/http://hilianhuanhua.org/home/read-the-books-online/the-cowherd-and-weaving-maiden/).
 
 - A fourteen-chapter lianhuanhua version of the *Water Margin* 水滸傳, translated by Stephen Kow [here](https://web.archive.org/web/20141026053520/http://hilianhuanhua.org/home/read-the-books-online/water-margin/).
+
+- A picture-story book about Palestine titled *Fluttering Battle Banners* 战旗飘飘 (1971) translated by Brian W. L. and Rebecca Karl [here](https://positionspolitics.org/fluttering-battle-banners-a-maoist-comic-book-on-palestine/). 
 
 If you know about more lianhuanhua in translation, or maybe even produced one yourself, please [get in touch](https://chinacomx.github.io/contact/) and we will gladly add a link to the list above!
 
