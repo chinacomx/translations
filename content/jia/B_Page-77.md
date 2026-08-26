@@ -1,12 +1,16 @@
 ---
 title: Page 77
-weight: 79
+weight: 80
 ---
-![jia page](/images/jia/jia_079.jpg)
+![jia page](/images/jia/jia_080.jpg)
 
 {{% columns %}}
 
-- 77&emsp;李靖只得往东南避走。哪吒大叫：“李靖，休想今番饶你！不杀你决不空回！”哪吒的风火轮快，李靖的马慢，看看就要赶上。
-- 77&emsp;Li Jing could not but flee southeast. Nezha shouted after him: “Li Jing, don't dream of escaping this time!! I will not return until I have slain you!” His Wind-and-Fire Wheels sped swifter than Li Jing’s horse, it was only a matter of moments before Nezha would overtake him.
+- 77&emsp;高老太爷在病中逐渐想开了，他将觉慧叫到病榻前，让觉慧去将觉民找回来，冯家的亲事可以不提了，他还温和亲切地称赞觉慧好，说他不像家里那些混账爷儿们。
+- 77&emsp;Er war noch krank, aber fand sich allmählich mit seiner Lage ab. Er ließ Juehui an sein Krankenbett rufen und bat ihn, Juemin zurückzuholen. Er sagte, die Heirat mit der Familie Feng könne man vergessen. Außerdem lobte er Juehui sanft und warmherzig und sagte, er sei anders als diese Taugenichtse der Familie.
+
+//Sprechblase://
+- &emsp;//将觉民找回来吧，我想见他一面，冯家的亲事不提了，叫他放心。//
+- &emsp;//„Bring Juemin zurück. Ich möchte ihn ein letztes Mal sehen. Vergiss die Heirat mit der Familie Feng. Sag ihm, er soll sich keine Sorgen machen.“//
 
 {{% /columns %}}

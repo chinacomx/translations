@@ -1,12 +1,12 @@
 ---
 title: Page 80
-weight: 82
+weight: 83
 ---
-![jia page](/images/jia/jia_082.jpg)
+![jia page](/images/jia/jia_083.jpg)
 
 {{% columns %}}
 
-- 80&emsp;哪吒落下轮来。木吒上前，大喝一声：“你这孽障好大胆！早早回去，饶你不死！”哪吒道：“你是何人，口出大言？”木吒道：“你连我也认不得！我乃木吒是也！”
-- 80&emsp;Nezha descended from his wheels. Muzha stepped forward, shouting: “You evil creature! How dare you! Go back at once, and I may yet spare your life!” Nezha responded: “And who are you to speak such bold words?” Muzha answered, “Have you forgotten even me? I am Muzha!”
+- 80&emsp;高老太爷死了，高家的人忙着分家产。克安、克定因为觉新是长房长孙，对他很猜忌；陈姨太也因为高老太爷在世时很喜欢孙媳妇瑞珏，心里也想乘机捉弄她一下，出出平时的一口怨气。
+- 80&emsp;Nach dem Tod des alten Herrn Gao war die Familie Gao damit beschäftigt, den Nachlass aufzuteilen. Ke’an und Keding hegten tiefes Misstrauen gegenüber Juexin, da er der erste männliche Nachfahre in der männlichen Linie war; auch Konkubine Chen hegte seit langem Groll gegen Ruijue, die der alte Herr Gao zu Lebzeiten bevorzugt hatte, und sah nun eine Gelegenheit, sie zu schikanieren und ihren aufgestauten Groll an ihr auszulassen.
 
 {{% /columns %}}

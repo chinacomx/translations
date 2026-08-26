@@ -1,12 +1,12 @@
 ---
 title: Page 07
-weight: 9
+weight: 10
 ---
-![jia page](/images/jia/jia_009.jpg)
+![jia page](/images/jia/jia_010.jpg)
 
 {{% columns %}}
 
-- 7&emsp; 侍儿将公子抱出来，真人端详良久，言道：“此儿手上金镯名唤 ‘乾坤圈’ 腹上红绫叫作 ‘混天绫’，原是我乾元山镇洞之宝，看来和我有缘，就与贫道作个徒弟如何？”
-- 7&emsp;A servant brought out the child, and the Taoist carefully observed him, saying: “The golden bracelet on his hand is called the ‘Qiankun Ring’, and the red silk on his belly is called ‘Huntian Silk’. These are treasures from the Golden Light Cave of Mount Qianyuan, where I reside. It seems this child is fated with me—how about letting him become my disciple?”
+- 7&emsp;觉慧试探着鼓励觉新对强迫的婚姻实行反抗，觉新认为太晚了，觉慧却说：“只要有决心，事情永远没有太晚的时候。”
+- 7&emsp;Juehui versuchte, Juexin dazu zu bewegen, sich gegen diese Zwangsehe zu wehren, doch Juexin meinte, es wäre zu spät. Juehui entgegnete jedoch: “Solange man entschlossen ist, gibt es kein zu spät.“
 
 {{% /columns %}}

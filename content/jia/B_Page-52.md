@@ -1,12 +1,18 @@
 ---
 title: Page 52
-weight: 54
+weight: 55
 ---
-![jia page](/images/jia/jia_054.jpg)
+![jia page](/images/jia/jia_055.jpg)
 
 {{% columns %}}
 
-- 52&emsp;哪吒在金光洞住了几日。真人唤他到面前，说道：“四海龙君，奏准玉帝，来拿你父母了。你快回去！须如此如此，方能救你父母。”哪吒叩谢师父，借土遁返回陈塘关。
-- 52&emsp;Nezha stayed in the Golden Light Cave for several days. Master Taiyi called him and said: “The Four Dragon Kings have reported to the Jade Emperor, who granted his approval, and are coming to seize your parents. You must hurry back! Only by doing so can you save your parents.” Nezha thanked his master and returned to Chentang Pass through the Earth Escape.
+- 52&emsp;不久，钱大姨妈派人来接梅回去，觉新和瑞珏殷殷相送，梅终于带着一颗痛苦的心走了。
+- 52&emsp;Kurz darauf schickte Tante Qian jemanden, um Mei abzuholen. Juexin und Ruijue begleiteten sie noch ein Stück und verabschiedeten sie herzlich. Schließlich ging Mei mit schmerzerfülltem Herzen fort.
+
+//Sprechblasen://
+- &emsp;//老太爷过生日，你一定要来呀！//
+- &emsp;//Du musst zum Geburtstag des alten Herren unbedingt kommen!//
+- &emsp;//我想来，就怕……不能来了。//
+- &emsp;//Ich würde ja gerne, aber ich fürchte... ich kann nicht kommen.//
 
 {{% /columns %}}

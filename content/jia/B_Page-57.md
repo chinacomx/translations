@@ -1,12 +1,16 @@
 ---
 title: Page 57
-weight: 59
+weight: 60
 ---
-![jia page](/images/jia/jia_059.jpg)
+![jia page](/images/jia/jia_060.jpg)
 
 {{% columns %}}
 
-- 57&emsp;夫人醒来，不敢对李靖说梦中之事，暗着心腹人在关外翠屏山上起建行宫，造哪吒神像一座。
-- 57&emsp;When Lady Yin awoke, she did not dare tell Li Jing about the dream. But in secret, she ordered trusted servants to build a temple on Mount Cuiping outside the pass, and to create a statue of Nezha.
+- 57&emsp;婉儿一面哀求王氏留下她，不再去冯家受罪，一面向觉慧诉说冯乐山的残忍狠毒。
+- 57&emsp;Wan’er flehte die Vierte Tante an, sie da zu behalten, damit sie nicht länger bei der Familie Feng leiden müsse. Zugleich schilderte sie Juehui Feng Leshans Grausamkeit und Bösartigkeit.
+
+//Sprechblase://
+- &emsp;//三少爷，您看！我的胳膊被冯老头烫得全是伤痕。//
+- &emsp;//Dritter junger Herr, sehen Sie nur! Mein Arm ist mit Brandnarben vom alten Herr Feng übersät.//
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 36
-weight: 38
+weight: 39
 ---
-![jia page](/images/jia/jia_038.jpg)
+![jia page](/images/jia/jia_039.jpg)
 
 {{% columns %}}
 
-- 36&emsp; 哪吒来至乾元山金光洞，拜见师父太乙真人，禀明一切。真人为要搭救徒儿，就在哪吒胸前画了一道隐身符，嘱咐他速到天宫宝德门，如此这般去拦截敖光。
-- 36&emsp;Arriving at the Golden Light Cave on Mount Qianyuan, Nezha met his master, Master Taiyi, and reported all that had happened. To save his disciple, Master Taiyi drew an invisibility talismanic script on Nezha’s chest. Then he instructed him to go to the Baode Gate of the Celestial Palace and how to intercept Ao Guang.
+- 36&emsp;觉慧不知道鸣凤这时候的处境和心情，为了赶写稿子，和鸣凤谈了几句，就又关上窗子开始工作了。这时，鸣凤再也抑制不住自己的感情，便恋恋不舍地抚摸着窗上觉慧的影子，从心底里向他道着永别。
+- 36&emsp;Juehui wusste nichts von Mingfengs gegenwärtiger Situation und Gefühlen. Da er es eilig hatte den Artikel zu schreiben, wechselte er nur ein paar Worte mit ihr, schloss das Fenster und kehrte an die Arbeit zurück. In diesem Moment konnte Mingfeng ihre Gefühle nicht länger zurückhalten. Voller Sehnsucht streichelte sie seinen Schatten, der sich auf dem Papierfenster abzeichnete, und sie verabschiedete sich aus tiefstem Herzen für immer von ihm.
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 62
-weight: 64
+weight: 65
 ---
-![jia page](/images/jia/jia_064.jpg)
+![jia page](/images/jia/jia_065.jpg)
 
 {{% columns %}}
 
-- 62&emsp;然后传令：“放火，烧了庙宇。”吩咐进香万民：“此非神也，不许进香。”吓得众人忙忙下山。
-- 62&emsp;He then ordered, “Set fire to the temple!” He admonished the common folk who had come to offer incense, “This is no true deity—no offerings allowed!” Terrified, the crowd scattered down the mountain.
+- 62&emsp;觉慧离开水阁，找到了觉民，觉民已经从觉新那里知道了冯乐山来提亲的事。兄弟两人商定了反抗强迫婚姻的办法后，觉民准备写信给琴，表示奋斗的决心。
+- 62&emsp;Juehui verließ den Wasserpavillon und suchte Juemin auf. Juemin hatte bereits von Juexin erfahren, dass Feng Leshan Qin verheiraten wollte. Nachdem sich die beiden Brüder beraten hatten, wie sie sich dieser erzwungenen Heirat widersetzen konnten, beschloss Juemin, Qin einen Brief zu schreiben. Darin wollte er ihr seine Entschlossenheit zeigen.
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 74
-weight: 76
+weight: 77
 ---
-![jia page](/images/jia/jia_076.jpg)
+![jia page](/images/jia/jia_077.jpg)
 
 {{% columns %}}
 
-- 74&emsp;李靖大怒，提画戟，上青骢，出府来。见哪吒脚踏风火二轮，手提火尖枪，比前大不相同。李靖大惊：“畜生！你生前作怪，死后还魂，不该又来这里缠扰！”
-- 74&emsp;Enraged, Li Jing seized his decorated ji, mounted his blue-and-white steed, and rode out. He saw Nezha treading on the Wind-and-Fire Wheels, a Fire-tipped Spear in hand, utterly unlike the way he had looked before. Li Jing was thunderstruck: “ You beast! You caused chaos in life, returned as a ghost after death, you should not dare to come back and disturb us once more!”
+- 74&emsp;高老太爷回到上房，气恼之余，烦躁地表示不愿意看见任何人，连陈姨太也被遣去了。
+- 74&emsp;Als der alte Herr Gao sich in seine Gemächer zurückzog, war er immer noch voller Zorn und erklärte gereizt, dass er niemanden sehen wolle – nicht einmal die Konkubine Chen.
 
 {{% /columns %}}

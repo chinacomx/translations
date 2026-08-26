@@ -1,12 +1,12 @@
 ---
 title: Page 19
-weight: 21
+weight: 22
 ---
-![jia page](/images/jia/jia_021.jpg)
+![jia page](/images/jia/jia_022.jpg)
 
 {{% columns %}}
 
-- 19&emsp;水晶宫如何经得起此二宝震撼，险些儿把宫殿俱晃倒了。敖光得知夜叉被人打死，极为震怒。三太子敖丙奏道：“父王息怒。孩儿出去拿他来便是。”
-- 19&emsp;How could the Crystal Palace withstand the shock of these two treasures? The two almost shook the palace down. When Ao Guang learned that the Yaksha had been killed, he became extremely furious. His third son, Ao Bing, said: “Father, please calm your anger. I shall go and get him back.”
+- 19&emsp;两年半时间过去了，觉新的父亲死了，瑞珏生下了一个孩子，取名海臣。觉新很感激瑞珏，因为孩子给他带来了希望和安慰。
+- 19&emsp;Zweieinhalb Jahre waren vergangen; Juexins Vater war gestorben, und Ruijue hatte ein Kind zur Welt gebracht, das sie Haichen nannten. Juexin war Ruijue zutiefst dankbar, denn das Kind hatte ihm Hoffnung und Trost geschenkt.
 
 {{% /columns %}}

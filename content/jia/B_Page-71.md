@@ -1,12 +1,16 @@
 ---
 title: Page 71
-weight: 73
+weight: 74
 ---
-![jia page](/images/jia/jia_073.jpg)
+![jia page](/images/jia/jia_074.jpg)
 
 {{% columns %}}
 
-- 71&emsp;哪吒要求下山报仇。真人送他脚踏风火二轮，另授灵符秘诀。又给他一只豹皮囊，内装乾坤圈、混天绫及金砖一块。哪吒收拾停当，拜谢师父下山。
-- 71&emsp;Nezha requested to descend the mountain to seek vengeance. Master Taiyi gave him the Wind-and-Fire Wheels to tread upon, along with talismans and secret incantations. He also bestowed upon him a leopard-skin pouch containing the Qiankun Ring, the Huntian Silk, and a golden brick. Nezha made his preparations, bowed to his master in gratitude, and departed down the mountain.
+- 71&emsp;这时候，高家又发生了一出丑剧：五老爷克定在外面结识私娼，并且骗走了妻子沈氏的首饰。此事被沈氏发觉了，立刻闹着哭诉到高老太爷面前，要求公公为她做主。
+- 71&emsp;Zu dieser Zeit ereignete sich im Hause Gao noch eine Farce. Keding, der Fünfte Onkel, hatte eine illegale Prostituierte kennengelernt und den Schmuck seiner Frau, der geborenen Shen, ergaunert. Als die geborene Shen das entdeckte, forderte sie sofort wütend und unter Tränen vom alten Herrn Gao, er solle für sie die entscheidenden Worte sprechen.
+
+//Sprechblase://
+- &emsp;//爹，你看，这是克定和那女人合拍的照片……//
+- &emsp;//„Vater, sehen Sie, hier ist ein Foto von Keding und dieser Frau...“//
 
 {{% /columns %}}

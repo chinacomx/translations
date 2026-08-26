@@ -1,12 +1,12 @@
 ---
 title: Page 93
-weight: 95
+weight: 96
 ---
-![jia page](/images/jia/jia_095.jpg)
+![jia page](/images/jia/jia_096.jpg)
 
 {{% columns %}}
 
-- 93&emsp;哪吒正烦恼时，忽见师父太乙真人来到。忙向师父求救，真人却不理睬，径进洞去了。
-- 93&emsp;Just as Nezha was feeling troubled, Master Taiyi suddenly arrived. Instantly, Nezha begged his master for help, but Master Taiyi ignored him and went straight into the cave.
+- 93&emsp;瑞珏说着话，声音逐渐低了下去，终于闭上了眼睛，手也逐渐冷了……琴和淑华急得哭叫起来，觉新扑在瑞珏的身上，伤心得几乎晕了过去。
+- 93&emsp;Während Ruijue sprach, wurde ihre Stimme allmählich leiser, bis sie schließlich die Augen schloss. Ihre Hand wurde immer kälter… Qin und Shuhua begannen vor Bestürzung zu weinen und zu schreien; Juexin warf sich über Ruijues Körper. Er fiel vor Trauer fast in Ohnmacht fiel.  
 
 {{% /columns %}}

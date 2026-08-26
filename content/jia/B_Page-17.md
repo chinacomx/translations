@@ -1,12 +1,18 @@
 ---
 title: Page 17
-weight: 19
+weight: 20
 ---
-![jia page](/images/jia/jia_019.jpg)
+![jia page](/images/jia/jia_020.jpg)
 
 {{% columns %}}
 
-- 17&emsp;哪吒将右手套的乾坤圈往空中一丢，那宝打将下来，正落在夜叉头上，立时，脑浆迸流，死于岸边。
-- 17&emsp;Nezha threw the Qiankun Ring from his right hand into the air — the treasure struck down and  smashed into Yaksha’s head. Immediately, its brains gushed out, and it died on the riverbank.
+- 17&emsp;这时，房门外有人在轻轻地敲门，进来的是觉民。他低声告诉觉新信没送到。觉新听了，心中更是凄惶万分。
+- 17&emsp;In diesem Moment klopfte es leise an der Tür. Es war Juemin. Er flüsterte Juexin zu, dass der Brief nicht zugestellt worden sei. Als er das hörte, fühlte sich Juexin zutiefst einsam.
+
+//Sprechblasen://
+- &emsp;//她已经下乡了，信没送到。//
+- &emsp;//Sie ist schon aufs Land gefahren; der Brief ist nicht bei ihr angekommen.//
+- &emsp;//她走了……唉！也好。//
+- &emsp;//Sie ist weg … Ach! Es ist wohl das Beste so.//
 
 {{% /columns %}}

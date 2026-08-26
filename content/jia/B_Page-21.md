@@ -1,12 +1,12 @@
 ---
 title: Page 21
-weight: 23
+weight: 24
 ---
-![jia page](/images/jia/jia_023.jpg)
+![jia page](/images/jia/jia_024.jpg)
 
 {{% columns %}}
 
-- 21&emsp;哪吒起身看水，只见波浪中出现一头水兽，兽上坐一怪物，叫道：“是甚人打死我巡海夜叉？”哪吒道：“是我。我在此避暑洗澡，与他何干；他来打我，我打死了他，有何妨！”
-- 21&emsp;Nezha rose to look at the water, and saw a water-beast appearing in the waves. Atop it sat a monster, shouting: “Who killed my patrolling Yaksha?” Nezha replied: “That was me. I was here to escape the summer heat and take a bath— Why did he bother about that?  He came to attack me, so I struck him dead. What of it?”
+- 21&emsp;觉民、觉慧在外面的爱国活动，得到觉新的同情和瑞珏的支持。瑞珏甚至将自己的一部分积蓄取出来，让觉新转交给觉民，作为印刷《黎明周报》的赞助费。
+- 21&emsp;Juemin und Juehuis öffentliches patriotisches Engagement stieß bei Juexin auf Verständnis und bei Ruijue auf Unterstützung. Ruijue hob sogar einen Teil ihrer Ersparnisse ab und bat Juexin, diesen Betrag für die Druckkosten der „Morgendämmerung” an Juemin weiterzugeben.
 
 {{% /columns %}}

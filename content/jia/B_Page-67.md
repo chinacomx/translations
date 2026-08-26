@@ -1,12 +1,17 @@
 ---
 title: Page 67
-weight: 69
+weight: 70
 ---
-![jia page](/images/jia/jia_069.jpg)
+![jia page](/images/jia/jia_070.jpg)
 
 {{% columns %}}
 
-- 67&emsp;真人命金霞童儿从五莲池中，摘二枝莲花、三片荷叶来，将花勒下瓣儿，铺成三才，又将荷叶梗儿折成三百骨节。然后大喝一声：“哪吒不成人形，更待何时！”
-- 67&emsp;Master Taiyi commanded the boy attendant to pluck two lotus blossoms and three lotus leaves from Five-Lotus Pond. The master plucked the petals and arranged them into Three Powers—Heaven, Earth, and Man—then broke the lotus stems apart, forming three hundred bone joints. He shouted with a thunderous voice: “If not now, then when shall Nezha take human form?”
+- 67&emsp;梅出殡的那天，觉慧也去了。梅的灵柩被寄放在一座大庙里，当大家快要回去的时候，觉慧以无限愤慨的心情在梅的灵前向梅告别。
+- 67&emsp;Auch Juemin war zu Meis Beerdigung gegangen. Meis Sarg wurde in einem großen Tempel gelassen. Als alle wieder gehen wollten, verabschiedete sich Juehui mit grenzenloser Empörung am Sarg von Mei.
+
+//Sprechblase://
+- &emsp;//梅表姐，我会永远记得，你那可爱的年青的生命，是怎样被人杀死的！//
+- &emsp;//"Cousine Mei, ich werde nie vergessen, wie dir dein liebenswertes, junges Leben genommen wurde!"//
+
 
 {{% /columns %}}

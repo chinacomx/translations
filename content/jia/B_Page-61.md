@@ -1,12 +1,12 @@
 ---
 title: Page 61
-weight: 63
+weight: 64
 ---
-![jia page](/images/jia/jia_063.jpg)
+![jia page](/images/jia/jia_064.jpg)
 
 {{% columns %}}
 
-- 61&emsp;李靖骂罢，提鞭把哪吒金身打得粉碎，复一脚蹬倒鬼判。
-- 61&emsp;When Li Jing had finished cursing, he raised his whip and shattered Nezha’s statue to pieces, then kicked over the statue of the ghostly attendants.
+- 61&emsp;恰巧高老太爷和克明等人也来了，冯老头却故意扭转话锋，谈诗词、谈学生「闹事」，一时将自己的丑态遮掩过去了。
+- 61&emsp;Zufällig kamen gerade auch der alte Herr Gao und Onkel Keming vorbei. Der alte Feng aber lenkte das Gespräch bewusst auf ein anderes Thema. Er sprach über Gedichte und “Studentenaufstände” und versuchte damit, von seinem widerwärtigen Verhalten abzulenken.
 
 {{% /columns %}}

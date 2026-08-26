@@ -1,12 +1,12 @@
 ---
 title: Page 40
-weight: 42
+weight: 43
 ---
-![jia page](/images/jia/jia_042.jpg)
+![jia page](/images/jia/jia_043.jpg)
 
 {{% columns %}}
 
-- 40&emsp;看看正要赶上，哪吒照师父的吩咐，提起手中的乾坤圈，照敖光的后心打去。敖光并未提防，被他打倒在地。
-- 40&emsp;Just as he was about to catch up, Nezha, following his master’s instructions, raised his Qiankun Ring and struck Ao Guang in the middle of the back. Caught off guard, Ao Guang was knocked down by him.
+- 40&emsp;觉慧感到痛苦和愤怒，几乎使他丧失理智。觉民想安慰他，但一时也讲不出一句话来。半晌，觉慧低沉有力地说：“我永远不会忘记杀人的凶手——我们的家庭和社会！”
+- 40&emsp;Juehui war von Schmerz und Wut erfüllt, und verlor er beinahe den Verstand. Juemin wollte ihn trösten, brachte jedoch zunächst kein einziges Wort heraus. Nach einer Weile sagte Juehui mit tiefer, kraftvoller Stimme: „Ich werde die Mörder niemals vergessen — unsere Familie und unsere Gesellschaft!“
 
 {{% /columns %}}

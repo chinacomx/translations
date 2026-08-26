@@ -1,12 +1,16 @@
 ---
 title: Page 06
-weight: 8
+weight: 9
 ---
-![jia page](/images/jia/jia_008.jpg)
+![jia page](/images/jia/jia_009.jpg)
 
 {{% columns %}}
 
-- 6&emsp;次日，许多属官，俱来贺喜。李靖刚发放完毕，忽然有一道人自称是乾元山金光洞太乙真人，也来贺喜。李靖忙迎入府内。
-- 6&emsp;The next day, many officials came to congratulate. Just as Li Jing had finished receiving them, a Taoist arrived, introducing himself as Master Taiyi from the Golden Light Cave of Mount Qianyuan. He also came to offer his blessings. Li Jing quickly welcomed him into the residence.
+- 6&emsp;三弟觉慧很同情哥哥不幸的遭遇，但也不满意他那种愁眉苦脸的样子。
+- 6&emsp;Juehui, der jüngste der drei Brüder, hatte großes Mitgefühl mit dem Unglück seines ältesten Bruders; aber er war auch unzufrieden mit dessen elendigem Anblick. 
+
+//Sprechblase://
+- &emsp;//大哥，我就怕看你这么一副受苦受难的耶稣相。//
+- &emsp;//“Großer Bruder, ich kann deine ewige Leidensmiene – ganz wie auf einem Jesusbild – wirklich nicht mehr sehen.”//
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 98
-weight: 100
+weight: 101
 ---
-![jia page](/images/jia/jia_100.jpg)
+![jia page](/images/jia/jia_101.jpg)
 
 {{% columns %}}
 
-- 98&emsp;真人又叫哪吒也回金光洞去。哪吒听此言，心花儿也开了，忙忙出洞，踏起风火二轮，追赶李靖。
-- 98&emsp;Master Taiyi then told Nezha to return to the Golden Light Cave. Hearing this, Nezha's spirits lifted at once. He quickly left the cave, treaded on his Wind-and-Fire Wheels, and chased after Li Jing.
+- 98&emsp;在同学黄存仁以及觉民等人的帮助下，觉慧终于冲出了牢笼，怀着崇高的理想和无限光明的希望，踏上了一条崭新的道路。
+- 98&emsp;Mit Hilfe seines Schulkameradens Huang Cunren sowie Juemin und Anderen brach Juehui schließlich aus dem Käfig aus und schlug, erfüllt von erhabenen Idealen und grenzenlos strahlender Hoffnung, einen ganz neuen Weg ein. 
 
 {{% /columns %}}

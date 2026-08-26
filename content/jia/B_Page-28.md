@@ -1,12 +1,18 @@
 ---
 title: Page 28
-weight: 30
+weight: 31
 ---
-![jia page](/images/jia/jia_030.jpg)
+![jia page](/images/jia/jia_031.jpg)
 
 {{% columns %}}
 
-- 28&emsp;且说，敖光在水晶宫听得龙兵来报：“陈塘关李靖之子哪吒把三太子打死，连筋都抽了！”敖光惊道：“李靖与我有一拜之交，竟敢纵子行凶，可恨可恼！”
-- 28&emsp;Meanwhile, in the Crystal Palace, Ao Guang received word from his dragon troops: “Nezha, son of Li Jing of Chentang Pass, has killed the Third Prince — and even ripped out his tendons!” Ao Guang exclaimed in shock: “Li Jing and I have pleadged brotherhood, how could he possibly dare to allow his son to commit such violence; that’s  hateful and infuriating!”
+- 28&emsp;觉慧鼓励鸣凤，要她勇敢和乐观地生活下去时，忽然听到背后有一个女孩子在呼唤鸣凤。
+- 28&emsp;Als Juehui Mingfeng ermunterte, dass sie mutig und optimistisch weiterleben solle, hörten sie plötzlich, wie hinter ihnen ein Mädchen nach Mingfeng rief.
+
+//Sprechblasen://
+- &emsp;//好好地活下去，我们的世界很美好……//
+- &emsp;//„Du darfst nicht aufgeben, die Welt ist doch so schön…“//
+- &emsp;//鸣凤！鸣凤！//
+- &emsp;//„Mingfeng! Mingfeng!“//
 
 {{% /columns %}}

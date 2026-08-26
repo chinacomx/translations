@@ -1,12 +1,12 @@
 ---
 title: Page 46
-weight: 48
+weight: 49
 ---
-![jia page](/images/jia/jia_048.jpg)
+![jia page](/images/jia/jia_049.jpg)
 
 {{% columns %}}
 
-- 46&emsp;哪吒放敖光起来，忽然想起龙善变化：要大，可以撑天拄地；要小，能够芥子藏身。怕他半路变化逃脱，无处找寻，便让他变条小蛇儿，带回关去。
-- 46&emsp;Nezha let Ao Guang up, but suddenly recalled that dragons are adept at transformation—they can grow enormous and stand as a pillar between heaven and earth or become small enough to hide inside a mustard seed. Fearing he might escape midway, Nezha ordered Ao Guang to transform into a little snake so he could carry him back.
+- 46&emsp;变乱平定后，梅被留住在高家，早夕见着觉新，心里格外苦痛。为了避开觉新，她常常独步梅林，可是在寂静的梅林中，往往更容易引起往事的回忆，使得她都闷难受。
+- 46&emsp;Nachdem die Unruhen niedergeschlagen worden waren, blieb Mei bei der Familie Gao. Jeden Morgen und Abend Juexin zu sehen, bereitete ihr besonders großen Schmerz. Um Juexin aus dem Weg zu gehen, spazierte sie oft allein durch den Pflaumenhain. Doch gerade hier, in der stillen Atmosphäre des Pflaumenhains, betrübten sie die Erinnerungen an die Vergangenheit.
 
 {{% /columns %}}

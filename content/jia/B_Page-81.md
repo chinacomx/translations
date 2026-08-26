@@ -1,13 +1,16 @@
 ---
 title: Page 81
-weight: 83
+weight: 84
 ---
-![jia page](/images/jia/jia_083.jpg)
+![jia page](/images/jia/jia_084.jpg)
 
 {{% columns %}}
 
-- 81&emsp;哪吒方知是二哥，把翠屏山的事细说一遍，并问他究竟是谁的不是。木吒责他忘了父母之
-母之情。哪吒道：“我已将骨肉还他了，还有甚么父母之情！”
-- 81&emsp;Only then did Nezha realize it was his second brother. He recounted in detail the matter of the temple which happened on Cuiping Mountain and asked whose fault it truly was. Muzha rebuked him, saying he had forgotten the love and bond of parents. Nezha retorted, “I have already returned my flesh and bones to him—what parental bond remains!”
+- 81&emsp;眼看着瑞珏快生第二个孩子了，陈姨太以“在家生孩子，老太爷的尸身会遭血光之灾”为借口，逼着瑞珏一定要出城到乡下去生产。
+- 81&emsp;Da Ruijue kurz davor stand, ihr zweites Kind zur Welt zu bringen, nutzte Konkubine Chen den Vorwand, dass „das Blut der Gebärenden dem Toten in seiner Totenruhe schaden würde“, um Ruijue zu zwingen, zur Entbindung aus der Stadt aufs Land zu gehen.
+
+//Sprechblase:////
+- &emsp;//产妇的血光冲犯了尸首，老太爷就升不了天，只有委屈孙少奶到乡下去待产才好。//
+- &emsp;//„Wenn das Blut einer gebärenden Frau die Leiche befleckt, wird der alte Herr nicht in den Himmel aufsteigen können; daher müssen wir die junge Herrin bitten, die Unannehmlichkeiten zu ertragen und ihr Kind in außerhalb der Stadt auf die Welt zu bringen.“//
 
 {{% /columns %}}

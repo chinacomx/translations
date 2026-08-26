@@ -1,12 +1,12 @@
 ---
 title: Page 24
-weight: 26
+weight: 27
 ---
-![jia page](/images/jia/jia_026.jpg)
+![jia page](/images/jia/jia_027.jpg)
 
 {{% columns %}}
 
-- 24&emsp;敖丙又一戟刺下。哪吒急了，把七尺混天绫往空中一展，似火块千团，四下里飞舞，将三太子裹下逼水兽来。
-- 24&emsp;Ao Bing thrust again. Nezha became impatient, unfurled his Huntian Silk in midair—it blazed like a thousand clusters of fire, swirling in all directions and wrapping the prince around to pull him off the water-repelling steed.
+-  24&emsp;冯乐山是“孔教会”会长，他尊孔信佛，满口道德文章，其实为人非常卑鄙无耻。他糟塌过很多年轻姑娘，现快六十岁的人了，又看上了高家的婢女鸣凤，因此来高家走动得更勤了。(Schrift im Hintergrund nicht erkennbar)
+-  24&emsp;Feng Leshan war der Vorsitzende der „Konfuziusgesellschaft“, er respektierte Konfuzius, glaubte an Buddha und sprach nur in tugendhaften Schriften, aber im Grunde war er ein ausgesprochen niederträchtiger und schamloser Mensch. Er hatte viele junge Mädchen missbraucht. Jetzt war er schon fast sechzig und hatte ein Auge auf Mingfeng, die Dienerin der Gao-Familie, geworfen, weshalb er die Familie noch häufiger besuchte.
 
 {{% /columns %}}

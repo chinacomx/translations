@@ -1,12 +1,12 @@
 ---
 title: Page 88
-weight: 90
+weight: 91
 ---
-![jia page](/images/jia/jia_090.jpg)
+![jia page](/images/jia/jia_091.jpg)
 
 {{% columns %}}
 
-- 88&emsp;哪吒叫道：“我乃乾元山金光洞太乙真人的徒弟哪吒是也。你不可小看了我。”天尊道：“我不曾听说有甚么太乙真人的徒弟叫哪吒！你在别处撒野罢了，我这里可撒不得野。”
-- 88&emsp;Nezha shouted, “I am Nezha, disciple of Master Taiyi of Golden Light Cave on Mount Qianyuan. Do not dare look down upon me!” The Heavenly Venerable answered, “I have never heard of any disciple of Master Taiyi called Nezha! You may run wild elsewhere—but not here!”
+- 88&emsp;好不容易给高老太爷用砖头砌好了假坟，觉新一心惦记着瑞珏，急忙赶往乡下去。途中，他看见一片坟地，那里新葬着被冯乐山折磨死的婉儿，想到梅的坟也在附近，觉新心中感到万分的凄凉和苦痛。
+- 88&emsp;Nachdem Juexin endlich das Scheingrab des alten Herrn Gao aus Ziegelsteinen fertig errichtet hatte, war er mit den Gedanken nur noch bei Ruijue und eilte aufs Land. Auf dem Weg sah er den Friedhof, auf dem Wan’er kürzlich beerdigt worden war, nachdem sie von Feng Leshan zu Tode gequält worden war. Bei dem Gedanken, dass Meis Grab auch in der Nähe war, überkam Juexin ein Gefühl von Trostlosigkeit und tiefem Schmerz.
 
 {{% /columns %}}

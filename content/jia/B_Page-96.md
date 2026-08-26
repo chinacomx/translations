@@ -1,12 +1,12 @@
 ---
 title: Page 96
-weight: 98
+weight: 99
 ---
-![jia page](/images/jia/jia_098.jpg)
+![jia page](/images/jia/jia_099.jpg)
 
 {{% columns %}}
 
-- 96&emsp;太乙真人命金吒请李靖出来。李靖倒身下拜。真人道：“翠屏山之事，你也有不是。从今父子再不许犯颜。你先去吧。”李靖谢过天尊、真人，离洞回关。
-- 96&emsp;Master Taiyi then told Jinzha to invite Li Jing out. Li Jing bowed deeply. Master Taiyi spoke: “In the matter at Cuiping Mountain, you too were at fault. From now on, father and son must not quarrel again. You may go now.” Li Jing thanked both the Heavenly Venerable and Master Taiyi and left the cave, returning to Chentang Pass.
+- 96&emsp;觉慧回到家里，看不惯家里那些人明争暗斗的勾当，就决定离开这个家。他去找觉新商量，觉新正在追忆死去不久的瑞珏。他听说觉慧要走，不免大吃一惊。
+- 96&emsp;Als Juehui nach Hause zurückkehrte, konnte er die offenen und verdeckten Intrigen seiner Verwandtschaft nicht mehr übersehen und beschloss, dieses Haus zu verlassen. Er suchte Juexin auf, um sich mit ihm zu beraten; Juexin war jedoch ganz in Gedanken bei der kürzlich verstorbenen Ruijue. Als er hörte, dass Juehui sie verlassen wollte, war er wie vom Donner gerührt. 
 
 {{% /columns %}}

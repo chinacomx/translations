@@ -1,12 +1,12 @@
 ---
 title: Page 23
-weight: 25
+weight: 26
 ---
-![jia page](/images/jia/jia_025.jpg)
+![jia page](/images/jia/jia_026.jpg)
 
 {{% columns %}}
 
-- 23&emsp;太子举画戟便刺，直取哪吒。哪吒手无寸铁，把头一低，钻将过去。
-- 23&emsp;The Third Prince raised his decorated ji and thrust it straight at Nezha. Unarmed, Nezha ducked his head and slipped beneath it.
+- 23&emsp;克明正在讲着他那套“病从口入，祸从口出”的大道理，仆人来报告说客人冯乐山来了。
+- 23&emsp;„Durch den Mund dringen Krankheiten herein, aus dem Mund kommen Katastrophen heraus.“ Gerade als Keming seine großartige Theorie darlegte, kam ein Diener herein, um zu verkünden, dass der Gast, Feng Leshan, eingetroffen sei.
 
 {{% /columns %}}

@@ -1,13 +1,12 @@
 ---
 title: Page 04
-weight: 6
+weight: 7
 ---
-![jia page](/images/jia/jia_006.jpg)
+![jia page](/images/jia/jia_007.jpg)
 
 {{% columns %}}
 
-- 4&emsp; 李靖大惊，手执宝剑向肉球砍去，肉球分开，竟然跳出一个小孩儿来，满地上跑。小孩右手套一个金镯，肚上围一块红绫，面如傅粉，十分伶俐。
-- 4&emsp;Li Jing was shocked, grasping his treasured sword, he slashed at the flesh ball. The ball split open, and out jumped a child who ran all over the floor. The child wore a golden bracelet on his right hand and a piece of red silk around his belly. He had a delicate and fair face and looked very clever. 
-
+- 4&emsp;觉新的父亲正病着，三叔克明知道觉新的心事，就以长辈的身份将觉新叫到新房里教训了一顿，要他逆来顺受，不准他胡思乱想。
+- 4&emsp;Juexins Vater war krank. Der dritte Onkel Keming wusste von Juexins Gefühlen. In seiner Rolle als Familienoberhaupt ließ er ihn ins Brautgemach rufen, um ihm eine Lektion zu erteilen: Er solle alles stillschweigend hinnehmen und nicht mit seiner Fantasie durchbrennen. 
 
 {{% /columns %}}

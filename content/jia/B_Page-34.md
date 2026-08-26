@@ -1,12 +1,12 @@
 ---
 title: Page 34
-weight: 36
+weight: 37
 ---
-![jia page](/images/jia/jia_036.jpg)
+![jia page](/images/jia/jia_037.jpg)
 
 {{% columns %}}
 
-- 34&emsp;哪吒见父母哭泣，立身不安，双膝跪下，禀道：“常言道：‘一人做事一人当。’一孩儿岂敢连累父母？我如今往乾元山，问我师尊，必有主意。”
-- 34&emsp;Seeing his parents weeping, Nezha stood uneasily, then dropped to his knees and said respectfully: “As the saying goes: ‘one should bear sole responsibility for one's own actions.’ How could I, your son, possibly dare to implicate my parents in this matter? I shall now go to Mount Qianyuan and ask for my master’s guidance — he will surely have a way.”
+- 34&emsp;觉慧正在房里为《黎明周报》赶写明天要发的一篇稿子，在窗外淅沥的雨声中，忽然听到有人在低声叫着「三少爷」。
+- 34&emsp;Juehui saß gerade in seinem Zimmer und schrieb eilig einen Artikel für die „Morgendämmerung“, der am nächsten Tag erscheinen sollte. Vor dem Fenster hörte er im leisen Regenrauschen plötzlich eine verhaltene Stimme: „Dritter junger Herr!“
 
 {{% /columns %}}

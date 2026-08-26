@@ -1,12 +1,16 @@
 ---
 title: Page 73
-weight: 75
+weight: 76
 ---
-![jia page](/images/jia/jia_075.jpg)
+![jia page](/images/jia/jia_076.jpg)
 
 {{% columns %}}
 
-- 73&emsp;有军政官报入府内，李靖喝道：“胡说，哪吒已死，怎能复活？”言未了，只见又一起人来报：“老爷如出去迟了，三公子便杀进来！”
-- 73&emsp;An officer rushed inside and reported that. Li Jing shouted: “Nonsense! Nezha is dead—how could he return to life?” Before he finished speaking, another group of men came hurrying in: “Master, if you go out too late, the Third Young Master will force his way inside!”
+- 73&emsp;高老太爷怒不可遏，立刻令人去叫四老爷克安。正巧克安不在家，老太爷就更生气了，当时只好将四太太王氏叫来责骂了一顿。
+- 73&emsp;Der alte Herr Gao war außer sich vor Wut und ließ sofort nach Ke’an rufen. Jedoch war Ke’an gerade zufällig nicht zu Hause, was den alten Herrn Gao noch wütender machte. Also ließ er die Vierte Tante, die Geborene Shi herbeirufen und stauchte sie zusammen.
+
+//Sprechblase://
+- &emsp;//你真糊涂！真糊涂！//
+- &emsp;//„Wie kannst du so dämlich sein! So dämlich!“ //
 
 {{% /columns %}}

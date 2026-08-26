@@ -1,12 +1,12 @@
 ---
 title: Page 64
-weight: 66
+weight: 67
 ---
-![jia page](/images/jia/jia_066.jpg)
+![jia page](/images/jia/jia_067.jpg)
 
 {{% columns %}}
 
-- 64&emsp;且说，哪吒那日正巧出神，不在行宫；及至回来，只见庙宇无存，山红土赤，烟焰未灭，两个鬼判含泪来接。
-- 64&emsp;Meanwhile, Nezha’s spirit happened to be away from his temple. When he returned, he found the temple gone, the mountain was red and the soil burned, smoke and embers not yet extinguished. His two ghostly attendants came to meet him, weeping.
+- 64&emsp;觉民终于实行了逃婚，躲到了同学黄存仁家里，知道这件事的只有觉慧一个人。
+- 64&emsp;Schließlich setzte Juemin den Plan in die Tat um und floh vor der Hochzeit. Er versteckte sich im Haus seines Schulkameraden Huang Cunren. Nur Juehui war eingeweiht.
 
 {{% /columns %}}

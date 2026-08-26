@@ -1,12 +1,16 @@
 ---
 title: Page 59
-weight: 61
+weight: 62
 ---
-![jia page](/images/jia/jia_061.jpg)
+![jia page](/images/jia/jia_062.jpg)
 
 {{% columns %}}
 
-- 59&emsp; 一日，李靖操演三军归来，在翠屏山下经过，见山上庙宇雄伟，香火甚盛，便问：“山上是何庙宇？供奉何神？”中军回道：“是哪吒行宫。”
-- 59&emsp;One day, as Li Jing was returning from drilling the troops, he passed the foot of Mount Cuiping. Seeing a magnificent temple on the mountain thriving with incense offerings, he asked: “What temple is that? Which deity is worshiped there?” The officer replied, “That’s Nezha’s temple.”
+- 59&emsp;冯老头将婉儿骗到楼上，逼问她刚才哭诉了什么话，他突然将燃着的香烟头按在婉儿的手臂上，并且不准她叫喊。她痛得几乎晕倒，幸亏觉慧上来救了她。
+- 59&emsp;Der alte Feng lockte Wan’er unter einem Vorwand nach oben, um sie mit Fragen zu bedrängen, worüber sie sich gerade beklagt habe. Plötzlich drückte er ihr eine brennende Zigarettenspitze auf den Arm und verbot ihr zu schreien. Vor Schmerz wäre sie beinahe ohnmächtig geworden, aber zum Glück kam Juehui herauf und rettete sie.
+
+//Sprechblase://
+- &emsp;//放下手！你在干什么？//
+- &emsp;//„Hände weg! Was zum Teufel machen Sie da?“//
 
 {{% /columns %}}

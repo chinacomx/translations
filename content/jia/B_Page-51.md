@@ -1,12 +1,16 @@
 ---
 title: Page 51
-weight: 53
+weight: 54
 ---
-![jia page](/images/jia/jia_053.jpg)
+![jia page](/images/jia/jia_054.jpg)
 
 {{% columns %}}
 
-- 51&emsp;敖光化一阵清风去了。李靖顿足道：“此祸愈惹愈大，如何是好？” 哪吒禀道：“父亲、母亲，只管放心。若有大事，师父自然承当。二老不必忧愁。”说毕，又往乾元山去。
-- 51&emsp;Ao Guang left in a gust of wind. Li Jing stamped his foot and said: “This trouble is getting worse and worse—what should we do?” Nezha answered: “Father, Mother, don’t worry. If anything serious happens, my master will handle it, of course. You don’t need to worry.” With that, he left again for Mount Qianyuan.
+- 51&emsp;梅回到前边，刚好遇着觉新，觉新要她看那封没有送到的信，可是梅却不愿也不忍再去看这封信，她不希望因为自己再加深觉新的痛苦。
+- 51&emsp;Als Mei wieder zurück ging, begegnete sie zufällig Juexin. Juexin wollte ihr den Brief zeigen, den Mei damals nicht erhalten hatte. Aber Mei brachte es nicht übers Herz, ihn jetzt doch noch zu lesen. Sie wollte Juexins Schmerz nicht noch weiter vergrößern.
+
+//Sprechblase://
+- &emsp;//大表哥！忘了我吧……//
+- &emsp;//Älterer Cousin! Vergiss mich...//
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 94
-weight: 96
+weight: 97
 ---
-![jia page](/images/jia/jia_096.jpg)
+![jia page](/images/jia/jia_097.jpg)
 
 {{% columns %}}
 
-- 94&emsp;天尊迎出洞来，对真人笑道：“你的徒弟，叫我教训一番。”太乙真人也笑道：“贫道因他杀戒重了，故送他来磨炼真性。谁知果然得罪天尊，理应受罚。”
-- 94&emsp;The Heavenly Venerable came out to greet him and said with a smile: “I have given your disciple a lesson.” Master Taiyi smiled in return: “I sent him here because he has committed serious acts of killing and must temper his true nature. Who would have thought he truly offended the Heavenly Venerable, so of course, he deserves to be punished.”
+- 94&emsp;觉慧和同学们正忙着游行请愿等爱国活动，不料被军阀派人将他逮捕了。据说，这件事是“孔教会”的冯乐山暗中告发的。
+- 94&emsp;Juehui und seine Schulkameraden waren gerade mit patriotischen Aktivitäten wie Demonstrationen und Petitionen beschäftigt, als sie unerwartet von Abgesandten des Kriegsherrn verhaftet wurden. Dem Vernehmen nach war es Feng Leshan von der “Konfuziusgesellschaft” gewesen, der sie heimlich denunziert hatte. 
 
 {{% /columns %}}

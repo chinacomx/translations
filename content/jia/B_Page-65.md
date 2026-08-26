@@ -1,12 +1,12 @@
 ---
 title: Page 65
-weight: 67
+weight: 68
 ---
-![jia page](/images/jia/jia_067.jpg)
+![jia page](/images/jia/jia_068.jpg)
 
 {{% columns %}}
 
-- 65&emsp;哪吒问：“怎的来？”鬼判道：“是你父李靖打碎金身，烧毁行宫，不知何故。”哪吒气道：“我骨肉已还父母，与他无干了。为何打我金身，烧我行宫，令我无处栖身？”
-- 65&emsp;Nezha asked: “What happened?” The attendants replied: “It was your father, Li Jing, who smashed your statue and burned down the temple for reasons unknown.” Enraged, Nezha said: “I have already returned my flesh and blood to my parents, this has nothing to do with him! Why must he destroy my statue and burn down my temple, leaving me no place to dwell?”
+- 65&emsp;觉民逃婚后，祖父高老太爷愤怒极了，他将觉新叫来，要他立刻去找回觉民。然而，觉新也不知道觉民究竟藏在哪里，只是惟命是从。
+- 65&emsp;Juemins Flucht vor der Hochzeit ließ den alten Herrn Gao vor Wut kochen. Er ließ Juexin rufen und befahl ihm, sofort nach Juemin zu suchen und ihn zurückzubringen. Juexin wusste jedoch auch nicht, wohin Juemin untergetaucht war. Er gehorchte einfach blind dem Befehl.
 
 {{% /columns %}}

@@ -1,13 +1,12 @@
 ---
 title: Page 14
-weight: 16
+weight: 17
 ---
-![jia page](/images/jia/jia_016.jpg)
+![jia page](/images/jia/jia_017.jpg)
 
 {{% columns %}}
 
-- 14&emsp;夜叉来到九湾河一望，见水俱是红的，光华灿烂，有一小儿拿红罗帕蘸水洗澡，喝道：“那孩子用甚么怪东西，把河水映红，使宫殿摇动？”
-- 14&emsp;The Yaksha came to Jiuwan River, and saw the entire river dyed red, glowing brilliantly.  A child was bathing with a red silk dipped in the water. He shouted: “What kind of weird thing is that child using to make the river red and make the palace shake?”
-
+- 14&emsp;新郎在乘人不注意的时候，偷偷地跑到园中梅林里独自徘徊。他爱梅表妹，因此也酷爱梅花，尤其在今天，似乎只有梅花才懂得他的心情，才能给他一丝安慰。但人们还是找到了他，硬把他往新房里送。
+- 14&emsp;Der Bräutigam schlich sich, als niemand zusah, heimlich in den Pflaumenhain des Gartens und wanderte alleine umher. Er liebte Cousine Mei, deswegen liebte er auch die Pflaumenblüten. Vor allem heute erschien es ihm so, als ob nur die Pflaumenblüten seine Gefühle verstanden und nur sie ihn ein bisschen trösten konnten. Doch die Leute fanden ihn schließlich und zerrten ihn ins Brautgemach. 
 
 {{% /columns %}}

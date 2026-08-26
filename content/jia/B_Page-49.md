@@ -1,12 +1,12 @@
 ---
 title: Page 49
-weight: 51
+weight: 52
 ---
-![jia page](/images/jia/jia_051.jpg)
+![jia page](/images/jia/jia_052.jpg)
 
 {{% columns %}}
 
-- 49&emsp;哪吒道：“父亲不必发怒，现有伯父敖光可证。”说着，取出青蛇，往下一丢，一阵清风，敖光化成人形。
-- 49&emsp;Nezha answered: “Father, there’s no need to be angry. Uncle Ao Guang is right here and can testify.” With that, he pulled out the little green snake and threw it to the ground. In a gust of clear wind, Ao Guang transformed into human form.
+- 49&emsp;梅心里难过极了，她无力地扶着梅树，眼泪盈眶，忽然听得有人亲切地叫她一声“梅表妹”，原来是瑞珏已经站在她的身边了。
+- 49&emsp;Mei litt unsäglich. Kraftlos stützte sie sich gegen den Pflaumenbaum, die Augen voller Tränen. Plötzlich hörte sie eine vertraute Stimme „Cousine Mei“ rufen. Es war Ruijue, die bereits neben ihr stand.
 
 {{% /columns %}}

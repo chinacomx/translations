@@ -1,12 +1,12 @@
 ---
 title: Page 41
-weight: 43
+weight: 44
 ---
-![jia page](/images/jia/jia_043.jpg)
+![jia page](/images/jia/jia_044.jpg)
 
 {{% columns %}}
 
-- 41&emsp;哪吒一脚踏住他的后心，举拳便打。敖光扭颈回头看时，却什么看不见，只是挣扎不得，任人殴打，恼恨无比，破口大骂。
-- 41&emsp;Nezha stepped on the middle of Ao Guang’s back and raised his fist to strike. When Ao Guang turned his neck to look back, he could not see anything. He was unable to struggle free and was left to be beaten helplessly. Consumed with fury and hatred, Ao Guang began to curse loudly.
+- 41&emsp;军阀们不管百姓死活，只顾争权夺利。督军和张军长发生冲突，终于打了起来，在省城附近开了火。
+- 41&emsp;Die Militärmachthaber kümmerten sich nicht um Leben und Tod der Bevölkerung, sondern nur um Machtkämpfe und persönliche Vorteile. Zwischen dem Gouverneur und dem Kommandanten Zhang kam es zu einem Konflikt. Schließlich brachen Kämpfe aus, und in der Nähe der Provinzhauptstadt wurde das Feuer eröffnet.
 
 {{% /columns %}}

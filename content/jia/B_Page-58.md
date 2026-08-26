@@ -1,12 +1,12 @@
 ---
 title: Page 58
-weight: 60
+weight: 61
 ---
-![jia page](/images/jia/jia_060.jpg)
+![jia page](/images/jia/jia_061.jpg)
 
 {{% columns %}}
 
-- 58&emsp;哪吒行宫造成，塑像栩栩如生。四方居民，俱来进香。
-- 58&emsp;When the temple was finished, the statue looked lifelike. People from all around came to offer incense.
+- 58&emsp;正在这时，冯老头来了。他阴险异常，丝毫不动声色，若无其事地命令婉儿先到水阁楼上去研墨。
+- 58&emsp;Genau in diesem Moment kam der alte Feng. Er war äußerst hinterhältig und ließ sich nichts anmerken. Als wäre nichts gewesen, schickte er Wan’er hinauf zum Wasserpavillon, um die Tinte vorzubereiten. 
 
 {{% /columns %}}

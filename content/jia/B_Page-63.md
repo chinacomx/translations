@@ -1,12 +1,12 @@
 ---
 title: Page 63
-weight: 65
+weight: 66
 ---
-![jia page](/images/jia/jia_065.jpg)
+![jia page](/images/jia/jia_066.jpg)
 
 {{% columns %}}
 
-- 63&emsp;李靖回到帅府，怒气未息，对夫人道：“你生的好儿子，还嫌遗害太少，今又替他造行官，煽惑良民。今日我已烧毁庙宇，你若再与他起造，那时我不与你干休！”
-- 63&emsp;Returning to the commander’s residence, Li Jing was still furious. He said to his wife  Lady Yin, “Such a fine son you bore! As if the harm he caused wasn’t enough, now you build him a temple to delude the common people! Today I burned it to the ground. If you dare rebuild, I will not let the matter rest!”
+- 63&emsp;高老太爷决定为觉民选择吉日定亲了，觉民非常忧愤，他独自在花园中徘徊了几个钟头，想起了觉新、瑞珏和梅的悲惨遭遇，更加下决心实行和觉慧商定的办法——走！不获胜利，决不回家！
+- 63&emsp;Der alte Herr Gao hatte einen glückverheißenden Tag für Juemins Verlobung bestimmt. Juemin war darüber zutiefst bekümmert. Stundenlang streifte er allein durch den Garten und dachte an das tragische Schicksal von Juexin, Ruijue und Mei. Das bestärkte ihn nur in seinem Entschluss, den mit Juehui vereinbarten Plan umzusetzen — weg von hier! Ohne Sieg keine Heimkehr!
 
 {{% /columns %}}

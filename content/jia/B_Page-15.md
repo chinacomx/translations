@@ -1,13 +1,12 @@
 ---
 title: Page 15
-weight: 17
+weight: 18
 ---
-![jia page](/images/jia/jia_017.jpg)
+![jia page](/images/jia/jia_018.jpg)
 
 {{% columns %}}
 
-- 15&emsp;哪吒忽见水底出现一物，面如蓝靛，发似硃砂，巨口獠牙，手持大斧，便喝道：“你那畜生，是个甚东西，也说话？”夜叉大怒：“我乃龙君属下巡海夜叉，怎骂我是畜生？”
-- 15&emsp;Nezha suddenly saw a creature appearing under the water — its face seemed indigo, and its hair cinnabar, with a huge mouth and tusks, and wielding a large axe in his hands. Nezha shouted: “What kind of creature are you, you beast! And you actually can speak?” The Yaksha was furious: “I am the sea-patrolling Yaksha under the Dragon King! How dare you call me a beast?”
-
+- 15&emsp;闹新房的人将一对年轻人折磨够了，才离开新房。新房里被关着两个从来不相识的人，要他们从此在一起生活一辈子。新娘瑞珏闷坐着，心中怀着恐惧、悲哀，同时也怀着希望；新郎推开临湖的一排长窗，听着窗外杜鹃的啼声，心中格外郁闷难受。
+- 15&emsp;Nachdem sie ausreichend Krawall gemacht hatten, verließen die Gäste das Hochzeitsgemach. Eingeschlossen im Hochzeitsgemach waren zwei Menschen, die sich zuvor nie getroffen hatten, und nun sollten sie den Rest ihres Lebens zusammen verbringen. Die Braut Ruijue saß niedergeschlagen da, ihr Herz war gefüllt mit Angst und Trauer, aber auch mit Hoffnung. Der Bräutigam öffnete die lange Fensterfront in Richtung des Sees und lauschte den Rufen des Kuckucks. Er fühlte sich ausgesprochen bedrückt und unwohl.
 
 {{% /columns %}}

@@ -1,12 +1,12 @@
 ---
 title: Page 53
-weight: 55
+weight: 56
 ---
-![jia page](/images/jia/jia_055.jpg)
+![jia page](/images/jia/jia_056.jpg)
 
 {{% columns %}}
 
-- 53&emsp;且说哪吒飞奔陈塘关来，只见帅府前人声扰攘。众家将见公子来了，忙报李靖。李靖夫妇早被四海龙王拿住，正要解往天庭。
-- 53&emsp;As Nezha rushed toward Chentang Pass, he saw a commotion in front of the commander's residence. The household guards saw the young master coming and quickly reported to Li Jing. Li Jing and Lady Yin had already been seized by the Four Dragon Kings and were about to be taken to the Celestial Palace.
+- 53&emsp;秋天了，在高老太爷六十六岁生日那天，高家又大大地热闹了一番，为老太爷做寿。
+- 53&emsp;Es war Herbst geworden. Zur Feier des sechsundsechzigsten Geburtstags des alten Herrn Gao herrschte in der Familie Gao erneut großer Trubel. 
 
 {{% /columns %}}

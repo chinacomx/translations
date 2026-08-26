@@ -1,12 +1,18 @@
 ---
 title: Page 68
-weight: 70
+weight: 71
 ---
-![jia page](/images/jia/jia_070.jpg)
+![jia page](/images/jia/jia_071.jpg)
 
 {{% columns %}}
 
-- 68&emsp;只听得一声响，跳起一个人来，面如傅粉，唇似涂硃，眼运精光，身长一丈六尺，此乃哪吒莲花化身。
-- 68&emsp;With a sudden crack, a figure leapt forth: a delicate and fair face, with lips as red as cinnabar, eyes shining with brilliantly, one zhang and six chi tall. This was Nezha, reborn from the lotus.
+- 68&emsp;为了解决觉民的亲事，大家猜想觉慧一定知道觉民的下落，三叔克明和继母周氏施尽一切办法来逼问觉慧，可觉慧就是不肯讲出来。
+- 68&emsp;Um Juemins Hochzeit über die Bühne zu bringen und da sich alle dachten, dass Juehui bestimmt wusste, wo Juemin war, versuchten Keming, der Dritte Onkel, und die Stiefmutter, die Geborene Zhou, alles, um Juehui auszufragen. Doch Juehui verriet nichts.
+
+//Sprechblasen://
+- &emsp;//你二哥究竟在什么地方？//
+- &emsp;//„Wo genau ist denn jetzt dein zweiter Bruder?“//
+- &emsp;//不知道！//
+- &emsp;//„Keine Ahnung!“//
 
 {{% /columns %}}

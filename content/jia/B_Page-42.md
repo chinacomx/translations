@@ -1,12 +1,18 @@
 ---
 title: Page 42
-weight: 44
+weight: 45
 ---
-![jia page](/images/jia/jia_044.jpg)
+![jia page](/images/jia/jia_045.jpg)
 
 {{% columns %}}
 
-- 42&emsp;哪吒被他骂得性起，忍耐不住，言道：“你叫，你骂，我便打死你这老泥鳅也无甚大事！我不说，你也不知我是谁。我非别人，乃乾元山金光洞太乙真人弟子哪吒是也。”
-- 42&emsp;Nezha, provoked by the curses, could no longer hold back his anger and said: “You shout and curse all you like, I’ll just beat you to death, you old loach—that’s no big deal! If I didn’t tell you, you wouldn't even know who I am. I’m not someone else — I'm Nezha, disciple of Master Taiyi from the Golden Light Cave on Mount Qianyuan!”
+- 42&emsp;城里也有了枪声，高家的人为了安全起见，都到后面比较僻静的花园里去避难，只留下觉新在前面看家。
+- 42&emsp;Auch in der Stadt waren Schüsse zu hören. Aus Sicherheitsgründen begaben sich die Mitglieder der Familie Gao in den weiter hinten gelegenen, vergleichsweise ruhigen Garten, um dort Schutz zu suchen. Nur Juexin blieb vorne, um das Haus zu bewachen.
+
+//Sprechblasen://
+- &emsp;//觉新，你也上后面花园去吧！//
+- &emsp;//„Juexin, geh du auch nach hinten in den Garten!“//
+- &emsp;//不，我要留在前面。为了海臣，你赶快走吧！//
+- &emsp;//„Nein, ich bleibe vorne. Wegen Haichen, geh du schnell!“//
 
 {{% /columns %}}

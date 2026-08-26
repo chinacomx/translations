@@ -1,12 +1,12 @@
 ---
 title: Page 87
-weight: 89
+weight: 90
 ---
-![jia page](/images/jia/jia_089.jpg)
+![jia page](/images/jia/jia_090.jpg)
 
 {{% columns %}}
 
-- 87&emsp;哪吒道：“他是我的对头。你好好放他出来便罢；若走了李靖，就要戳你三枪。”天尊道：“你是何人！这等狠，连我也要戳三枪。”
-- 87&emsp;Nezha said: “He is my archenemy. Hand him over and there will be no trouble. But if Li Jing escapes, I’ll stab you three times with my spear!” The Heavenly Venerable said: “And who are you! So ruthless that you would even threaten to stab me three times?”
+- 87&emsp;觉新回到家里，陈姨太又一本正经地叮嘱他：待瑞珏生产后，不准他进瑞珏房里去，否则祖爷的尸体还是会遭 “血光之灾” 的。觉新听了这种鬼话，气得话也说不出来。
+- 87&emsp;Als Juexin nach Hause kam, ermahnte ihn Konkubine Chen mit ernster Miene: Nach Ruijues Geburt dürfe er das Zimmer nicht betreten, sonst würde das Blut der Gebärenden dem Leichnam seines Großvaters in seiner Totenruhe weiter schaden. Juexin hörte diesen Unsinn und war sprachlos vor Wut. 
 
 {{% /columns %}}

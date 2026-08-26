@@ -41,9 +41,9 @@ Einige Begriffe und Übersetzungsentscheidungen seien im Folgenden kurz erläute
 
 - In der **Inhaltsbeschreibung** heißt es im von uns übersetzten Originaltext des Lianhuanhua „Anfang des 19. Jahrhunderts“ (十九世纪初叶). Ba Jins Roman *Die Familie* ist jedoch ganz klar in den Zwanziger Jahren des 20. Jahrhundert angesiedelt. Es handelt sich wahrscheinlich um einen Druckfehler im Quelltext. Daher haben wir die Übersetzung korrigiert und nennen hier den tatsächlichen Zeitraum.
 
-- In **Panel 9** wird der Begriff ** „Boshi-Hut“ (博士帽) ** verwendet. Dieser verweist allerdings nicht auf eine moderne Doktorhaube. Das Wort „boshi“ bezeichnete im alten China ursprünglich ein Gelehrten- bzw. Beamtenamt und erhielt erst später die Bedeutung „Doktor“ im akademischen Sinn. Die hier erwähnte Kopfbedeckung geht auf die Amtstracht kaiserzeitlicher Gelehrter und Beamter zurück. Als Bestandteil traditioneller Hochzeiten symbolisierte sie den Wunsch nach künftigem gesellschaftlichem Erfolg, Rang und Ehre des Bräutigams.
+- In **Panel 9** wird der Begriff „Boshi-Hut“ (博士帽) verwendet. Dieser verweist allerdings nicht auf eine moderne Doktorhaube. Das Wort „boshi“ bezeichnete im alten China ursprünglich ein Gelehrten- bzw. Beamtenamt und erhielt erst später die Bedeutung „Doktor“ im akademischen Sinn. Die hier erwähnte Kopfbedeckung geht auf die Amtstracht kaiserzeitlicher Gelehrter und Beamter zurück. Als Bestandteil traditioneller Hochzeiten symbolisierte sie den Wunsch nach künftigem gesellschaftlichem Erfolg, Rang und Ehre des Bräutigams.
 
-- **Panel 24** erwähnt die ** „Konfuziusgesellschaft“ (*Kongjiaohui* 孔教会)**, eine Anfang des 20. Jahrhunderts gegründete Organisation, die sich für die Wiederbelebung und institutionelle Etablierung des Konfuzianismus einsetzte. Sie versinnbildlicht damit die Rückwärtsgewandtheit von Feng Leshan.
+- **Panel 24** erwähnt die „Konfuziusgesellschaft“ (*Kongjiaohui* 孔教会), eine Anfang des 20. Jahrhunderts gegründete Organisation, die sich für die Wiederbelebung und institutionelle Etablierung des Konfuzianismus einsetzte. Sie versinnbildlicht damit die Rückwärtsgewandtheit von Feng Leshan.
 
 ## Verwendete und weiterführende Literatur
 

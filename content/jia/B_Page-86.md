@@ -1,12 +1,12 @@
 ---
 title: Page 86
-weight: 88
+weight: 89
 ---
-![jia page](/images/jia/jia_088.jpg)
+![jia page](/images/jia/jia_089.jpg)
 
 {{% columns %}}
 
-- 86&emsp;少刻，哪吒雄赳赳，气昂昂，脚踏风火轮，持枪赶到。哪吒看见天尊站在山坡上，问道：“你可曾看见一将军过去?”天尊道：”方才李将军进我云霄洞去了。你问他怎的？”
-- 86&emsp;Moments later, Nezha came with his head held high – bold and fierce – treading on the Wind-and-Fire Wheels, with his spear in hand. Catching sight of the Heavenly Venerable standing upon the hillside, he asked: “Have you seen a general just passing by?” The Heavenly Venerable replied, “General Li just entered my Cloud Top Cave. Why do you ask?”
+- 86&emsp;觉新走后，瑞珏看到房子很破旧、潮湿，窗子破得直进风，因此心中更加凄楚，不禁低头哭泣起来。
+- 86&emsp;Nachdem Juexin gegangen war, sah Ruijue, wie feucht und heruntergekommen das Haus war. Die Fenster waren so marode, dass der Wind hineinblies. Ihre Verzweiflung nahm zu, und sie brach in Tränen aus.
 
 {{% /columns %}}

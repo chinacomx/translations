@@ -1,12 +1,17 @@
 ---
 title: Page 03
-weight: 5
+weight: 6
 ---
-![jia page](/images/jia/jia_005.jpg)
+![jia page](/images/jia/jia_006.jpg)
 
 {{% columns %}}
 
-- 3&emsp; 当夜三更，夫人觉腹中疼痛，待要生产。忽然房中一团红气，满屋异香，夫人竟然生下一个肉球，滴溜溜团团滚转。
-- 3&emsp;That night at midnight, Lady Yin felt pain in her abdomen and went into labor. Suddenly, a red mist appeared, and a strange fragrance filled the room. To the servants and Lady Yin’s astonishment, she gave birth to a ball of flesh that rolled and spun around the room.
+- 3&emsp;高家的人眼看着觉新和梅芬被活活地拆散，不但不加以同情，反而还幸灾乐祸地论长道短。
+- 3&emsp;Die Familienmitglieder der Gaos sahen zu, wie Juexin und Meifen grausam voneinander getrennt wurden – doch statt Mitgefühl zu zeigen, tratschten sie über deren Unglück.
+
+//Sprechblase://
+- &emsp;//这才叫做棒打鸳鸯两离分。//
+- &emsp;//Genau das bedeutet es, ein Liebespaar mit dem Stock auseinanderzuhalten.//
 
 {{% /columns %}}
+

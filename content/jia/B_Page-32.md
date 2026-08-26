@@ -1,12 +1,18 @@
 ---
 title: Page 32
-weight: 34
+weight: 35
 ---
-![jia page](/images/jia/jia_034.jpg)
+![jia page](/images/jia/jia_035.jpg)
 
 {{% columns %}}
 
-- 32&emsp;敖光见物伤情，对李靖说：“你生出这等恶子，适才还说我错怪了你。他自己供认了，看你还有何词可说！明日我上天奏明玉帝，必然对你父子治罪！”
-- 32&emsp;Upon seeing the tendon, Ao Guang was overwhelmed with sorrow . He turned to Li Jing:“You’ve brought such a wicked son into the world, and you just now claimed I wrongly blamed you! Yet he confessed with his own mouth — what more can you say? Tomorrow, I will go to the Celestial Court and report this to the Jade Emperor. You and your son will not escape punishment!”
+- 32&emsp;这意外的不幸的消息使鸣凤几乎晕了过去，她哭着表示自己宁愿在高家一辈子，也不愿意嫁到冯家去受冯老头糟蹋。周氏心中虽也不忍，但因为这是高老太爷的命令，做媳妇的也不敢违抗。
+- 32&emsp;Diese unerwartete Nachricht ließ Mingfeng beinahe ohnmächtig werden. Sie weinte und erklärte, dass sie lieber ihr Leben lang bei der Familie Gao bleiben würde, als in die Familie Feng eingeheiratet zu werden und sich vom alten Feng misshandeln zu lassen. Zwar schmerzte der Geborenen Zhou das Herz, aber da dies der Befehl des alten Herrn Gao war, wagte sie als Schwiegertochter keinen Widerstand.
+
+//Sprechblasen://
+- &emsp;//太太，我宁死也不愿意到冯家去。//
+- &emsp;//„Herrin, ich möchte lieber sterben als zur Familie Feng zu gehen.“//
+- &emsp;//唉！我也无法呀。//
+- &emsp;//„Ach! Mir sind doch auch die Hände gebunden.“//
 
 {{% /columns %}}

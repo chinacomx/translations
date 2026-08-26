@@ -1,12 +1,18 @@
 ---
 title: Page 16
-weight: 18
+weight: 19
 ---
-![jia page](/images/jia/jia_018.jpg)
+![jia page](/images/jia/jia_019.jpg)
 
 {{% columns %}}
 
-- 16&emsp;夜叉分水一跃，跳上岸来，往哪吒头顶一斧劈下。哪吒正赤身站立，见夜叉来得勇猛忙将身躲过。
-- 16&emsp;The Yaksha split the water and jumped onto the riverbank, swinging its axe down at Nezha’s head. Nezha, standing naked, saw the fierce attack coming from the Yaksha and swiftly dodged aside.
+- 16&emsp;忽然床下砰的一声响，觉新走近床前，床底下接连钻出三个小孩。他们都是觉新的堂弟，原来是祖父高老太爷的陈姨太为了捉弄这对新夫妇，暗中怂恿他们来闹新房的。
+- 16&emsp;Plötzlich war lautes Poltern unter dem Bett zu hören. Juexin ging zum Bett hinüber, und nacheinander krochen drei Kinder hervor. Es waren allesamt Juexins Cousinen; wie sich herausstellte, hatte Tante Chen, die Konkubine von Großvater Gao, sie heimlich dazu angestiftet, ins Hochzeitsgemach zu kommen und dort für Aufruhr zu sorgen, um den Frischvermählten einen Streich zu spielen.
+
+//Sprechblasen://
+- &emsp;//我喜欢孩子。//
+- &emsp;//Ich mag Kinder.//
+- &emsp;//我们家孩子真多！//
+- &emsp;//Wir haben wirklich viele Kinder in unserer Familie!//
 
 {{% /columns %}}

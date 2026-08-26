@@ -1,12 +1,12 @@
 ---
 title: Page 13
-weight: 15
+weight: 16
 ---
-![jia page](/images/jia/jia_015.jpg)
+![jia page](/images/jia/jia_016.jpg)
 
 {{% columns %}}
 
-- 13&emsp;这河乃是九湾河，在东海口上。此时，水晶官已被震动。东海龙王敖光忙唤左右，问道：“算来地不该震 ，为何宫殿摇晃？”忙传巡海夜叉李艮，去海口查看是何物作怪。
-- 13&emsp;This was the Jiuwan River, located at the mouth of the East Sea. At this moment, the Crystal Palace trembled. The Dragon King of the East Sea, Ao Guang, hastily summoned his attendants. “By all accounts, the ground shouldn’t tremble. Why is the palace shaking?” He hurriedly called for the sea-patrolling Yaksha Li Gen and ordered him to go to the river mouth to investigate what was causing the disturbance. 
+- 13&emsp;新娘被扶进新房里，闹新房的人尽量地调笑着。平日被虚文浮礼所掩饰的秽恶的情感全部暴露了，一向荒唐的四叔克安、五叔克定闹新房的兴致极高，他们硬要新娘唱歌、喝酒。
+- 13&emsp;Der Braut wurde ins Hochzeitsgemach geholfen und die Hochzeitsgäste bemühten sich, sich über sie lustig zu machen. Die sonst im Alltag durch oberflächliche Höflichkeit verborgenen widerwärtigen Gefühle kamen nun hervor. Ke‘an und Keding, die beiden lächerlichen jüngeren Onkel, waren in höchster Stimmung die Braut zu necken und drängten sie zum Singen und Trinken. 
 
 {{% /columns %}}

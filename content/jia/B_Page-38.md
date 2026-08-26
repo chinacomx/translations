@@ -1,12 +1,12 @@
 ---
 title: Page 38
-weight: 40
+weight: 41
 ---
-![jia page](/images/jia/jia_0040.jpg)
+![jia page](/images/jia/jia_041.jpg)
 
 {{% columns %}}
 
-- 38&emsp;哪吒到了宝德门，不见敖光；又见天宫各门未开，便站在聚仙门下等候。不多时，只见敖光身穿朝服，径往南天门去。
-- 38&emsp;At the Baode Gate, Nezha saw no sign of Ao Guang. He noticed that all the gates to the Celestial Palace were closed, so he waited beneath the Gathering Juxian Gate. Before long, he saw Ao Guang in official robe, heading straight for the Nantian Gate.
+- 38&emsp;第二天早晨，人们发觉鸣凤死了。高老太爷为了实现对冯乐山的诺言，竟然逼令婉儿代嫁。
+- 38&emsp;Am nächsten Morgen wurde Mingfengs Leichnam entdeckt. Um sein Versprechen gegenüber Feng Leshan zu erfüllen, zwang der alte Herr Gao kurzerhand Wan’er, als Ersatzbraut zu gehen.
 
 {{% /columns %}}
