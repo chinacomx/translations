@@ -7,7 +7,7 @@ weight: 56
 
 {{% columns %}}
 
-- 52&emsp;哪吒在金光洞住了几日。真人唤他到面前，说道：“四海龙君，奏准玉帝，来拿你父母了。你快回去！须如此如此，方能救你父母。”哪吒叩谢师父，借土遁返回陈塘关。
-- 52&emsp;Nezha stayed in the Golden Light Cave for several days. Master Taiyi called him and said: “The Four Dragon Kings have reported to the Jade Emperor, who granted his approval, and are coming to seize your parents. You must hurry back! Only by doing so can you save your parents.” Nezha thanked his master and returned to Chentang Pass through the Earth Escape.
+- ( 52 )&emsp;人们不忘神农的恩德，奉他为“药王菩萨”。好多地方都建起“药王庙”；逢到神农的生日，人们纷纷来到“药王庙”祭祀，表示对这位医药先辈的虔敬和感戴。
+- ( 52 )&emsp;Um an Shennongs Güte zu erinnern, wird er als „Medizinkönig-Bodhisattva“ verehrt. An vielen Orten wurden „Medizinkönig-Tempel“ errichtet; an Shennongs Geburtstag strömen die Menschen in Scharen in seine Tempel, um Opfer darzubringen und ihre Ehrfurcht und Dankbarkeit gegenüber diesem Pionier der Medizin zu zeigen.
 
 {{% /columns %}}

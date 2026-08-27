@@ -7,7 +7,8 @@ weight: 26
 
 {{% columns %}}
 
-- 22&emsp;两人互通姓名。哪吒笑道：“你原来是敖光之子，不要妄自尊大。若恼了我，连你那老泥鳅都揪出来，把他的皮也剥了。”三太子大叫一声：“气杀我！好泼贼！这等无礼！”
-- 22&emsp;The two exchanged names. Nezha laughed and said: “So, you’re Ao Guang’s son. Don’t act so self-important. If you anger me, I’ll even drag that old loach  out and peel off his skin!” The Third Prince roared: “How outrageous! You scoundrel! What insolence!”
+- ( 22 )&emsp;神农想到天帝的花园里有奇花异草，说不定可以治病。便决定上天去。那时候上天有两条路：一条从昆仑山上去；一条从都广之野顺着一株叫建木的大树爬上去。神农决定走都广之野(现今的成都)这条路。
+- ( 22 )&emsp;Shennong fiel ein, dass es im Garten des Himmelskaisers seltene Blumen und Kräuter gab, die vielleicht Krankheiten heilen könnten. Also beschloss er, zum Himmel hinaufzusteigen. Damals gab es zwei Wege in den Himmel: der eine führte über das Kunlun-Gebirge, der andere über einen großen Baum namens Jianmu in der Ebene von Duguang. Shennong entschied sich für den Weg über die Ebene von Duguang (dem heutigen Chengdu).
 
 {{% /columns %}}
+

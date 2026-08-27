@@ -7,7 +7,8 @@ weight: 7
 
 {{% columns %}}
 
-- 3&emsp; 当夜三更，夫人觉腹中疼痛，待要生产。忽然房中一团红气，满屋异香，夫人竟然生下一个肉球，滴溜溜团团滚转。
-- 3&emsp;That night at midnight, Lady Yin felt pain in her abdomen and went into labor. Suddenly, a red mist appeared, and a strange fragrance filled the room. To the servants and Lady Yin’s astonishment, she gave birth to a ball of flesh that rolled and spun around the room.
+- ( 3 )&emsp;这个男孩子生相异常，身体是透明的，从外可以看到他的内脏，头上还长着两只角。人们都说：“这是天神下凡，九眼井是他带来的吧！”
+
+- ( 3 )&emsp;Dieser Junge sah sehr ungewöhnlich aus. Sein Körper war durchsichtig, sodass man die inneren Organe sehen konnte, und auf seinem Kopf wuchsen zwei Hörner. Alle sagten: „Das ist ein auf die Erde herabgestiegener Gott – die neun Brunnen sind wohl sein Werk!“  
 
 {{% /columns %}}

@@ -7,7 +7,8 @@ weight: 49
 
 {{% columns %}}
 
-- 45&emsp;哪吒说：“你要我饶命，我不许你上本，跟我往陈塘关去，我就饶你。”敖光无可奈何，只得应承：“愿去！愿去！”
-- 45&emsp;Nezha said: “If you want me to spare your life, you must not report this. Come with me to Chentang Pass, and I’ll spare you.” Ao Guang had no choice but to agree: “Fine, I’ll come along!”
+- ( 45 )&emsp;两个老人服了后，腿不疼了，膝盖的肿也消了。这种草药，就是有名的破瘀消肿、治疼解毒的“牛膝”。
+- ( 45 )&emsp;Nachdem die beiden sie angewendet hatten, schmerzten ihre Beine nicht mehr, und die Schwellungen an den Knien gingen zurück. Dies war der berühmten „zweizähnigen Spreublume“ zu verdanken, die Blutergüsse und Schwellungen abklingen lässt, Schmerzen lindert und entgiftend wirkt.
 
 {{% /columns %}}
+

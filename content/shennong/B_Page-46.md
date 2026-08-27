@@ -7,7 +7,8 @@ weight: 50
 
 {{% columns %}}
 
-- 46&emsp;哪吒放敖光起来，忽然想起龙善变化：要大，可以撑天拄地；要小，能够芥子藏身。怕他半路变化逃脱，无处找寻，便让他变条小蛇儿，带回关去。
-- 46&emsp;Nezha let Ao Guang up, but suddenly recalled that dragons are adept at transformation—they can grow enormous and stand as a pillar between heaven and earth or become small enough to hide inside a mustard seed. Fearing he might escape midway, Nezha ordered Ao Guang to transform into a little snake so he could carry him back.
+- ( 46 )&emsp;神农尝百草，经常要中毒，都亏着“查”解救了他。他清清楚楚地看见药草在肚子里的变化。据说被他尝过的花、草、根、叶，就有三十九万八千种。
+- ( 46 )&emsp;Shennong probierte unzählige Kräuter und vergiftete sich dabei oft, doch jedes Mal rettete ihn „cha“. Er konnte ganz genau beobachten, wie sich die Kräuter in seinem Bauch veränderten. Es heißt, er habe 398.000 Arten von Blumen, Gräsern, Wurzeln und Blättern probiert.
 
 {{% /columns %}}
+

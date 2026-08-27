@@ -7,7 +7,8 @@ weight: 25
 
 {{% columns %}}
 
-- 21&emsp;哪吒起身看水，只见波浪中出现一头水兽，兽上坐一怪物，叫道：“是甚人打死我巡海夜叉？”哪吒道：“是我。我在此避暑洗澡，与他何干；他来打我，我打死了他，有何妨！”
-- 21&emsp;Nezha rose to look at the water, and saw a water-beast appearing in the waves. Atop it sat a monster, shouting: “Who killed my patrolling Yaksha?” Nezha replied: “That was me. I was here to escape the summer heat and take a bath— Why did he bother about that?  He came to attack me, so I struck him dead. What of it?”
+- ( 21 )&emsp;那时候，人们患了各种疾病，没有什么医药，不知道怎样治疗。有的靠自己的体力抵抗；有的就只好等死。
+- ( 21 )&emsp; Damals litten die Menschen an allerlei Krankheiten, es gab keine Medizin und man wusste nicht, wie man sie behandeln sollte. Manche verließen sich auf die Kraft ihres eigenen Körpers, andere konnten nur auf den Tod warten.
 
 {{% /columns %}}
+

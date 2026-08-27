@@ -7,7 +7,8 @@ weight: 6
 
 {{% columns %}}
 
-- 2&emsp;李靖操劳一天，回到后堂，见了夫人殷氏，不禁忧心又起。殷氏先生二子，现又怀孕在身，已三年零六个月，迄未生产。李靖时常心下忧虑：此孕定非吉兆，非妖即怪。
-- 2&emsp;After a day’s toil, Li Jing returned to the back hall. Upon seeing his wife Lady Yin, he couldn’t help but feel worried again. Lady Yin had already given birth to two sons and was now pregnant once more. This pregnancy had lasted three years and six months and she had not yet given birth. Li Jing was often anxious, suspecting that this pregnancy was an ominous sign— what’s inside must be either a demon or a monster.
+- ( 2 )&emsp;说也奇怪，那婴儿刚出世，在他的石洞周围，自然涌现了九眼井。这九眼井里的水彼此相连，若是汲取其中一眼井的水，其他八眼井里的水都会波动起来。
+
+- ( 2 )&emsp;Kurz darauf geschah etwas Seltsames: um jene Höhle erschienen wie von Zauberhand neun Brunnen. Diese neun Brunnen waren miteinander verbunden, denn schöpfte man aus einem Wasser, wogten die Wellen in den anderen acht.
 
 {{% /columns %}}

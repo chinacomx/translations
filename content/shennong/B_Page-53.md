@@ -7,7 +7,8 @@ weight: 57
 
 {{% columns %}}
 
-- 53&emsp;且说哪吒飞奔陈塘关来，只见帅府前人声扰攘。众家将见公子来了，忙报李靖。李靖夫妇早被四海龙王拿住，正要解往天庭。
-- 53&emsp;As Nezha rushed toward Chentang Pass, he saw a commotion in front of the commander's residence. The household guards saw the young master coming and quickly reported to Li Jing. Li Jing and Lady Yin had already been seized by the Four Dragon Kings and were about to be taken to the Celestial Palace.
+- ( 53 )&emsp;在湖北的西北部—鄂、川、陕交界的丛山峻岭地区，是我国一座天然的中草药库。传说古代神农氏曾经在这里尝遍百草。后人为了纪念神农的功绩，把这带地方称做“神农架山区”。
+- ( 53 )&emsp;Im Nordwesten von Hubei – in den Bergen an der Grenze zu den Provinzen Sichuan und Shaanxi – befindet sich ein natürlicher Bestand an chinesischen Heilkräutern. Der Legende nach soll der Urvater Shennong hier einst alle Kräuter probiert haben. Im Gedenken an seine Verdienste nannten spätere Generationen dieses Gebiet „Shennongjia-Gebirge“.
 
 {{% /columns %}}
+

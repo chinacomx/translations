@@ -7,8 +7,7 @@ weight: 14
 
 {{% columns %}}
 
-- 10&emsp;两人来到关外，进入绿柳深荫，顿觉薰风荡荡，襟怀舒放，烦恼尽解。
-- 10&emsp;When the two of them arrived outside the pass, they entered the shade of green willows. There, they were suddenly met by a gentle summer breeze, so that their hearts felt light and all their worries faded away.
-
+- ( 10 )&emsp;炎帝又用木头制成一种臿(chā)土的耒(lěi)耜(sì)，教大家把泥土铲得松碎，使得种子容易生长。
+- ( 10 )&emsp;Der Flammen-Kaiser baute einen hölzernen Pflug und lehrte alle, den Boden aufzulockern, damit die Saat leichter wachsen konnte.
 
 {{% /columns %}}

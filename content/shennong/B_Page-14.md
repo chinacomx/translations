@@ -7,8 +7,8 @@ weight: 18
 
 {{% columns %}}
 
-- 14&emsp;夜叉来到九湾河一望，见水俱是红的，光华灿烂，有一小儿拿红罗帕蘸水洗澡，喝道：“那孩子用甚么怪东西，把河水映红，使宫殿摇动？”
-- 14&emsp;The Yaksha came to Jiuwan River, and saw the entire river dyed red, glowing brilliantly.  A child was bathing with a red silk dipped in the water. He shouted: “What kind of weird thing is that child using to make the river red and make the palace shake?”
-
+- ( 14 )&emsp;又有一次，他走到另一部落去，见他们正把大批的高粱、谷子抛弃掉。炎帝觉得太可惜了。当地人笑着说：“有什么可惜的，过几天，新谷又要熟啦！”
+- ( 14 )&emsp;Ein anderes Mal kam er zu einem weiteren Stamm und sah, wie die Menschen gerade große Mengen an Sorghumhirse und ungeschältem Reis wegwarfen. Der Flammen-Kaiser fand das sehr schade. Die Einheimischen lachten nur und sagten: „Was gibt es da zu bedauern? In ein paar Tagen ist das neue Getreide schon wieder reif!“
 
 {{% /columns %}}
+

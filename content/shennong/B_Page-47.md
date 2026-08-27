@@ -7,7 +7,7 @@ weight: 51
 
 {{% columns %}}
 
-- 47&emsp;敖光脱身不得，只好化一个小青蛇儿。哪吒拿来放在怀里，离了宝德门，往陈塘关去。
-- 47&emsp;Unable to get away, Ao Guang turned into a small green snake. Nezha picked him up, held him close to his chest, and left the Baode Gate for Chentang Pass.
+- ( 47 )&emsp;他下决心要尝遍所有的草。这一天，他忽然发现一株攀在树上的藤状植物，开着一朵朵黄色的小花，那叶子还会一张一缩，他奇怪极了，就采了一些叶子放在嘴里咀嚼着。
+- ( 47 )&emsp;Er nahm sich vor, alle Pflanzen einmal zu probieren. Heute entdeckte er plötzlich eine Rankpflanze, die an den Bäumen emporwuchs und kleine gelbe Blüten trug. Ihre Blätter rollten sich auch immer wieder auf und zusammen. Shennong wunderte sich sehr, also pflückte er einige Blätter, steckte sie in den Mund und begann zu kauen.
 
 {{% /columns %}}

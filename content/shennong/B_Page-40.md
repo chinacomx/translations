@@ -7,7 +7,8 @@ weight: 44
 
 {{% columns %}}
 
-- 40&emsp;看看正要赶上，哪吒照师父的吩咐，提起手中的乾坤圈，照敖光的后心打去。敖光并未提防，被他打倒在地。
-- 40&emsp;Just as he was about to catch up, Nezha, following his master’s instructions, raised his Qiankun Ring and struck Ao Guang in the middle of the back. Caught off guard, Ao Guang was knocked down by him.
+- ( 40 )&emsp;过了一天，神农又去采药，他看到有一棵小草，叶儿象羽毛，花儿象紫色的蝴蝶，便摘了几朵放在口里嚼着。
+- ( 40 )&emsp;Am nächsten Tag begab sich Shennong wieder auf die Suche nach Heilkräutern. Da entdeckte er eine kleine Pflanze mit Blättern wie Federn und Blüten wie violette Schmetterlinge. Gleich pflückte er ein paar, steckte sie in den Mund und begann zu kauen.
 
 {{% /columns %}}
+

@@ -7,7 +7,7 @@ weight: 37
 
 {{% columns %}}
 
-- 33&emsp;敖光扬长去了。李靖顿足大哭：“这祸不小！”夫人闻知，急至前厅。李靖气道：“看你生下这样好儿子，惹此灭门之祸！”夫人也泪如雨下，痛骂哪吒不止。
-- 33&emsp;With that, Ao Guang stormed off. Li Jing stamped his foot and broke into tears: “This is no small trouble!” His wife, Lady Yin, upon hearing the news, rushed into the front hall. Li Jing said with anger: “Look what a fine son you’ve given birth to — he’s brought ruin to our entire family!” Lady Yin also wept like rain, and wouldn't stop berating Nezha.
+- ( 33 )&emsp;这一发现，使他大大地高兴。他断定这小叶儿既解渴，又能解毒，他决定改鞭药为尝药，如果遇毒，就用它来解救。他把小叶儿叫“查”(查巡的意思)。后世人读白了，就叫做“茶”。
+- ( 33 )&emsp;Über diese Entdeckung freute er sich sehr. Er kam zu dem Schluss, dass diese kleinen Blätter sowohl den Durst stillen als auch den Körper entgiften konnten. Er entschied sich nun nicht mehr die Peitsche zu verwenden, sondern die Pflanzen selbst zu probieren – falls er sich vergiftete, würden ihn die kleinen Blätter retten. Er nannte sie „chá“ 查 (was so viel wie „Kontrolle“ bedeutet). Spätere Generationen lasen das Schriftzeichen fälschlicherweise als „chá“ 茶, und meinten damit „Tee“.
 
 {{% /columns %}}

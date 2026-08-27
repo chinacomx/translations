@@ -7,7 +7,8 @@ weight: 9
 
 {{% columns %}}
 
-- 5&emsp;李靖骇异，上前一把抱将起来，分明是个好孩子，又不忍作为妖怪坏他性命，就递与夫人看。彼此恩爱不舍，转忧为喜。
-- 5&emsp;Li Jing was astonished, stepped forward and picked him up. Clearly, the child was perfectly normal, and he couldn't bear to take him for a monster and take his life. He handed the child to Lady Yin. Their affection for the child turned their worry into joy.
+- ( 5 )&emsp;有一次，炎帝看到一只红色的鸟儿飞过天空。那鸟的色彩非常鲜艳，嘴里还衔了什么，引起他的注意。
+
+- ( 5 )&emsp;Eines Tages sah der Flammen-Kaiser einen roten Vogel am Himmel vorüberfliegen. Er hatte ein glänzendes Gefieder und trug in seinem Schnabel etwas, das die Aufmerksamkeit des Flammen-Kaisers weckte.
 
 {{% /columns %}}

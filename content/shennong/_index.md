@@ -15,7 +15,7 @@ ___
 
 Britta Dick 
 
-_Shennong entdeckt die Heilkunst_ 神农鞭药 ist eine Adaption von Yuan Kes 袁珂 (1916-2001) aufgezeichneten Legenden zu den Ursprüngen der traditionellen chinesischen Medizin. Yuan Ke war Vorsitzender der Chinese Mythology Association 中国神话学会 und erforschte an der Sichuan Academy of Social Sciences 四川省社会科学院 die chinesische Mythologie. Im Jahr 1950 wurde sein erstes Werk Mythen des alten China (中国古代神话) veröffentlicht und in Folge kontinuier-lich erweitert. Bereits dieses Kompendium enthält eine Darstellung Shennongs, die dem vorlie-genden Lianhuanhua-Band zugrunde liegt (Yuan 1960).  
+_Shennong entdeckt die Heilkunst_ 神农鞭药 ist eine Adaption von Yuan Kes 袁珂 (1916-2001) aufgezeichneten Legenden zu den Ursprüngen der traditionellen chinesischen Medizin. Yuan Ke war Vorsitzender der Chinese Mythology Association 中国神话学会 und erforschte an der Sichuan Academy of Social Sciences 四川省社会科学院 die chinesische Mythologie. Im Jahr 1950 wurde sein erstes Werk _Mythen des alten China_ (中国古代神话) veröffentlicht und in Folge kontinuier-lich erweitert. Bereits dieses Kompendium enthält eine Darstellung Shennongs, die dem vorlie-genden Lianhuanhua-Band zugrunde liegt (Yuan 1960).  
 
 Shennong selbst gehört in China zu den bedeutendsten mythologischen Figuren. Der Legende nach wurde er zwischen 3000 und 2000 Jahren vor unserer Zeitrechnung auf dem Berg Lie (Lieshan 烈山) in der heutigen Provinz Hubei geboren und führte später den „Flammen-Stamm“ an, weshalb er auch als der „Flammen-Kaiser“ (Yandi 炎帝) bekannt ist. Diese Bezeichnung ist vermutlich auf Shennongs Wohnort zurückzuführen, da sein Clan in den südlichen Gefilden ansässig war und diese aufgrund der dort herrschenden Hitze traditionell mit Feuer in Verbindung gebracht wurden. Shennong gilt zudem als der zweite Urkaiser Chinas und ist damit der Nachfolger Fuxis 伏羲, dessen Frau Nüwa 女娲 der Legende nach die Menschen erschaffen hat. Gemeinsam mit Fuxi und dem dritten Urkaiser Huangdi 黄帝 wird er daher als Ahnherr der chinesischen Zivilisation betrachtet.  
 
@@ -63,13 +63,13 @@ __Die hier angeführten Erläuterungen sollen lediglich einem besseren Verständ
 
 ## Zitierte Literatur
 
-Liang Yongxuan u. Huang Yinghua. “Shennong, the Flame Emperor”. Journal of Traditional Chinese Medical Sciences 13 (2026), S. 1f. https://www.sciencedirect.com/science/article/pii/S2095754 826000025. 
+Liang Yongxuan u. Huang Yinghua. “Shennong, the Flame Emperor”. _Journal of Traditional Chinese Medical Sciences_ 13 (2026), S. 1f. https://www.sciencedirect.com/science/article/pii/S2095754 826000025. 
 
-Yuan Ke 袁珂 u. a. Shennong entdeckt die Heilkunst 神农鞭药. Shanghai: Shanghai renmin meishu chubanshe, 1985. 
+Yuan Ke 袁珂 u. a. _Shennong entdeckt die Heilkunst_ 神农鞭药. Shanghai: Shanghai renmin meishu chubanshe, 1985. 
 
-Yuan Ke 袁珂. Mythen des alten China 中国古代神话. Beijing: Zhonghua shuju, 1960. 
+Yuan Ke 袁珂. _Mythen des alten China_ 中国古代神话. Beijing: Zhonghua shuju, 1960. 
 
-Zhou Xiantai, Han Minna, Yan Shiyu, Wang Mengyuan, Zu Shengzhou u. Zhong Shenghui. “From Molecules to Medicine: A Systematic Review of Gastrodia Elata’s Bioactive Metabolites and Therapeutic Potential”. Frontiers in Pharmacology 16 (2025). doi:10.3389/fphar.2025.1641443.
+Zhou Xiantai, Han Minna, Yan Shiyu, Wang Mengyuan, Zu Shengzhou u. Zhong Shenghui. “From Molecules to Medicine: A Systematic Review of Gastrodia Elata’s Bioactive Metabolites and Therapeutic Potential”. _Frontiers in Pharmacology_ 16 (2025). doi:10.3389/fphar.2025.1641443.
 
 ## Read the translated lianhuanhua
 

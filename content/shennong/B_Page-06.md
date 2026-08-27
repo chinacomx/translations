@@ -7,7 +7,8 @@ weight: 10
 
 {{% columns %}}
 
-- 6&emsp;次日，许多属官，俱来贺喜。李靖刚发放完毕，忽然有一道人自称是乾元山金光洞太乙真人，也来贺喜。李靖忙迎入府内。
-- 6&emsp;The next day, many officials came to congratulate. Just as Li Jing had finished receiving them, a Taoist arrived, introducing himself as Master Taiyi from the Golden Light Cave of Mount Qianyuan. He also came to offer his blessings. Li Jing quickly welcomed him into the residence.
+- ( 6 )&emsp;那鸟儿见了炎帝，说也奇怪，竟把嘴里衔的东西，吐了下来。
+
+- ( 6 )&emsp;Als der Vogel den Flammen-Kaiser sah, ließ er plötzlich fallen, was er im Schnabel trug.
 
 {{% /columns %}}

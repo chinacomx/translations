@@ -8,7 +8,7 @@ weight: 24
 
 {{% columns %}}
 
-- 20&emsp;敖丙忙调龙兵，上了逼水兽，提杆画戟，径出水晶宫来。分开水势，浪如山倒，波涛横生,平地水涨数尺。
-- 20&emsp;Ao Bing quickly mobilized the dragon troops, mounted his water-repelling steed, took up a decorated ji, and set off from the Crystal Palace. As he parted the waters, the waves crashed down like mountains, raging currents erupted all around, and the ground was flooded several feet high.
+- ( 20 )&emsp;这时候，人来人往，熙熙攘攘，非常热闹。他们互相交换自己所需要的东西。这就是以物易物、日中为市的开始。
+- ( 20 )&emsp;Nun gingen die Menschen ein und aus, es herrschte ein reges und lautes Treiben. Sie tauschten untereinander, was sie brauchten. Dies war die Geburtsstunde des Tauschhandels und der mittäglichen Märkte.
 
 {{% /columns %}}

@@ -7,7 +7,8 @@ weight: 38
 
 {{% columns %}}
 
-- 34&emsp;哪吒见父母哭泣，立身不安，双膝跪下，禀道：“常言道：‘一人做事一人当。’一孩儿岂敢连累父母？我如今往乾元山，问我师尊，必有主意。”
-- 34&emsp;Seeing his parents weeping, Nezha stood uneasily, then dropped to his knees and said respectfully: “As the saying goes: ‘one should bear sole responsibility for one's own actions.’ How could I, your son, possibly dare to implicate my parents in this matter? I shall now go to Mount Qianyuan and ask for my master’s guidance — he will surely have a way.”
+- ( 34 )&emsp;神农就这样一路走着，一路尝着百草。等他回到烈山时，原先病着的一些人，等不及他回来已经死了。他心里很难受。
+- ( 34 )&emsp;So wanderte Shennong umher und probierte unzählige Pflanzen. Als er wieder am Lieshan ankam, waren einige der Kranken bereits gestorben. Das machte ihn sehr traurig.
 
 {{% /columns %}}
+

@@ -7,8 +7,8 @@ weight: 47
 
 {{% columns %}}
 
-- 43&emsp;敖光听罢，勃然大怒，骂道：“好小子！你连伤二神，罪已不赦。今又敢在宝德门外，殴
-打兴云布雨的正神，更是罪大恶极，我上天……”哪吒那里容他多讲，又挥拳狠打。
-- 43&emsp;When Ao Guang heard this, he exploded with rage and shouted, “You little brat! You’ve already harmed two gods—your crimes are unforgivable! And now you dare attack the righteous god in charge of clouds and rain outside the Baode Gate? That is all the more evil. I shall go to the Celestial court and report…” But Nezha didn’t give him a chance to speak further and struck him again with his fist.
+- ( 43 )&emsp;又有一天，神农看见两个老人，他们捧着膝盖叫疼，一看，两人的膝盖肿得象牛膝盖似的。原来他们刚才在草丛中给什么毒虫咬了。
+- ( 43 )&emsp;Eines Tages sah Shennong zwei alte Männer, die sich die Knie hielten und vor Schmerzen stöhnten. Als er genauer hinsah, bemerkte er, dass ihre geschwollenen Knie groß waren wie die eines Ochsen. Tatsächlich waren sie kurz zuvor im Gras von einem giftigen Insekt gestochen worden.
 
 {{% /columns %}}
+

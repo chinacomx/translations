@@ -8,7 +8,8 @@ weight: 12
 
 {{% columns %}}
 
-- 8&emsp;李靖欣然应道：“我长子金吒，拜五龙山文殊广法天尊为师；次子木吒，拜九宫山普贤真人为师。老师既要收此儿，先请赐个名字。” 真人便给小儿取名哪吒，收于门下。
-- 8&emsp;Li Jing replied gladly: “My eldest son, Jinzha, is a disciple of of Mount Five-Dragon; my second son, Muzha, studies under the Sage of Universal Virtue of Mount Nine-Palace. Since Master you wish to take my third son as a disciple, please bestow him a name.” The Taoist then named the boy Nezha and accepted him as his disciple.
+- ( 8 )&emsp;更神奇的是：那鸟儿见炎帝拾起那串种子，竟围绕着炎帝飞了三圈，又对着炎帝唧唧啾啾地叫了一阵，好象托咐他什么似的。
+- ( 8 )&emsp;Dann geschah etwas noch Magischeres: Als der Vogel sah, dass der Flammen-Kaiser die Samenrispe aufhob, flog er dreimal um ihn herum und zwitscherte eine Weile, als wollte er ihm etwas mitteilen.
 
 {{% /columns %}}
+

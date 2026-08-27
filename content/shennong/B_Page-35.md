@@ -7,7 +7,7 @@ weight: 39
 
 {{% columns %}}
 
-- 35&emsp;哪吒出了府门，抓一把土，往空一洒，寂然无影，借土遁往乾元山去了。
-- 35&emsp;Nezha stepped out of the residence, grabbed a handful of earth, scattered it in the air, and vanished without a trace — he had used the Earth Escape to reach Mount Qianyuan.
+- ( 35 )&emsp;就在神农回到烈山的第二天，好几个老人突然病倒了。他们得的病都是一样的病症：口眼歪斜，身体麻木。
+- ( 35 )&emsp;Tags darauf wurden plötzlich mehrere alte Menschen krank. Die Symptome waren immer gleich: Die Münder und Augenwinkel der Kranken hingen herab, und ihre Körper waren taub.
 
 {{% /columns %}}

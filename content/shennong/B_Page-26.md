@@ -7,7 +7,8 @@ weight: 30
 
 {{% columns %}}
 
-- 26&emsp;直把三太子的原身打出，一条龙在地上挺直。哪吒道：“打出这小龙的本相来了。也罢，把他的筋抽去，做一条龙筋绦与俺父亲束甲。
-- 26&emsp;He struck the Third Prince’s true form straight out—a dragon lay stretched across the ground. Nezha said: “So, I’ll beat out the little dragon’s true form. All right then, I’ll rip out his tendons and make a dragon-tendons cord for my father to fasten his armor.
+- ( 26 )&emsp;神农立刻被问住了。天帝笑着交给他一根神鞭，要他用这根神鞭去鞭打药草，就能识别各种药草的性能。今后不用再到天庭来取仙草了。
+- ( 26 )&emsp;Shennong hatte keine Antwort. Der Himmelskaiser übergab ihm lächelnd eine göttliche Peitsche und sagte, er solle damit auf die Heilpflanzen schlagen, um deren Wirkungsweise zu erkennen. Von nun an müsse er nicht mehr in den Himmelspalast kommen, um von den Kräutern der Unsterblichen zu holen.
 
 {{% /columns %}}
+

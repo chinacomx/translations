@@ -7,7 +7,8 @@ weight: 35
 
 {{% columns %}}
 
-- 31&emsp;哪吒被传至大厅，上前施礼，口称：“小侄下河洗澡，不曾惹那个，他们百般骂我，又来打我，故而打死他们。三太子的龙筋，情愿交回。”李靖听了直吓得如呆如痴。
-- 31&emsp;Nezha was called to the main hall. He stepped forward, bowed and said:“I went to bathe in the river and did nothing to provoke anyone. But they cursed me relentlessly and then attacked me, so I struck them dead. As for the Third Prince’s dragon tendon, I am willing to hand it back. ” When Li Jing heard this, he was struck by terror, frozen in shock.
+- ( 31 )&emsp;有一天，神农走在山坡上，看到一丛丛的小树上长着青翠欲滴的绝嫩的小叶儿。他正好口渴了，顺手摘了几片放在嘴里咀嚼。这一嚼，还真解渴，神农又扯了几把咀嚼着。
+- ( 31 )&emsp; Eines Tages wanderte Shennong einen Berghang hinauf und entdeckte dort kleine Sträucher mit zarten Blättchen, die saftig grün schimmerten. Er hatte gerade Durst, also pflückte er ein paar, steckte sie in den Mund und begann zu kauen. Das stillte tatsächlich seinen Durst, und so pflückte Shennong noch ein paar mehr und kaute weiter.
 
 {{% /columns %}}
+

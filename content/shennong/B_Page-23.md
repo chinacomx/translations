@@ -7,7 +7,7 @@ weight: 27
 
 {{% columns %}}
 
-- 23&emsp;太子举画戟便刺，直取哪吒。哪吒手无寸铁，把头一低，钻将过去。
-- 23&emsp;The Third Prince raised his decorated ji and thrust it straight at Nezha. Unarmed, Nezha ducked his head and slipped beneath it.
+- ( 23 )&emsp;建木真是参天的大树，抬头望不见顶。神农顺着树干往上爬，渐渐进入云端。
+- ( 23 )&emsp;Der Jianmu war ein wahrlich großer Baum, er ragte hoch in den Himmel und seine Krone war von unten nicht zu erkennen. Shennong kletterte am Baumstamm empor und gelangte allmählich in wolkige Höhen.
 
 {{% /columns %}}

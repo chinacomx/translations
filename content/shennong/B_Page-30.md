@@ -7,7 +7,8 @@ weight: 34
 
 {{% columns %}}
 
-- 30&emsp; 敖光怒诉哪吒在九湾河洗澡，打死夜叉及三太子之事。李靖忙陪笑道：“怕是兄长错怪了我家。哪吒年方七岁，如何能做出这等事来？我唤他出来，与你辨认。”
-- 30&emsp;Angrily, Ao Guang accused Nezha of killing the Yaksha and the Third Prince during his bath in Jiuwan River. Li Jing forced a smile and replied: “ Elder brother, I’m afraid you’ve mistaken us. Nezha is only seven years old—how could he possibly commit such deeds? Let me call him out for you to identify.”
+- ( 30 )&emsp;从都广之野回烈山的路上，神农一路走一路鞭药。据说在湖北西部，至今还可以找到神农鞭药的处所。那山就叫神农原。
+- ( 30 )&emsp;Von der Duguang-Ebene bis zurück zum Lieshan untersuchte Shennong so Straße um Straße alle Pflanzen. Man sagt, im Westen Hubeis sei bis heute noch ein Platz zu finden, der auf seinem Weg lag. Dieser wird das „Shennong-Plateau“ genannt.
 
 {{% /columns %}}
+

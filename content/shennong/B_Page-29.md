@@ -7,7 +7,8 @@ weight: 33
 
 {{% columns %}}
 
-- 29&emsp; 敖光恨不得立即与子报仇，便化作一名秀士，径往陈塘关来。李靖忙迎至府内，却不知龙君因何事降临。
-- 29&emsp;Ao Guang could hardly wait to take revenge for his son, so he transformed into a learned man and headed straight for Chentang Pass. Li Jing hurried to welcome him into his residence, but he was unaware what the Dragon King had come for.
+- ( 29 )&emsp;说也奇怪，鞭打过的药草，不管它们有毒无毒，各种性质都能自然地显露出来。神农高兴极了。
+- ( 29 )&emsp;Und tatsächlich: Alle gepeitschten Kräuter, ob giftig oder nicht, zeigten ganz von selbst ihre jeweiligen Eigenschaften. Shennong war überglücklich.
 
 {{% /columns %}}
+

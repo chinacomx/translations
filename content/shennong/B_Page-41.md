@@ -7,7 +7,8 @@ weight: 45
 
 {{% columns %}}
 
-- 41&emsp;哪吒一脚踏住他的后心，举拳便打。敖光扭颈回头看时，却什么看不见，只是挣扎不得，任人殴打，恼恨无比，破口大骂。
-- 41&emsp;Nezha stepped on the middle of Ao Guang’s back and raised his fist to strike. When Ao Guang turned his neck to look back, he could not see anything. He was unable to struggle free and was left to be beaten helplessly. Consumed with fury and hatred, Ao Guang began to curse loudly.
+- ( 41 )&emsp;一嚼，觉得甜津津的，并且香味扑鼻。神农便拔一棵下来，尝尝它的茎和根，也有甜味。神农就采了很多带回去。
+- ( 41 )&emsp;Sie schmeckten süß und hatten ein herrliches Aroma. Shennong rupfte eine Pflanze aus, um ihren Stiel und die Wurzeln zu probieren – auch diese schmeckten süß. Shennong pflückte viele davon und nahm sie mit nach Hause.
 
 {{% /columns %}}
+

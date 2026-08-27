@@ -7,7 +7,8 @@ weight: 46
 
 {{% columns %}}
 
-- 42&emsp;哪吒被他骂得性起，忍耐不住，言道：“你叫，你骂，我便打死你这老泥鳅也无甚大事！我不说，你也不知我是谁。我非别人，乃乾元山金光洞太乙真人弟子哪吒是也。”
-- 42&emsp;Nezha, provoked by the curses, could no longer hold back his anger and said: “You shout and curse all you like, I’ll just beat you to death, you old loach—that’s no big deal! If I didn’t tell you, you wouldn't even know who I am. I’m not someone else — I'm Nezha, disciple of Master Taiyi from the Golden Light Cave on Mount Qianyuan!”
+- ( 42 )&emsp;神农把这草的根、茎，给那些刚刚病愈的老人吃。老人吃了，胃口就好了起来，大块大块的兽肉也吃得下了。这就是开胃生津的甘草。
+- ( 42 )&emsp;Shennong gab die Wurzeln und Stängel dieser Pflanze den alten Menschen, die gerade erst genesen waren. Kaum hatten sie davon gegessen, kehrte ihr Appetit zurück und sie konnten ein großes Stück Wildfleisch nach dem anderen verzehren. Dies war der „chinesischen Süßholzwurzel“ zu verdanken, die den Appetit anregt und den Speichelfluss fördert.
 
 {{% /columns %}}
+

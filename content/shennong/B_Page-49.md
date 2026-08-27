@@ -7,7 +7,8 @@ weight: 53
 
 {{% columns %}}
 
-- 49&emsp;哪吒道：“父亲不必发怒，现有伯父敖光可证。”说着，取出青蛇，往下一丢，一阵清风，敖光化成人形。
-- 49&emsp;Nezha answered: “Father, there’s no need to be angry. Uncle Ao Guang is right here and can testify.” With that, he pulled out the little green snake and threw it to the ground. In a gust of clear wind, Ao Guang transformed into human form.
+- ( 49 )&emsp;人们发现了，先把他搀扶着坐起来，从他的袋子里找到“查”，塞进他的嘴里，指望给他解毒。哪里知道神农的嘴一动也不动，大家才慌了手脚。
+- ( 49 )&emsp;Als die anderen Shennong fanden, setzten sie ihn auf, holten die „cha“-Blätter aus seiner Tasche und schoben sie ihm in den Mund – in der Hoffnung, ihn damit zu entgiften. Doch als Shennongs Mund reglos blieb, gerieten alle in Panik.
 
 {{% /columns %}}
+
