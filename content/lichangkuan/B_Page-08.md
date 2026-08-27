@@ -3,12 +3,14 @@ title: Pages 14-15
 weight: 10
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_010.jpg)
-
+![lichangkuan page](/images/lichangkuan/lichangkuan_010.jpg)
 
 {{% columns %}}
 
-- 8&emsp;李靖欣然应道：“我长子金吒，拜五龙山文殊广法天尊为师；次子木吒，拜九宫山普贤真人为师。老师既要收此儿，先请赐个名字。” 真人便给小儿取名哪吒，收于门下。
-- 8&emsp;Li Jing replied gladly: “My eldest son, Jinzha, is a disciple of of Mount Five-Dragon; my second son, Muzha, studies under the Sage of Universal Virtue of Mount Nine-Palace. Since Master you wish to take my third son as a disciple, please bestow him a name.” The Taoist then named the boy Nezha and accepted him as his disciple.
+- 七、&emsp;孤獨、痛苦的心情，使他終日悶悶不樂；後經老師和同學們幫助，他說出了自己入隊的願望，大家都為了他的要求進步而高興，給了他很大鼓勵。他決心入隊了，從此，不再曠課，上課時也能專心聽講，連晚上都在家裡溫習功課。
+- 7.&emsp;A mood of loneliness and pain left him gloomy all day. Later, with the help of his teacher and his classmates, he expressed his wish to join Young Pioneers. Everyone was happy for his determination to improve and gave him great encouragement. He resolved to join, and from then on, no longer skipped classes, listened attentively in lessons, and even reviewed homework at home in the evenings.
+
+___
+* __[!]__ _Note: text based on a complete copy of the lianhuanhua; see our [translators' introduction](https://chinacomx.github.io/translations/lichangkuan/#missing-pages) for a reproduction of the missing page._
 
 {{% /columns %}}

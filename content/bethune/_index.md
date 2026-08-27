@@ -1,12 +1,12 @@
 ---
 bookCollapseSection: true
 type: docs
-title: Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
+title: Bethune 白求恩 (1973) & Doctor Bethune 白求恩大夫 (1979)
 ---
 
-# Lianhuanhua Adaptations of Life of Norman Bethune 白求恩的故事连环画改编两则 (1973, 1979)
+# Bethune 白求恩 (1973) & Doctor Bethune 白求恩大夫 (1979)
 
-*Norman Bethune* 白求恩, edited by Wu Wenhuan 吴文焕, drawn by Hu Kewen 胡克文, Sheng Liangxian 盛亮贤, and Zhou Yunda 周允达, translated by Lena Henningsen and Ayiguzaili Aboduaini, Shanghai: Shanghai renmin chubanshe, 1973.[^1]
+*Bethune* 白求恩, edited by Wu Wenhuan 吴文焕, drawn by Hu Kewen 胡克文, Sheng Liangxian 盛亮贤, and Zhou Yunda 周允达, translated by Lena Henningsen and Ayiguzaili Aboduaini, Shanghai: Shanghai renmin chubanshe, 1973.[^1]
 
 *Doctor Bethune* 白求恩大夫, provided by Shanghai Film Studio 上海电影制片厂, adapted by Wu Wenhuan 吴文焕, translated by Lena Henningsen and Ayiguzaili Aboduaini, Shanghai: Shanghai renmin meishu chubanshe, 1979.[^1]
 ___
@@ -19,6 +19,7 @@ Lena Henningsen and Ayiguzaili Aboduaini
 ### Surgeon, Comrade, Martyr and Icon – Who was Norman Bethune? 
 
 Norman Bethune was a Canadian surgeon and member of the Canadian Communist Party. In this dual role, he joined the communist forces in their fight against the Japanese invaders in the spring of 1938 treating wounded soldiers and improving the conditions of medical care at the frontlines. Only one and a half years later, he died of a blood infection contracted during his work as a surgeon.
+
 His medical efforts, selflessness and heroism are familiar to many in China as they have been retold across various media, including a movie and the two lianhuanhua adaptations translated here. Bethune is, in fact, a household name throughout China as Mao Zedong composed a brief commemorative essay about the Canadian doctor soon after the latter’s death: “In Memory of Norman Bethune” 纪念白求恩 (21.12.1939). This essay would later become one of the “three old essays” 老三篇, together with “The Foolish Old Man who Removed the Mountains” 愚公移山 and “Serve the People” 为人民服务. These three short pieces would become compulsory reading, in particular during the Chinese Cultural Revolution, illustrating a few core concepts of Chinese communism. As a side effect, the story of the Canadian doctor celebrated for his selflessness, also become widely known.
 
 ### In Memory of Norman Bethune
@@ -55,7 +56,7 @@ The two lianhuanhua translated here are but a few of the lianhuanhua covering th
 
 ## A few remarks on the editions used, on concrete terms and items in the texts and on our translation choices
 
-### On *Norman Bethune* 白求恩 (1973)
+### On *Bethune* 白求恩 (1973)
 
 Like many lianhuanhua, Bai Qiu’en (Norman Bethune) saw several editions and reprints. For this translation, we have consulted two editions, both available in the Andreas Seifert Collection at Heidelberg University: published by Shanghai People’s Publishing House in 1973 and by Shanghai People’s Fine Arts Publishing House in 2005 respectively. Yet, these two differ as to the contexts in which they were published. As mentioned above, the 1973 version was printed in high numbers (reaching 750.000 a month after first publication) catering to a large readership during the time of High Maoism, whereas the 2005 version was printed in only 4000 copies. The textual and aesthetic choices demonstrate how the same work was published in different historical contexts.
 

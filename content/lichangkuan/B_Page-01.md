@@ -3,12 +3,11 @@ title: Page 01
 weight: 3
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_003.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_003.jpg)
 
 {{% columns %}}
 
-- 1&emsp; 青年李長寬的墮落
-
-- 1&emsp; 
+- &emsp; __青年李長寬的墮落__
+- &emsp; __The Degeneration of Young Li Changkuan__
 
 {{% /columns %}}

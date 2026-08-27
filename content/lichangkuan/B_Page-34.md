@@ -3,11 +3,11 @@ title: Pages 66-67
 weight: 36
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_036.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_036.jpg)
 
 {{% columns %}}
 
-- 34&emsp;哪吒见父母哭泣，立身不安，双膝跪下，禀道：“常言道：‘一人做事一人当。’一孩儿岂敢连累父母？我如今往乾元山，问我师尊，必有主意。”
-- 34&emsp;Seeing his parents weeping, Nezha stood uneasily, then dropped to his knees and said respectfully: “As the saying goes: ‘one should bear sole responsibility for one's own actions.’ How could I, your son, possibly dare to implicate my parents in this matter? I shall now go to Mount Qianyuan and ask for my master’s guidance — he will surely have a way.”
+- 五、&emsp;淫亂、糜爛的生活，需要大堆錢財，他弄不到錢，就偷盜[3] 别人的東西。偷盜的犯罪行為，開始使他害怕、恐懼，他恨自己沒有“小人書”中所説的“隱身法術”。但是為了錢，他終於不顧一切地偷了，而且一次再次地偷成了習慣。
+- 5.&emsp;This promiscuous and decaying life required a big amount of money. As he did not have any money, he stole things from other people. In the beginning, the illegal conduct of stealing caused him fear and horror, and he regretted he did not master the “invisibility techniques” from the “xiaorenshu”. But for the money, in the end, he stole regardlessly, and with each time he got more used to it.
 
 {{% /columns %}}

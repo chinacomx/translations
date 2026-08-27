@@ -3,11 +3,11 @@ title: Pages 54-55
 weight: 30
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_030.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_030.jpg)
 
 {{% columns %}}
 
-- 28&emsp;且说，敖光在水晶宫听得龙兵来报：“陈塘关李靖之子哪吒把三太子打死，连筋都抽了！”敖光惊道：“李靖与我有一拜之交，竟敢纵子行凶，可恨可恼！”
-- 28&emsp;Meanwhile, in the Crystal Palace, Ao Guang received word from his dragon troops: “Nezha, son of Li Jing of Chentang Pass, has killed the Third Prince — and even ripped out his tendons!” Ao Guang exclaimed in shock: “Li Jing and I have pleadged brotherhood, how could he possibly dare to allow his son to commit such violence; that’s  hateful and infuriating!”
+- 二十七、&emsp;他自以為真的找到了“升官、發财、過好生活”的門路，可是就在這個時候，陳鼎禮等一夥反革命分子，全部被捕了，十六歲的李長宽，也同時被押上了人民法庭，受到了人民的裁判。由於他是從犯，並且坦白較好，所以只判他“管教”四年，送去勞動改造。 
+- 27.&emsp;He lived in the misbelief that he had truly found the way to "getting promoted, getting rich, and living a good life." But right at this moment, Chen Dingli and his gang of counterrevolutionary elements were all arrested. Sixteen-year-old Li Changkuan was simultaneously brought before the People’s Court and subjected to the judgment of the people. Because he was an accomplice to a crime, and was relatively forthcoming in his confession, he was only sentenced to four years of “correction” by way of reeducation through labor.
 
 {{% /columns %}}

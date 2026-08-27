@@ -3,11 +3,11 @@ title: Pages 60-61
 weight: 33
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_033.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_033.jpg)
 
 {{% columns %}}
 
-- 31&emsp;哪吒被传至大厅，上前施礼，口称：“小侄下河洗澡，不曾惹那个，他们百般骂我，又来打我，故而打死他们。三太子的龙筋，情愿交回。”李靖听了直吓得如呆如痴。
-- 31&emsp;Nezha was called to the main hall. He stepped forward, bowed and said:“I went to bathe in the river and did nothing to provoke anyone. But they cursed me relentlessly and then attacked me, so I struck them dead. As for the Third Prince’s dragon tendon, I am willing to hand it back. ” When Li Jing heard this, he was struck by terror, frozen in shock.
+- 二、&emsp;解放前，他原住在五彩三巷，那裏有很多舊書攤，他每天上學下學，總見書攤上圍着很多孩子；這一誘人的現象，引起了他的好奇心，於是他也看了起來。一本、兩本，一次、兩次，慢慢地被那“隱身變幻”、“口吐飛剑”的“魔法”“劍術”所深深迷惑，竟連續看了一千多本。
+- 2.&emsp;Before Liberation, he originally lived in Wucai Third Alley, where there were many old book stalls. Every day going to and from school, he saw many children gathered around the book stalls; this captivating phenomenon aroused his curiosity, and so he also started reading. One book, two books; once, twice — slowly, he was deeply bewitched by all the “magic” and “swordmanship” of “invisibility and transformation” and "spitting flying swords from the mouth", going as far as reading over a thousand books one after the other.
 
 {{% /columns %}}

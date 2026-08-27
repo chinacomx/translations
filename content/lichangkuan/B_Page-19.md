@@ -3,11 +3,11 @@ title: Pages 36-37
 weight: 21
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_021.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_021.jpg)
 
 {{% columns %}}
 
-- 19&emsp;水晶宫如何经得起此二宝震撼，险些儿把宫殿俱晃倒了。敖光得知夜叉被人打死，极为震怒。三太子敖丙奏道：“父王息怒。孩儿出去拿他来便是。”
-- 19&emsp;How could the Crystal Palace withstand the shock of these two treasures? The two almost shook the palace down. When Ao Guang learned that the Yaksha had been killed, he became extremely furious. His third son, Ao Bing, said: “Father, please calm your anger. I shall go and get him back.”
+- 十八、&emsp;李長寬經過王老師多方面的幫助和教育，很受感動，特别看了“空軍英雄故事”以後，仿佛明白了什麼才是真正的英雄。於是他向老師還書的時候，激動地說：“王老師，以後我一定學好，要像空軍英雄一樣。……”
+- 18.&emsp;Li Changkuan was deeply moved by Ms. Wang's manifold help and education. In particular, after reading the _Stories of Air Force Heroes_, he seemed to understand what a real hero truly was. So when he returned the book to the teacher, he said excitedly: “Ms. Wang, from now on I will study hard, I want to be like the Air Force heroes. ...”
 
 {{% /columns %}}

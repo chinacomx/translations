@@ -3,11 +3,20 @@ title: Pages 16-17
 weight: 11
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_011.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_011.jpg)
 
 {{% columns %}}
 
-- 9&emsp;暑往寒来，不觉七载。时逢五月，天气炎热，那哪吒心下烦躁，便来参见母亲，要去关外玩耍。殷夫人放心不下，命一名家将跟随。
-- 9&emsp;Unknowingly, seven summers and winters went by. One hot day in May, Nezha, feeling restless, went to see his mother and asked for permission to play outside the pass. Lady Yin was concerned and sent a household guard to accompany him.
+- 八、&emsp;可是每每經過舊書攤，還總想進去看看，“哪怕只看一本呢！”他這樣想着，但改正錯误和入隊的决心，鼓舞着他，戰勝了这種想法，他再也不進去了。
+- 8.&emsp;But every time he passed the old bookstalls, he still wanted to go inside and have a look. “Just one book!” he thought. However, his determination to correct his mistakes and join the organization inspired him to overcome this urge. He never went there again.
+{{% /columns %}}
+
+
+//Text in the image://
+{{% columns %}}
+- //泰記地界//
+- //Lands of Taiji//
+- //大劍俠//
+- //The Great Swordsman//
 
 {{% /columns %}}

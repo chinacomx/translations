@@ -3,11 +3,11 @@ title: Pages 50-51
 weight: 28
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_028.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_028.jpg)
 
 {{% columns %}}
 
-- 26&emsp;直把三太子的原身打出，一条龙在地上挺直。哪吒道：“打出这小龙的本相来了。也罢，把他的筋抽去，做一条龙筋绦与俺父亲束甲。
-- 26&emsp;He struck the Third Prince’s true form straight out—a dragon lay stretched across the ground. Nezha said: “So, I’ll beat out the little dragon’s true form. All right then, I’ll rip out his tendons and make a dragon-tendons cord for my father to fasten his armor.
+- 二十五、&emsp;正當他“走頭無路”的時候，原來賭友中的反革命分子陳鼎禮看透了他的心事，便給他指出“前途”——參加反革命組織。開始他不敢，他猶豫，但“大錢”“高官”的誘騙，打中了李長寬的要害，他認為找到了“生活”的出路，竟然参加了反革命組織。
+- 25.&emsp;Just when he had reached this "dead end," Chen Dingli, a counterrevolutionary element from among his former gambling buddies, saw what was weighing on his mind and pointed out a "future path" for him—joining the counterrevolutionary organization. At first, he did not dare and hesitated, but the deception of "big money" and "high office" hit Li Changkuan’s weak points. Believing he had found a way forward to a "life," he actually joined the counterrevolutionaries.
 
 {{% /columns %}}

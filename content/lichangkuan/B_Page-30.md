@@ -3,11 +3,14 @@ title: Pages 58-59
 weight: 32
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_032.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_032.jpg)
+
+&emsp;__周真森怎樣走上犯罪道路的__
+&emsp;__How Zhou Zhensen Embarked on a Path of Crime__
 
 {{% columns %}}
 
-- 30&emsp; 敖光怒诉哪吒在九湾河洗澡，打死夜叉及三太子之事。李靖忙陪笑道：“怕是兄长错怪了我家。哪吒年方七岁，如何能做出这等事来？我唤他出来，与你辨认。”
-- 30&emsp;Angrily, Ao Guang accused Nezha of killing the Yaksha and the Third Prince during his bath in Jiuwan River. Li Jing forced a smile and replied: “ Elder brother, I’m afraid you’ve mistaken us. Nezha is only seven years old—how could he possibly commit such deeds? Let me call him out for you to identify.”
+- 一、&emsp;周真森家住漢口自治一街，他小時候上學非常努力，功課很好，是一個十分可愛的孩子。
+- 1.&emsp;Zhou Zhensen’s family lived on the First Street in the Hankou Autonomy. When he was young, he studied very hard at school, his schoolwork was very good, and he was an overall very adorable child.
 
 {{% /columns %}}

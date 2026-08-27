@@ -3,11 +3,11 @@ title: Pages 68-69
 weight: 37
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_037.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_037.jpg)
 
 {{% columns %}}
 
-- 35&emsp;哪吒出了府门，抓一把土，往空一洒，寂然无影，借土遁往乾元山去了。
-- 35&emsp;Nezha stepped out of the residence, grabbed a handful of earth, scattered it in the air, and vanished without a trace — he had used the Earth Escape to reach Mount Qianyuan.
+- 六、&emsp;周真森，用偷來的錢，和流氓集團林承億等混在一起，經常上酒館、飯店大吃大喝。已墮落成一個十足的小流氓。
+- 6.&emsp;Using the stolen money, Zhou Zhensen mixed with Lin Chengyi and his gang of hooligans. They often went to feast in bars and restaurants. He had already degenerated into a downright hooligan himself.
 
 {{% /columns %}}

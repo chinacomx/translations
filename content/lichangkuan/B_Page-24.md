@@ -3,11 +3,11 @@ title: Pages 46-47
 weight: 26
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_026.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_026.jpg)
 
 {{% columns %}}
 
-- 24&emsp;敖丙又一戟刺下。哪吒急了，把七尺混天绫往空中一展，似火块千团，四下里飞舞，将三太子裹下逼水兽来。
-- 24&emsp;Ao Bing thrust again. Nezha became impatient, unfurled his Huntian Silk in midair—it blazed like a thousand clusters of fire, swirling in all directions and wrapping the prince around to pull him off the water-repelling steed.
+- 二十三、&emsp;父親這時對他再也沒有辦法，氣得竟要和他斷绝父子關係。但他毫不以為然。
+- 23.&emsp;His father had no way left to deal with him at this point, and in anger even wanted to sever their father-son relationship. But Li Changkuan remained completely indifferent.
 
 {{% /columns %}}

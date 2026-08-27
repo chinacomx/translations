@@ -3,11 +3,10 @@ title: Pages 70-71
 weight: 38
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_038.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_038.jpg)
 
 {{% columns %}}
 
-- 36&emsp; 哪吒来至乾元山金光洞，拜见师父太乙真人，禀明一切。真人为要搭救徒儿，就在哪吒胸前画了一道隐身符，嘱咐他速到天宫宝德门，如此这般去拦截敖光。
-- 36&emsp;Arriving at the Golden Light Cave on Mount Qianyuan, Nezha met his master, Master Taiyi, and reported all that had happened. To save his disciple, Master Taiyi drew an invisibility talismanic script on Nezha’s chest. Then he instructed him to go to the Baode Gate of the Celestial Palace and how to intercept Ao Guang.
-
+- 七、&emsp;學校知道了他這一系列的墮落行為，就一次再次的對他進行教育，但他仍不悔改，最後終被勒令退學了。他這時心中也感到有些難受，心想：“以後可不能再學壞了”。
+- 7.&emsp;When the school learned about his series of degenerated actions, they carried out educational measures again and again. But as he still didn’t repent and mend his ways, he was thrown out of school in the end. At that moment he felt somewhat sad, and thought: “From now on, I can’t follow a bad example anymore.”
 {{% /columns %}}

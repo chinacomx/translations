@@ -3,11 +3,11 @@ title: Pages 62-63
 weight: 34
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_034.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_034.jpg)
 
 {{% columns %}}
 
-- 32&emsp;敖光见物伤情，对李靖说：“你生出这等恶子，适才还说我错怪了你。他自己供认了，看你还有何词可说！明日我上天奏明玉帝，必然对你父子治罪！”
-- 32&emsp;Upon seeing the tendon, Ao Guang was overwhelmed with sorrow . He turned to Li Jing:“You’ve brought such a wicked son into the world, and you just now claimed I wrongly blamed you! Yet he confessed with his own mouth — what more can you say? Tomorrow, I will go to the Celestial Court and report this to the Jade Emperor. You and your son will not escape punishment!”
+- 三、&emsp;從此，那荒誕、虛幻的邪説，在他幼小的心靈裏，生下了根子，他整天想望着“法師”“劍俠”的“超人法術”和“鏢客”“寨主”的“豪俠之氣”。解放以後，他還經常聚夥打架，欺侮小同學，認為這就是那些壞書中所说的“英雄氣慨”。
+- 3.&emsp;From then on, those preposterous and illusory evil doctrines took root in his immature mind. All day long, he longed for the “superhuman magic” of “sorcerers” and “swordsmen”; and for the “gallant spirit” of “armed guards” and “bandit chiefs”. After Liberation, he also frequently gathered a crowd to fight and bullied younger schoolmates, believing that this was the "heroic spirit" spoken of in those bad books.
 
 {{% /columns %}}

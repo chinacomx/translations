@@ -3,11 +3,11 @@ title: Pages 08-09
 weight: 7
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_007.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_007.jpg)
 
 {{% columns %}}
 
-- 5&emsp;李靖骇异，上前一把抱将起来，分明是个好孩子，又不忍作为妖怪坏他性命，就递与夫人看。彼此恩爱不舍，转忧为喜。
-- 5&emsp;Li Jing was astonished, stepped forward and picked him up. Clearly, the child was perfectly normal, and he couldn't bear to take him for a monster and take his life. He handed the child to Lady Yin. Their affection for the child turned their worry into joy.
+- 四、&emsp;由於他對盜匪、鏢客的嚮往，始終無心唸書，經常曠課，在校外亂搞亂鬧；這時李長寬的父親，因廠裹工作忙而不常在家，母親又對孩子弱愛，總是瞞着父親，所以就更慫恿了他壞行為的發展。
+- 4.&emsp;Because of his longing for bandits and guards, he never had his mind on studying, often skipped classes, and stirred up chaos outside school. At the time, his father was too busy with work at the factory to be home often, and his mother doted excessively on the child, always hiding things from the father, so his bad behavior developed further.
 
 {{% /columns %}}

@@ -3,11 +3,17 @@ title: Pages 32-33
 weight: 19
 ---
 
-![lichangkuan page](/images/shennong/lichangkuan_019.jpg)
+![lichangkuan page](/images/lichangkuan/lichangkuan_019.jpg)
 
 {{% columns %}}
 
-- 17&emsp;哪吒将右手套的乾坤圈往空中一丢，那宝打将下来，正落在夜叉头上，立时，脑浆迸流，死于岸边。
-- 17&emsp;Nezha threw the Qiankun Ring from his right hand into the air — the treasure struck down and  smashed into Yaksha’s head. Immediately, its brains gushed out, and it died on the riverbank.
+- 十六、&emsp;學校和少先隊，再三給他談話，却毫無悔改，一心迷戀着他所嚮往的生活。最後少先隊只得開除他的隊籍，學校停止了他的學籍。一個人頹喪地走出了学校。
+- 16.&emsp;The school and the Young Pioneers talked with him again and again, but he showed no remorse. He remained obsessed with the life he longed for. In the end, the Young Pioneers expelled him from the organization, and the school terminated his enrollment. He walked out of the school, alone and dejected.
 
+{{% /columns %}}
+
+//Banner in the foreground://
+{{% columns %}}
+- //小學校//
+- //Primary School//
 {{% /columns %}}
