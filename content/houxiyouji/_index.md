@@ -24,10 +24,36 @@ Der Kurs Übersetzen von Lianhuanhua gehört zum Schwerpunkt „Literatur, Medie
 
 Da sich die Erzähltechniken der meisten Lianhuanhua der zweiten Hälfte des 20. Jahrhunderts von denjenigen westlicher Comics unterscheidet, habe ich eine Version *Nach der Reise in den Westen* von 1989 gewählt. Unter den verschiedenen Lianhuanhua mit dem Titel *Nach der Reise in den Westen* erweist sich die Version von 1989 als jene, deren Erzähltechnik – eine Mischung aus Blocktext, Sprechblasen und diegetischem Text – den konventionellen kommerziellen Comics aus Europa und Amerika am nächsten kommt (siehe Abb. 1 und 2): 
 
-| Die Version von 1989 | Die Version von 1984 |
-| :--- | :--- |
-| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/1.png)<br>Abb.1: *Nach der Reise in den Westen 3: Mönche verfälschen die Sutren*, 1989, S. 5. | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/2.png)<br>Abb.2: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1984, S. 1. |
-| **Sprechblase:**<br>**Sun:** Was haben Sie vor, Meister?<br><br>**Mönch Tang:** Ich will hinuntergehen und mir anschauen, wie die Mönche des Großen Tang ihre Sutras vortragen. | Mönch Tang Sanzang brachte die wahren Sutras nach China zurück, wo sie über zweihundert Jahre verbreitet wurden. Zur Zeit des Tang-Kaisers Xianzong war die echte Überlieferung jedoch verloren, und Mönche täuschten das Volk im Namen des Buddhismus. Mönch Tang empfand darüber Sorge und stieg, begleitet von Sun Wukong, erneut auf die Erde hinab, um die Lage der Sutras zu prüfen. |
+<table style="width: 100%; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th style="width: 50%;">Die Version von 1989</th>
+      <th style="width: 50%;">Die Version von 1984</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/1.png" style="width: 100%;"><br>
+        Abb.1: <i>Nach der Reise in den Westen 3: Mönche verfälschen die Sutren</i>, 1989, S. 5.
+      </td>
+      <td>
+        <img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/2.png" style="width: 100%;"><br>
+        Abb.2: <i>Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast</i>, 1984, S. 1.
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <b>Sprechblase:</b><br>
+        <b>Sun:</b> Was haben Sie vor, Meister?<br><br>
+        <b>Mönch Tang:</b> Ich will hinuntergehen und mir anschauen, wie die Mönche des Großen Tang ihre Sutras vortragen.
+      </td>
+      <td style="vertical-align: top;">
+        Mönch Tang Sanzang brachte die wahren Sutras nach China zurück, wo sie über zweihundert Jahre verbreitet wurden. Zur Zeit des Tang-Kaisers Xianzong war die echte Überlieferung jedoch verloren, und Mönche täuschten das Volk im Namen des Buddhismus. Mönch Tang empfand darüber Sorge und stieg, begleitet von Sun Wukong, erneut auf die Erde hinab, um die Lage der Sutras zu prüfen.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Die Version von 1989 wirkt trotz ähnlichen Inhalts durch ihre entspanntere, dialogorientierte Comic-Erzählweise zugänglicher als die von 1984. Bemerkenswert ist, dass das Lianhuanhua *Nach der Reise in den Westen* zwar im Jahr 1989 erschien, seine Erzähltechniken jedoch dem Lianhuanhua der 1940er Jahre wesentlich näherstehen, wie etwa dem Lianhuanhua *Xin Xiyouji* (新西游记 *Die neue Reise in den Westen*, Abb. 3) aus den späten 1940er Jahren:
 
@@ -39,10 +65,34 @@ Die Version von 1989 wirkt trotz ähnlichen Inhalts durch ihre entspanntere, dia
 
 Wie für viele Lianhuanhua üblich, erscheinen hier drei Formen von Text: ein deskriptiver Blocktext, in der Mitte des Panels neben dem linken Fuß des Mönchs, eine Sprechblase, sowie die Namen der abgebildeten Figuren, jeweils unter oder neben ihren Beinen. Eine Gegenüberstellung der hier übersetzten Adaption aus dem Jahr 1989 mit derjenigen aus den 1940er Jahren zeigt die unterschiedliche Gestaltung der Panels (Abb. 4 und 5):
 
-| Version aus den 1940er Jahren | Version von 1989 (mit Übersetzung von Gruppe 1) |
-| :--- | :--- |
-| ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/4.png) | ![](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0030.jpg) |
-| **Diegetischer Text:** Blumen-Früchte-Berg<br>**Blocktext:** Sun Wukong schleppte den japanischen Piloten zurück zum Blumen-Früchte-Berg.<br>**Name:** Su Wukong<br>japanischer Pilot<br><br>Abb. 4: Jiang 1945-1949: *Die neue Reise in den Westen*, S. 57. | **Diegetischer Text:** Blumen-Früchte-Berg<br>**Sprechblase 1:** Von nun an hältst du hier Wache, Faulenzen verboten!<br>**Sprechblase 2:** Schon gut, schon gut.<br><br>Abb. 5: *Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast*, 1989, S. 26. |
+<table style="width: 100%; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th style="width: 50%;">Version aus den 1940er Jahren</th>
+      <th style="width: 50%;">Version von 1989 (mit Übersetzung von Gruppe 1)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/intro/4.png" style="width: 100%;"></td>
+      <td><img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0030.jpg" style="width: 100%;"></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;">
+        <b>Diegetischer Text:</b> Blumen-Früchte-Berg<br>
+        <b>Blocktext:</b> Sun Wukong schleppte den japanischen Piloten zurück zum Blumen-Früchte-Berg.<br>
+        <b>Name:</b> Su Wukong<br>japanischer Pilot<br><br>
+        Abb. 4: Jiang 1945-1949: <i>Die neue Reise in den Westen</i>, S. 57.
+      </td>
+      <td style="vertical-align: top;">
+        <b>Diegetischer Text:</b> Blumen-Früchte-Berg<br>
+        <b>Sprechblase 1:</b> Von nun an hältst du hier Wache, Faulenzen verboten!<br>
+        <b>Sprechblase 2:</b> Schon gut, schon gut.<br><br>
+        Abb. 5: <i>Nach der Reise in den Westen 2: Der kleine Heilige macht Aufruhr im Himmelspalast</i>, 1989, S. 26.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Intertextualität und Übersetzung der Lianhuanhua *Nach der Reise in den Westen*
 Die beiden Lianhuanhua aus den 1980er Jahren sind Adaptionen desselben Romans *Nach der Reise in den Westen*, der zu Beginn der Qing-Dynastie veröffentlicht wurde (Zhang 2020, 293) und zu den drei bedeutenden Fortsetzungen des ursprünglichen Romans *Xiyouji* (西游记 *Die Reise in den Westen*, verfasst von Wu Cheng’en im 16. Jh. zur Zeit der Ming-Dynastie) zählt. Was den Umfang betrifft, so umfasst die hier übersetzte Lianhuanhua Version von 1989 zwanzig Bände, während der Roman *Nach der Reise in den Westen* vierzig Kapitel enthält. Ein Vergleich der Inhalte zeigt, dass jeweils ein Band der Lianhuanhua ungefähr zwei Kapiteln des Romans entspricht. 
