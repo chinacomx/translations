@@ -75,4 +75,4 @@ Zhou Xiantai, Han Minna, Yan Shiyu, Wang Mengyuan, Zu Shengzhou u. Zhong Shenghu
 
 {{<section>}}
 
-[^1]:text
+[^1]: We acknowledge the support of the ERC-funded project “Comics Culture in the People's Republic of China” (CHINACOMX, Grant agreement ID: 101088049). We thank Hanno Lecher and the Library of the the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high-resolution scans of the lianhuanhua.

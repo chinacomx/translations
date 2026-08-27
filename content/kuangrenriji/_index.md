@@ -26,12 +26,6 @@ As mentioned, Ye Guoding’s adaptation forms part of a multi-page spread in _Fu
 
 Published in 1981, contemporaneous to numerous debates revisiting the past and the atrocities of the Cultural Revolution, this version of the “Diary of a Madman” could also be read allegorically as a reflection of the inhumanness of this recent past: Maybe, not only the premodern classics are cannibalistic? Maybe, the writings of Mao, taken up as guides to the correct (communist) morals were just as cannibalistic in how they turned some people into outcasts?
 
-## References
-
-Ye Guoding
-Zhang Huaijiang
-Zhao Yannian
-
 ## Read the translated lianhuanhua
 
 {{<section>}}

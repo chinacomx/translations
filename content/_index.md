@@ -7,52 +7,67 @@ type: docs
 ___
 <p style="text-align: right;"><i>latest update: 1 August 2026</i></p>
 
-To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project publishes a number of exemplary lianhuanhua from the Mao and early post-Mao years with English or German translations on this webpage. Ranging from book-length standalone stories to one-pagers found in magazines, we hope that these translations will spur further interest and research into this diverse, relevant and, very often, entertaining medium.
+To provide contemporary readers and researchers with a glimpse into the vast Chinese comic culture, the ChinaComx project continously selects exemplary lianhuanhua from the Mao and early post-Mao years to be published in high-resolution scans alongside a transcription and English or German translations on this webpage. Ranging from book-length standalone stories to one-pagers found in pictorial magazines, we hope that these translations will spur further interest and research into the diverse, relevant and, very often, entertaining medium that was (and is!) lianhuanhua. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).
 
-All translations are available free and openly on this website. Each comes with high-resolution scanned images, the transcribed text in original, and its translation next to each other. Each lianhuanhua is also introduced in an approachable but scholarly way by the translator(s).  
+All translations are available for browsing and/or reading for free on this website, however, if you wish to use or reference them in your teaching or publication please make sure to [read our terms of use and copyright notice](https://chinacomx.github.io/translations/#terms-of-use--copyright-notice) at the bottom of this page.
 
-As of today, we have published fourteen ChinaComx translations of various types of lianhuanhua; these can be grouped into five thematic categories (but note that some stories may equally well fit in two categories or more):
+## List of ChinaComx Translations
 
-1. Works adapted from classics of Chinese literature:
+As of today, we have published twenty-two translations of various types of lianhuanhua (two of which are hosted on the MCLC Resource Center); all these titles can be grouped into five thematic categories, but keep in mind that some stories may equally well fit in two categories or more:
 
-    - _The New Year’s Sacrifice_ 祝福 (1974) is a lianhuanhua adaptation of Lu Xun's famous critique of tradition and feudalism: read the English translation [here](https://chinacomx.github.io/translations/zhufu/);
-     
-    - _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: read the German translation [here](https://chinacomx.github.io/translations/luxun/);
+### 1. Works adapted from classics of Chinese literature
 
-    - _A Pair of Tweezers_ 一把镊子 (1981) is a one-paged lianhuanhua strip adaptation of an equally short story about Lu Xun: read the English translation [here](https://chinacomx.github.io/translations/tweezers/);
+- _Die Familie_ 家 (1954/2005) is a recent re-issue of an early-1950s lianhuanhua adaptation of Ba Jin's formative novel against feudal patriarchal family norms: read the German translation [here](https://chinacomx.github.io/translations/jia/);
 
-    - _Nezha Wreaks Havoc in the East Sea_ 哪吒闹东海 (1985) is part three of a fifteen-part 1980s lianhuanhua adaptaion of the famous legend: read the English translation [here](https://chinacomx.github.io/translations/nezha/);
+- _The New Year’s Sacrifice_ 祝福 (1974) is a lianhuanhua adaptation of Lu Xun's famous critique of tradition and feudalism: read the English translation [here](https://chinacomx.github.io/translations/zhufu/);
 
-2. Tales of youth and socialist-patriotic ideals:
-    
-    - _Lei Feng’s Youth Years_ 雷锋的少年时代 (1973) provides a biographical look at the early years of the socialist icon Lei Feng: read the English translation [here](https://chinacomx.github.io/translations/leifeng/);
+- _Geschichten über Lu Xun und Junge Leute_ 鲁迅和青年的故事 (1976) is a collection of three poignant short stories by Lu Xun: read the German translation [here](https://chinacomx.github.io/translations/luxun/);
 
-    - _Niqiu Protects the Watermelons_ 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children: read the English translation [here](https://chinacomx.github.io/translations/niqiu/);
+- _A Pair of Tweezers_ 一把镊子 (1981) is a one-paged lianhuanhua strip adaptation of an equally short story about Lu Xun: read the English translation [here](https://chinacomx.github.io/translations/tweezers/);
 
-    - _By the Yang River_ 洋河边上 (1974) adapts a coming-of-age short story by Hao Ran about an elementary school pupil whose mundane actions are framed as meaningful acts of ideological practice: read the English translation [here](https://chinacomx.github.io/translations/yanghe/);
+- _Diary of a Madman_ 狂人日记 (1981) is the first lianhuanhua adaptation of Lu Xun's foundational text of modern Chinese literature: read the English translation [here](https://chinacomx.github.io/translations/kuangrenriji/);
 
-    - _The Silent Fight_ 无声的战斗 (1976) is a story of espionage and counterespionage in the early-PRC told from the perspective of a young boy: read the English translation [here](https://chinacomx.github.io/translations/wushengdezhandou/);
+- _Nezha Wreaks Havoc in the East Sea_ 哪吒闹东海 (1985) is part three of a fifteen-part 1980s lianhuanhua adaptaion of the famous legend: read the English translation [here](https://chinacomx.github.io/translations/nezha/);
 
-    - _Are You a Communist?_ 你是共产党员吗 (1981) is piece of allegorical scar literature lianhuanhua that raises an existential inquiry into what it meant to be a CCP member in 1981: read the English translation [here](https://chinacomx.github.io/translations/gongchandangyuan/);
+- _Nach der Reise in den Westen_ 后西游记 (1989) is a late-1980s adaptation of one of the Qing-era sequels to the Ming-era novel _Journey to the West_: read the German translation [here](https://chinacomx.github.io/translations/houxiyouji/);
 
-3. Science popularization lianhuanhua:
+### 2. Tales of youth and socialist-patriotic ideals
 
-    - _Mermaid_ 人鱼 (1982) is an early-Reform Era lianhuanhua strip that both celebrates patriotic science and invites to venture beyond what is known: read the English translation [here](https://chinacomx.github.io/translations/renyu/);
+- _The Degeneration of Young Li Changkuan_ 靑年李長寬的堕落 (1956) offers a meta-narrative about the harmful influence of reading the wrong type of lianhuanhua—presented in lianhuanhua form: read the English translation [here](https://chinacomx.github.io/translations/lichangkuan/);
 
-4. Transcultural texts and storylines:
+- _Lei Feng’s Youth Years_ 雷锋的少年时代 (1973) provides a biographical look at the early years of the socialist icon Lei Feng: read the English translation [here](https://chinacomx.github.io/translations/leifeng/);
 
-    - _Norman Bethune_ 白求恩 (1973) and _Doctor Bethune_ 白求恩大夫 (1979) are two lianhuanhua adaptations of biographical tales about Norman Bethune: read the English translation [here](https://chinacomx.github.io/translations/bethune/).
+- _Niqiu Protects the Watermelons_ 泥鳅看瓜 (1974) is a wartime adventure showcasing the bravery of children: read the English translation [here](https://chinacomx.github.io/translations/niqiu/);
 
-    - _The Watch_ 表 (1980) is a beloved Soviet children's story adapted into lianhuanhua for a Chinese audience: read the English translation [here](https://chinacomx.github.io/translations/biao/);
+- _By the Yang River_ 洋河边上 (1974) adapts a coming-of-age short story by Hao Ran about an elementary school pupil whose mundane actions are framed as meaningful acts of ideological practice: read the English translation [here](https://chinacomx.github.io/translations/yanghe/);
 
-    - _My Uncle Jules_ 我的叔叔于勒 (1980) is a lianhuanhua strip adapting a short story by Guy de Maupassant that probably every schoolchild in China was made to read in class: read the English translation [here](https://chinacomx.github.io/translations/uncle/)
+- _The Silent Fight_ 无声的战斗 (1976) is a story of espionage and counterespionage in the early-PRC told from the perspective of a young boy: read the English translation [here](https://chinacomx.github.io/translations/wushengdezhandou/);
 
-5. Contemporary lianhuanhua:
+-  _Maple_ 枫 (1979) is a lianhuanhua strip adaptation of Zheng Yi's famous scar literature short story: read the English translation [here](https://u.osu.edu/mclc/online-series/maple).
 
-    - _The Legend of Bing Conglin_ 冰聪林传奇 (2024) is an ongoing contemporary lianhuanhua serialised on Xiaohongshu 小红书 by a young fan: read the English translation [here](https://chinacomx.github.io/translations/bingconglin/).
+- _Are You a Communist?_ 你是共产党员吗 (1981) is piece of allegorical scar literature lianhuanhua that raises an existential inquiry into what it meant to be a CCP member in 1981: read the English translation [here](https://chinacomx.github.io/translations/gongchandangyuan/);
 
+### 3. Science popularization and science-fiction lianhuanhua
 
-__And this is just the beginning: we are continiously working on new translations!__
+- _Little Smarty Travels to the Future_ 小灵通漫游未来 (1980) is arguably the first contemporary Chinese science-fiction lianhuanhua, written by famous lianhuanhua creator Ye Yonglie: read the English translation [here](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future);
+
+- _Mermaid_ 人鱼 (1982) is an early-Reform Era lianhuanhua strip that both celebrates patriotic science and invites to venture beyond what is known: read the English translation [here](https://chinacomx.github.io/translations/renyu/);
+
+- _Shennong entdeckt die Heilkunst_ 神农鞭药 (1985) is a mid-1980s lianhuanhua re-imagining of the mythological origins behind the discovery of medicinal attributes of tea and other plants: read the German translation [here](https://chinacomx.github.io/translations/shennong/);
+
+### 4. Foreign texts and transcultural storylines
+
+- _Bethune_ 白求恩 (1973) and _Doctor Bethune_ 白求恩大夫 (1979) are two lianhuanhua adaptations of biographical tales about Canadian revolutionary medic Norman Bethune: read the English translations [here](https://chinacomx.github.io/translations/bethune/);
+
+- _The Watch_ 表 (1980) is a beloved Soviet children's story adapted into lianhuanhua for a Chinese audience: read the English translation [here](https://chinacomx.github.io/translations/biao/);
+
+- _My Uncle Jules_ 我的叔叔于勒 (1980) is a lianhuanhua strip adapting a short story by Guy de Maupassant that probably every schoolchild in China was made to read in class: read the English translation [here](https://chinacomx.github.io/translations/uncle/);
+
+### 5. Contemporary lianhuanhua
+
+- _The Legend of Bing Conglin_ 冰聪林传奇 (2024) is an ongoing contemporary fantasy lianhuanhua serialised on the Xiaohongshu platform: read the English translation [here](https://chinacomx.github.io/translations/bingconglin/).
+
+__And this is just the beginning: we are continiously working, and welcoming collaboration, on new translations!__
 
 ## Our translation philosophy and choices
 
@@ -84,15 +99,15 @@ In addition, the 1970s also saw a few independent translations published outside
 
 In the recent years, more and more lianhuanhua in new translation appear online:
 
+- A picture-story book about Palestine titled *Fluttering Battle Banners* 战旗飘飘 (1971) translated by Brian W. L. and Rebecca Karl [here](https://positionspolitics.org/fluttering-battle-banners-a-maoist-comic-book-on-palestine/). 
+
 - *Into the Tiger’s Den* 深入虎穴, adapted from the novel by Qu Bo *Tracks in the Snowy Forest* 林海雪原, translated by Julia Keblinska [here](https://u.osu.edu/mclc/online-series/into-the-tigers-den/).
 
 -  Zhuang Guanyu's manhua version of the *Journey to the West* 西遊漫記,  translated by Nick Stember [here](https://www.nickstember.com/manhua-journey-west-part-1-6/).
 
 - One of the Chinese lianhuanhua adaptations of Star Wars, translated by Nick Stember [here](https://www.nickstember.com/chinese-star-wars-comic-part-1-6).
 
-- A lianhuanhua adaptation of the science fiction story *Little Smarty Travels to the Future* 小灵通漫游未来 by Ye Yonglie, translated by Lena Henningsen et al [here](https://u.osu.edu/mclc/online-series/little-smarty-travels-to-the-future), as well as translated in part by Nick Stember [here](https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/).
-
--  A lianhuanhua adaptation of the scar literature short story *Maple* 枫 by Zheng Yi, translated by Lena Henningsen and Joschua Seiler [here](https://u.osu.edu/mclc/online-series/maple).
+- *Little Smarty Travels to the Future* 小灵通漫游未来 by Ye Yonglie translated in part by Nick Stember [here](https://www.nickstember.com/little-smarty-visits-the-future-a-science-fiction-novel-part-1-of-6/).
 
 - A lianhuanhua biography of Sun Yatsen 孙中山, translated by Stephen Kow [here](https://web.archive.org/web/20150628051506/http://hilianhuanhua.org/home/read-the-books-online/dr-sun-yat-sen-sun-zhongs).
 
@@ -100,13 +115,11 @@ In the recent years, more and more lianhuanhua in new translation appear online:
 
 - A fourteen-chapter lianhuanhua version of the *Water Margin* 水滸傳, translated by Stephen Kow [here](https://web.archive.org/web/20141026053520/http://hilianhuanhua.org/home/read-the-books-online/water-margin/).
 
-- A picture-story book about Palestine titled *Fluttering Battle Banners* 战旗飘飘 (1971) translated by Brian W. L. and Rebecca Karl [here](https://positionspolitics.org/fluttering-battle-banners-a-maoist-comic-book-on-palestine/). 
-
 If you know about more lianhuanhua in translation, or maybe even produced one yourself, please [get in touch](https://chinacomx.github.io/contact/) and we will gladly add a link to the list above!
 
 ## Terms of use & copyright notice
 
-The translations and transcriptions on this website are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). You are free to copy and redistribute these texts for non-commercial educational, classroom, and research purposes, provided proper attribution is given. If you wish to quote or reproduce these translations in a formal academic publication (such as a journal article or book) or for any commercial purpose, you must [contact us](https://chinacomx.github.io/contact/) first to request prior written permission.
+The translations and transcriptions on this website are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en). You are free to copy and redistribute these texts for non-commercial educational, classroom, and research purposes, provided proper attribution is given. If you wish to quote or reproduce these translations in a formal academic publication (such as a journal article or book) or for any commercial purpose, you must [contact us](https://chinacomx.github.io/contact/) first to request prior written permission.
 
 The original Chinese texts and lianhuanhua illustrations remain the intellectual property of their respective creators and original publishers. These digital reproductions are provided strictly under educational fair use principles for the purpose of non-commercial teaching and scholarly study. They may not be extracted, printed, or distributed for commercial gain. The physical artifacts from which these scans were produced are held in the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) at the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/).
 
@@ -114,10 +127,10 @@ We have taken much effort to contact the publishers of the respective comics in 
 
 ## Acknowledgements
 
-This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzunowski as part of a proof of concept arising from work conducted with support from the ERC-funded project [“The Politics of Reading in the People’s Republic of China”](https://readchina.github.io/) (READCHINA, grant agreement no. 757365). The translations published here until 2023 originated as joint translation projects by students at the [Institute of Chinese Studies, University of Freiburg](https://uni-freiburg.de/sinologie/), supervised by Lena Henningsen. Students from FU Berlin, supervised by Dominik Weihrauch, also contributed translations during this phase.
+This webpage was initially set up by Duncan Paterson, Gu Qin, and Damian Mandzunowski as part of a proof of concept project arising from work conducted with support from the ERC-funded project [“The Politics of Reading in the People’s Republic of China”](https://readchina.github.io/) (READCHINA, grant agreement no. 757365). The translations published here until 2023 originated as joint translation projects by students at the [Institute of Chinese Studies, University of Freiburg](https://uni-freiburg.de/sinologie/), supervised by Lena Henningsen. Students from FU Berlin, supervised by Dominik Weihrauch, also contributed translations during this phase.
 
 Since 2024, the webpage is maintained by Damian Mandzunowski and the ERC-funded project [“Comics Culture in the People’s Republic of China”](https://chinacomx.github.io/) (ChinaComx, grant agreement no. 101088049) at the [Institute of Chinese Studies, Heidelberg University](https://www.zo.uni-heidelberg.de/de/china).
 
 Special thanks go to our colleagues Matthias Arnold and Hanno Lecher from the [Centre for Asian and Transcultural Studies (CATS), Heidelberg University](https://www.cats.uni-heidelberg.de/) for providing us with high resolution scans of the lianhuanhua, part of the [CATS-Seifert Collection of Chinese Comics](https://www.cats.uni-heidelberg.de/library/collections/chinese.html) as digitized with generous support from [Confucius Institute Heidelberg](https://konfuzius-institut-heidelberg.de/) — as well to Andreas Seifert for donating his collection to Heidelberg University in the first place.
-
-The ChinaComx Team and collaborating translators
+___ 
+<p style="text-align: right;"><i><a href="https://chinacomx.github.io/team/">The ChinaComx Team</a></i></p>
