@@ -30,9 +30,9 @@ Published in 1981, contemporaneous to numerous debates revisiting the past and t
 
 Lu Xun 鲁迅 1981: “Diary of a Madman” 狂人日记, illustrated by Ye Guoding 叶国定, in: *Fuchunjiang huabao* 富春江画报, no. 343, 1981, 9, 12-13. 
 
-Lu Xun 鲁迅 2010 (1985): Diary of a Madman 狂人日记, illustrated by Zhao Yannian 赵延年, Beijing: Lianhuanhua chubanshe. 
+Lu Xun 鲁迅 2010 (1985): "Diary of a Madman" 狂人日记, illustrated by Zhao Yannian 赵延年, Beijing: Lianhuanhua chubanshe. 
 
-Lu Xun 鲁迅 2013 (1981): Diary of a Madman 狂人日记, illustrated by Zhang Huaijiang 张怀江, Beijing: Zhongguo wenhua chubanshe.
+Lu Xun 鲁迅 2013 (1981): "Diary of a Madman" 狂人日记, illustrated by Zhang Huaijiang 张怀江, Beijing: Zhongguo wenhua chubanshe.
 
 ## Read the translated lianhuanhua
 
