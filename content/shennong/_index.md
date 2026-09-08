@@ -59,7 +59,7 @@ Aufgrund kultureller Besonderheiten bedürfen einige der chinesischen Namen und 
 
 - Shennongjia shanqu 神农架山区 (Panel 53): Shennongjia bedeutet wortwörtlich „Gerüst des Shennong“ und bezeichnet damit eine Leiter, die der Flammen-Kaiser bei seiner Suche nach Heilkräutern auf den steilen Bergen der Umgebung („shanqu“, dt.: Gebirgsregion) verwendet haben soll. Später hat sich seine Leiter der Legende nach in den dichten Wald verwandelt, der noch heute als einer der letzten Urwälder Chinas gilt und sich im Westen der Provinz Hubei befindet.
 
-__Die hier angeführten Erläuterungen sollen lediglich einem besseren Verständnis des Textes die-nen und ersetzen im Krankheitsfall nicht die Konsultierung eines Arztes.__
+__Die hier angeführten Erläuterungen sollen lediglich einem besseren Verständnis des Textes dienen und ersetzen im Krankheitsfall nicht die Konsultierung eines Arztes.__
 
 ## Zitierte Literatur
 
