@@ -69,4 +69,4 @@ Zhang Qiming 张奇明 und Wang Yuxing王玉兴 (Hg.) 2003. *Gesamtkatalog chine
 
 {{<section>}}
 
-[^1]: We acknowledge the support of the ERC-funded project “Comics Culture in the People's Republic of China” (CHINACOMX, Grant agreement ID: 101088049). We thank Hanno Lecher and the Library of the the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high-resolution scans of the lianhuanhua.
+[^1]: We acknowledge the support of the ERC-funded project “Comics Culture in the People's Republic of China” (CHINACOMX, Grant agreement ID: 101088049). This translation is a joint translation project as part of the 2026 seminar on Chinese comics taught by Lena Henningsen at the Institute of Chinese Studies, Heidelberg University. We thank Hanno Lecher and the Library of the the Centre for Asian and Transcultural Studies (CATS), Heidelberg University, for providing us with high-resolution scans of the lianhuanhua.
